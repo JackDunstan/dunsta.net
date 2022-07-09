@@ -9,3 +9,4 @@ _site/
 _posts/2018*.md 
 node_modules
 /projects
+book-*
