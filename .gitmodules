@@ -1,0 +1,3 @@
+[submodule "webpages"]
+	path = webpages
+	url = git@github.com:JackDunstan/webpages.git
