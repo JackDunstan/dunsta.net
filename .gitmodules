@@ -1,3 +1,9 @@
 [submodule "webpages"]
 	path = webpages
 	url = git@github.com:JackDunstan/webpages.git
+[submodule "recipes"]
+	path = recipes
+	url = https://github.com/JackDunstan/Recipes
+[submodule "cocktails"]
+	path = cocktails
+	url = https://github.com/JackDunstan/cocktails
