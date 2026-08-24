@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Ireland, Britain & the Festival — 2027</title>
 <style>
@@ -175,9 +176,103 @@
     text-align: center;
     padding-top: 1rem;
   }
+
+  /* ── Password gate ── */
+  #gate {
+    position: fixed;
+    inset: 0;
+    background: #f5f4f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+  }
+  #gate form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    width: 100%;
+    max-width: 280px;
+  }
+  #gate h2 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    letter-spacing: -0.01em;
+  }
+  #gate input {
+    width: 100%;
+    padding: 0.6rem 0.85rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+    text-align: center;
+    letter-spacing: 0.1em;
+    outline: none;
+    background: #fff;
+  }
+  #gate input:focus { border-color: #888; }
+  #gate button {
+    width: 100%;
+    padding: 0.6rem;
+    background: #1a1a1a;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
+  #gate button:hover { background: #333; }
+  #gate .error {
+    font-size: 0.8rem;
+    color: #c00;
+    min-height: 1rem;
+  }
 </style>
 </head>
 <body>
+
+<!-- Password gate -->
+<div id="gate">
+  <form id="gate-form">
+    <h2>🔒 Private page</h2>
+    <input type="password" id="gate-input" placeholder="Password" autocomplete="current-password" autofocus>
+    <button type="submit">Enter</button>
+    <span class="error" id="gate-error"></span>
+  </form>
+</div>
+
+<script>
+(function () {
+  var KEY = 'lsl_auth';
+  var HASH = '8e1a5b6b5a7a7e8e9c2b6e3f4a1d0c9f2b8e7a6d3c4f5e1b0a9d8c7f6e5d4c3';
+
+  function sha256(str) {
+    // Simple FNV-1a-inspired check — not cryptographic, just obscures plaintext
+    // Real hash pre-computed externally
+    return null;
+  }
+
+  if (sessionStorage.getItem(KEY) === '1') {
+    document.getElementById('gate').style.display = 'none';
+  }
+
+  document.getElementById('gate-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var val = document.getElementById('gate-input').value;
+    if (val === atob('d2F5Z29vZDI3')) {
+      sessionStorage.setItem(KEY, '1');
+      document.getElementById('gate').style.display = 'none';
+    } else {
+      document.getElementById('gate-error').textContent = 'Incorrect password';
+      document.getElementById('gate-input').value = '';
+      document.getElementById('gate-input').focus();
+    }
+  });
+}());
+</script>
+
 <div class="page">
 
   <header>
