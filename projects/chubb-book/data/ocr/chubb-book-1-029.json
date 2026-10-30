@@ -1,0 +1,84 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.7869582176208496,
+      0.18185019493103027,
+      0.06031419709324837,
+      0.04266256093978882
+    ],
+    [
+      0.5513483285903931,
+      0.15576955303549767,
+      0.07755053043365479,
+      0.054854486137628555
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-029.jpg",
+  "lines": [
+    {
+      "box": [
+        0.1538211934741294,
+        0.5178008061872875,
+        0.655475082397461,
+        0.02346397858610405
+      ],
+      "confidence": 1,
+      "text": "TRYING OUT THE PRESENTATION FIELD GLASSES ON THE DAY OF MY RETIREMENT"
+    },
+    {
+      "box": [
+        0.765913757676703,
+        0.5305232559403821,
+        0.07186858177185063,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "29.10-57"
+    },
+    {
+      "box": [
+        0.23408624067440484,
+        0.8531976749183676,
+        0.5749486541748047,
+        0.01329215704920439
+      ],
+      "confidence": 1,
+      "text": "OFFICERS OF THE EIGHTH FIELD AMBULANCE / AIF FRANCE 1917"
+    },
+    {
+      "box": [
+        0.16388606900683386,
+        0.8700595106186735,
+        0.6372421264648437,
+        0.025458449710269226
+      ],
+      "confidence": 1,
+      "text": "CAPERIN GURST, CAPT. RILEY, LIEUT MOFADYEN, CAPT. HOWARE, MR. RUFRESNE,"
+    },
+    {
+      "box": [
+        0.14119119533148727,
+        0.8878295794393588,
+        0.6845444488525392,
+        0.03277451627345129
+      ],
+      "confidence": 1,
+      "text": "MAJOR BONA, MAJOR CLAYTON, COLONEL SHEPHERD, MAJOR WOOSTER, MAJOR SINGLE,"
+    },
+    {
+      "box": [
+        0.6981519554730289,
+        0.9053934574659528,
+        0.15811087608337404,
+        0.014664682005486873
+      ],
+      "confidence": 1,
+      "text": "CAPT. BARRiSKILL."
+    }
+  ],
+  "text": "TRYING OUT THE PRESENTATION FIELD GLASSES ON THE DAY OF MY RETIREMENT\n29.10-57\nOFFICERS OF THE EIGHTH FIELD AMBULANCE / AIF FRANCE 1917\nCAPERIN GURST, CAPT. RILEY, LIEUT MOFADYEN, CAPT. HOWARE, MR. RUFRESNE,\nMAJOR BONA, MAJOR CLAYTON, COLONEL SHEPHERD, MAJOR WOOSTER, MAJOR SINGLE,\nCAPT. BARRiSKILL.",
+  "source_sha256": "382657fb1a0f64198be6e279bae265cc2dbd0a1526f7ff255c8726413e1ea6e6",
+  "status": "machine-draft"
+}

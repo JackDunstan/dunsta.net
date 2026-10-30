@@ -1,0 +1,141 @@
+{
+  "candidate_names": [
+    "COLIN",
+    "ORI",
+    "RENANT",
+    "Symes"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.5692883133888245,
+      0.13662612810730934,
+      0.05448533594608307,
+      0.0385395847260952
+    ],
+    [
+      0.7163110375404358,
+      0.13886769860982895,
+      0.05319730192422867,
+      0.03762850910425186
+    ],
+    [
+      0.30696046352386475,
+      0.11599123105406761,
+      0.059842564165592194,
+      0.042328957468271255
+    ],
+    [
+      0.4443706274032593,
+      0.13082406297326088,
+      0.0512385219335556,
+      0.03624298796057701
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-056.jpg",
+  "lines": [
+    {
+      "box": [
+        0.24392106489385754,
+        0.5400040355177697,
+        0.532718505859375,
+        0.0299115944077335
+      ],
+      "confidence": 1,
+      "text": "MR YORI SUme MRS MERCOXICH MR MeRCOTICH. MRs. YORN Spne."
+    },
+    {
+      "box": [
+        0.41425738658423256,
+        0.5572102587927131,
+        0.36254009246826174,
+        0.02418992289603017
+      ],
+      "confidence": 1,
+      "text": "ILLAWARRA LAUNCHING WHYALLA. 1957"
+    },
+    {
+      "box": [
+        0.2415783270530035,
+        0.5699388878090389,
+        0.6071248245239258,
+        0.033435480875003476
+      ],
+      "confidence": 1,
+      "text": "MRE MeRCOTICH HERE HORMA CHAMPION PROFESSIOMAL ICE SITATER. SHe MET"
+    },
+    {
+      "box": [
+        0.24562965967002767,
+        0.5859571205007809,
+        0.6091549301147461,
+        0.034298386645464585
+      ],
+      "confidence": 1,
+      "text": "FRAME ON ATISIT TO AUSTRALIA VEHRA FRANIE VAS PICTORIAN CHAMPION."
+    },
+    {
+      "box": [
+        0.2496528691176941,
+        0.6051970759662941,
+        0.6278237915039062,
+        0.034848807661223447
+      ],
+      "confidence": 1,
+      "text": "He PLAYER IN RENANT CRICET FOR MELBOURNe ANT LeAGUe FOOTBALL"
+    },
+    {
+      "box": [
+        0.25377403054159076,
+        0.6220103047650206,
+        0.6070368194580078,
+        0.03289492039634101
+      ],
+      "confidence": 1,
+      "text": "FOR CARATON. He IS GeNERAL MANAGeR AUST. MATIONAL SHIPPING LeNie."
+    },
+    {
+      "box": [
+        0.2579698040222874,
+        0.6392613998420148,
+        0.6234049987792969,
+        0.03295752730230439
+      ],
+      "confidence": 1,
+      "text": "BEFORE HIS REPOINTMeNT TO ANIL. He MYRS ASST. SEE. TePT OF SHOPPING"
+    },
+    {
+      "box": [
+        0.24774781064451845,
+        0.6587156344747097,
+        0.5761539459228515,
+        0.03325156592142253
+      ],
+      "confidence": 1,
+      "text": "AND TRANSPORT. We WeRE CLOSeLY ASSOCIATeR FOR EIGHT YeARS."
+    },
+    {
+      "box": [
+        0.25183691749307785,
+        0.677822919817708,
+        0.5023723983764647,
+        0.03307293960207025
+      ],
+      "confidence": 1,
+      "text": "THe Symes ARe MOW SIR COLIN AND LADy ORI SUme."
+    },
+    {
+      "box": [
+        0.3942505128651874,
+        0.9345711757094068,
+        0.25051334381103507,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "3 MENTON COURT ST KILEA"
+    }
+  ],
+  "text": "MR YORI SUme MRS MERCOXICH MR MeRCOTICH. MRs. YORN Spne.\nILLAWARRA LAUNCHING WHYALLA. 1957\nMRE MeRCOTICH HERE HORMA CHAMPION PROFESSIOMAL ICE SITATER. SHe MET\nFRAME ON ATISIT TO AUSTRALIA VEHRA FRANIE VAS PICTORIAN CHAMPION.\nHe PLAYER IN RENANT CRICET FOR MELBOURNe ANT LeAGUe FOOTBALL\nFOR CARATON. He IS GeNERAL MANAGeR AUST. MATIONAL SHIPPING LeNie.\nBEFORE HIS REPOINTMeNT TO ANIL. He MYRS ASST. SEE. TePT OF SHOPPING\nAND TRANSPORT. We WeRE CLOSeLY ASSOCIATeR FOR EIGHT YeARS.\nTHe Symes ARe MOW SIR COLIN AND LADy ORI SUme.\n3 MENTON COURT ST KILEA",
+  "source_sha256": "ab118e91f6b522057800219b229211910fd37dcd98dcf03a2a8318de2494e9d0",
+  "status": "machine-draft"
+}

@@ -1,0 +1,320 @@
+{
+  "candidate_names": [
+    "SARS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.4468039572238922,
+      0.689255990087986,
+      0.06857170909643173,
+      0.04850342124700546
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-137.jpg",
+  "lines": [
+    {
+      "box": [
+        0.42299794610928354,
+        0.17860300606579138,
+        0.07186858177185057,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "NEW ZEALAND"
+    },
+    {
+      "box": [
+        0.45379878257834716,
+        0.20778072494452748,
+        0.17864475250244138,
+        0.00442857704364974
+      ],
+      "confidence": 1,
+      "text": "NEW ZEALAND GOVERNMENT OFFICE,"
+    },
+    {
+      "box": [
+        0.5420944567837256,
+        0.21366279078995842,
+        0.06160163879394531,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.4743326515855271,
+        0.23691860444813395,
+        0.14784393310546878,
+        0.014628698718326394
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955."
+    },
+    {
+      "box": [
+        0.26694045738791705,
+        0.26598837244743734,
+        0.19917863845825196,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "C. E. McFadyen, Esq.,"
+    },
+    {
+      "box": [
+        0.26651475724504237,
+        0.27845874548046234,
+        0.1013869571685791,
+        0.011195670177618355
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.26694045456914944,
+        0.28912466836706896,
+        0.21971252441406247,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping"
+    },
+    {
+      "box": [
+        0.2772073933010188,
+        0.30087209338026955,
+        0.13963038444519044,
+        0.011683167660795024
+      ],
+      "confidence": 1,
+      "text": "and Transport,"
+    },
+    {
+      "box": [
+        0.2669404537542887,
+        0.3125000002480023,
+        0.18891170501708987,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.2648870676096076,
+        0.32412790689138293,
+        0.09856262207031247,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.2669234182342397,
+        0.3589442127509155,
+        0.08011620521545415,
+        0.010309248872819365
+      ],
+      "confidence": 1,
+      "text": "Dear Mr."
+    },
+    {
+      "box": [
+        0.3486898167472256,
+        0.3421192495221339,
+        0.18763063430786137,
+        0.042505687575336015
+      ],
+      "confidence": 0.5,
+      "text": "tuckadyen"
+    },
+    {
+      "box": [
+        0.3963039100810212,
+        0.38063660484893336,
+        0.2669404411315918,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "was very pleased to see the"
+    },
+    {
+      "box": [
+        0.26694045122538645,
+        0.3908045976065677,
+        0.3860369491577149,
+        0.013265169583834169
+      ],
+      "confidence": 1,
+      "text": "announcement in this morning's paper of"
+    },
+    {
+      "box": [
+        0.2689938476224988,
+        0.4040671970449061,
+        0.3367556381225586,
+        0.011630476944010315
+      ],
+      "confidence": 1,
+      "text": "the honour conferred on you by Her"
+    },
+    {
+      "box": [
+        0.26694046558576345,
+        0.41556145011399115,
+        0.41683776855468746,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Majesty the Queen, and would like to offer"
+    },
+    {
+      "box": [
+        0.26694045850975484,
+        0.4273255818734867,
+        0.40657081604003903,
+        0.01166646065277721
+      ],
+      "confidence": 1,
+      "text": "my sincerest congraulations on this well-"
+    },
+    {
+      "box": [
+        0.268993841003514,
+        0.4389534888502309,
+        0.3839835739135742,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "deserved recognition of your good work."
+    },
+    {
+      "box": [
+        0.4209445562247065,
+        0.4840116295962854,
+        0.2094455909729004,
+        0.07703488026963834
+      ],
+      "confidence": 0.5,
+      "text": "Pluck!"
+    },
+    {
+      "box": [
+        0.35318275157451595,
+        0.5741279072273461,
+        0.08418890953063962,
+        0.010310642704512651
+      ],
+      "confidence": 1,
+      "text": "NEW ZEAL"
+    },
+    {
+      "box": [
+        0.44558521336716295,
+        0.5741279072636835,
+        0.21355236053466797,
+        0.01031064270451254
+      ],
+      "confidence": 1,
+      "text": "ND TRADE COMMISSIONER."
+    },
+    {
+      "box": [
+        0.5523613972655599,
+        0.904069767708322,
+        0.03490759611129757,
+        0.02470930185495057
+      ],
+      "confidence": 1,
+      "text": "19,"
+    },
+    {
+      "box": [
+        0.09240246225028038,
+        0.9416445624366511,
+        0.13552361488342285,
+        0.013297298121093926
+      ],
+      "confidence": 1,
+      "text": "THE CATHEGRAL"
+    },
+    {
+      "box": [
+        0.12731006481534834,
+        0.9562334216699073,
+        0.13757699966430664,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "COLOGNE 1919"
+    },
+    {
+      "box": [
+        0.3449691992229845,
+        0.9796511631563675,
+        0.032854208946228036,
+        0.010174418212458902
+      ],
+      "confidence": 0.5,
+      "text": "vy.o."
+    },
+    {
+      "box": [
+        0.41465046977357956,
+        0.9805076825438817,
+        0.09883048057556154,
+        0.012821843832810265
+      ],
+      "confidence": 1,
+      "text": "20 A.C.C.S."
+    },
+    {
+      "box": [
+        0.6262833721906158,
+        0.9358974360779632,
+        0.2402463912963867,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "TRAJOR MOLELLADO, PIRARME"
+    },
+    {
+      "box": [
+        0.6529774141929954,
+        0.9476744187727114,
+        0.15400410652160645,
+        0.011653609659480035
+      ],
+      "confidence": 1,
+      "text": "• COLONEL CLATTOr"
+    },
+    {
+      "box": [
+        0.6402635304230277,
+        0.959507404887988,
+        0.22058830261230467,
+        0.020744429975352863
+      ],
+      "confidence": 1,
+      "text": "IN THE SMON, SARS POTERIES"
+    },
+    {
+      "box": [
+        0.726899386004597,
+        0.9781976748967425,
+        0.04312114715576165,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "1919"
+    }
+  ],
+  "text": "NEW ZEALAND\nNEW ZEALAND GOVERNMENT OFFICE,\nMELBOURNE.\n9th June, 1955.\nC. E. McFadyen, Esq.,\nSecretary,\nDepartment of Shipping\nand Transport,\n497 Collins Street,\nMELBOURNE.\nDear Mr.\ntuckadyen\nwas very pleased to see the\nannouncement in this morning's paper of\nthe honour conferred on you by Her\nMajesty the Queen, and would like to offer\nmy sincerest congraulations on this well-\ndeserved recognition of your good work.\nPluck!\nNEW ZEAL\nND TRADE COMMISSIONER.\n19,\nTHE CATHEGRAL\nCOLOGNE 1919\nvy.o.\n20 A.C.C.S.\nTRAJOR MOLELLADO, PIRARME\n• COLONEL CLATTOr\nIN THE SMON, SARS POTERIES\n1919",
+  "source_sha256": "5755d895e4e0af9a930320b3d95ce420350fb1e729b16d82cd79f1f2844832f6",
+  "status": "machine-draft"
+}

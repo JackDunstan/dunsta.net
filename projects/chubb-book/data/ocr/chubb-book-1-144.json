@@ -1,0 +1,255 @@
+{
+  "candidate_names": [
+    "JESUS",
+    "MARY MIYA",
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-144.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3880903625082841,
+        0.16843501319972987,
+        0.2772073745727539,
+        0.010344056298941418
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIAN SHIPBUILDING BOARD"
+    },
+    {
+      "box": [
+        0.49281314194482834,
+        0.18459302346056605,
+        0.06981519222259519,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "SYDNEY"
+    },
+    {
+      "box": [
+        0.5400410734008622,
+        0.21352785154425713,
+        0.16016426086425783,
+        0.01466982307737641
+      ],
+      "confidence": 1,
+      "text": "9th. June, 1955."
+    },
+    {
+      "box": [
+        0.30390143486160937,
+        0.25145348871457196,
+        0.17659137725830076,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.3942505218342079,
+        0.2732095491412856,
+        0.3552361297607422,
+        0.011674171417398238
+      ],
+      "confidence": 1,
+      "text": "On behalf of the General Manager and"
+    },
+    {
+      "box": [
+        0.30390145029370813,
+        0.2847038018249237,
+        0.43531826019287106,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "staff of the Board, I have great pleasure in"
+    },
+    {
+      "box": [
+        0.3039014436205727,
+        0.29651162811604204,
+        0.4455852127075195,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "extending to you the heartiest of congratula-"
+    },
+    {
+      "box": [
+        0.3059548382129414,
+        0.30813439432397893,
+        0.43531826019287106,
+        0.011633047058348334
+      ],
+      "confidence": 1,
+      "text": "tions for the honour recently conferred upon"
+    },
+    {
+      "box": [
+        0.3018480602311986,
+        0.3212209304684479,
+        0.29158109664917,
+        0.0116703162458911
+      ],
+      "confidence": 1,
+      "text": "you by Her Majesty the Queen."
+    },
+    {
+      "box": [
+        0.5400410701838876,
+        0.3561046514471301,
+        0.16016426086425783,
+        0.011711440604940893
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5173932850603165,
+        0.3617347631134078,
+        0.24652759552001946,
+        0.041065357724298535
+      ],
+      "confidence": 0.5,
+      "text": "dem memlea"
+    },
+    {
+      "box": [
+        0.5687885054296241,
+        0.412790697698069,
+        0.17864475250244138,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "(J.C.M. MERRILEES)"
+    },
+    {
+      "box": [
+        0.5770020605960741,
+        0.42441860452946434,
+        0.17248458862304694,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "SECRETARY"
+    },
+    {
+      "box": [
+        0.3039014438441114,
+        0.4622093025614713,
+        0.19917863845825196,
+        0.011707585011827115
+      ],
+      "confidence": 1,
+      "text": "C.H. McFadyen, Esq.,"
+    },
+    {
+      "box": [
+        0.511293637016697,
+        0.4607558145440944,
+        0.06981519222259513,
+        0.013081394603671859
+      ],
+      "confidence": 0.5,
+      "text": "C.B.E.,"
+    },
+    {
+      "box": [
+        0.3038504504519184,
+        0.47361256191592505,
+        0.10071799278259275,
+        0.01207720168811055
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.3059548398779798,
+        0.48401162781434803,
+        0.34496917724609377,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.3059548277437495,
+        0.4955791336866546,
+        0.19507186889648442,
+        0.011688307889471172
+      ],
+      "confidence": 1,
+      "text": "497. Collins Street,"
+    },
+    {
+      "box": [
+        0.3017119056954049,
+        0.5081641525269256,
+        0.10294169425964356,
+        0.014194950606314927
+      ],
+      "confidence": 1,
+      "text": "MELB OUR NE"
+    },
+    {
+      "box": [
+        0.45585215910375076,
+        0.5058139536677406,
+        0.08008213043212886,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "VIC."
+    },
+    {
+      "box": [
+        0.4250513374038103,
+        0.8866279071330466,
+        0.17864475250244138,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Matarich - Arbre de la Vierge."
+    },
+    {
+      "box": [
+        0.2769800672106439,
+        0.9146766943670396,
+        0.41531576156616207,
+        0.022416708429338184
+      ],
+      "confidence": 1,
+      "text": "THE STORY GOES THAT IT WAS UMDER THIS FiGTREE"
+    },
+    {
+      "box": [
+        0.2770616002748103,
+        0.9341286598956586,
+        0.40486190795898436,
+        0.015721181975751675
+      ],
+      "confidence": 1,
+      "text": "THAT MARY MIYA THE INFANT JESUS RESTEO ON THE"
+    },
+    {
+      "box": [
+        0.2813141712683226,
+        0.952034883844352,
+        0.1252566719055176,
+        0.01038775119393609
+      ],
+      "confidence": 1,
+      "text": "FLIGHT TO EGYPT."
+    }
+  ],
+  "text": "AUSTRALIAN SHIPBUILDING BOARD\nSYDNEY\n9th. June, 1955.\nDear Mr. McFadyen,\nOn behalf of the General Manager and\nstaff of the Board, I have great pleasure in\nextending to you the heartiest of congratula-\ntions for the honour recently conferred upon\nyou by Her Majesty the Queen.\nYours sincerely,\ndem memlea\n(J.C.M. MERRILEES)\nSECRETARY\nC.H. McFadyen, Esq.,\nC.B.E.,\nSecretary,\nDepartment of Shipping & Transport,\n497. Collins Street,\nMELB OUR NE\nVIC.\nMatarich - Arbre de la Vierge.\nTHE STORY GOES THAT IT WAS UMDER THIS FiGTREE\nTHAT MARY MIYA THE INFANT JESUS RESTEO ON THE\nFLIGHT TO EGYPT.",
+  "source_sha256": "35deadb7029242cc49cdcbf3127ccd8b57f77a1b680d7f11d00bef6d8463d01e",
+  "status": "machine-draft"
+}

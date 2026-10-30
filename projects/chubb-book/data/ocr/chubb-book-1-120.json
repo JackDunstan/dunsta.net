@@ -1,0 +1,413 @@
+{
+  "candidate_names": [
+    "Charles"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-120.jpg",
+  "lines": [
+    {
+      "box": [
+        0.8090349108809892,
+        0.10319767451232476,
+        0.06776180267333975,
+        0.0058139532040326625
+      ],
+      "confidence": 1,
+      "text": "TELEPHONES:"
+    },
+    {
+      "box": [
+        0.22782320726740457,
+        0.1072400182567601,
+        0.04332689285278324,
+        0.007903684250134324
+      ],
+      "confidence": 1,
+      "text": "CABLE &"
+    },
+    {
+      "box": [
+        0.2689938432212009,
+        0.10742705578683309,
+        0.10266940116882328,
+        0.005945037045803403
+      ],
+      "confidence": 1,
+      "text": "TELEGRAPHIC ADDRESS"
+    },
+    {
+      "box": [
+        0.26283367506205557,
+        0.11627906995806114,
+        0.07186858177185057,
+        0.0058139532040326625
+      ],
+      "confidence": 0.5,
+      "text": "\"CANFRUITEX\""
+    },
+    {
+      "box": [
+        0.27104722991730973,
+        0.12500000009372003,
+        0.05749486446380614,
+        0.0058139532040327735
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE"
+    },
+    {
+      "box": [
+        0.878830534666273,
+        0.11040385129207031,
+        0.04521367549896238,
+        0.007389971685030194
+      ],
+      "confidence": 0.5,
+      "text": "FJ 9055"
+    },
+    {
+      "box": [
+        0.28949642084606325,
+        0.15835621553097967,
+        0.06166424274444582,
+        0.013229429142123106
+      ],
+      "confidence": 0.5,
+      "text": "WJA/MS"
+    },
+    {
+      "box": [
+        0.40041067842045036,
+        0.13218390819968961,
+        0.3552361297607422,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIAN CANNED FRUITS BOARD"
+    },
+    {
+      "box": [
+        0.5236139650590275,
+        0.14970930239969682,
+        0.10472278594970708,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "SUNRAYSIA HOUSE"
+    },
+    {
+      "box": [
+        0.4702258752819419,
+        0.16133720924926076,
+        0.1190965080261231,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "24 JEFFCOTT STREET,"
+    },
+    {
+      "box": [
+        0.5872689986157676,
+        0.16133720924926076,
+        0.09856262207031252,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE, C.1"
+    },
+    {
+      "box": [
+        0.7268993857006129,
+        0.18023255799706805,
+        0.15811087608337404,
+        0.014727654022837378
+      ],
+      "confidence": 1,
+      "text": "16th June, 1955."
+    },
+    {
+      "box": [
+        0.2915811187654321,
+        0.268788682627938,
+        0.2587268829345703,
+        0.01464155013323043
+      ],
+      "confidence": 1,
+      "text": "Mr. C.H. MeFadyen, C. B.E.,"
+    },
+    {
+      "box": [
+        0.29774127757805224,
+        0.2834302326659923,
+        0.09240245819091797,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "secretary"
+    },
+    {
+      "box": [
+        0.2977412818433444,
+        0.29215116292968824,
+        0.3388090133666993,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.2915811167687688,
+        0.3037135275014927,
+        0.19096508026123044,
+        0.016053913969786948
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.28952772537730254,
+        0.31686046547069324,
+        0.10472278594970702,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.4127310058762161,
+        0.3154069768987454,
+        0.041067762374877914,
+        0.01308139460367197
+      ],
+      "confidence": 0.5,
+      "text": "c.1."
+    },
+    {
+      "box": [
+        0.29363449660446395,
+        0.35174418604109214,
+        0.1314168357849121,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.44353184193136785,
+        0.37209302310504566,
+        0.34496917724609377,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "It was with pleasure that I learned"
+    },
+    {
+      "box": [
+        0.2956878878181598,
+        0.3837209301108597,
+        0.5236139678955078,
+        0.013272880770061724
+      ],
+      "confidence": 1,
+      "text": "earlier this week of the well-merited Honour recently"
+    },
+    {
+      "box": [
+        0.29568789042340543,
+        0.39825581413141586,
+        0.15811087608337399,
+        0.01023224957952662
+      ],
+      "confidence": 1,
+      "text": "bestowed on you."
+    },
+    {
+      "box": [
+        0.4435318390733032,
+        0.4186046510929984,
+        0.40451744079589846,
+        0.01464026507606131
+      ],
+      "confidence": 1,
+      "text": "Somewhat belatedly, Charles, nevertheless"
+    },
+    {
+      "box": [
+        0.295687899675724,
+        0.4314765694231727,
+        0.5030800628662109,
+        0.013290872413642019
+      ],
+      "confidence": 1,
+      "text": "with all sincerity, I offer you my congratulations."
+    },
+    {
+      "box": [
+        0.6197851851172144,
+        0.4624911140456329,
+        0.15893860816955563,
+        0.015865727297296406
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.6817248513308735,
+        0.486737400517661,
+        0.2238192939758301,
+        0.03669319186560571
+      ],
+      "confidence": 0.5,
+      "text": "pin adam"
+    },
+    {
+      "box": [
+        0.30914437086871155,
+        0.5698382336055199,
+        0.6077030944824218,
+        0.0447704541166728
+      ],
+      "confidence": 1,
+      "text": "dom ARAmS AND I WERE TELEGRAPH MISSENGERS TOGETHER IN THE OLD"
+    },
+    {
+      "box": [
+        0.26610097877275907,
+        0.5844081089781377,
+        0.6445545196533203,
+        0.04795107685497224
+      ],
+      "confidence": 1,
+      "text": "TEN SHER\" IN ENZABETH ST. IN 1908. WE PASSER THE CHERICAL EXAMINATION AND"
+    },
+    {
+      "box": [
+        0.2679286648482083,
+        0.602322365639052,
+        0.6365803909301758,
+        0.043411811403633704
+      ],
+      "confidence": 1,
+      "text": "AFTER ME RETURNER FROM THE WAR WE WERE SECONDER FROM OUR RRPARTMENTS"
+    },
+    {
+      "box": [
+        0.26621596226103095,
+        0.6220779930030617,
+        0.6217477035522461,
+        0.041341729336982325
+      ],
+      "confidence": 1,
+      "text": "TO THE WAR GRATUITY SECTION, VICTORIA BARRACKS AS AUTHORISING OFFICERS."
+    },
+    {
+      "box": [
+        0.2682252596778109,
+        0.6357040933316026,
+        0.6424186706542969,
+        0.04215277242618354
+      ],
+      "confidence": 1,
+      "text": "HE WENT OUR SEVERAL WAYS LATER ON AND dIM BECAMe CHAIRMAN OF THe CANNER"
+    },
+    {
+      "box": [
+        0.27019363225370163,
+        0.6532243086444697,
+        0.6159434890747071,
+        0.0398888389796519
+      ],
+      "confidence": 1,
+      "text": "FRUITS BOARA. HE WENT OVERSEAS FREQUENTLY TO FURTHER THE INTERESTS OF"
+    },
+    {
+      "box": [
+        0.27016341002390504,
+        0.6676115189229574,
+        0.6180468750000001,
+        0.04274317187402854
+      ],
+      "confidence": 1,
+      "text": "TiE RUSTRAMAN EXPORTERS OF CANNAM FRUITS. HE WAS VERY NELL REGARAñO"
+    },
+    {
+      "box": [
+        0.2763208961638382,
+        0.6804111979852346,
+        0.6629293060302734,
+        0.04430392777150338
+      ],
+      "confidence": 1,
+      "text": "By THOSE He SERVEA SO WELL BOTH IN GOYERNmENT CIRCLeS ROTA IN PRIVATe INDUSTRY"
+    },
+    {
+      "box": [
+        0.7474332680760586,
+        0.8561046511737443,
+        0.13141683578491203,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "MRS ARMSTRONG"
+    },
+    {
+      "box": [
+        0.2791125128621047,
+        0.880348730268,
+        0.10707271575927735,
+        0.018372307194744364
+      ],
+      "confidence": 1,
+      "text": "ROSES MOTHER"
+    },
+    {
+      "box": [
+        0.24024640880545903,
+        0.9009725906128007,
+        0.12114989280700686,
+        0.01036461847846637
+      ],
+      "confidence": 1,
+      "text": "ON A VISIT TO"
+    },
+    {
+      "box": [
+        0.28336755816468867,
+        0.9142441861699334,
+        0.10061601638793943,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "CANBERRA."
+    },
+    {
+      "box": [
+        0.48254620173551493,
+        0.9738372097320138,
+        0.05133470058441164,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "MARIE"
+    },
+    {
+      "box": [
+        0.6221766003306425,
+        0.9738372093132792,
+        0.18480491638183594,
+        0.008921411583425742
+      ],
+      "confidence": 1,
+      "text": "KENY \" HARREN ARMSTRONG"
+    }
+  ],
+  "text": "TELEPHONES:\nCABLE &\nTELEGRAPHIC ADDRESS\n\"CANFRUITEX\"\nMELBOURNE\nFJ 9055\nWJA/MS\nAUSTRALIAN CANNED FRUITS BOARD\nSUNRAYSIA HOUSE\n24 JEFFCOTT STREET,\nMELBOURNE, C.1\n16th June, 1955.\nMr. C.H. MeFadyen, C. B.E.,\nsecretary\nDepartment of Shipping & Transport,\n497 Collins Street,\nMELBOURNE.\nc.1.\nDear Charles,\nIt was with pleasure that I learned\nearlier this week of the well-merited Honour recently\nbestowed on you.\nSomewhat belatedly, Charles, nevertheless\nwith all sincerity, I offer you my congratulations.\nYours sincerely,\npin adam\ndom ARAmS AND I WERE TELEGRAPH MISSENGERS TOGETHER IN THE OLD\nTEN SHER\" IN ENZABETH ST. IN 1908. WE PASSER THE CHERICAL EXAMINATION AND\nAFTER ME RETURNER FROM THE WAR WE WERE SECONDER FROM OUR RRPARTMENTS\nTO THE WAR GRATUITY SECTION, VICTORIA BARRACKS AS AUTHORISING OFFICERS.\nHE WENT OUR SEVERAL WAYS LATER ON AND dIM BECAMe CHAIRMAN OF THe CANNER\nFRUITS BOARA. HE WENT OVERSEAS FREQUENTLY TO FURTHER THE INTERESTS OF\nTiE RUSTRAMAN EXPORTERS OF CANNAM FRUITS. HE WAS VERY NELL REGARAñO\nBy THOSE He SERVEA SO WELL BOTH IN GOYERNmENT CIRCLeS ROTA IN PRIVATe INDUSTRY\nMRS ARMSTRONG\nROSES MOTHER\nON A VISIT TO\nCANBERRA.\nMARIE\nKENY \" HARREN ARMSTRONG",
+  "source_sha256": "9bb70756e4ed175f98db263a17f50da29cda531d56500b3cf31801a235c8bafa",
+  "status": "machine-draft"
+}

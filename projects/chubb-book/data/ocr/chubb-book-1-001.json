@@ -1,0 +1,343 @@
+{
+  "candidate_names": [
+    "MAS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-001.jpg",
+  "lines": [
+    {
+      "box": [
+        0.6303901493141272,
+        0.12063953523207882,
+        0.18069814682006846,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Victoria Barracks,"
+    },
+    {
+      "box": [
+        0.6776180744532779,
+        0.13081395384278616,
+        0.10472278594970696,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE,"
+    },
+    {
+      "box": [
+        0.671457910635633,
+        0.15406976797796057,
+        0.16016426086425772,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "14th August 1919"
+    },
+    {
+      "box": [
+        0.3264887054625507,
+        0.26017441914102934,
+        0.22176591873168938,
+        0.030718595132060322
+      ],
+      "confidence": 1,
+      "text": "Denn Me Yadyen"
+    },
+    {
+      "box": [
+        0.49691991990802364,
+        0.2948717946665832,
+        0.3531827545166015,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "conference of representatives of the"
+    },
+    {
+      "box": [
+        0.3285420985727799,
+        0.30813439444510293,
+        0.5236139678955078,
+        0.011633047058348334
+      ],
+      "confidence": 1,
+      "text": "140 Sub-branches throughout the State will be held on"
+    },
+    {
+      "box": [
+        0.3285421039648111,
+        0.3196286470295968,
+        0.5318275070190429,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Monday night to consider an important amendment to the"
+    },
+    {
+      "box": [
+        0.32854211546363893,
+        0.3313953490125371,
+        0.474332618713379,
+        0.011663890538439081
+      ],
+      "confidence": 1,
+      "text": "Bye-Iaws of the Victorian Branch of the Returned"
+    },
+    {
+      "box": [
+        0.32854210783416926,
+        0.3430232560401534,
+        0.47227924346923833,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Sailors & Soldiers Imperial League of Australia."
+    },
+    {
+      "box": [
+        0.47638604930889045,
+        0.3779069769956447,
+        0.38603694915771486,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "This amendment, which has for its object"
+    },
+    {
+      "box": [
+        0.3285421125616365,
+        0.38947833762269646,
+        0.5523613739013671,
+        0.011684452717964033
+      ],
+      "confidence": 1,
+      "text": "a fuller representation of Sub-branches on the Executive"
+    },
+    {
+      "box": [
+        0.4332648942367399,
+        0.4009725907800248,
+        0.4743326187133789,
+        0.013271594869679437
+      ],
+      "confidence": 1,
+      "text": "the League in this State, is of vital importance,"
+    },
+    {
+      "box": [
+        0.33059549137582,
+        0.41279069792242074,
+        0.34291580200195304,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "hence I, as a member of the League,"
+    },
+    {
+      "box": [
+        0.40451746782806813,
+        0.42440318287218537,
+        0.28952770233154307,
+        0.010189840163307706
+      ],
+      "confidence": 1,
+      "text": "of our returned men at heart,"
+    },
+    {
+      "box": [
+        0.6960985721802007,
+        0.42296511646651,
+        0.19712524414062504,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "ask that you attend"
+    },
+    {
+      "box": [
+        0.33059548115016063,
+        0.43457117593999217,
+        0.5195071792602539,
+        0.011649754066366147
+      ],
+      "confidence": 1,
+      "text": "the special General Meeting of all members to vote on"
+    },
+    {
+      "box": [
+        0.33059548561152213,
+        0.4460654288152788,
+        0.5297741317749023,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "the amendments which the aforesaid conference will put"
+    },
+    {
+      "box": [
+        0.47638604851888844,
+        0.49273255838753705,
+        0.40451744079589846,
+        0.011688308311077922
+      ],
+      "confidence": 1,
+      "text": "The meeting is to take place at 7.30 p,m."
+    },
+    {
+      "box": [
+        0.3285421139676549,
+        0.5043604654006184,
+        0.5338808822631835,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "at the Athenaeum Hall on Wednesday next the 20tm inst."
+    },
+    {
+      "box": [
+        0.4763860404331464,
+        0.5392441862581766,
+        0.3655030822753907,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Hitherto the men have complained that"
+    },
+    {
+      "box": [
+        0.33059550360245266,
+        0.5508399646950611,
+        0.49281311035156256,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "their late officers have anly taken a mere passing"
+    },
+    {
+      "box": [
+        0.32854211109838444,
+        0.5639534886200953,
+        0.3757699966430664,
+        0.011643328358914129
+      ],
+      "confidence": 1,
+      "text": "interest in the affairs of the League,"
+    },
+    {
+      "box": [
+        0.7084188915993745,
+        0.5623342174022448,
+        0.13347022056579583,
+        0.010340201127434279
+      ],
+      "confidence": 1,
+      "text": "so here is an"
+    },
+    {
+      "box": [
+        0.3305954835520981,
+        0.5755813955459673,
+        0.4804928207397461,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "opportunity to show that you are concerned in the"
+    },
+    {
+      "box": [
+        0.32842655449152874,
+        0.5855641190897029,
+        0.24049831390380855,
+        0.01335522645769871
+      ],
+      "confidence": 1,
+      "text": "welfare of returned men."
+    },
+    {
+      "box": [
+        0.47638604595404105,
+        0.6206395348783015,
+        0.4127309799194336,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "Wear your League badge or have the receipt"
+    },
+    {
+      "box": [
+        0.3285420986473882,
+        0.6335101680350278,
+        0.23819301605224613,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "for membership with you,"
+    },
+    {
+      "box": [
+        0.6529774118189109,
+        0.6684350134090971,
+        0.1498973274230957,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "ours sincerely,"
+    },
+    {
+      "box": [
+        0.2813141702099648,
+        0.8575581396322425,
+        0.2299794578552246,
+        0.014678818477559807
+      ],
+      "confidence": 1,
+      "text": "THIS APPEAL WAS SIGNED"
+    },
+    {
+      "box": [
+        0.5112936402726507,
+        0.8501326263707439,
+        0.381930160522461,
+        0.019053419536452343
+      ],
+      "confidence": 1,
+      "text": "BY GENERAL BRAND WHO HAS IN COmmANTE"
+    },
+    {
+      "box": [
+        0.20678543413839762,
+        0.8631467024600419,
+        0.6953652954101563,
+        0.03243810449628881
+      ],
+      "confidence": 1,
+      "text": "OF THE FAMOUS HTH DA. A.J.F. He MAS A SOUTH AFRICAN VETERAN. BA TAR 1930 S"
+    },
+    {
+      "box": [
+        0.21355236448328008,
+        0.9009725905706575,
+        0.09650923728942873,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "HE HAS A"
+    },
+    {
+      "box": [
+        0.3074461922015315,
+        0.888410802594735,
+        0.3480693435668945,
+        0.02390328263098107
+      ],
+      "confidence": 1,
+      "text": "SENATOR IN THE FEDERAL PARLiAMENT."
+    }
+  ],
+  "text": "Victoria Barracks,\nMELBOURNE,\n14th August 1919\nDenn Me Yadyen\nconference of representatives of the\n140 Sub-branches throughout the State will be held on\nMonday night to consider an important amendment to the\nBye-Iaws of the Victorian Branch of the Returned\nSailors & Soldiers Imperial League of Australia.\nThis amendment, which has for its object\na fuller representation of Sub-branches on the Executive\nthe League in this State, is of vital importance,\nhence I, as a member of the League,\nof our returned men at heart,\nask that you attend\nthe special General Meeting of all members to vote on\nthe amendments which the aforesaid conference will put\nThe meeting is to take place at 7.30 p,m.\nat the Athenaeum Hall on Wednesday next the 20tm inst.\nHitherto the men have complained that\ntheir late officers have anly taken a mere passing\ninterest in the affairs of the League,\nso here is an\nopportunity to show that you are concerned in the\nwelfare of returned men.\nWear your League badge or have the receipt\nfor membership with you,\nours sincerely,\nTHIS APPEAL WAS SIGNED\nBY GENERAL BRAND WHO HAS IN COmmANTE\nOF THE FAMOUS HTH DA. A.J.F. He MAS A SOUTH AFRICAN VETERAN. BA TAR 1930 S\nHE HAS A\nSENATOR IN THE FEDERAL PARLiAMENT.",
+  "source_sha256": "119493ef197c82a5d0a00a850761878285d5bdf38cbe5ee9a0e48241276da3ad",
+  "status": "machine-draft"
+}

@@ -1,0 +1,313 @@
+{
+  "candidate_names": [
+    "ANA",
+    "ARTy",
+    "ARTy FARDeN",
+    "BUTLER",
+    "BUTLeR",
+    "BYRNE",
+    "FADDeN",
+    "GIE",
+    "KEITH RIGG",
+    "LOMON",
+    "Saney NewspapeR"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-020.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2279260916016669,
+        0.11626878877831892,
+        0.3634496688842773,
+        0.0203591177254836
+      ],
+      "confidence": 1,
+      "text": "GET YOUR HANGOVER AT THE"
+    },
+    {
+      "box": [
+        0.20892940778604646,
+        0.13541471092890522,
+        0.2967202377319336,
+        0.06637988103163339
+      ],
+      "confidence": 1,
+      "text": "JOURNALISTS"
+    },
+    {
+      "box": [
+        0.2443531843476037,
+        0.18459302295443092,
+        0.13141683578491212,
+        0.03779069814504932
+      ],
+      "confidence": 1,
+      "text": "BALL"
+    },
+    {
+      "box": [
+        0.40783329496002557,
+        0.19744787179728007,
+        0.08098993301391605,
+        0.04327386169703418
+      ],
+      "confidence": 1,
+      "text": "HANGOVER"
+    },
+    {
+      "box": [
+        0.22587269049100356,
+        0.38662790694328897,
+        0.05338809013366702,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "Reynolds,"
+    },
+    {
+      "box": [
+        0.3388090365450714,
+        0.3764534886604731,
+        0.2053388023376465,
+        0.017445715205212098
+      ],
+      "confidence": 1,
+      "text": "CANBERRA -"
+    },
+    {
+      "box": [
+        0.5954825472280251,
+        0.3735465117303405,
+        0.19301847457885746,
+        0.021802325463737615
+      ],
+      "confidence": 1,
+      "text": "OCT. 21 ST. 1938"
+    },
+    {
+      "box": [
+        0.2111216710127733,
+        0.4333034683337409,
+        0.6638933563232421,
+        0.02615930420650414
+      ],
+      "confidence": 1,
+      "text": "I Knew THe JorT. Mon SECS. YERY WELL. MiCIS BYRNE WAS PRIATE SeC. TO"
+    },
+    {
+      "box": [
+        0.2048770649602735,
+        0.4474532039288994,
+        0.6559182739257814,
+        0.030148894885912214
+      ],
+      "confidence": 1,
+      "text": "ARTy FARDeN AT ONe TimE ANA ACCOmPANeR THe FeReRAL TREASUReR"
+    },
+    {
+      "box": [
+        0.20285680174065163,
+        0.4632581911637518,
+        0.7317040252685547,
+        0.028474905552008267
+      ],
+      "confidence": 1,
+      "text": "To LOMON or ImPORTANT FiNANCe DISCUSSIONS WITH THe BRITISH SOVeRNmeNT,"
+    },
+    {
+      "box": [
+        0.20866576814909862,
+        0.4754411773997731,
+        0.6872229766845703,
+        0.039356265417987646
+      ],
+      "confidence": 1,
+      "text": "I WAS IN STAReY ON THEIR ReTURN GIE MET THEM IN THe CARLTON ' BAR"
+    },
+    {
+      "box": [
+        0.2066012961649689,
+        0.49039094580898557,
+        0.6834783172607422,
+        0.043369802513763434
+      ],
+      "confidence": 1,
+      "text": "IN CASTLeRAGN. ST. ACTUALLY / WAS SECKING KEITH RIGG WITH WHOM I"
+    },
+    {
+      "box": [
+        0.2148030079544246,
+        0.5111322408369312,
+        0.7162617492675781,
+        0.0374384373294685
+      ],
+      "confidence": 1,
+      "text": "MAD AN APPOINTMENT ANTA AS I OUT MA HeAD IN THe DOOR ARTy. SPOTTeD me"
+    },
+    {
+      "box": [
+        0.21679530020004137,
+        0.5231242134333806,
+        0.7119668579101562,
+        0.048449579537389154
+      ],
+      "confidence": 1,
+      "text": "ArA INyIten me to doIN HIS PARTy VHICH COmPRISED SEYeRAL PROmINeNT"
+    },
+    {
+      "box": [
+        0.2167521939099808,
+        0.5510641079864217,
+        0.5333733367919922,
+        0.03659944003077331
+      ],
+      "confidence": 1,
+      "text": "Saney NewspapeR ment ds wens as ARry ANa mick."
+    },
+    {
+      "box": [
+        0.23301596887807408,
+        0.565107505344577,
+        0.7147301483154297,
+        0.04375348483219699
+      ],
+      "confidence": 1,
+      "text": "ARTy WAS ARRYS AT HAS BeST IN RECOUNTING A STOR- AND He RNTERTRINCH"
+    },
+    {
+      "box": [
+        0.22254190706243954,
+        0.5793582459186247,
+        0.7348648834228515,
+        0.04600802150898342
+      ],
+      "confidence": 1,
+      "text": "US WITH A VERBAL QUEL Me HAD WITH BUTLER CHANCELIOR OF THe ExCHeQUeR."
+    },
+    {
+      "box": [
+        0.21232378777865918,
+        0.5969417254347587,
+        0.7306813812255859,
+        0.04810007771594038
+      ],
+      "confidence": 1,
+      "text": "IN ANY ENCOUNTER WITH ENGLISH NEGOTiATORS, GOVERNmeNT OR OTHeRWISE,"
+    },
+    {
+      "box": [
+        0.2123542796547985,
+        0.6132225372153102,
+        0.7432868194580079,
+        0.04835732862234743
+      ],
+      "confidence": 1,
+      "text": "OUR RePRESeNTATIVES HAT TO BE ALeRT BUT THe BeST OF THe ENGLISH HERe NO"
+    },
+    {
+      "box": [
+        0.20822280267603624,
+        0.6287786641724462,
+        0.7516238403320312,
+        0.05169615505228631
+      ],
+      "confidence": 1,
+      "text": "MATCH FOR OUR ARTHUR. APPARENTLY ON THIS DECASION AN ARSOURNMENT"
+    },
+    {
+      "box": [
+        0.20599300097686643,
+        0.6416524007947448,
+        0.749710464477539,
+        0.05455377647878845
+      ],
+      "confidence": 1,
+      "text": "WAS mADe FoR CoFfee and Smores DURING WHICH BUTLeR APPROACHerT FADDeN"
+    },
+    {
+      "box": [
+        0.20572664256338455,
+        0.6693428096713642,
+        0.5134075164794921,
+        0.05355446070933323
+      ],
+      "confidence": 1,
+      "text": "WITH THe QUESTION \" HOW MO YOU THINK WE'Re GOING \"."
+    },
+    {
+      "box": [
+        0.7328621834052916,
+        0.6654478140326646,
+        0.23467910766601563,
+        0.022327301672978472
+      ],
+      "confidence": 1,
+      "text": "\"Ana RIGHT. SAIR FATIMEN."
+    },
+    {
+      "box": [
+        0.21128912936099062,
+        0.714171784373763,
+        0.20165172576904297,
+        0.025144803007549177
+      ],
+      "confidence": 1,
+      "text": "I DON'T THINK SO,"
+    },
+    {
+      "box": [
+        0.6209744246564413,
+        0.6808601330600746,
+        0.3349268722534179,
+        0.033730676382859204
+      ],
+      "confidence": 1,
+      "text": "PRIme MArISTER WOULD NOT Be HADRY"
+    },
+    {
+      "box": [
+        0.21443298643742723,
+        0.7243964342824261,
+        0.3428947830200195,
+        0.03280551279676791
+      ],
+      "confidence": 1,
+      "text": "WITH THe STAND YOURe FARING."
+    },
+    {
+      "box": [
+        0.2041553004950736,
+        0.7261829494872049,
+        0.7381451416015626,
+        0.05766463005679767
+      ],
+      "confidence": 1,
+      "text": "TO BEiNG PRESUmPTIOUS YOU ARE ENDEATOURING TO Be CLAiRYOYANT\""
+    },
+    {
+      "box": [
+        0.20827608138359402,
+        0.755020153380168,
+        0.7477751922607423,
+        0.04598967655900299
+      ],
+      "confidence": 1,
+      "text": "IT IS A TRiBUTE TO THe GOOD FeLLOWSHIP OF THE SYRNEY NeWSPAPER MeN THAT"
+    },
+    {
+      "box": [
+        0.21025593793561556,
+        0.7840412262206098,
+        0.42335330963134765,
+        0.04007549606309746
+      ],
+      "confidence": 1,
+      "text": "THe STORy WAS NOT PRINTeR AT THe Time."
+    }
+  ],
+  "text": "GET YOUR HANGOVER AT THE\nJOURNALISTS\nBALL\nHANGOVER\nReynolds,\nCANBERRA -\nOCT. 21 ST. 1938\nI Knew THe JorT. Mon SECS. YERY WELL. MiCIS BYRNE WAS PRIATE SeC. TO\nARTy FARDeN AT ONe TimE ANA ACCOmPANeR THe FeReRAL TREASUReR\nTo LOMON or ImPORTANT FiNANCe DISCUSSIONS WITH THe BRITISH SOVeRNmeNT,\nI WAS IN STAReY ON THEIR ReTURN GIE MET THEM IN THe CARLTON ' BAR\nIN CASTLeRAGN. ST. ACTUALLY / WAS SECKING KEITH RIGG WITH WHOM I\nMAD AN APPOINTMENT ANTA AS I OUT MA HeAD IN THe DOOR ARTy. SPOTTeD me\nArA INyIten me to doIN HIS PARTy VHICH COmPRISED SEYeRAL PROmINeNT\nSaney NewspapeR ment ds wens as ARry ANa mick.\nARTy WAS ARRYS AT HAS BeST IN RECOUNTING A STOR- AND He RNTERTRINCH\nUS WITH A VERBAL QUEL Me HAD WITH BUTLER CHANCELIOR OF THe ExCHeQUeR.\nIN ANY ENCOUNTER WITH ENGLISH NEGOTiATORS, GOVERNmeNT OR OTHeRWISE,\nOUR RePRESeNTATIVES HAT TO BE ALeRT BUT THe BeST OF THe ENGLISH HERe NO\nMATCH FOR OUR ARTHUR. APPARENTLY ON THIS DECASION AN ARSOURNMENT\nWAS mADe FoR CoFfee and Smores DURING WHICH BUTLeR APPROACHerT FADDeN\nWITH THe QUESTION \" HOW MO YOU THINK WE'Re GOING \".\n\"Ana RIGHT. SAIR FATIMEN.\nI DON'T THINK SO,\nPRIme MArISTER WOULD NOT Be HADRY\nWITH THe STAND YOURe FARING.\nTO BEiNG PRESUmPTIOUS YOU ARE ENDEATOURING TO Be CLAiRYOYANT\"\nIT IS A TRiBUTE TO THe GOOD FeLLOWSHIP OF THE SYRNEY NeWSPAPER MeN THAT\nTHe STORy WAS NOT PRINTeR AT THe Time.",
+  "source_sha256": "991b3f710ab33e235c02d2acd9e8a2d4d2677cd806d1e44147f5e90f7ce176e8",
+  "status": "machine-draft"
+}

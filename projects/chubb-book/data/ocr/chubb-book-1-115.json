@@ -1,0 +1,313 @@
+{
+  "candidate_names": [
+    "Tam sinch"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-115.jpg",
+  "lines": [
+    {
+      "box": [
+        0.49486653256094615,
+        0.19319186558462986,
+        0.1868583106994629,
+        0.008843018036833072
+      ],
+      "confidence": 1,
+      "text": "DEPARTMENT OF DEFENCE"
+    },
+    {
+      "box": [
+        0.501026694860445,
+        0.2049418606041068,
+        0.10061601638793949,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE•"
+    },
+    {
+      "box": [
+        0.6221765918338054,
+        0.20348837246457196,
+        0.05749486446380614,
+        0.011627906408065325
+      ],
+      "confidence": 0.5,
+      "text": "s.c.1:"
+    },
+    {
+      "box": [
+        0.5294594653971709,
+        0.21324729225567152,
+        0.16286832809448237,
+        0.01728774929974164
+      ],
+      "confidence": 1,
+      "text": "10th June, 1955."
+    },
+    {
+      "box": [
+        0.32422392218340695,
+        0.23040599796870787,
+        0.08255831718444828,
+        0.014478702022373668
+      ],
+      "confidence": 1,
+      "text": "PERSONAL"
+    },
+    {
+      "box": [
+        0.3632827038528863,
+        0.25524687582000805,
+        0.1646050262451172,
+        0.025843457560113414
+      ],
+      "confidence": 1,
+      "text": "My dean her"
+    },
+    {
+      "box": [
+        0.4615759618371397,
+        0.28021541750239987,
+        0.24168487548828116,
+        0.022692581702922876
+      ],
+      "confidence": 1,
+      "text": "Warmest congratulations"
+    },
+    {
+      "box": [
+        0.3593429179191071,
+        0.29651162780084706,
+        0.334702262878418,
+        0.014717372722271582
+      ],
+      "confidence": 1,
+      "text": "the c.B.E. conferred on you by Her"
+    },
+    {
+      "box": [
+        0.34907597527499346,
+        0.3125000003907512,
+        0.07802874565124512,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "•Majesty"
+    },
+    {
+      "box": [
+        0.42485852252328427,
+        0.3076097620645474,
+        0.31866542816162113,
+        0.015802019154677605
+      ],
+      "confidence": 1,
+      "text": "• the Queen in the Birthday List,"
+    },
+    {
+      "box": [
+        0.3593429265505059,
+        0.3196286471842811,
+        0.3860369491577149,
+        0.014673678248883437
+      ],
+      "confidence": 1,
+      "text": "in recognition of your valuable service"
+    },
+    {
+      "box": [
+        0.35934292046394717,
+        0.32979664001226205,
+        0.3655030822753906,
+        0.01613359173033535
+      ],
+      "confidence": 1,
+      "text": "to Australia as Secretary, Department"
+    },
+    {
+      "box": [
+        0.35908687527276956,
+        0.3442420627973617,
+        0.25717794418334955,
+        0.01615665951837597
+      ],
+      "confidence": 1,
+      "text": "of Shipping and Transport."
+    },
+    {
+      "box": [
+        0.467965680667563,
+        0.3661563459135305,
+        0.2612281036376953,
+        0.014755286124825573
+      ],
+      "confidence": 1,
+      "text": "With kind regards and best"
+    },
+    {
+      "box": [
+        0.3613963046279221,
+        0.38517441894713,
+        0.06981519222259525,
+        0.011627906408065547
+      ],
+      "confidence": 1,
+      "text": "wishes,"
+    },
+    {
+      "box": [
+        0.5154004107935832,
+        0.4026162801321529,
+        0.21355236053466786,
+        0.03637576250772789
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Tam sinch"
+    },
+    {
+      "box": [
+        0.3141683805639435,
+        0.5087209306907844,
+        0.27720739364624025,
+        0.016035921482993487
+      ],
+      "confidence": 0.5,
+      "text": "C.H. MoFadyen, Esq•, C.B.E.,"
+    },
+    {
+      "box": [
+        0.3367556515931804,
+        0.5232558141253597,
+        0.09856262207031252,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.354950052439696,
+        0.5317238469092722,
+        0.1301022720336914,
+        0.014042047353891252
+      ],
+      "confidence": 1,
+      "text": "Department of"
+    },
+    {
+      "box": [
+        0.48459958971448386,
+        0.5274093723534673,
+        0.23613962173461917,
+        0.014741790494910312
+      ],
+      "confidence": 1,
+      "text": "Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.3757700243913316,
+        0.5436046514180602,
+        0.1683778190612793,
+        0.011656179773818054
+      ],
+      "confidence": 1,
+      "text": "Rialto Buildings,"
+    },
+    {
+      "box": [
+        0.3963039034462804,
+        0.5552325583875372,
+        0.18891170501708987,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.4168377836181453,
+        0.5683139537363742,
+        0.10061601638793938,
+        0.011703729840319976
+      ],
+      "confidence": 1,
+      "text": "MEL BOURNE•"
+    },
+    {
+      "box": [
+        0.5318275162321808,
+        0.5683139538791232,
+        0.04312114715576165,
+        0.01308139460367197
+      ],
+      "confidence": 0.5,
+      "text": "9.-•"
+    },
+    {
+      "box": [
+        0.2258218003793943,
+        0.8879673554719328,
+        0.04527631759643552,
+        0.01040249815248584
+      ],
+      "confidence": 0.5,
+      "text": "ULYE"
+    },
+    {
+      "box": [
+        0.3162217661431565,
+        0.8866279069796261,
+        0.041067762374877914,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "RosE"
+    },
+    {
+      "box": [
+        0.41447554771691175,
+        0.8871463917680491,
+        0.07453966617584229,
+        0.014951402375805611
+      ],
+      "confidence": 1,
+      "text": "CHARIES"
+    },
+    {
+      "box": [
+        0.6386037009857252,
+        0.8880813953299169,
+        0.19301847457885746,
+        0.014659541776810503
+      ],
+      "confidence": 1,
+      "text": "AUNT TELL AND MARiE"
+    },
+    {
+      "box": [
+        0.6919917899509782,
+        0.9069767442212248,
+        0.11498972892761239,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "TELOPER PARK"
+    },
+    {
+      "box": [
+        0.7577002049293398,
+        0.9186046513190932,
+        0.07802874565124518,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "CANBERRA"
+    }
+  ],
+  "text": "DEPARTMENT OF DEFENCE\nMELBOURNE•\ns.c.1:\n10th June, 1955.\nPERSONAL\nMy dean her\nWarmest congratulations\nthe c.B.E. conferred on you by Her\n•Majesty\n• the Queen in the Birthday List,\nin recognition of your valuable service\nto Australia as Secretary, Department\nof Shipping and Transport.\nWith kind regards and best\nwishes,\nTam sinch\nC.H. MoFadyen, Esq•, C.B.E.,\nSecretary,\nDepartment of\nShipping and Transport,\nRialto Buildings,\n497 Collins Street,\nMEL BOURNE•\n9.-•\nULYE\nRosE\nCHARIES\nAUNT TELL AND MARiE\nTELOPER PARK\nCANBERRA",
+  "source_sha256": "8dba4c9a5820b2aff69698a0186cdb40c25337b0e0b620554964b9cfbf64377d",
+  "status": "machine-draft"
+}

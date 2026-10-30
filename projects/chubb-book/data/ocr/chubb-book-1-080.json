@@ -1,0 +1,394 @@
+{
+  "candidate_names": [
+    "ANDERSON",
+    "McFADYEN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-080.jpg",
+  "lines": [
+    {
+      "box": [
+        0.19274942248303972,
+        0.11905829082193342,
+        0.42760601043701174,
+        0.016218694725677385
+      ],
+      "confidence": 1,
+      "text": "[Extract from Commonwealth of Australia Gazette, No. 81, dated 22nd"
+    },
+    {
+      "box": [
+        0.3531827561781239,
+        0.13218390819044934,
+        0.10472278594970702,
+        0.010257951987727831
+      ],
+      "confidence": 1,
+      "text": "December, 1938]"
+    },
+    {
+      "box": [
+        0.1946093993156984,
+        0.15220540597781707,
+        0.4299137878417968,
+        0.026927654559795733
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIAN CAPITAL TERRITORY."
+    },
+    {
+      "box": [
+        0.20714483662954564,
+        0.18977022305186275,
+        0.3988724517822265,
+        0.01977044180575782
+      ],
+      "confidence": 1,
+      "text": "By-law under the Canberra Community Hospital"
+    },
+    {
+      "box": [
+        0.3408624252286938,
+        0.2033598586447305,
+        0.13141683578491214,
+        0.014663396948317753
+      ],
+      "confidence": 1,
+      "text": "Ordinances 1938."
+    },
+    {
+      "box": [
+        0.19677663462882847,
+        0.22161401305756923,
+        0.42577423095703126,
+        0.02277777323566843
+      ],
+      "confidence": 1,
+      "text": "PURSUANT to the powers conferred upon it by the Canberra"
+    },
+    {
+      "box": [
+        0.23613963152167222,
+        0.23691860465000403,
+        0.07186858177185057,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Community"
+    },
+    {
+      "box": [
+        0.3121149919321089,
+        0.23546511635404188,
+        0.17659137725830076,
+        0.010335060477151381
+      ],
+      "confidence": 1,
+      "text": "Hospital Ordinances 1938,"
+    },
+    {
+      "box": [
+        0.49281314364007417,
+        0.23253757720252266,
+        0.12936344146728512,
+        0.010194980813590493
+      ],
+      "confidence": 1,
+      "text": "the Canberra Com-"
+    },
+    {
+      "box": [
+        0.1971252611378757,
+        0.24563953505904867,
+        0.24435317993164068,
+        0.011654894716649045
+      ],
+      "confidence": 1,
+      "text": "munity Hospital Board hereby makes"
+    },
+    {
+      "box": [
+        0.43942506028957484,
+        0.2427055703915485,
+        0.18480491638183594,
+        0.011654894295042406
+      ],
+      "confidence": 1,
+      "text": "the following amendment to"
+    },
+    {
+      "box": [
+        0.1970551776100804,
+        0.2570878687419227,
+        0.05147486209869384,
+        0.010533564708382515
+      ],
+      "confidence": 1,
+      "text": "By-laws."
+    },
+    {
+      "box": [
+        0.21560574673089283,
+        0.271802325962634,
+        0.23819301605224613,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Dated this 14th day of December, 1938."
+    },
+    {
+      "box": [
+        0.23997050203548695,
+        0.2803857244586233,
+        0.38464084625244144,
+        0.017964571371845817
+      ],
+      "confidence": 1,
+      "text": "The Common Seal of the Canberra Community Hospital Board"
+    },
+    {
+      "box": [
+        0.2648870671949948,
+        0.2935455347466355,
+        0.23408622741699214,
+        0.011687023253908913
+      ],
+      "confidence": 1,
+      "text": "was hereto affixed in the presence of"
+    },
+    {
+      "box": [
+        0.4147843943461878,
+        0.309460654152132,
+        0.03285420894622798,
+        0.008853299337398868
+      ],
+      "confidence": 1,
+      "text": "C. H"
+    },
+    {
+      "box": [
+        0.4558521618309328,
+        0.3081343942443917,
+        0.1519507122039795,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "McFADYEN, Chairman"
+    },
+    {
+      "box": [
+        0.41478439468843076,
+        0.31976744182556893,
+        0.014373716115951563,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "C."
+    },
+    {
+      "box": [
+        0.459958939402091,
+        0.31686046517568234,
+        0.14784393310546873,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "ROBERTSON, Member"
+    },
+    {
+      "box": [
+        0.4147843951460006,
+        0.32848837215242654,
+        0.01848049163818355,
+        0.008720930016852368
+      ],
+      "confidence": 0.5,
+      "text": "S."
+    },
+    {
+      "box": [
+        0.43531828056714245,
+        0.32703488386252055,
+        0.1581108760833741,
+        0.010277229110083663
+      ],
+      "confidence": 1,
+      "text": "ANDERSON, Secretary."
+    },
+    {
+      "box": [
+        0.23173992338751545,
+        0.35592307813394086,
+        0.36408943176269526,
+        0.016423239737459294
+      ],
+      "confidence": 1,
+      "text": "AMENDMENT OF THE CANBERRA COMMUNITY"
+    },
+    {
+      "box": [
+        0.3367556522303869,
+        0.36914235172188625,
+        0.15811087608337404,
+        0.010218113107453575
+      ],
+      "confidence": 1,
+      "text": "HOSPITAL BY-LAWS."
+    },
+    {
+      "box": [
+        0.3180832535418937,
+        0.37862652411208764,
+        0.30846141815185546,
+        0.015233125020506888
+      ],
+      "confidence": 1,
+      "text": "Community Hospital By-laws are amended by"
+    },
+    {
+      "box": [
+        0.19907192510729602,
+        0.38482843042401016,
+        0.4316078186035156,
+        0.02366481767514439
+      ],
+      "confidence": 1,
+      "text": "omitting the words \"Federai Capital Territory\" (wherever occurine!?"
+    },
+    {
+      "box": [
+        0.1988669440345005,
+        0.39651200579036383,
+        0.4194533157348633,
+        0.019137108462980446
+      ],
+      "confidence": 1,
+      "text": "and inserting in their stead the words \" Australian Capital Territory"
+    },
+    {
+      "box": [
+        0.5667351150321129,
+        0.5508399644862781,
+        0.11909650802612315,
+        0.016020499953751433
+      ],
+      "confidence": 1,
+      "text": "NEAR PERONTE"
+    },
+    {
+      "box": [
+        0.6221765905784747,
+        0.5639534888718559,
+        0.04106776237487786,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "1918"
+    },
+    {
+      "box": [
+        0.562390637349274,
+        0.5836353727054342,
+        0.09493124961853028,
+        0.018775766239452985
+      ],
+      "confidence": 0.5,
+      "text": "'SOLVERTAN"
+    },
+    {
+      "box": [
+        0.5995893237761705,
+        0.601679929453002,
+        0.04517453670501703,
+        0.008841732979663952
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "• тє"
+    },
+    {
+      "box": [
+        0.5503080123924928,
+        0.6598837209411862,
+        0.08624229431152342,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "inter, Canberra."
+    },
+    {
+      "box": [
+        0.2094455865318752,
+        0.6656976744516725,
+        0.06365502834320066,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "By Authori"
+    },
+    {
+      "box": [
+        0.21971252677954872,
+        0.6744186049043644,
+        0.05544147491455076,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "7462.PR"
+    },
+    {
+      "box": [
+        0.6186029788941483,
+        0.8304338090847855,
+        0.13009777069091788,
+        0.026654743494764044
+      ],
+      "confidence": 1,
+      "text": "Emmy FRANKLiN"
+    },
+    {
+      "box": [
+        0.08820353213756107,
+        0.8659260592487241,
+        0.1090138816833496,
+        0.015240904507017317
+      ],
+      "confidence": 1,
+      "text": "LAL FRANKLIN"
+    },
+    {
+      "box": [
+        0.12320328663963824,
+        0.8793604651428015,
+        0.03080081939697267,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "now"
+    },
+    {
+      "box": [
+        0.2751540107832618,
+        0.9314765692951358,
+        0.2689938354492188,
+        0.010383895600822313
+      ],
+      "confidence": 1,
+      "text": "ON THE SEACH FRANKSTON 1916"
+    },
+    {
+      "box": [
+        0.3839452611683183,
+        0.9548016541061031,
+        0.0842655372619629,
+        0.011908319120803368
+      ],
+      "confidence": 1,
+      "text": "BILL REWAR"
+    }
+  ],
+  "text": "[Extract from Commonwealth of Australia Gazette, No. 81, dated 22nd\nDecember, 1938]\nAUSTRALIAN CAPITAL TERRITORY.\nBy-law under the Canberra Community Hospital\nOrdinances 1938.\nPURSUANT to the powers conferred upon it by the Canberra\nCommunity\nHospital Ordinances 1938,\nthe Canberra Com-\nmunity Hospital Board hereby makes\nthe following amendment to\nBy-laws.\nDated this 14th day of December, 1938.\nThe Common Seal of the Canberra Community Hospital Board\nwas hereto affixed in the presence of\nC. H\nMcFADYEN, Chairman\nC.\nROBERTSON, Member\nS.\nANDERSON, Secretary.\nAMENDMENT OF THE CANBERRA COMMUNITY\nHOSPITAL BY-LAWS.\nCommunity Hospital By-laws are amended by\nomitting the words \"Federai Capital Territory\" (wherever occurine!?\nand inserting in their stead the words \" Australian Capital Territory\nNEAR PERONTE\n1918\n'SOLVERTAN\n• тє\ninter, Canberra.\nBy Authori\n7462.PR\nEmmy FRANKLiN\nLAL FRANKLIN\nnow\nON THE SEACH FRANKSTON 1916\nBILL REWAR",
+  "source_sha256": "c652e123d15b7a7f523c74eb1915efd3d6f0d2d3bf734745e87fa0ddcdc59bfd",
+  "status": "machine-draft"
+}

@@ -1,0 +1,390 @@
+{
+  "candidate_names": [
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.3180826008319855,
+      0.712690681219101,
+      0.1263255923986435,
+      0.0893549770116806
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-147.jpg",
+  "lines": [
+    {
+      "box": [
+        0.26694045151653883,
+        0.10610465144425796,
+        0.07186858177185057,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "DIRECTOR"
+    },
+    {
+      "box": [
+        0.44969199302030083,
+        0.12063953545095873,
+        0.1355236148834229,
+        0.015988370994884815
+      ],
+      "confidence": 1,
+      "text": "P.O. Box 451,"
+    },
+    {
+      "box": [
+        0.5174538009541204,
+        0.14389534888692268,
+        0.09034907341003418,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "NEWCASTLE"
+    },
+    {
+      "box": [
+        0.2381930172889266,
+        0.16843501338717004,
+        0.1314168357849121,
+        0.02210433244915999
+      ],
+      "confidence": 1,
+      "text": "STATE DOCKYARD N.SW."
+    },
+    {
+      "box": [
+        0.45585215732869294,
+        0.18023255842100216,
+        0.20123203277587892,
+        0.014727654022837378
+      ],
+      "confidence": 1,
+      "text": "27th November, 1957."
+    },
+    {
+      "box": [
+        0.2114989810287945,
+        0.23546511618644106,
+        0.18480491638183594,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.25256674617440156,
+        0.25726744170969695,
+        0.41683776855468746,
+        0.013289587356472898
+      ],
+      "confidence": 1,
+      "text": "I was very pleased to receive your letter"
+    },
+    {
+      "box": [
+        0.21355237018930182,
+        0.26878868242462683,
+        0.4558521270751953,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "of the 19th instant and to learn that you are"
+    },
+    {
+      "box": [
+        0.21327878872718642,
+        0.278245266875202,
+        0.3967784118652343,
+        0.01792337871251326
+      ],
+      "confidence": 1,
+      "text": "settling into a restful and well earned"
+    },
+    {
+      "box": [
+        0.2135523663072151,
+        0.295058139782886,
+        0.11088294982910155,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "retirement."
+    },
+    {
+      "box": [
+        0.25441041587483926,
+        0.30865990440921953,
+        0.374131851196289,
+        0.016199585824387963
+      ],
+      "confidence": 1,
+      "text": "As explained during your visit on the"
+    },
+    {
+      "box": [
+        0.21560576240869778,
+        0.3212209305869722,
+        0.4353182601928711,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "occasion of the launching of the \"Illowra\","
+    },
+    {
+      "box": [
+        0.2154280031762066,
+        0.33170936442262033,
+        0.423359260559082,
+        0.017082101364877644
+      ],
+      "confidence": 1,
+      "text": "the photograph handed to you then had been"
+    },
+    {
+      "box": [
+        0.2154135521217856,
+        0.3439518854691783,
+        0.44386379241943363,
+        0.015409929998989824
+      ],
+      "confidence": 1,
+      "text": "prepared at rather short notice to enable me"
+    },
+    {
+      "box": [
+        0.21560576512369692,
+        0.35610465095976185,
+        0.47227924346923833,
+        0.014534883642491891
+      ],
+      "confidence": 1,
+      "text": "to convey to you in the presence of our guests,"
+    },
+    {
+      "box": [
+        0.21546685335708524,
+        0.36765874295203704,
+        0.4438509368896485,
+        0.015524608703127551
+      ],
+      "confidence": 1,
+      "text": "the high esteem in which you are held by all"
+    },
+    {
+      "box": [
+        0.2156057561695138,
+        0.3822674419994556,
+        0.16016426086425786,
+        0.011631762422785963
+      ],
+      "confidence": 1,
+      "text": "at the Dockyard."
+    },
+    {
+      "box": [
+        0.40657084696662793,
+        0.3793103447228976,
+        0.2628336715698242,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Since then I have arranged"
+    },
+    {
+      "box": [
+        0.21560575885767178,
+        0.3924418607465836,
+        0.42505130767822275,
+        0.0147199428366096
+      ],
+      "confidence": 1,
+      "text": "for two photographs of the \"Illowra\" to be"
+    },
+    {
+      "box": [
+        0.30581373504951415,
+        0.40303597603602126,
+        0.3555031585693359,
+        0.014275232950846317
+      ],
+      "confidence": 1,
+      "text": "inscribed and framed and these have"
+    },
+    {
+      "box": [
+        0.21560575701619164,
+        0.41715116307216493,
+        0.22381929397583009,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "been despatched today,"
+    },
+    {
+      "box": [
+        0.43942505468835236,
+        0.4171511631079179,
+        0.22176589965820315,
+        0.010346626413279547
+      ],
+      "confidence": 1,
+      "text": "addressed to you care"
+    },
+    {
+      "box": [
+        0.21752203696676248,
+        0.4270316698012562,
+        0.45003398895263674,
+        0.017700346247692345
+      ],
+      "confidence": 1,
+      "text": "of Mr. D. Mackay, Secretary of the Australian"
+    },
+    {
+      "box": [
+        0.29767033582925306,
+        0.4401686987478145,
+        0.12120761871337893,
+        0.02729460836827069
+      ],
+      "confidence": 1,
+      "text": "Tineto you."
+    },
+    {
+      "box": [
+        0.3675564744947012,
+        0.4403183024876335,
+        0.22997945785522456,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "who, I am assured, will"
+    },
+    {
+      "box": [
+        0.25667352203305216,
+        0.46947674443144893,
+        0.3860369491577148,
+        0.013281876170245122
+      ],
+      "confidence": 1,
+      "text": "In asking you to accept these with our"
+    },
+    {
+      "box": [
+        0.2174255201013493,
+        0.47803885390406253,
+        0.4625334548950195,
+        0.019490020239279482
+      ],
+      "confidence": 1,
+      "text": "compliments, may I again express the hope that"
+    },
+    {
+      "box": [
+        0.3610997997796175,
+        0.4899867354355163,
+        0.3106224250793458,
+        0.01753381751049521
+      ],
+      "confidence": 1,
+      "text": "good health in your retirement"
+    },
+    {
+      "box": [
+        0.21748450801577404,
+        0.5032620464132513,
+        0.43362636566162116,
+        0.016021777422000172
+      ],
+      "confidence": 1,
+      "text": "and perhaps find time to visit the Dockyard"
+    },
+    {
+      "box": [
+        0.21765913946551788,
+        0.5174418605556572,
+        0.13141683578491212,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "occasionally."
+    },
+    {
+      "box": [
+        0.41889117415443744,
+        0.5334302327126988,
+        0.1622176551818848,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.21765914503939576,
+        0.5857558141253597,
+        0.15400409698486328,
+        0.01017698874840367
+      ],
+      "confidence": 0.5,
+      "text": "C• H• McFadyen,"
+    },
+    {
+      "box": [
+        0.3696098572238586,
+        0.5826702031611626,
+        0.1293634510040283,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Esq., C.B.E."
+    },
+    {
+      "box": [
+        0.22146348572310653,
+        0.5955508427039282,
+        0.15865540504455572,
+        0.015294920755212549
+      ],
+      "confidence": 1,
+      "text": "3, Newton Court,"
+    },
+    {
+      "box": [
+        0.21560575467039256,
+        0.6090116282250536,
+        0.11704311370849613,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "ST. KILDA."
+    },
+    {
+      "box": [
+        0.34907597636379734,
+        0.6075581397128113,
+        0.09445585250854494,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Victoria."
+    },
+    {
+      "box": [
+        0.3162217681482773,
+        0.8866279068948395,
+        0.1622176551818848,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "ANDREW POLLOCK"
+    }
+  ],
+  "text": "DIRECTOR\nP.O. Box 451,\nNEWCASTLE\nSTATE DOCKYARD N.SW.\n27th November, 1957.\nDear Mr. McFadyen,\nI was very pleased to receive your letter\nof the 19th instant and to learn that you are\nsettling into a restful and well earned\nretirement.\nAs explained during your visit on the\noccasion of the launching of the \"Illowra\",\nthe photograph handed to you then had been\nprepared at rather short notice to enable me\nto convey to you in the presence of our guests,\nthe high esteem in which you are held by all\nat the Dockyard.\nSince then I have arranged\nfor two photographs of the \"Illowra\" to be\ninscribed and framed and these have\nbeen despatched today,\naddressed to you care\nof Mr. D. Mackay, Secretary of the Australian\nTineto you.\nwho, I am assured, will\nIn asking you to accept these with our\ncompliments, may I again express the hope that\ngood health in your retirement\nand perhaps find time to visit the Dockyard\noccasionally.\nYours sincerely,\nC• H• McFadyen,\nEsq., C.B.E.\n3, Newton Court,\nST. KILDA.\nVictoria.\nANDREW POLLOCK",
+  "source_sha256": "1a344a3db3dfb1e088417c1107e3b2130c618b476b6b2382ebece29351352411",
+  "status": "machine-draft"
+}

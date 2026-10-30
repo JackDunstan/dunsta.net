@@ -1,0 +1,88 @@
+{
+  "candidate_names": [
+    "JOHN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.7194591760635376,
+      0.1752149648964405,
+      0.05372287705540657,
+      0.03800026699900627
+    ],
+    [
+      0.2462340146303177,
+      0.1770932376384735,
+      0.06345222145318985,
+      0.04488220810890198
+    ],
+    [
+      0.37716078758239746,
+      0.16098179295659065,
+      0.046014558523893356,
+      0.03254787251353264
+    ],
+    [
+      0.6353790760040283,
+      0.17770100012421608,
+      0.04576970264315605,
+      0.03237467631697655
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-003.jpg",
+  "lines": [
+    {
+      "box": [
+        0.20739220548313766,
+        0.4142351899421055,
+        0.17248458862304686,
+        0.011636902651462111
+      ],
+      "confidence": 1,
+      "text": "JOHN BRIES' HEALINGS •"
+    },
+    {
+      "box": [
+        0.24845996347193278,
+        0.43457117613411544,
+        0.3983572769165039,
+        0.019009725906277697
+      ],
+      "confidence": 1,
+      "text": "MERCURY TRANSPORT CHRISTMAS PART-"
+    },
+    {
+      "box": [
+        0.43942505532285153,
+        0.45203488362830146,
+        0.13347022056579588,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "SCOTTS HOTEL"
+    },
+    {
+      "box": [
+        0.21956765113446955,
+        0.9314980219792416,
+        0.7128048706054687,
+        0.02102598060452754
+      ],
+      "confidence": 1,
+      "text": "THE KAROON HAS BUILT AT STATE DOCKYARD NEWCASTIK N.S.N. SHEVAS THE FiRST"
+    },
+    {
+      "box": [
+        0.18659981265667497,
+        0.9467123911292761,
+        0.7396353149414063,
+        0.02223810487674671
+      ],
+      "confidence": 1,
+      "text": "SHIP BUILT IN AUSTRALIA FOR AN OVERSEAS COMPANY. THe VOION 5.5. Co. OF DEN 2RANANTA."
+    }
+  ],
+  "text": "JOHN BRIES' HEALINGS •\nMERCURY TRANSPORT CHRISTMAS PART-\nSCOTTS HOTEL\nTHE KAROON HAS BUILT AT STATE DOCKYARD NEWCASTIK N.S.N. SHEVAS THE FiRST\nSHIP BUILT IN AUSTRALIA FOR AN OVERSEAS COMPANY. THe VOION 5.5. Co. OF DEN 2RANANTA.",
+  "source_sha256": "a750eab210ada1acc62d7e9525fcce48e352bc2c9377b90a085d0e5fd79f6e22",
+  "status": "machine-draft"
+}

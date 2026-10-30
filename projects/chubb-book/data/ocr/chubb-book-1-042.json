@@ -1,0 +1,530 @@
+{
+  "candidate_names": [
+    "ALF",
+    "Association",
+    "George Blundell",
+    "McFadyen",
+    "NEWTON",
+    "Piper",
+    "Shaw Savill",
+    "Sommerville"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-042.jpg",
+  "lines": [
+    {
+      "box": [
+        0.24777524990685584,
+        0.3216159033095143,
+        0.545329246520996,
+        0.03330782174431679
+      ],
+      "confidence": 1,
+      "text": "THE JOLLY BEGGARS FROM FLEMING TON PRESBYTERiAN CHURCH"
+    },
+    {
+      "box": [
+        0.22141893087121317,
+        0.3547870830520885,
+        0.49975162506103515,
+        0.02264456323139652
+      ],
+      "confidence": 1,
+      "text": "H. HILL, E. REWAR, FLEACH, C.CROWE, L. TOPHAM, E. NEWTON"
+    },
+    {
+      "box": [
+        0.2130115410305892,
+        0.37357527198496854,
+        0.49811321258544927,
+        0.02837754645039814
+      ],
+      "confidence": 0.5,
+      "text": "W. WARSWORTH, G. FYSH, C.MCFARYEN, W.TOPHAM, A. THAW."
+    },
+    {
+      "box": [
+        0.22311428608366526,
+        0.38537894731773314,
+        0.5683337020874024,
+        0.03466270372574576
+      ],
+      "confidence": 1,
+      "text": "F. GLIDE. LANGUS, H.TIMISWER, E. OLIVER, G. WATSON. P. SmiTH"
+    },
+    {
+      "box": [
+        0.21696679320796036,
+        0.41774274025386715,
+        0.3379564285278321,
+        0.027238677182522264
+      ],
+      "confidence": 1,
+      "text": "AT LEAST lA SERVEO WITH THE 1?T ALF."
+    },
+    {
+      "box": [
+        0.2558719139630196,
+        0.4303603937307443,
+        0.3876847076416015,
+        0.03077995576866943
+      ],
+      "confidence": 1,
+      "text": "JACK ANGUE WAS KILLED AT ANZAC 25/4/15."
+    },
+    {
+      "box": [
+        0.23716685786755393,
+        0.44386624628312066,
+        0.42700420379638676,
+        0.03276998653125174
+      ],
+      "confidence": 1,
+      "text": "ARMEe THAN SURVIYER THe hANDING AT ANDAC ArCA"
+    },
+    {
+      "box": [
+        0.6623913143065202,
+        0.4342813478929264,
+        0.12730568885803228,
+        0.019120114340811734
+      ],
+      "confidence": 1,
+      "text": "SERVED THROUGA"
+    },
+    {
+      "box": [
+        0.23724845004202025,
+        0.44549584206318993,
+        0.5650039672851562,
+        0.04505058477454005
+      ],
+      "confidence": 1,
+      "text": "SASHIPOLI• FRANCE AND RETURNER SAFELY. MICH WAS LIEUT. 7 BATT"
+    },
+    {
+      "box": [
+        0.23716775752194708,
+        0.4717483402814695,
+        0.31783916473388674,
+        0.030792071058305392
+      ],
+      "confidence": 1,
+      "text": "AND ARTEE SM. SE BATT. (ORIGINAL GIN)."
+    },
+    {
+      "box": [
+        0.24716450676753673,
+        0.4634062975169466,
+        0.589981689453125,
+        0.05232299143608221
+      ],
+      "confidence": 1,
+      "text": "GEORGE WATSON WAS KILLER AS LIEUT. NEAR ARMENTERES AND 5.597 9. FISH"
+    },
+    {
+      "box": [
+        0.23908311273526603,
+        0.5088638957098989,
+        0.12967031478881838,
+        0.01887152323566843
+      ],
+      "confidence": 1,
+      "text": "WAS KALeR AT"
+    },
+    {
+      "box": [
+        0.36673721927152714,
+        0.4897591877664331,
+        0.30764997482299805,
+        0.02824106224862799
+      ],
+      "confidence": 1,
+      "text": "PORTeReS. THe REST RETURNED SAFeRY"
+    },
+    {
+      "box": [
+        0.25113243164363525,
+        0.48853565356832007,
+        0.5673768234252929,
+        0.05951573973098345
+      ],
+      "confidence": 1,
+      "text": "BILL WIZES WORTH FINISHED AS hE. COL. WASNORTH TZ.S.O I41 BATT."
+    },
+    {
+      "box": [
+        0.4527612429429354,
+        0.5147362874301122,
+        0.3024408721923828,
+        0.03408982119235604
+      ],
+      "confidence": 1,
+      "text": "He LEd HIS MEN ON AMDAC TAY 1965"
+    },
+    {
+      "box": [
+        0.14784394644376841,
+        0.5697674420750248,
+        0.2689938354492188,
+        0.021802325463737726
+      ],
+      "confidence": 1,
+      "text": "In Canberra 25 Years Ago"
+    },
+    {
+      "box": [
+        0.1437371721529417,
+        0.6030061892707559,
+        0.2751539993286133,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "(From The Canberra Times in the week ended"
+    },
+    {
+      "box": [
+        0.22381930177064824,
+        0.6131741820831682,
+        0.11909650802612304,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "December 20, 1933)"
+    },
+    {
+      "box": [
+        0.15811088705578455,
+        0.6351744188405409,
+        0.27104721069335935,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "\"The Minister for Health has appointed an"
+    },
+    {
+      "box": [
+        0.13141683910601223,
+        0.6436781611139132,
+        0.2977412605285644,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Advisory Committee of citizens for Canberra Hospi-"
+    },
+    {
+      "box": [
+        0.13757700962536099,
+        0.6555232559218064,
+        0.2874743270874024,
+        0.008932977519553909
+      ],
+      "confidence": 1,
+      "text": "al. They are Messrs. F. P. Sommerville, chairman"
+    },
+    {
+      "box": [
+        0.13757700075539092,
+        0.6642441863443519,
+        0.2895277214050293,
+        0.010380040007708424
+      ],
+      "confidence": 1,
+      "text": "C. H. McFadyen, T. W. White, W. G. Piper and"
+    },
+    {
+      "box": [
+        0.13347023085265936,
+        0.6744186047745845,
+        0.1683778190612793,
+        0.010373614300256517
+      ],
+      "confidence": 1,
+      "text": "Colonel J. T. H. Goodwin."
+    },
+    {
+      "box": [
+        0.31006160592366966,
+        0.6728558797974148,
+        0.12114989280700683,
+        0.010283654817535681
+      ],
+      "confidence": 1,
+      "text": "The committee will"
+    },
+    {
+      "box": [
+        0.1334702358804815,
+        0.6830238727127825,
+        0.2977412605285645,
+        0.010290080524987588
+      ],
+      "confidence": 1,
+      "text": "advise the Minister on the internal administration"
+    },
+    {
+      "box": [
+        0.13757701608268832,
+        0.6947674418714188,
+        0.289527702331543,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "of the hospital and services which the hospital car"
+    },
+    {
+      "box": [
+        0.1355236166481994,
+        0.7020335987543022,
+        0.1252566719055176,
+        0.011629191465234445
+      ],
+      "confidence": 1,
+      "text": "render to the public.\""
+    },
+    {
+      "box": [
+        0.16016428418104092,
+        0.7135278512737434,
+        0.27104721069335935,
+        0.008855869451737108
+      ],
+      "confidence": 1,
+      "text": "\"The death has occurred at the age of 88 years"
+    },
+    {
+      "box": [
+        0.135523616527299,
+        0.7223695843935668,
+        0.2977412605285645,
+        0.011642043301745009
+      ],
+      "confidence": 1,
+      "text": "of George Blundell, who was born near the present"
+    },
+    {
+      "box": [
+        0.13552362322647746,
+        0.7325375776738428,
+        0.2977412605285644,
+        0.019009725906277586
+      ],
+      "confidence": 1,
+      "text": "site of the le ma stone cic Pee hear t Jobs"
+    },
+    {
+      "box": [
+        0.13552362351490302,
+        0.7427055703759796,
+        0.19712524414062502,
+        0.010201406099435872
+      ],
+      "confidence": 1,
+      "text": "reared in the old stone cottage"
+    },
+    {
+      "box": [
+        0.1375770155104075,
+        0.7484526967066316,
+        0.28336753845214846,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Church. He had lived all his life in Canberra.\""
+    },
+    {
+      "box": [
+        0.16016427199827155,
+        0.7601744189374402,
+        0.2731006050109863,
+        0.011708870068996124
+      ],
+      "confidence": 1,
+      "text": "From July 1, 1934, rents on Canberra city"
+    },
+    {
+      "box": [
+        0.13552361727165213,
+        0.770348837580851,
+        0.2977412605285645,
+        0.011702444361544106
+      ],
+      "confidence": 1,
+      "text": "leases will be reduced from 5 to 4 per cent. for two"
+    },
+    {
+      "box": [
+        0.13552361525715065,
+        0.7848837209411862,
+        0.034907596111297595,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "years."
+    },
+    {
+      "box": [
+        0.17864476138408034,
+        0.7805232561951921,
+        0.25667350769042974,
+        0.0116960186540922
+      ],
+      "confidence": 1,
+      "text": "Reappraisements of city leases will be held"
+    },
+    {
+      "box": [
+        0.1375770045088437,
+        0.7921511628959507,
+        0.05544147491455076,
+        0.010236105172640508
+      ],
+      "confidence": 1,
+      "text": "every 20-"
+    },
+    {
+      "box": [
+        0.1362352517650551,
+        0.7838654911814874,
+        0.29978496551513667,
+        0.029051398725029043
+      ],
+      "confidence": 1,
+      "text": "provided years instead of every 10 as originally"
+    },
+    {
+      "box": [
+        0.16837783316452565,
+        0.8094606541227075,
+        0.2669404411315918,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "The Canberra University Association is com-"
+    },
+    {
+      "box": [
+        0.14168378152027786,
+        0.8196286473593265,
+        0.28952772140502925,
+        0.01031321281885067
+      ],
+      "confidence": 1,
+      "text": "iling a roll of graduates in Canberra so that it may"
+    },
+    {
+      "box": [
+        0.14362902269794817,
+        0.8297978329749389,
+        0.2876914596557617,
+        0.010527941318447809
+      ],
+      "confidence": 1,
+      "text": "e possible for university people to meet on occasion"
+    },
+    {
+      "box": [
+        0.1373361328132051,
+        0.8370924888430237,
+        0.2325409698486328,
+        0.014239591165099097
+      ],
+      "confidence": 1,
+      "text": "to discuss matters of common interest.\""
+    },
+    {
+      "box": [
+        0.16427105687164562,
+        0.8633720931778152,
+        0.2731006050109863,
+        0.013285731763359121
+      ],
+      "confidence": 1,
+      "text": "These items are recalled to public interest with"
+    },
+    {
+      "box": [
+        0.13963039350922757,
+        0.8764534885110835,
+        0.12114989280700683,
+        0.011698589190037079
+      ],
+      "confidence": 1,
+      "text": "the compliments of-"
+    },
+    {
+      "box": [
+        0.13963039940526228,
+        0.895225463857618,
+        0.31006158828735353,
+        0.023430592396109673
+      ],
+      "confidence": 1,
+      "text": "WOODGERS & CALTHORPE LTD."
+    },
+    {
+      "box": [
+        0.21560575115398117,
+        0.919982316328829,
+        0.15400410652160645,
+        0.011703729840319976
+      ],
+      "confidence": 1,
+      "text": "Pioneers and Leaders"
+    },
+    {
+      "box": [
+        0.1577232662060905,
+        0.933213851311459,
+        0.27168453216552735,
+        0.017650118557148375
+      ],
+      "confidence": 1,
+      "text": "of Canberra Real Estate and Insurance"
+    },
+    {
+      "box": [
+        0.17453799286367833,
+        0.9520348839083702,
+        0.23819301605224608,
+        0.011714010719279133
+      ],
+      "confidence": 1,
+      "text": "Agents for P. & O., Orient, Shaw Savill, etc."
+    },
+    {
+      "box": [
+        0.642710488696527,
+        0.9534883722804633,
+        0.3388090133666992,
+        0.011627906408065325
+      ],
+      "confidence": 0.5,
+      "text": "SERGY M. BASTER ANa H.O. C-MCFRayBH."
+    },
+    {
+      "box": [
+        0.7289527766609374,
+        0.9708222811336537,
+        0.22587268829345697,
+        0.010282369760366561
+      ],
+      "confidence": 1,
+      "text": "STRENWERCK MORA. FRANCE"
+    },
+    {
+      "box": [
+        0.9137577011546782,
+        0.9811046512317065,
+        0.04517453670501714,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "1916"
+    }
+  ],
+  "text": "THE JOLLY BEGGARS FROM FLEMING TON PRESBYTERiAN CHURCH\nH. HILL, E. REWAR, FLEACH, C.CROWE, L. TOPHAM, E. NEWTON\nW. WARSWORTH, G. FYSH, C.MCFARYEN, W.TOPHAM, A. THAW.\nF. GLIDE. LANGUS, H.TIMISWER, E. OLIVER, G. WATSON. P. SmiTH\nAT LEAST lA SERVEO WITH THE 1?T ALF.\nJACK ANGUE WAS KILLED AT ANZAC 25/4/15.\nARMEe THAN SURVIYER THe hANDING AT ANDAC ArCA\nSERVED THROUGA\nSASHIPOLI• FRANCE AND RETURNER SAFELY. MICH WAS LIEUT. 7 BATT\nAND ARTEE SM. SE BATT. (ORIGINAL GIN).\nGEORGE WATSON WAS KILLER AS LIEUT. NEAR ARMENTERES AND 5.597 9. FISH\nWAS KALeR AT\nPORTeReS. THe REST RETURNED SAFeRY\nBILL WIZES WORTH FINISHED AS hE. COL. WASNORTH TZ.S.O I41 BATT.\nHe LEd HIS MEN ON AMDAC TAY 1965\nIn Canberra 25 Years Ago\n(From The Canberra Times in the week ended\nDecember 20, 1933)\n\"The Minister for Health has appointed an\nAdvisory Committee of citizens for Canberra Hospi-\nal. They are Messrs. F. P. Sommerville, chairman\nC. H. McFadyen, T. W. White, W. G. Piper and\nColonel J. T. H. Goodwin.\nThe committee will\nadvise the Minister on the internal administration\nof the hospital and services which the hospital car\nrender to the public.\"\n\"The death has occurred at the age of 88 years\nof George Blundell, who was born near the present\nsite of the le ma stone cic Pee hear t Jobs\nreared in the old stone cottage\nChurch. He had lived all his life in Canberra.\"\nFrom July 1, 1934, rents on Canberra city\nleases will be reduced from 5 to 4 per cent. for two\nyears.\nReappraisements of city leases will be held\nevery 20-\nprovided years instead of every 10 as originally\nThe Canberra University Association is com-\niling a roll of graduates in Canberra so that it may\ne possible for university people to meet on occasion\nto discuss matters of common interest.\"\nThese items are recalled to public interest with\nthe compliments of-\nWOODGERS & CALTHORPE LTD.\nPioneers and Leaders\nof Canberra Real Estate and Insurance\nAgents for P. & O., Orient, Shaw Savill, etc.\nSERGY M. BASTER ANa H.O. C-MCFRayBH.\nSTRENWERCK MORA. FRANCE\n1916",
+  "source_sha256": "1c7f0b3cab86b46f76b2ce60e9e9d30ea5581f25f38c57dbcdd930a07a49b65d",
+  "status": "machine-draft"
+}

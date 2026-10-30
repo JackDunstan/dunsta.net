@@ -1,0 +1,243 @@
+{
+  "candidate_names": [
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-127.jpg",
+  "lines": [
+    {
+      "box": [
+        0.5277207465860794,
+        0.18877099904863404,
+        0.16632442474365228,
+        0.010356907713845342
+      ],
+      "confidence": 1,
+      "text": "Parliament House,"
+    },
+    {
+      "box": [
+        0.5215605770962606,
+        0.19912790722151974,
+        0.09856262207031241,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "CANBERRA."
+    },
+    {
+      "box": [
+        0.6447638625845468,
+        0.1976744188137164,
+        0.06160163879394531,
+        0.013081394603671859
+      ],
+      "confidence": 0.5,
+      "text": "A.C.T."
+    },
+    {
+      "box": [
+        0.5256673518377777,
+        0.22369584449277802,
+        0.1519507122039795,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "June 9th. 1955."
+    },
+    {
+      "box": [
+        0.35318275786924475,
+        0.2586206896038309,
+        0.17864475250244144,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.3531827590566246,
+        0.2935455351101026,
+        0.3449691772460937,
+        0.011687022832302163
+      ],
+      "confidence": 1,
+      "text": "I would like to extend my heartiest"
+    },
+    {
+      "box": [
+        0.35318275791420417,
+        0.30668604668695565,
+        0.2874743270874024,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "congratulations on the honour"
+    },
+    {
+      "box": [
+        0.3511293707339287,
+        0.3183023874426578,
+        0.2607802772521973,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "conferred upon jou to-day•"
+    },
+    {
+      "box": [
+        0.3531827486771496,
+        0.3517441866371176,
+        0.334702262878418,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "It must be very gratifying to feel"
+    },
+    {
+      "box": [
+        0.35309379286107345,
+        0.3646433170615113,
+        0.04124567985534666,
+        0.010538946939294691
+      ],
+      "confidence": 1,
+      "text": "that"
+    },
+    {
+      "box": [
+        0.40246406718726035,
+        0.3648255815369392,
+        0.05133470058441164,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "after"
+    },
+    {
+      "box": [
+        0.45379877122763895,
+        0.3647214853517373,
+        0.21560573577880865,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "all these years, your"
+    },
+    {
+      "box": [
+        0.35318275446077396,
+        0.37645348865903216,
+        0.31622175216674797,
+        0.010372329243087397
+      ],
+      "confidence": 1,
+      "text": "services have been recognised by"
+    },
+    {
+      "box": [
+        0.3531827552240088,
+        0.38947833789204145,
+        0.10882956504821778,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "Her Majesty"
+    },
+    {
+      "box": [
+        0.4578503058604828,
+        0.3891617522051416,
+        0.11304681777954095,
+        0.009467193239247385
+      ],
+      "confidence": 1,
+      "text": "r the Queen•"
+    },
+    {
+      "box": [
+        0.48049281946520167,
+        0.42130857643513053,
+        0.16016426086425778,
+        0.013284446284583362
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.4825462046919429,
+        0.4680232560956932,
+        0.14989732742309575,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "(GEORGE MCLEAY)"
+    },
+    {
+      "box": [
+        0.5121736040069702,
+        0.4347579782900326,
+        0.2103486824035644,
+        0.05339750497347484
+      ],
+      "confidence": 0.5,
+      "text": "Smitten."
+    },
+    {
+      "box": [
+        0.36344969066005883,
+        0.504360465706885,
+        0.26899383544921873,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Mr. C. H. McFadyen, C.B.E•,"
+    },
+    {
+      "box": [
+        0.3696098586748597,
+        0.5188953489087249,
+        0.09034907341003418,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "secretary:"
+    },
+    {
+      "box": [
+        0.3696098648196241,
+        0.5290697674770389,
+        0.3367556381225586,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Irans ports"
+    },
+    {
+      "box": [
+        0.3613963059214504,
+        0.5421511632177861,
+        0.10472278594970702,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE•"
+    },
+    {
+      "box": [
+        0.490759753858306,
+        0.5421511628022356,
+        0.04517453670501709,
+        0.013081395446885358
+      ],
+      "confidence": 0.5,
+      "text": "C.1."
+    }
+  ],
+  "text": "Parliament House,\nCANBERRA.\nA.C.T.\nJune 9th. 1955.\nDear Mr. McFadyen,\nI would like to extend my heartiest\ncongratulations on the honour\nconferred upon jou to-day•\nIt must be very gratifying to feel\nthat\nafter\nall these years, your\nservices have been recognised by\nHer Majesty\nr the Queen•\nYours sincerely,\n(GEORGE MCLEAY)\nSmitten.\nMr. C. H. McFadyen, C.B.E•,\nsecretary:\nDepartment of Shipping & Irans ports\nMELBOURNE•\nC.1.",
+  "source_sha256": "815b957bac1795394d42544c7c4a7f6c8b6635b4bd42b2cba3a1d12426f82859",
+  "status": "machine-draft"
+}

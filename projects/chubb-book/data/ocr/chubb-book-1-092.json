@@ -1,0 +1,555 @@
+{
+  "candidate_names": [
+    "E.W",
+    "Hicks",
+    "Hickson"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-092.jpg",
+  "lines": [
+    {
+      "box": [
+        0.1232032859804904,
+        0.13081395361497294,
+        0.07597535610198974,
+        0.00446456096322001
+      ],
+      "confidence": 1,
+      "text": "UM M-SHANE"
+    },
+    {
+      "box": [
+        0.4086242307804951,
+        0.1293604650632143,
+        0.08213552474975588,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "MORGAN HOUSE"
+    },
+    {
+      "box": [
+        0.41889117520714353,
+        0.1409883720399585,
+        0.09856262207031247,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "255•259 ELIZABETH"
+    },
+    {
+      "box": [
+        0.4558521570163468,
+        0.15261627921050103,
+        0.03901437282562259,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "SYDNEY"
+    },
+    {
+      "box": [
+        0.44558521491680936,
+        0.16424418613879566,
+        0.05954825401306152,
+        0.007285433464826019
+      ],
+      "confidence": 1,
+      "text": "TELEM 6904"
+    },
+    {
+      "box": [
+        0.6078028793227814,
+        0.11482558145475208,
+        0.12731005668640138,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH"
+    },
+    {
+      "box": [
+        0.7330595477912522,
+        0.11482558142187127,
+        0.1252566719055176,
+        0.01028494029631144
+      ],
+      "confidence": 1,
+      "text": "OF AUSTRALIA"
+    },
+    {
+      "box": [
+        0.7227926093095562,
+        0.13793103441988896,
+        0.14168377876281746,
+        0.008871290980979052
+      ],
+      "confidence": 1,
+      "text": "DEPARTMENT OF AIR"
+    },
+    {
+      "box": [
+        0.7885010277897897,
+        0.14825581390042353,
+        0.03901437282562248,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "VICTORIA"
+    },
+    {
+      "box": [
+        0.8295687877157539,
+        0.14970930266298554,
+        0.04312114715576165,
+        0.00436046458681949
+      ],
+      "confidence": 1,
+      "text": "BARRACKS"
+    },
+    {
+      "box": [
+        0.8295687936623213,
+        0.1584302328955437,
+        0.05338808536529538,
+        0.00436046458681949
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.34907597936490975,
+        0.1962209305869722,
+        0.1622176551818847,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "10th June, 1955."
+    },
+    {
+      "box": [
+        0.7823408659320233,
+        0.20910698481966428,
+        0.13347022056579594,
+        0.013276735519962335
+      ],
+      "confidence": 1,
+      "text": "17th June, 1955."
+    },
+    {
+      "box": [
+        0.14373717697582397,
+        0.261627907325102,
+        0.2854209327697753,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "C. H. McFadyen, Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.14330301429589287,
+        0.2738307310333008,
+        0.09937421798706056,
+        0.011240955794627028
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.14373718155149104,
+        0.28470380207928425,
+        0.34496917724609377,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.14373716555930266,
+        0.29651162824945565,
+        0.2566735076904297,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Cnr. George Street North &"
+    },
+    {
+      "box": [
+        0.1416058310778535,
+        0.3079222079629308,
+        0.07202447891235353,
+        0.013516049170051336
+      ],
+      "confidence": 1,
+      "text": "SYDNEY."
+    },
+    {
+      "box": [
+        0.29979466210065525,
+        0.30813439434793155,
+        0.1293634510040283,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Hickson Road,"
+    },
+    {
+      "box": [
+        0.14373717005515657,
+        0.3430232558636669,
+        0.12731005668640138,
+        0.008877716688430959
+      ],
+      "confidence": 1,
+      "text": "Dear Charlie:"
+    },
+    {
+      "box": [
+        0.14168378548236832,
+        0.36627907008811844,
+        0.3757699966430664,
+        0.011705014897488986
+      ],
+      "confidence": 1,
+      "text": "May I add to the many you will already"
+    },
+    {
+      "box": [
+        0.14168378527628994,
+        0.37790697717387434,
+        0.16016426086425783,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "have received my"
+    },
+    {
+      "box": [
+        0.30390143711166656,
+        0.3779069770129566,
+        0.19301847457885746,
+        0.010245100994430545
+      ],
+      "confidence": 1,
+      "text": "sincere congratula-"
+    },
+    {
+      "box": [
+        0.14373716591227045,
+        0.3894783378891694,
+        0.36550308227539063,
+        0.011684452717964033
+      ],
+      "confidence": 1,
+      "text": "tions upon the richly deserved Honour"
+    },
+    {
+      "box": [
+        0.14373716759569852,
+        0.4009725906578667,
+        0.334702262878418,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "conferred on you by Her Majesty in"
+    },
+    {
+      "box": [
+        0.14373717333810163,
+        0.4111405834834255,
+        0.1786447525024414,
+        0.013278020577131344
+      ],
+      "confidence": 1,
+      "text": "Her Birthday List."
+    },
+    {
+      "box": [
+        0.1437371672854601,
+        0.43589743600528874,
+        0.12936345100402835,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Kind regards."
+    },
+    {
+      "box": [
+        0.5584930317606264,
+        0.26883456543107953,
+        0.03701804399490349,
+        0.008842496930973165
+      ],
+      "confidence": 1,
+      "text": "Dear"
+    },
+    {
+      "box": [
+        0.6036960997805518,
+        0.2514534885128238,
+        0.11293634414672848,
+        0.02906976728498356
+      ],
+      "confidence": 1,
+      "text": "Charles"
+    },
+    {
+      "box": [
+        0.6755646819059234,
+        0.29069767444512706,
+        0.21765913009643556,
+        0.01036333342129736
+      ],
+      "confidence": 1,
+      "text": "Please accept my heartiest"
+    },
+    {
+      "box": [
+        0.560574953090923,
+        0.300872093232321,
+        0.3963039016723633,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "congratulations on your inclusion in the Queen's"
+    },
+    {
+      "box": [
+        0.5605749504013781,
+        0.3138815207108798,
+        0.18275154113769532,
+        0.010246386051599554
+      ],
+      "confidence": 1,
+      "text": "birthday honours list."
+    },
+    {
+      "box": [
+        0.6754792096702735,
+        0.3368517631786132,
+        0.09462679862976076,
+        0.012342985070563417
+      ],
+      "confidence": 1,
+      "text": "I hope that"
+    },
+    {
+      "box": [
+        0.7720739255359814,
+        0.3372093025761833,
+        0.18480491638183594,
+        0.010270803402631756
+      ],
+      "confidence": 1,
+      "text": "the undoubted personal"
+    },
+    {
+      "box": [
+        0.5603578888030117,
+        0.347360309853758,
+        0.20779380798339842,
+        0.013201275091061615
+      ],
+      "confidence": 1,
+      "text": "pleasure which comes with"
+    },
+    {
+      "box": [
+        0.7740683205706261,
+        0.3485873999982194,
+        0.08430688858032231,
+        0.010674036887765137
+      ],
+      "confidence": 1,
+      "text": "this award"
+    },
+    {
+      "box": [
+        0.8603399793638227,
+        0.34872783799150875,
+        0.06371428966522208,
+        0.00893967305528287
+      ],
+      "confidence": 1,
+      "text": "will be"
+    },
+    {
+      "box": [
+        0.5605749535016006,
+        0.36030061894812326,
+        0.3963039016723632,
+        0.010338915648658409
+      ],
+      "confidence": 1,
+      "text": "increased by the very many congratulations which"
+    },
+    {
+      "box": [
+        0.5605749535016006,
+        0.3720930233610671,
+        0.3963039016723632,
+        0.0103119281832883
+      ],
+      "confidence": 1,
+      "text": "I am sure you will receive from your friends and"
+    },
+    {
+      "box": [
+        0.5605749527577237,
+        0.3837209304104856,
+        0.09240245819091797,
+        0.010174418212459013
+      ],
+      "confidence": 1,
+      "text": "associates."
+    },
+    {
+      "box": [
+        0.7002053427971842,
+        0.40697674444131615,
+        0.13347022056579594,
+        0.011679312067681025
+      ],
+      "confidence": 1,
+      "text": "Kindest regards,"
+    },
+    {
+      "box": [
+        0.7412731048865066,
+        0.4301503094295166,
+        0.13347022056579583,
+        0.011710155547771994
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.813141684746937,
+        0.44622093013451014,
+        0.06570841789245607,
+        0.026162790893770493
+      ],
+      "confidence": 1,
+      "text": "ka"
+    },
+    {
+      "box": [
+        0.8048527817515995,
+        0.47935826845866325,
+        0.11103365898132322,
+        0.015120672399653978
+      ],
+      "confidence": 1,
+      "text": "(E.W. Hicks)."
+    },
+    {
+      "box": [
+        0.33838438768104084,
+        0.49123773172516094,
+        0.16106632232666013,
+        0.01629240506523799
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.36755646727352853,
+        0.5159883715919442,
+        0.055441479682922346,
+        0.03197674536262329
+      ],
+      "confidence": 1,
+      "text": "Jan"
+    },
+    {
+      "box": [
+        0.3388090348229034,
+        0.5508399644136038,
+        0.1416837787628174,
+        0.016020499953751433
+      ],
+      "confidence": 1,
+      "text": "J. M. MoShane."
+    },
+    {
+      "box": [
+        0.5605749473632663,
+        0.5232558142668976,
+        0.23203285217285163,
+        0.011669031188721979
+      ],
+      "confidence": 0.5,
+      "text": "C.E. MoFadyen, Esq., C. B. Ee,"
+    },
+    {
+      "box": [
+        0.5603855559947496,
+        0.5338977530886456,
+        0.08468936920166015,
+        0.010930078204599236
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.5605749635900853,
+        0.5450581398192231,
+        0.30800819396972656,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.560574953683159,
+        0.55658709104078,
+        0.15811087608337404,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.560513432362501,
+        0.5680596822606818,
+        0.08225855827331541,
+        0.01068296103641908
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.519507187087715,
+        0.7718023259721467,
+        0.04106776237487797,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "FORTITER"
+    },
+    {
+      "box": [
+        0.49281314217865807,
+        0.7921511632688356,
+        0.12525667190551754,
+        0.011627906408065436
+      ],
+      "confidence": 0.5,
+      "text": "H.M.S.SUSSEX."
+    }
+  ],
+  "text": "UM M-SHANE\nMORGAN HOUSE\n255•259 ELIZABETH\nSYDNEY\nTELEM 6904\nCOMMONWEALTH\nOF AUSTRALIA\nDEPARTMENT OF AIR\nVICTORIA\nBARRACKS\nMELBOURNE.\n10th June, 1955.\n17th June, 1955.\nC. H. McFadyen, Esq., C.B.E.,\nSecretary,\nDepartment of Shipping & Transport,\nCnr. George Street North &\nSYDNEY.\nHickson Road,\nDear Charlie:\nMay I add to the many you will already\nhave received my\nsincere congratula-\ntions upon the richly deserved Honour\nconferred on you by Her Majesty in\nHer Birthday List.\nKind regards.\nDear\nCharles\nPlease accept my heartiest\ncongratulations on your inclusion in the Queen's\nbirthday honours list.\nI hope that\nthe undoubted personal\npleasure which comes with\nthis award\nwill be\nincreased by the very many congratulations which\nI am sure you will receive from your friends and\nassociates.\nKindest regards,\nYours sincerely,\nka\n(E.W. Hicks).\nYours sincerely,\nJan\nJ. M. MoShane.\nC.E. MoFadyen, Esq., C. B. Ee,\nSecretary,\nDepartment of Shipping and Transport,\n497 Collins Street,\nMELBOURNE.\nFORTITER\nH.M.S.SUSSEX.",
+  "source_sha256": "2e8153e3d5dc433ed99a8b766e2b2165e4f2797aab4c2bc3a8c9c9b606688533",
+  "status": "machine-draft"
+}

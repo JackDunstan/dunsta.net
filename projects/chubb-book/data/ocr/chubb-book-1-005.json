@@ -1,0 +1,213 @@
+{
+  "candidate_names": [
+    "Nore"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-005.jpg",
+  "lines": [
+    {
+      "box": [
+        0.7905544152913118,
+        0.12063953533104588,
+        0.16427104949951166,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "MRS J. ARmSTRONG"
+    },
+    {
+      "box": [
+        0.792607810340155,
+        0.13793103480296576,
+        0.1786447525024415,
+        0.016357206012378445
+      ],
+      "confidence": 1,
+      "text": "Nore oF SErATOR THe"
+    },
+    {
+      "box": [
+        0.7905544129704751,
+        0.15826702052832342,
+        0.1478439426422119,
+        0.016357206012378445
+      ],
+      "confidence": 1,
+      "text": "HaN N. ARmSTRONG"
+    },
+    {
+      "box": [
+        0.7864476412222692,
+        0.17587209309361274,
+        0.16837781906127924,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "MArISTeR FoR SUpPL"
+    },
+    {
+      "box": [
+        0.7879544038493601,
+        0.19602726999283782,
+        0.1674898910522461,
+        0.01974642118661407
+      ],
+      "confidence": 1,
+      "text": "Recerres A PHOTO oF"
+    },
+    {
+      "box": [
+        0.7864476358898125,
+        0.21927497823855358,
+        0.18891170501708987,
+        0.016357206012378334
+      ],
+      "confidence": 1,
+      "text": "Tite ShiP SHe LAUNCHeD"
+    },
+    {
+      "box": [
+        0.3161212870733398,
+        0.3368670629394974,
+        0.10697713851928708,
+        0.01667285028756138
+      ],
+      "confidence": 1,
+      "text": "HiP. Hey moUTH"
+    },
+    {
+      "box": [
+        0.31211498960306117,
+        0.3546511630594682,
+        0.09650923728942873,
+        0.010174418212459013
+      ],
+      "confidence": 1,
+      "text": "AFTeR-BRAS"
+    },
+    {
+      "box": [
+        0.318275154899151,
+        0.36773255807597605,
+        0.13552361488342285,
+        0.013081395446885136
+      ],
+      "confidence": 1,
+      "text": "CHAIRMAN. A.S.B."
+    },
+    {
+      "box": [
+        0.4866529791644008,
+        0.338662790979414,
+        0.057494864463806195,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "SENATOR"
+    },
+    {
+      "box": [
+        0.49281314329171094,
+        0.35029069787154876,
+        0.057494864463806195,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "ARNOLA"
+    },
+    {
+      "box": [
+        0.5092402468102536,
+        0.3604651163479857,
+        0.032854208946228036,
+        0.010174418212458791
+      ],
+      "confidence": 0.5,
+      "text": "AS.A"
+    },
+    {
+      "box": [
+        0.5846694897496709,
+        0.32575003328514507,
+        0.3462202835083008,
+        0.027961580865052182
+      ],
+      "confidence": 1,
+      "text": "Me ALPIN CHRIRMAN. RUST SHOP BUILDING BOARE"
+    },
+    {
+      "box": [
+        0.5845741346162495,
+        0.33778274687716925,
+        0.40182277679443357,
+        0.0272709941779693
+      ],
+      "confidence": 1,
+      "text": "Fr. RADFORE. SOr. DORECTOR PATRICIA STEOMSNIP CO ASh."
+    },
+    {
+      "box": [
+        0.5807592342553511,
+        0.3731657970818375,
+        0.2573681449890136,
+        0.019559984181856893
+      ],
+      "confidence": 1,
+      "text": "NE-MERRILPES SeCRETARY. A.S.B."
+    },
+    {
+      "box": [
+        0.2628336932956577,
+        0.6467727677179121,
+        0.41889114379882814,
+        0.020378394426232793
+      ],
+      "confidence": 1,
+      "text": "WHAT A FIELT HOSPITAL LOOKS WRE FROM bODO UP."
+    },
+    {
+      "box": [
+        0.28952772020281214,
+        0.9358974356632693,
+        0.46201232910156254,
+        0.014683959549449455
+      ],
+      "confidence": 1,
+      "text": "MRS HENMING. MARI. TOM ANA GRANAME MITH NOM I"
+    },
+    {
+      "box": [
+        0.29568789949605245,
+        0.9534883719505564,
+        0.503080062866211,
+        0.014681389435111325
+      ],
+      "confidence": 1,
+      "text": "STAYER FOR ONE MONTH IN MErRY SOUTH COUNTY TOWN. IRENANA"
+    },
+    {
+      "box": [
+        0.29568789883725727,
+        0.9708222809767767,
+        0.5030800628662109,
+        0.01464283519039944
+      ],
+      "confidence": 1,
+      "text": "THEY WERE MISTANT RELATIVES OF MY MATERNAL GRANUMOTHER"
+    },
+    {
+      "box": [
+        0.2997946721509197,
+        0.9840116279975176,
+        0.3983572769165039,
+        0.011627906408065325
+      ],
+      "confidence": 0.5,
+      "text": "NAnCE SICSSO NDS THEN LININE AN LONENARiCKLONE"
+    }
+  ],
+  "text": "MRS J. ARmSTRONG\nNore oF SErATOR THe\nHaN N. ARmSTRONG\nMArISTeR FoR SUpPL\nRecerres A PHOTO oF\nTite ShiP SHe LAUNCHeD\nHiP. Hey moUTH\nAFTeR-BRAS\nCHAIRMAN. A.S.B.\nSENATOR\nARNOLA\nAS.A\nMe ALPIN CHRIRMAN. RUST SHOP BUILDING BOARE\nFr. RADFORE. SOr. DORECTOR PATRICIA STEOMSNIP CO ASh.\nNE-MERRILPES SeCRETARY. A.S.B.\nWHAT A FIELT HOSPITAL LOOKS WRE FROM bODO UP.\nMRS HENMING. MARI. TOM ANA GRANAME MITH NOM I\nSTAYER FOR ONE MONTH IN MErRY SOUTH COUNTY TOWN. IRENANA\nTHEY WERE MISTANT RELATIVES OF MY MATERNAL GRANUMOTHER\nNAnCE SICSSO NDS THEN LININE AN LONENARiCKLONE",
+  "source_sha256": "ce5dae693f6ec8564c2d0e2087d315bd76af89b1a9efce58f9e8108f38deff37",
+  "status": "machine-draft"
+}

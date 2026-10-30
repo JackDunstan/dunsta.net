@@ -1,0 +1,363 @@
+{
+  "candidate_names": [
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-099.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4086242310789908,
+        0.15694076080545338,
+        0.08829568862915038,
+        0.019009725906277586
+      ],
+      "confidence": 1,
+      "text": "MOUSE OF REPRESE"
+    },
+    {
+      "box": [
+        0.2977412796359523,
+        0.1860465119148461,
+        0.3388090133666992,
+        0.010239960344147647
+      ],
+      "confidence": 1,
+      "text": "THE PARLIAMENT OF THE COMMONWEALTH."
+    },
+    {
+      "box": [
+        0.6098562723855394,
+        0.2063953488966126,
+        0.19712524414062504,
+        0.00890084898229404
+      ],
+      "confidence": 1,
+      "text": "FEDERAL MEMBERS' ROOMS,"
+    },
+    {
+      "box": [
+        0.6119096562937335,
+        0.21794871782557845,
+        0.19301847457885746,
+        0.0075154730327144925
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH BANK BUILDING."
+    },
+    {
+      "box": [
+        0.6735113009340787,
+        0.2281167109497293,
+        0.06981518745422366,
+        0.00444142824775029
+      ],
+      "confidence": 1,
+      "text": "PERTH, W.A."
+    },
+    {
+      "box": [
+        0.6427104782985973,
+        0.24270557004952908,
+        0.13552360534667962,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "15th June, 1955."
+    },
+    {
+      "box": [
+        0.22587269402288057,
+        0.3328488374936418,
+        0.1498973274230957,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.39835729863016794,
+        0.3488063659274879,
+        0.34907596588134765,
+        0.01020526169254965
+      ],
+      "confidence": 1,
+      "text": "Heartiest congratulations on receiving the"
+    },
+    {
+      "box": [
+        0.22792608413008225,
+        0.3677325583511999,
+        0.2813141632080078,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "C.B.E. from Her Majesty The Queen."
+    },
+    {
+      "box": [
+        0.4004106926236318,
+        0.3837209303378113,
+        0.3388090133666992,
+        0.01017827380557268
+      ],
+      "confidence": 1,
+      "text": "Personally I can say that this honour has"
+    },
+    {
+      "box": [
+        0.2279260908942441,
+        0.400972590488198,
+        0.5112936019897462,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "been well and truly earned and I am delighted to learn of your"
+    },
+    {
+      "box": [
+        0.22792607977811272,
+        0.41860465130178126,
+        0.20739219665527345,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "efforts being recognised."
+    },
+    {
+      "box": [
+        0.398357289912944,
+        0.43589743572903084,
+        0.17659137725830082,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "With kindest regards."
+    },
+    {
+      "box": [
+        0.4722792620141408,
+        0.4708222812582341,
+        0.13552361488342285,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.4554804660524104,
+        0.49406053439428455,
+        0.21018896102905277,
+        0.02932079190389958
+      ],
+      "confidence": 0.5,
+      "text": "den o Namiltoo"
+    },
+    {
+      "box": [
+        0.4558521602208383,
+        0.5216622458052204,
+        0.19301847457885735,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "(Len W. Hamilton, M.P.)"
+    },
+    {
+      "box": [
+        0.4332648928446534,
+        0.5334302328580478,
+        0.2505133438110352,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Parliamentary Under Secretary•"
+    },
+    {
+      "box": [
+        0.22792608757774147,
+        0.5928381964462311,
+        0.2156057357788086,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Mr. C.H. McFadyen, C.B.E.,"
+    },
+    {
+      "box": [
+        0.22792608213342425,
+        0.60300618909831,
+        0.3080082130432129,
+        0.014726368965668368
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.22792607910607124,
+        0.6162790698363578,
+        0.0903490734100342,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.3347022593051201,
+        0.6162790700227115,
+        0.032854208946228036,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "VIC."
+    },
+    {
+      "box": [
+        0.45995893044042885,
+        0.7033598581960269,
+        0.1540041065216065,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "\"Bona Vota\""
+    },
+    {
+      "box": [
+        0.4599589362674958,
+        0.7209302318083524,
+        0.1930184745788574,
+        0.03197674536262329
+      ],
+      "confidence": 0.5,
+      "text": "59 mangland"
+    },
+    {
+      "box": [
+        0.5359342919720566,
+        0.7500000004997629,
+        0.10266940116882328,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "/1. 6. 53"
+    },
+    {
+      "box": [
+        0.2644378585607765,
+        0.7931739703207491,
+        0.1639404106140137,
+        0.02900078231312342
+      ],
+      "confidence": 1,
+      "text": "many athers"
+    },
+    {
+      "box": [
+        0.4516440022258464,
+        0.7961314249037521,
+        0.18295429229736332,
+        0.025469708295125737
+      ],
+      "confidence": 1,
+      "text": "in expressing"
+    },
+    {
+      "box": [
+        0.32854209814923946,
+        0.809593023357893,
+        0.2505133438110351,
+        0.02470930185495057
+      ],
+      "confidence": 1,
+      "text": "congratulations"
+    },
+    {
+      "box": [
+        0.263828474433232,
+        0.8142692455957157,
+        0.38382076263427733,
+        0.04569967861833246
+      ],
+      "confidence": 1,
+      "text": "the necent honor bestowed"
+    },
+    {
+      "box": [
+        0.26488706265456186,
+        0.8517441867671799,
+        0.11293634414672854,
+        0.02761627824616364
+      ],
+      "confidence": 1,
+      "text": "were dese"
+    },
+    {
+      "box": [
+        0.38781692196359785,
+        0.8442514740644611,
+        0.20199781417846685,
+        0.020505237326381653
+      ],
+      "confidence": 1,
+      "text": "Tam sure i"
+    },
+    {
+      "box": [
+        0.31827515778027476,
+        0.8647214850218303,
+        0.12114989280700683,
+        0.0146389800188923
+      ],
+      "confidence": 1,
+      "text": "• deserved."
+    },
+    {
+      "box": [
+        0.41683778336660526,
+        0.8822674423659296,
+        0.10061601638793938,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "Regard."
+    },
+    {
+      "box": [
+        0.44353182592081,
+        0.8982558139563704,
+        0.08213552474975583,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "yours"
+    },
+    {
+      "box": [
+        0.5359342938629288,
+        0.8952254645534147,
+        0.10472278594970708,
+        0.020472209502067518
+      ],
+      "confidence": 0.5,
+      "text": "ser clady"
+    },
+    {
+      "box": [
+        0.4537499328927096,
+        0.9067897140872836,
+        0.19927631378173827,
+        0.02653685046127685
+      ],
+      "confidence": 1,
+      "text": "Ware Sandbach"
+    }
+  ],
+  "text": "MOUSE OF REPRESE\nTHE PARLIAMENT OF THE COMMONWEALTH.\nFEDERAL MEMBERS' ROOMS,\nCOMMONWEALTH BANK BUILDING.\nPERTH, W.A.\n15th June, 1955.\nDear Mr. McFadyen,\nHeartiest congratulations on receiving the\nC.B.E. from Her Majesty The Queen.\nPersonally I can say that this honour has\nbeen well and truly earned and I am delighted to learn of your\nefforts being recognised.\nWith kindest regards.\nYours sincerely,\nden o Namiltoo\n(Len W. Hamilton, M.P.)\nParliamentary Under Secretary•\nMr. C.H. McFadyen, C.B.E.,\nDepartment of Shipping and Transport,\nMELBOURNE.\nVIC.\n\"Bona Vota\"\n59 mangland\n/1. 6. 53\nmany athers\nin expressing\ncongratulations\nthe necent honor bestowed\nwere dese\nTam sure i\n• deserved.\nRegard.\nyours\nser clady\nWare Sandbach",
+  "source_sha256": "abac7e749567f38c9d9ed5fdca63e09924e18aaf7a0b899b13e04bf5101ecdc8",
+  "status": "machine-draft"
+}

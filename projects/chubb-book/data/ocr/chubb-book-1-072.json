@@ -1,0 +1,789 @@
+{
+  "candidate_names": [
+    "Demao",
+    "Loch Shiel",
+    "Mrs. Cameron-Head",
+    "Pipe Major MacLean",
+    "Piper Donald Lawrie",
+    "Piper Joh",
+    "Wemyss"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-072.jpg",
+  "lines": [
+    {
+      "box": [
+        0.45379877264861945,
+        0.08866279091799534,
+        0.1622176551818848,
+        0.01036461847846648
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIA HOUSE,"
+    },
+    {
+      "box": [
+        0.511293633534102,
+        0.10300618926442728,
+        0.2073921966552733,
+        0.013272880348455196
+      ],
+      "confidence": 1,
+      "text": "STRAND, LONDON, W.C.2"
+    },
+    {
+      "box": [
+        0.5619508645924942,
+        0.1185126418966932,
+        0.13482517242431646,
+        0.02750959995043789
+      ],
+      "confidence": 1,
+      "text": "18/8/52."
+    },
+    {
+      "box": [
+        0.31416838114727424,
+        0.1700581400647816,
+        0.2546201133728027,
+        0.02761627824616364
+      ],
+      "confidence": 0.5,
+      "text": "dear brante"
+    },
+    {
+      "box": [
+        0.4209445609355135,
+        0.20494186062155495,
+        0.3141683769226073,
+        0.03924418549744235
+      ],
+      "confidence": 0.5,
+      "text": "I comes not senio"
+    },
+    {
+      "box": [
+        0.296104501991872,
+        0.23149931755756947,
+        0.4536873245239258,
+        0.05444660743288399
+      ],
+      "confidence": 0.5,
+      "text": "Culture iris pare be tenni"
+    },
+    {
+      "box": [
+        0.29774127074828916,
+        0.28470380189073785,
+        0.11088295936584475,
+        0.01907526803796633
+      ],
+      "confidence": 1,
+      "text": "to dan"
+    },
+    {
+      "box": [
+        0.41002349724956505,
+        0.2697386044435255,
+        0.2864603996276855,
+        0.024800062811975554
+      ],
+      "confidence": 1,
+      "text": "to sende to you."
+    },
+    {
+      "box": [
+        0.4029020261605352,
+        0.3398926654060954,
+        0.29572687149047855,
+        0.04418174615483905
+      ],
+      "confidence": 1,
+      "text": "Hope you an a fi"
+    },
+    {
+      "box": [
+        0.30595483396422224,
+        0.4069767449508299,
+        0.3449691772460937,
+        0.030689037130745334
+      ],
+      "confidence": 0.5,
+      "text": "nich expertacono y"
+    },
+    {
+      "box": [
+        0.3048587409700659,
+        0.43056797851322126,
+        0.3007083511352539,
+        0.05114496839879157
+      ],
+      "confidence": 1,
+      "text": "You before Demao."
+    },
+    {
+      "box": [
+        0.41889117582015656,
+        0.47383721001403556,
+        0.24229978561401366,
+        0.04075164862378955
+      ],
+      "confidence": 0.5,
+      "text": "Your serenes"
+    },
+    {
+      "box": [
+        0.65503080428161,
+        0.3997093026450993,
+        0.08624229431152342,
+        0.020348836424917804
+      ],
+      "confidence": 1,
+      "text": "Seem"
+    },
+    {
+      "box": [
+        0.39589991133309715,
+        0.5533553340320622,
+        0.22653238296508788,
+        0.02092245761321565
+      ],
+      "confidence": 1,
+      "text": "HIGHLAND GATHERING AT"
+    },
+    {
+      "box": [
+        0.4558521562201024,
+        0.5726744184507725,
+        0.10677618026733399,
+        0.011627907251278824
+      ],
+      "confidence": 0.5,
+      "text": "GLENFINNAN"
+    },
+    {
+      "box": [
+        0.40862423324596114,
+        0.5944767442678365,
+        0.2053388023376465,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "LORD WEMYSS AS CHIEF"
+    },
+    {
+      "box": [
+        0.42299794807516167,
+        0.6061007957450046,
+        0.17659137725830076,
+        0.011631762001179324
+      ],
+      "confidence": 1,
+      "text": "FROM OUR SPECIAL CORRESPONDENT"
+    },
+    {
+      "box": [
+        0.47614440552614384,
+        0.6142445487027349,
+        0.14020215034484856,
+        0.012388696510321706
+      ],
+      "confidence": 1,
+      "text": "GLENFINNAN, AUG. 16"
+    },
+    {
+      "box": [
+        0.4086242336655628,
+        0.6250000001890306,
+        0.21765913009643556,
+        0.010278514588859422
+      ],
+      "confidence": 1,
+      "text": "Glenfinnan Highland Gathering, held beside"
+    },
+    {
+      "box": [
+        0.3981318940843464,
+        0.6331398215698394,
+        0.22840625762939454,
+        0.012272866819939998
+      ],
+      "confidence": 1,
+      "text": "Loch Shiel where the Jacobite standard was"
+    },
+    {
+      "box": [
+        0.39809459291213317,
+        0.6413819809034872,
+        0.22842748641967775,
+        0.011666100600670193
+      ],
+      "confidence": 1,
+      "text": "raised in 1745, had this year a special signifi-"
+    },
+    {
+      "box": [
+        0.39799802827806546,
+        0.6482119967088477,
+        0.23065956115722658,
+        0.01523292180608593
+      ],
+      "confidence": 1,
+      "text": "cance in that the chief of the Gathering, Lord"
+    },
+    {
+      "box": [
+        0.39811057808472855,
+        0.6578493112675029,
+        0.2305532836914062,
+        0.013327990665992329
+      ],
+      "confidence": 1,
+      "text": "Wemyss, is the direct descendant of the Lord"
+    },
+    {
+      "box": [
+        0.3983572925126782,
+        0.6715116278539119,
+        0.06160163879394531,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Elcho who"
+    },
+    {
+      "box": [
+        0.4616114993057729,
+        0.6662704861423651,
+        0.16712278366088867,
+        0.013317854398125384
+      ],
+      "confidence": 1,
+      "text": "was a prominent supporter of"
+    },
+    {
+      "box": [
+        0.39835729082183235,
+        0.6787790697143771,
+        0.03490759611129762,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Prinee"
+    },
+    {
+      "box": [
+        0.43326488848451933,
+        0.6787790697850311,
+        0.039014372825622534,
+        0.00436046500842624
+      ],
+      "confidence": 1,
+      "text": "Charte."
+    },
+    {
+      "box": [
+        0.4106776185676232,
+        0.6845930232511988,
+        0.014373716115951507,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "In"
+    },
+    {
+      "box": [
+        0.42915811123087394,
+        0.6845930231542996,
+        0.018480491638183605,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "his"
+    },
+    {
+      "box": [
+        0.44933561286741286,
+        0.6826229450457117,
+        0.08693936347961428,
+        0.010896533490492133
+      ],
+      "confidence": 1,
+      "text": "address to the"
+    },
+    {
+      "box": [
+        0.5379876824599384,
+        0.6816860465225815,
+        0.09034907341003418,
+        0.008853299337398979
+      ],
+      "confidence": 1,
+      "text": "Gathering, LoRD"
+    },
+    {
+      "box": [
+        0.398357291617191,
+        0.6991279069876978,
+        0.04312114715576171,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "brought"
+    },
+    {
+      "box": [
+        0.44969199222269424,
+        0.6904069767648295,
+        0.05338809013366702,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "mentioned"
+    },
+    {
+      "box": [
+        0.5029888696462119,
+        0.6900700779470019,
+        0.05151712894439697,
+        0.00794123928700785
+      ],
+      "confidence": 1,
+      "text": "that his"
+    },
+    {
+      "box": [
+        0.5564681724192674,
+        0.6918604654536833,
+        0.04722792148590094,
+        0.00436046458681949
+      ],
+      "confidence": 1,
+      "text": "ancestor"
+    },
+    {
+      "box": [
+        0.6036960997566113,
+        0.6889534883190281,
+        0.024640655517578103,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "had"
+    },
+    {
+      "box": [
+        0.44147844530050806,
+        0.6962209302435118,
+        0.1868583106994629,
+        0.008907274689745948
+      ],
+      "confidence": 1,
+      "text": "€5.000 as his tribute to the Prince's"
+    },
+    {
+      "box": [
+        0.4371743026552548,
+        0.7027780701045597,
+        0.19136445999145502,
+        0.011749579567070234
+      ],
+      "confidence": 1,
+      "text": "He escaped to France after Culloden,"
+    },
+    {
+      "box": [
+        0.4022090731032171,
+        0.7097165645056618,
+        0.22426610946655268,
+        0.01189513590144009
+      ],
+      "confidence": 1,
+      "text": "but was never pardoned for his share in the"
+    },
+    {
+      "box": [
+        0.4743326479022257,
+        0.7194767442938994,
+        0.041067762374877914,
+        0.008720930016852368
+      ],
+      "confidence": 0.5,
+      "text": "Wemyss"
+    },
+    {
+      "box": [
+        0.5174538002604459,
+        0.7194767441329817,
+        0.030800819396972656,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "who"
+    },
+    {
+      "box": [
+        0.5462012351740791,
+        0.7192749779942326,
+        0.08008213043212897,
+        0.004562231210561873
+      ],
+      "confidence": 1,
+      "text": "is chairman of"
+    },
+    {
+      "box": [
+        0.4003740015024718,
+        0.7221315182121384,
+        0.17666473388671877,
+        0.013585800622860855
+      ],
+      "confidence": 1,
+      "text": "rise National Trust for Scotland,"
+    },
+    {
+      "box": [
+        0.5770020543837062,
+        0.7252906976213539,
+        0.028747432231903125,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "also"
+    },
+    {
+      "box": [
+        0.6036960989352561,
+        0.7252906977667026,
+        0.024640655517578103,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "said"
+    },
+    {
+      "box": [
+        0.4004106789795207,
+        0.7354651162656455,
+        0.04312114715576171,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "that the"
+    },
+    {
+      "box": [
+        0.4455852177972385,
+        0.7338638374897485,
+        0.07802874565124507,
+        0.008868720445034284
+      ],
+      "confidence": 1,
+      "text": "trust had the"
+    },
+    {
+      "box": [
+        0.5236139635377675,
+        0.7340116278539119,
+        0.026694045066833483,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "care"
+    },
+    {
+      "box": [
+        0.5482546237115196,
+        0.7338638372492435,
+        0.03901437044143674,
+        0.004508255436608044
+      ],
+      "confidence": 1,
+      "text": "ot the"
+    },
+    {
+      "box": [
+        0.5872689942403503,
+        0.7325581394818189,
+        0.04106776237487786,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "historic"
+    },
+    {
+      "box": [
+        0.40009080107329226,
+        0.7378533818096776,
+        0.22849046707153325,
+        0.013989964593942972
+      ],
+      "confidence": 1,
+      "text": "memorial to the Jacobite cause on the shore"
+    },
+    {
+      "box": [
+        0.4004106792116106,
+        0.7484526965872507,
+        0.07186858177185057,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "of Loch Shiel."
+    },
+    {
+      "box": [
+        0.4105589510779458,
+        0.7567974452523101,
+        0.09057742118835455,
+        0.006518417918292108
+      ],
+      "confidence": 1,
+      "text": "In ideal weather"
+    },
+    {
+      "box": [
+        0.5010266941262783,
+        0.7543604650787831,
+        0.02258726835250857,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "the"
+    },
+    {
+      "box": [
+        0.402464070986884,
+        0.7616279069876978,
+        0.17453798294067385,
+        0.00892912234804677
+      ],
+      "confidence": 1,
+      "text": "was won by Piper Donald Lawrie."
+    },
+    {
+      "box": [
+        0.525558728015986,
+        0.7540044331834616,
+        0.10288664817810056,
+        0.016700436012814457
+      ],
+      "confidence": 0.5,
+      "text": "Pi Lavico of ban."
+    },
+    {
+      "box": [
+        0.4024640627663449,
+        0.7687886826636908,
+        0.22587268829345702,
+        0.010281084703197552
+      ],
+      "confidence": 1,
+      "text": "who gave a remarkably fine rendering of the"
+    },
+    {
+      "box": [
+        0.400410677544542,
+        0.7776162790322715,
+        0.020533881187438985,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "old"
+    },
+    {
+      "box": [
+        0.42094455951717646,
+        0.7790697673887957,
+        0.028747432231903125,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "tune,"
+    },
+    {
+      "box": [
+        0.45585215966984033,
+        0.7761627905961601,
+        0.09856262207031247,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "• MacKay's Banner"
+    },
+    {
+      "box": [
+        0.572845359117063,
+        0.774541812811747,
+        0.057594704627990656,
+        0.009055909174506827
+      ],
+      "confidence": 1,
+      "text": "Piper John"
+    },
+    {
+      "box": [
+        0.46611909811129804,
+        0.7833775418523085,
+        0.16427104949951177,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "from the Isle of Mull, was a"
+    },
+    {
+      "box": [
+        0.40246406748792896,
+        0.7906976745238578,
+        0.1478439426422119,
+        0.01036333342129725
+      ],
+      "confidence": 1,
+      "text": "close second, his tune being"
+    },
+    {
+      "box": [
+        0.5503080078040832,
+        0.7892441861543646,
+        0.07802874565124518,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "\"MacFarlanes"
+    },
+    {
+      "box": [
+        0.400410682322577,
+        0.797965116397604,
+        0.22792606353759765,
+        0.019011010963446595
+      ],
+      "confidence": 1,
+      "text": "Doned Mactath of Lewis, and Piper Joh"
+    },
+    {
+      "box": [
+        0.4045174542734145,
+        0.8139534882705787,
+        0.05954825401306152,
+        0.007267441821245946
+      ],
+      "confidence": 0.5,
+      "text": "MacFadyen"
+    },
+    {
+      "box": [
+        0.46817248281451357,
+        0.8125000001441901,
+        0.15811088562011716,
+        0.008896993810786902
+      ],
+      "confidence": 1,
+      "text": "played off a tie for hirst place"
+    },
+    {
+      "box": [
+        0.40451746335063193,
+        0.819628647265027,
+        0.197125244140625,
+        0.008859724623244247
+      ],
+      "confidence": 1,
+      "text": "Pipe Major MacLean being the winner."
+    },
+    {
+      "box": [
+        0.6098562635307957,
+        0.8183139534993258,
+        0.02258726835250857,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "The"
+    },
+    {
+      "box": [
+        0.40246407580306964,
+        0.8253757736588407,
+        0.2279260635375977,
+        0.010380040007708424
+      ],
+      "confidence": 1,
+      "text": "strathspey and reel competition was won by"
+    },
+    {
+      "box": [
+        0.40246406820091335,
+        0.8342175067114614,
+        0.09240245819091797,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "John MacFadyen."
+    },
+    {
+      "box": [
+        0.4147843944729522,
+        0.8415697674069643,
+        0.018480492830276474,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Mr."
+    },
+    {
+      "box": [
+        0.43531827187933514,
+        0.8399646331656021,
+        0.1971252632141114,
+        0.008872576038148172
+      ],
+      "confidence": 1,
+      "text": "and Mrs. Cameron-Head entertained a"
+    },
+    {
+      "box": [
+        0.49075975737941563,
+        0.8473837209411862,
+        0.1437371635437012,
+        0.008938118169836806
+      ],
+      "confidence": 1,
+      "text": "for the Gathering, including"
+    },
+    {
+      "box": [
+        0.40451745639077147,
+        0.8545534926667775,
+        0.11909650802612298,
+        0.010272088459800766
+      ],
+      "confidence": 1,
+      "text": "Lord and Lady Wemyss"
+    },
+    {
+      "box": [
+        0.1498973303779743,
+        0.8924418608143307,
+        0.20123203277587892,
+        0.016046202783559282
+      ],
+      "confidence": 1,
+      "text": "JOHN dREDGiE ANG DORiS"
+    },
+    {
+      "box": [
+        0.6960985598231553,
+        0.9069767443406058,
+        0.22587268829345697,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "MOTHER AND HER HEE HOGGiE"
+    }
+  ],
+  "text": "AUSTRALIA HOUSE,\nSTRAND, LONDON, W.C.2\n18/8/52.\ndear brante\nI comes not senio\nCulture iris pare be tenni\nto dan\nto sende to you.\nHope you an a fi\nnich expertacono y\nYou before Demao.\nYour serenes\nSeem\nHIGHLAND GATHERING AT\nGLENFINNAN\nLORD WEMYSS AS CHIEF\nFROM OUR SPECIAL CORRESPONDENT\nGLENFINNAN, AUG. 16\nGlenfinnan Highland Gathering, held beside\nLoch Shiel where the Jacobite standard was\nraised in 1745, had this year a special signifi-\ncance in that the chief of the Gathering, Lord\nWemyss, is the direct descendant of the Lord\nElcho who\nwas a prominent supporter of\nPrinee\nCharte.\nIn\nhis\naddress to the\nGathering, LoRD\nbrought\nmentioned\nthat his\nancestor\nhad\n€5.000 as his tribute to the Prince's\nHe escaped to France after Culloden,\nbut was never pardoned for his share in the\nWemyss\nwho\nis chairman of\nrise National Trust for Scotland,\nalso\nsaid\nthat the\ntrust had the\ncare\not the\nhistoric\nmemorial to the Jacobite cause on the shore\nof Loch Shiel.\nIn ideal weather\nthe\nwas won by Piper Donald Lawrie.\nPi Lavico of ban.\nwho gave a remarkably fine rendering of the\nold\ntune,\n• MacKay's Banner\nPiper John\nfrom the Isle of Mull, was a\nclose second, his tune being\n\"MacFarlanes\nDoned Mactath of Lewis, and Piper Joh\nMacFadyen\nplayed off a tie for hirst place\nPipe Major MacLean being the winner.\nThe\nstrathspey and reel competition was won by\nJohn MacFadyen.\nMr.\nand Mrs. Cameron-Head entertained a\nfor the Gathering, including\nLord and Lady Wemyss\nJOHN dREDGiE ANG DORiS\nMOTHER AND HER HEE HOGGiE",
+  "source_sha256": "1c23fa2ec61fefdddcc7399f4e488a7716070cfee26cc42957394b2d52a12e07",
+  "status": "machine-draft"
+}

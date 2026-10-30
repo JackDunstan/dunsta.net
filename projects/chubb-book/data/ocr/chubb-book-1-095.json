@@ -1,0 +1,633 @@
+{
+  "candidate_names": [
+    "Mior"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-095.jpg",
+  "lines": [
+    {
+      "box": [
+        0.06981519554234979,
+        0.10319767442149086,
+        0.05133470058441161,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Copy/"
+    },
+    {
+      "box": [
+        0.22587269146994474,
+        0.08267020312166118,
+        0.531827507019043,
+        0.04523677303135443
+      ],
+      "confidence": 0.5,
+      "text": "Expression by fan if Indon Mride f"
+    },
+    {
+      "box": [
+        0.7515400431033333,
+        0.08267020294632355,
+        0.09034907341003418,
+        0.016357206012378334
+      ],
+      "confidence": 1,
+      "text": "- Customa"
+    },
+    {
+      "box": [
+        0.5400410672715686,
+        0.13660477415514483,
+        0.14168377876281746,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "T.&C. \"09/3311"
+    },
+    {
+      "box": [
+        0.2484599734912534,
+        0.16133720955032782,
+        0.47227924346923833,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Tariff Administration - Exemption Machine Tools,"
+    },
+    {
+      "box": [
+        0.3059548398779798,
+        0.17285587992926266,
+        0.34496917724609377,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Tools of Trade, and Minor Articles."
+    },
+    {
+      "box": [
+        0.1273100686951811,
+        0.20778072496615752,
+        0.1601642608642578,
+        0.014602995888518655
+      ],
+      "confidence": 1,
+      "text": "Tariff Item 166."
+    },
+    {
+      "box": [
+        0.34496921694117605,
+        0.20778072516040558,
+        0.4250513076782227,
+        0.0116960186540922
+      ],
+      "confidence": 1,
+      "text": "Machine Tools as prescribed by Departmental"
+    },
+    {
+      "box": [
+        0.1682626709029143,
+        0.22057452056221205,
+        0.07004549980163574,
+        0.012339330583837183
+      ],
+      "confidence": 1,
+      "text": "By-laws"
+    },
+    {
+      "box": [
+        0.3244353196256587,
+        0.22093023271063106,
+        0.05133470058441164,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Free."
+    },
+    {
+      "box": [
+        0.12731006829477046,
+        0.24270557026270745,
+        0.1601642608642578,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "Tariff Item 168."
+    },
+    {
+      "box": [
+        0.3470225946520501,
+        0.24270557043999808,
+        0.41478439331054684,
+        0.011654894295042295
+      ],
+      "confidence": 1,
+      "text": "Tools of Trade for the use of artisans and"
+    },
+    {
+      "box": [
+        0.16837782113556288,
+        0.25581395377531124,
+        0.1293634510040283,
+        0.010322209062247456
+      ],
+      "confidence": 1,
+      "text": "mechanics and"
+    },
+    {
+      "box": [
+        0.2997946713398206,
+        0.2558139536758123,
+        0.2094455718994141,
+        0.011648469009197027
+      ],
+      "confidence": 1,
+      "text": "tools in general use"
+    },
+    {
+      "box": [
+        0.5112936324864154,
+        0.2541998232328251,
+        0.2874743270874024,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "as prescribed by Departmental"
+    },
+    {
+      "box": [
+        0.1682982984014609,
+        0.2686068380363631,
+        0.0720276355743408,
+        0.010751440080259966
+      ],
+      "confidence": 1,
+      "text": "By -laws"
+    },
+    {
+      "box": [
+        0.32435270622033513,
+        0.2672295307617921,
+        0.051499924659729024,
+        0.010599078170816845
+      ],
+      "confidence": 1,
+      "text": "Free."
+    },
+    {
+      "box": [
+        0.12936345470985297,
+        0.29069767432597593,
+        0.158110876083374,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Tariff Item 434."
+    },
+    {
+      "box": [
+        0.3449692023091008,
+        0.2891246684978829,
+        0.40451744079589846,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Minor articles prescribed by Departmental"
+    },
+    {
+      "box": [
+        0.17043121429501418,
+        0.302325581582789,
+        0.18891170501708987,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "By-laws for use in"
+    },
+    {
+      "box": [
+        0.3593429231513114,
+        0.2992926612471335,
+        0.47022586822509754,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "the manufacture of goods within the Commonwealth"
+    },
+    {
+      "box": [
+        0.2381930272171678,
+        0.3589743589902725,
+        0.5133470153808594,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "The powers exercised by the Minister under the above"
+    },
+    {
+      "box": [
+        0.1293634738701475,
+        0.3720930234432541,
+        0.49897327423095705,
+        0.011638187708631231
+      ],
+      "confidence": 1,
+      "text": "authorities seem to me to be of special importance"
+    },
+    {
+      "box": [
+        0.6303901417017534,
+        0.3704686120270084,
+        0.14168377876281746,
+        0.010345341356110538
+      ],
+      "confidence": 1,
+      "text": "and I think it"
+    },
+    {
+      "box": [
+        0.13141683609526367,
+        0.38226744214220476,
+        0.6796714782714843,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "desirable to place on record my opinion as to the proper course to be"
+    },
+    {
+      "box": [
+        0.13141686315447956,
+        0.3952254643680424,
+        0.5236139297485352,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "observed in carrying out the intention of Parliament."
+    },
+    {
+      "box": [
+        0.2381930222816001,
+        0.41860465135023084,
+        0.34086242675781253,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "The Ministerial power in the above"
+    },
+    {
+      "box": [
+        0.5790554455438968,
+        0.41715116288123866,
+        0.1622176551818848,
+        0.011672886781835867
+      ],
+      "confidence": 1,
+      "text": "regard is purely"
+    },
+    {
+      "box": [
+        0.1314168426462475,
+        0.43147656955295277,
+        0.25462011337280277,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "discretionary and in every"
+    },
+    {
+      "box": [
+        0.3963039089973067,
+        0.4287790699220013,
+        0.24845994949340822,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "case must be supported by"
+    },
+    {
+      "box": [
+        0.6468172521686373,
+        0.4287790697939644,
+        0.11498972892761228,
+        0.010174418212458791
+      ],
+      "confidence": 1,
+      "text": "substantial"
+    },
+    {
+      "box": [
+        0.13141684715761645,
+        0.44164456226846593,
+        0.35523612976074215,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "reasons for favorable consideration."
+    },
+    {
+      "box": [
+        0.23809780706747957,
+        0.4633935209684886,
+        0.5833855438232423,
+        0.016633358389587127
+      ],
+      "confidence": 1,
+      "text": "The mere fact that Machine Tools, Minor Articles, or Tools"
+    },
+    {
+      "box": [
+        0.1314168433586356,
+        0.4796511632688355,
+        0.1786447525024414,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "of Trade, are not,"
+    },
+    {
+      "box": [
+        0.3100616053689883,
+        0.47656940773943446,
+        0.24640655517578125,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "and are not likely to be"
+    },
+    {
+      "box": [
+        0.5626283425290848,
+        0.4765694074331679,
+        0.1519507122039795,
+        0.010349196949224204
+      ],
+      "confidence": 1,
+      "text": "manufactured in"
+    },
+    {
+      "box": [
+        0.7205928910361002,
+        0.4747028628155978,
+        0.10090867042541507,
+        0.014257065075672815
+      ],
+      "confidence": 1,
+      "text": "Australia,"
+    },
+    {
+      "box": [
+        0.1314168469318117,
+        0.48837209348668154,
+        0.47433261871337895,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "is in itself no sufficient reason for exemption."
+    },
+    {
+      "box": [
+        0.23819303713193407,
+        0.5114942527743566,
+        0.5646817016601562,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "On the other hand the fact that any of these articles are"
+    },
+    {
+      "box": [
+        0.13338328549864698,
+        0.5227964635449831,
+        0.5627895355224609,
+        0.014065794771904505
+      ],
+      "confidence": 1,
+      "text": "cormercially manufactured in Australia must, unless under"
+    },
+    {
+      "box": [
+        0.698151952022883,
+        0.5216622457649983,
+        0.08624229431152342,
+        0.010314498297626429
+      ],
+      "confidence": 1,
+      "text": "the most"
+    },
+    {
+      "box": [
+        0.1312626440687005,
+        0.5328959136299252,
+        0.6717269134521484,
+        0.017462569353962065
+      ],
+      "confidence": 1,
+      "text": "exceptional circumstances, debar their inclusion in the Exempt list."
+    },
+    {
+      "box": [
+        0.5749486625419812,
+        0.5565870910698497,
+        0.23819301605224608,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "1imn must. necessarily be"
+    },
+    {
+      "box": [
+        0.7309673659039528,
+        0.5696126082861981,
+        0.08015972137451166,
+        0.010484085791306996
+      ],
+      "confidence": 1,
+      "text": "may only"
+    },
+    {
+      "box": [
+        0.34907597531052575,
+        0.6031976743811086,
+        0.026694045066833483,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "-2-"
+    },
+    {
+      "box": [
+        0.11014663974131061,
+        0.6515719501569882,
+        0.6688171386718749,
+        0.03996167237731241
+      ],
+      "confidence": 1,
+      "text": "intrease the number of factories, I then consider that an application"
+    },
+    {
+      "box": [
+        0.1081665689677171,
+        0.6624861875336099,
+        0.6913035583496094,
+        0.04376264718862688
+      ],
+      "confidence": 1,
+      "text": "for exemption should receive serious and perhaps favorable consideratio"
+    },
+    {
+      "box": [
+        0.179606384261305,
+        0.6890894007547681,
+        0.14391898155212404,
+        0.020991000741272248
+      ],
+      "confidence": 1,
+      "text": "Mior Articles."
+    },
+    {
+      "box": [
+        0.36699534899818576,
+        0.6974521174380076,
+        0.3997238159179687,
+        0.028071202818636953
+      ],
+      "confidence": 1,
+      "text": "A similar course should be observed with"
+    },
+    {
+      "box": [
+        0.10942831193574777,
+        0.7012372377944242,
+        0.05995340824127195,
+        0.014641234771431644
+      ],
+      "confidence": 1,
+      "text": "these,"
+    },
+    {
+      "box": [
+        0.17196330578949315,
+        0.6992753380516463,
+        0.44304847717285156,
+        0.03326599161567989
+      ],
+      "confidence": 1,
+      "text": "as ndicated above in regard to Machine Tools."
+    },
+    {
+      "box": [
+        0.18391807594081244,
+        0.7248496914769847,
+        0.5786445999145508,
+        0.037271123560628006
+      ],
+      "confidence": 1,
+      "text": "Whst at time of exemption the articles in question may not"
+    },
+    {
+      "box": [
+        0.1081830753843191,
+        0.7343789911050888,
+        0.6421972656249999,
+        0.03666096087792192
+      ],
+      "confidence": 1,
+      "text": "be commerally manufactured in the Commonwealth care must be taken"
+    },
+    {
+      "box": [
+        0.10811297685220018,
+        0.7463362077948906,
+        0.5064604187011719,
+        0.033314951956535666
+      ],
+      "confidence": 1,
+      "text": "to exercisa periodical revision to remove them from"
+    },
+    {
+      "box": [
+        0.61117504641378,
+        0.766400563409412,
+        0.11857342720031738,
+        0.01593988116708711
+      ],
+      "confidence": 1,
+      "text": "the list as"
+    },
+    {
+      "box": [
+        0.10840068557718503,
+        0.7586981019099156,
+        0.22685401916503906,
+        0.018317393767528056
+      ],
+      "confidence": 1,
+      "text": "soon as its ascertained"
+    },
+    {
+      "box": [
+        0.3422276335528789,
+        0.767025864716123,
+        0.4079401397705079,
+        0.02853347683880414
+      ],
+      "confidence": 1,
+      "text": "that they are so manufactured unless very"
+    },
+    {
+      "box": [
+        0.10819177330313309,
+        0.7704402808422071,
+        0.6688024139404296,
+        0.038222996773285556
+      ],
+      "confidence": 1,
+      "text": "special reons such as outlined above may be adduced in justification"
+    },
+    {
+      "box": [
+        0.10882957032211266,
+        0.7847038022462581,
+        0.1642710494995117,
+        0.014714802607933564
+      ],
+      "confidence": 1,
+      "text": "of their rention."
+    },
+    {
+      "box": [
+        0.24435318864211752,
+        0.8748894781520373,
+        0.3839835739135742,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "But if it is proposed to estauriou a \"-"
+    },
+    {
+      "box": [
+        0.13948248360679805,
+        0.8835337404490414,
+        0.6573638916015624,
+        0.01675359639944385
+      ],
+      "confidence": 1,
+      "text": "Commonwealth or it is shown an industry already established has vuu"
+    },
+    {
+      "box": [
+        0.13739257128446533,
+        0.8941428645600255,
+        0.6595333862304686,
+        0.019712410175515838
+      ],
+      "confidence": 1,
+      "text": "little Tariff assistance, or if the exemption would tend largely to"
+    }
+  ],
+  "text": "Copy/\nExpression by fan if Indon Mride f\n- Customa\nT.&C. \"09/3311\nTariff Administration - Exemption Machine Tools,\nTools of Trade, and Minor Articles.\nTariff Item 166.\nMachine Tools as prescribed by Departmental\nBy-laws\nFree.\nTariff Item 168.\nTools of Trade for the use of artisans and\nmechanics and\ntools in general use\nas prescribed by Departmental\nBy -laws\nFree.\nTariff Item 434.\nMinor articles prescribed by Departmental\nBy-laws for use in\nthe manufacture of goods within the Commonwealth\nThe powers exercised by the Minister under the above\nauthorities seem to me to be of special importance\nand I think it\ndesirable to place on record my opinion as to the proper course to be\nobserved in carrying out the intention of Parliament.\nThe Ministerial power in the above\nregard is purely\ndiscretionary and in every\ncase must be supported by\nsubstantial\nreasons for favorable consideration.\nThe mere fact that Machine Tools, Minor Articles, or Tools\nof Trade, are not,\nand are not likely to be\nmanufactured in\nAustralia,\nis in itself no sufficient reason for exemption.\nOn the other hand the fact that any of these articles are\ncormercially manufactured in Australia must, unless under\nthe most\nexceptional circumstances, debar their inclusion in the Exempt list.\n1imn must. necessarily be\nmay only\n-2-\nintrease the number of factories, I then consider that an application\nfor exemption should receive serious and perhaps favorable consideratio\nMior Articles.\nA similar course should be observed with\nthese,\nas ndicated above in regard to Machine Tools.\nWhst at time of exemption the articles in question may not\nbe commerally manufactured in the Commonwealth care must be taken\nto exercisa periodical revision to remove them from\nthe list as\nsoon as its ascertained\nthat they are so manufactured unless very\nspecial reons such as outlined above may be adduced in justification\nof their rention.\nBut if it is proposed to estauriou a \"-\nCommonwealth or it is shown an industry already established has vuu\nlittle Tariff assistance, or if the exemption would tend largely to",
+  "source_sha256": "183826bb0e12ddc0ded2cd2712f03aed247433be8a075d964af5e88086d7beea",
+  "status": "machine-draft"
+}

@@ -1,0 +1,366 @@
+{
+  "candidate_names": [
+    "BRAGG",
+    "HORMAN",
+    "KHON",
+    "REF"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-044.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2172315257691632,
+        0.13239275127194128,
+        0.5387664413452149,
+        0.03614281638336858
+      ],
+      "confidence": 1,
+      "text": "GIBSON, BATTLE & CO. LTD."
+    },
+    {
+      "box": [
+        0.39425051736305844,
+        0.17151162838511458,
+        0.14989732742309575,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "535 KENT STREET."
+    },
+    {
+      "box": [
+        0.45379877046850203,
+        0.19186046559441694,
+        0.12114989280700683,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "SYDNEY, N.S.W."
+    },
+    {
+      "box": [
+        0.6981519499149306,
+        0.17727674618747535,
+        0.13141682624816897,
+        0.004420866489832087
+      ],
+      "confidence": 1,
+      "text": "ADDRESS ALL MAIL MATTER"
+    },
+    {
+      "box": [
+        0.7002053397700597,
+        0.18459302332732963,
+        0.12936345100402824,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "BOX 1595 BB. G.P.O."
+    },
+    {
+      "box": [
+        0.7166324468703879,
+        0.19622093048575984,
+        0.09856262207031252,
+        0.008907274689746059
+      ],
+      "confidence": 1,
+      "text": "SYDNEY. N.S.W."
+    },
+    {
+      "box": [
+        0.13757700658789887,
+        0.1773255815718353,
+        0.05544147491455079,
+        0.0029069763912130675
+      ],
+      "confidence": 1,
+      "text": "TELEGRAMS"
+    },
+    {
+      "box": [
+        0.21355236216309428,
+        0.18313953506020741,
+        0.04517453193664553,
+        0.0029069763912130675
+      ],
+      "confidence": 1,
+      "text": "STONET"
+    },
+    {
+      "box": [
+        0.13533790558237208,
+        0.20304341914755575,
+        0.068133225440979,
+        0.01542478910491707
+      ],
+      "confidence": 0.5,
+      "text": "OFFEND 2"
+    },
+    {
+      "box": [
+        0.2032854202556185,
+        0.2020335984469066,
+        0.05954825401306149,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "M 6661"
+    },
+    {
+      "box": [
+        0.14989733100930513,
+        0.21220930228088253,
+        0.028747432231903097,
+        0.002906976812819706
+      ],
+      "confidence": 1,
+      "text": "STORE"
+    },
+    {
+      "box": [
+        0.2135523620953141,
+        0.21220159157191398,
+        0.047227926254272495,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "(4 LINES)"
+    },
+    {
+      "box": [
+        0.13552361647008104,
+        0.22674418584348277,
+        0.13963038444519044,
+        0.014635124847385161
+      ],
+      "confidence": 1,
+      "text": "DEPOT } MA 4218"
+    },
+    {
+      "box": [
+        0.14579055409915384,
+        0.23401162781896323,
+        0.03080082178115845,
+        0.005813953625639412
+      ],
+      "confidence": 1,
+      "text": "ROOM"
+    },
+    {
+      "box": [
+        0.20123203433305087,
+        0.26878868273318113,
+        0.05133470058441164,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "YOUR REF."
+    },
+    {
+      "box": [
+        0.6229986829107904,
+        0.24872774505339357,
+        0.24415304183959952,
+        0.031708519191050555
+      ],
+      "confidence": 1,
+      "text": "Dare Anguel 288 1933."
+    },
+    {
+      "box": [
+        0.36704618853041254,
+        0.3129659874034405,
+        0.4324949645996094,
+        0.03777943956019292
+      ],
+      "confidence": 1,
+      "text": "This is ad-a bromess tallis trt a"
+    },
+    {
+      "box": [
+        0.1449224832102213,
+        0.37844334266478885,
+        0.6795774841308594,
+        0.04571429656523729
+      ],
+      "confidence": 1,
+      "text": "son for meeling he? Lies crop in the has you did and"
+    },
+    {
+      "box": [
+        0.13844280239800674,
+        0.41258339705424296,
+        0.694822540283203,
+        0.052887018542707054
+      ],
+      "confidence": 1,
+      "text": "for giving hun so much allenkon then he toas at"
+    },
+    {
+      "box": [
+        0.14290513449418768,
+        0.4449366831431393,
+        0.7207859039306641,
+        0.04869186172013151
+      ],
+      "confidence": 1,
+      "text": "Cauberra: AND for the trouble you look on my accond."
+    },
+    {
+      "box": [
+        0.1470588298754022,
+        0.4832007080092571,
+        0.7117646789550781,
+        0.041998231653403995
+      ],
+      "confidence": 1,
+      "text": "Shaud locali kin for me i Cauberda the Dwalie"
+    },
+    {
+      "box": [
+        0.14676395864943978,
+        0.5190089170167834,
+        0.515604019165039,
+        0.04929530905159463
+      ],
+      "confidence": 1,
+      "text": "to get into touch both him bs telephone."
+    },
+    {
+      "box": [
+        0.14713573097786117,
+        0.5518102465110077,
+        0.6813893127441406,
+        0.04267020187580306
+      ],
+      "confidence": 1,
+      "text": "He came back. ra pleased hits the was you had"
+    },
+    {
+      "box": [
+        0.13922457225207674,
+        0.5838414373643043,
+        0.7133199310302734,
+        0.03609785961957235
+      ],
+      "confidence": 1,
+      "text": "hatered thim then he was pulling befores or the"
+    },
+    {
+      "box": [
+        0.1428884003878715,
+        0.6122392103649075,
+        0.6915176391601563,
+        0.04524808052258611
+      ],
+      "confidence": 1,
+      "text": "mallers Conneded sikh the Smiding Machine Pools."
+    },
+    {
+      "box": [
+        0.14044105634449763,
+        0.6482664490901577,
+        0.689861831665039,
+        0.046259943306920404
+      ],
+      "confidence": 1,
+      "text": "I rather theike he mas be cadinbound to ene"
+    },
+    {
+      "box": [
+        0.13358576041180478,
+        0.6743139808560203,
+        0.7388025665283202,
+        0.05709849660318589
+      ],
+      "confidence": 1,
+      "text": "y te can frid, a reason for authen, hip lo Caubena!"
+    },
+    {
+      "box": [
+        0.14373718756625706,
+        0.7209302328851547,
+        0.6878849792480468,
+        0.02761627824616364
+      ],
+      "confidence": 1,
+      "text": "However, tankagon açan, for bery so costers"
+    },
+    {
+      "box": [
+        0.1971252680576957,
+        0.8313953490165779,
+        0.544147834777832,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "MA NAMES BRAGG WAS HERO OF HiS COmPANY iN AUSTRAMA."
+    },
+    {
+      "box": [
+        0.7370160324746435,
+        0.8308425189770297,
+        0.092703046798706,
+        0.014187054756360173
+      ],
+      "confidence": 1,
+      "text": "He was A"
+    },
+    {
+      "box": [
+        0.19902535040946653,
+        0.8501576369150853,
+        0.6450465393066405,
+        0.017691469740593546
+      ],
+      "confidence": 1,
+      "text": "CHARMING GENTLEMAN AND SO HAS HIS LICUTEMANT HORMAN LILAYCROP MHOM"
+    },
+    {
+      "box": [
+        0.2012320466671713,
+        0.8704686117827449,
+        0.6611909484863281,
+        0.016357206012378445
+      ],
+      "confidence": 1,
+      "text": "I GOT TO KHON VERY WELL. I LUNCHER ON SEVERITA OCCASIONS WITH MA BRAGG"
+    },
+    {
+      "box": [
+        0.19712524960316372,
+        0.8908045977085416,
+        0.6447638702392579,
+        0.020532611405080003
+      ],
+      "confidence": 1,
+      "text": "AT THE ROYAL SYDNEY YACHT SQUADRON, KIRRIBALI, THEY WERE EXPERIENCeS"
+    },
+    {
+      "box": [
+        0.19507188521958668,
+        0.909814323260218,
+        0.6057494735717774,
+        0.016057769141294087
+      ],
+      "confidence": 1,
+      "text": "TO REMEMBER. THe PARCE IS REDOLENT OF OND SYRNEy AT ATS BEST."
+    },
+    {
+      "box": [
+        0.7987679676162717,
+        0.9084302324808557,
+        0.051334700584411586,
+        0.026162790893770493
+      ],
+      "confidence": 0.5,
+      "text": "hut"
+    }
+  ],
+  "text": "GIBSON, BATTLE & CO. LTD.\n535 KENT STREET.\nSYDNEY, N.S.W.\nADDRESS ALL MAIL MATTER\nBOX 1595 BB. G.P.O.\nSYDNEY. N.S.W.\nTELEGRAMS\nSTONET\nOFFEND 2\nM 6661\nSTORE\n(4 LINES)\nDEPOT } MA 4218\nROOM\nYOUR REF.\nDare Anguel 288 1933.\nThis is ad-a bromess tallis trt a\nson for meeling he? Lies crop in the has you did and\nfor giving hun so much allenkon then he toas at\nCauberra: AND for the trouble you look on my accond.\nShaud locali kin for me i Cauberda the Dwalie\nto get into touch both him bs telephone.\nHe came back. ra pleased hits the was you had\nhatered thim then he was pulling befores or the\nmallers Conneded sikh the Smiding Machine Pools.\nI rather theike he mas be cadinbound to ene\ny te can frid, a reason for authen, hip lo Caubena!\nHowever, tankagon açan, for bery so costers\nMA NAMES BRAGG WAS HERO OF HiS COmPANY iN AUSTRAMA.\nHe was A\nCHARMING GENTLEMAN AND SO HAS HIS LICUTEMANT HORMAN LILAYCROP MHOM\nI GOT TO KHON VERY WELL. I LUNCHER ON SEVERITA OCCASIONS WITH MA BRAGG\nAT THE ROYAL SYDNEY YACHT SQUADRON, KIRRIBALI, THEY WERE EXPERIENCeS\nTO REMEMBER. THe PARCE IS REDOLENT OF OND SYRNEy AT ATS BEST.\nhut",
+  "source_sha256": "01362833673c58ee4557d372f8761454c75b45893835a9d6df5beae1481337d5",
+  "status": "machine-draft"
+}

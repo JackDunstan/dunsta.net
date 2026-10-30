@@ -1,0 +1,493 @@
+{
+  "candidate_names": [
+    "Association"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-100.jpg",
+  "lines": [
+    {
+      "box": [
+        0.205338814448046,
+        0.17587209330759523,
+        0.158110876083374,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Provisional Committee:"
+    },
+    {
+      "box": [
+        0.2217659153078114,
+        0.19319186550356993,
+        0.10677618026733396,
+        0.008843018036833072
+      ],
+      "confidence": 1,
+      "text": "M. R. C. STRADWICK"
+    },
+    {
+      "box": [
+        0.3039014415252887,
+        0.20348837226950978,
+        0.04106775760650633,
+        0.0029069763912130675
+      ],
+      "confidence": 1,
+      "text": "resident"
+    },
+    {
+      "box": [
+        0.2217659144893262,
+        0.20910698512189008,
+        0.08829568862915038,
+        0.008916270511536095
+      ],
+      "confidence": 1,
+      "text": "D. G. ANDERSON"
+    },
+    {
+      "box": [
+        0.22176591574385035,
+        0.21794871782297875,
+        0.07802874565124512,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "F. G. CUMMINS"
+    },
+    {
+      "box": [
+        0.22381930164950858,
+        0.22944297074603537,
+        0.07392197132110595,
+        0.004568657128817266
+      ],
+      "confidence": 1,
+      "text": "A. P. FLEMING"
+    },
+    {
+      "box": [
+        0.22171038905428223,
+        0.23526474222647298,
+        0.061712694168090804,
+        0.009121678130590838
+      ],
+      "confidence": 1,
+      "text": "C. V. CRAY"
+    },
+    {
+      "box": [
+        0.22381930371441847,
+        0.2440318304111726,
+        0.0780287456512451,
+        0.00887514615248608
+      ],
+      "confidence": 1,
+      "text": "Dr. I. G. SHARP"
+    },
+    {
+      "box": [
+        0.223819305728494,
+        0.2529069768035894,
+        0.08008213043212892,
+        0.008720930016852257
+      ],
+      "confidence": 0.5,
+      "text": "T-B-GOODALE,"
+    },
+    {
+      "box": [
+        0.2505133483736961,
+        0.2601744185031367,
+        0.09034907341003418,
+        0.007288004000770898
+      ],
+      "confidence": 0.5,
+      "text": "-Seorotesy Treasures"
+    },
+    {
+      "box": [
+        0.22381930204830652,
+        0.26889534900908063,
+        0.020533881187438957,
+        0.010174418212458902
+      ],
+      "confidence": 0.5,
+      "text": "W."
+    },
+    {
+      "box": [
+        0.24845995821858746,
+        0.26889534879971333,
+        0.05338809013366702,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Sumner"
+    },
+    {
+      "box": [
+        0.3552361497499647,
+        0.1061007955235348,
+        0.41067760467529285,
+        0.027620134260884277
+      ],
+      "confidence": 1,
+      "text": "Asociation of Second Division Officers"
+    },
+    {
+      "box": [
+        0.44353182838195676,
+        0.14098837248314755,
+        0.2505133438110351,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "Commonwealth Public Service"
+    },
+    {
+      "box": [
+        0.7227926100019241,
+        0.15552325609829287,
+        0.17659137725830076,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "409 Pascoe Vale Road,"
+    },
+    {
+      "box": [
+        0.7741273138273005,
+        0.16710875318876184,
+        0.13347022056579583,
+        0.011670316245890988
+      ],
+      "confidence": 1,
+      "text": "Strathmore, W.7."
+    },
+    {
+      "box": [
+        0.7289527767120049,
+        0.18604651180583454,
+        0.10472278594970708,
+        0.010239960344147647
+      ],
+      "confidence": 1,
+      "text": "33 The-Avenue,"
+    },
+    {
+      "box": [
+        0.7700205348419282,
+        0.2020335983837448,
+        0.12936345100402835,
+        0.010175703691234661
+      ],
+      "confidence": 1,
+      "text": "Blackburn, Victoria"
+    },
+    {
+      "box": [
+        0.7741273140497509,
+        0.22674418630178128,
+        0.13347022056579594,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "10th June, 1955."
+    },
+    {
+      "box": [
+        0.3160394017984589,
+        0.30630680250411113,
+        0.03527232646942141,
+        0.009479418146620788
+      ],
+      "confidence": 1,
+      "text": "Dear"
+    },
+    {
+      "box": [
+        0.36329818119230006,
+        0.29459493877223963,
+        0.13993341445922847,
+        0.024182215925869333
+      ],
+      "confidence": 1,
+      "text": "Mor. McFadyen,"
+    },
+    {
+      "box": [
+        0.3983572875583491,
+        0.33421750703042474,
+        0.4209445571899414,
+        0.014619702474929719
+      ],
+      "confidence": 1,
+      "text": "I am directed by the Committee of Management of the"
+    },
+    {
+      "box": [
+        0.31416837981865275,
+        0.3443854997182566,
+        0.5523613739013673,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "recently formed Second Division Officers' Association, Commonwealth"
+    },
+    {
+      "box": [
+        0.31416839673821995,
+        0.35897435890687424,
+        0.5215605545043945,
+        0.011665175595608201
+      ],
+      "confidence": 1,
+      "text": "Public Service, to extend on behalf of that Association and its"
+    },
+    {
+      "box": [
+        0.31622179188288796,
+        0.3704686119275096,
+        0.5359342575073243,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "members their very sincere congratulations on your appointment in"
+    },
+    {
+      "box": [
+        0.3182751548704175,
+        0.3822674421837414,
+        0.5071868515014648,
+        0.010305502054229643
+      ],
+      "confidence": 1,
+      "text": "the Birthday Honours List as a Commander of the Most Excellent"
+    },
+    {
+      "box": [
+        0.3162217723454882,
+        0.3938953489897008,
+        0.22997945785522467,
+        0.010174418212458791
+      ],
+      "confidence": 1,
+      "text": "Order of the British Empire."
+    },
+    {
+      "box": [
+        0.3963039038182189,
+        0.41715116300236255,
+        0.3408624267578124,
+        0.011672886360229229
+      ],
+      "confidence": 1,
+      "text": "My colleagues have asked me, in extending"
+    },
+    {
+      "box": [
+        0.7351129363265485,
+        0.41715116294700016,
+        0.0513347005844117,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "these"
+    },
+    {
+      "box": [
+        0.31622177954950276,
+        0.4273255815924789,
+        0.47843940734863283,
+        0.01166646065277721
+      ],
+      "confidence": 1,
+      "text": "congratulations, to say that they appreciate the fact that"
+    },
+    {
+      "box": [
+        0.3141683867521374,
+        0.43895348858375804,
+        0.4887063598632813,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "your distinguished service and its recognition by the Queen"
+    },
+    {
+      "box": [
+        0.314168381121851,
+        0.4504862954274984,
+        0.5051334762573243,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "has also made its contribution to the general prestige of the"
+    },
+    {
+      "box": [
+        0.3162217754704554,
+        0.4622093028037192,
+        0.5092402267456054,
+        0.011707585011827115
+      ],
+      "confidence": 1,
+      "text": "Service to which we all belong and for this the Public Service"
+    },
+    {
+      "box": [
+        0.31416837981865275,
+        0.47383720968356413,
+        0.5523613739013673,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "as well as the community which it serves should be grateful to you."
+    },
+    {
+      "box": [
+        0.3963039083571917,
+        0.49690539345855855,
+        0.29979465484619144,
+        0.013269024755341419
+      ],
+      "confidence": 1,
+      "text": "With every best wish for the future,"
+    },
+    {
+      "box": [
+        0.636060721088401,
+        0.5201189723952329,
+        0.07496346473693849,
+        0.012438237825186271
+      ],
+      "confidence": 1,
+      "text": "I remain,"
+    },
+    {
+      "box": [
+        0.6751326710285765,
+        0.5418382945055871,
+        0.13639034271240236,
+        0.01510783447616404
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.7104722792889592,
+        0.563953488794277,
+        0.1232032871246338,
+        0.02761627824616364
+      ],
+      "confidence": 1,
+      "text": "Der. Anden"
+    },
+    {
+      "box": [
+        0.7000899413710622,
+        0.5823848272213081,
+        0.16039506912231438,
+        0.021276856817891376
+      ],
+      "confidence": 1,
+      "text": "(D. G. Anderson) '"
+    },
+    {
+      "box": [
+        0.6529774222800002,
+        0.6016799291836569,
+        0.2156057357788086,
+        0.01169216348258506
+      ],
+      "confidence": 1,
+      "text": "Acting Secretary-Treasurer"
+    },
+    {
+      "box": [
+        0.6776180734392622,
+        0.6131741822613977,
+        0.1663244247436524,
+        0.010372329243087508
+      ],
+      "confidence": 1,
+      "text": "for and on behalf of"
+    },
+    {
+      "box": [
+        0.6529774189053087,
+        0.6250000001234217,
+        0.2238192939758301,
+        0.010278514588859422
+      ],
+      "confidence": 1,
+      "text": "the Committee of Management"
+    },
+    {
+      "box": [
+        0.3070555688053138,
+        0.6479655808049064,
+        0.23361667633056638,
+        0.023710898442356854
+      ],
+      "confidence": 1,
+      "text": "Mr. C. E. McFadyen, C.B.B.,"
+    },
+    {
+      "box": [
+        0.3547660098112095,
+        0.6655703900272094,
+        0.3417727279663086,
+        0.026417050922370233
+      ],
+      "confidence": 1,
+      "text": "Secretpartment of Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.4291581140700385,
+        0.6887709991187088,
+        0.1437371635437012,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Rialto Buildings,"
+    },
+    {
+      "box": [
+        0.4702258770117632,
+        0.702033598420082,
+        0.13347022056579594,
+        0.010175703691234661
+      ],
+      "confidence": 1,
+      "text": "497 Collins St.,"
+    },
+    {
+      "box": [
+        0.5174538023719589,
+        0.7122093028019761,
+        0.08624229431152342,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.6247849588059534,
+        0.7111506928039675,
+        0.038307971954345765,
+        0.013341846348014608
+      ],
+      "confidence": 1,
+      "text": "Vic."
+    }
+  ],
+  "text": "Provisional Committee:\nM. R. C. STRADWICK\nresident\nD. G. ANDERSON\nF. G. CUMMINS\nA. P. FLEMING\nC. V. CRAY\nDr. I. G. SHARP\nT-B-GOODALE,\n-Seorotesy Treasures\nW.\nSumner\nAsociation of Second Division Officers\nCommonwealth Public Service\n409 Pascoe Vale Road,\nStrathmore, W.7.\n33 The-Avenue,\nBlackburn, Victoria\n10th June, 1955.\nDear\nMor. McFadyen,\nI am directed by the Committee of Management of the\nrecently formed Second Division Officers' Association, Commonwealth\nPublic Service, to extend on behalf of that Association and its\nmembers their very sincere congratulations on your appointment in\nthe Birthday Honours List as a Commander of the Most Excellent\nOrder of the British Empire.\nMy colleagues have asked me, in extending\nthese\ncongratulations, to say that they appreciate the fact that\nyour distinguished service and its recognition by the Queen\nhas also made its contribution to the general prestige of the\nService to which we all belong and for this the Public Service\nas well as the community which it serves should be grateful to you.\nWith every best wish for the future,\nI remain,\nYours sincerely,\nDer. Anden\n(D. G. Anderson) '\nActing Secretary-Treasurer\nfor and on behalf of\nthe Committee of Management\nMr. C. E. McFadyen, C.B.B.,\nSecretpartment of Shipping and Transport,\nRialto Buildings,\n497 Collins St.,\nMELBOURNE.\nVic.",
+  "source_sha256": "43cf6038303d4556dccdcd23276ec2ccc0278f4c8f000792c966ef4a5db9ba7e",
+  "status": "machine-draft"
+}

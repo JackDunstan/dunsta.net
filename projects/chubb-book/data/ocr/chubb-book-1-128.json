@@ -1,0 +1,198 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.6051711440086365,
+      0.7992804497480392,
+      0.0936654657125473,
+      0.06625320017337799
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-128.jpg",
+  "lines": [
+    {
+      "box": [
+        0.13316537170831133,
+        0.11617271610942104,
+        0.12115861892700197,
+        0.028750712211737084
+      ],
+      "confidence": 1,
+      "text": "Dea mac-"
+    },
+    {
+      "box": [
+        0.5205052663953166,
+        0.08503145121737476,
+        0.23636920928955074,
+        0.03104651575063211
+      ],
+      "confidence": 1,
+      "text": "665° Ganges Square"
+    },
+    {
+      "box": [
+        0.5682622533067402,
+        0.11021525625789508,
+        0.26571790695190434,
+        0.027553947914184196
+      ],
+      "confidence": 1,
+      "text": "Landon 5. W. / 9/6/55."
+    },
+    {
+      "box": [
+        0.12213965962950482,
+        0.2022284433761461,
+        0.5666747665405274,
+        0.042549273274199884
+      ],
+      "confidence": 0.5,
+      "text": "That branj man pablo destrons senhas"
+    },
+    {
+      "box": [
+        0.1407632980226952,
+        0.17624250431309485,
+        0.7033356475830079,
+        0.06537562065900271
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Tar Th Pra fae ter paramo Benner agita"
+    },
+    {
+      "box": [
+        0.13658029754504653,
+        0.23765821698271117,
+        0.686093978881836,
+        0.0447654353107213
+      ],
+      "confidence": 1,
+      "text": "a gasa en a ter E vanes cares atrul me as a"
+    },
+    {
+      "box": [
+        0.6978262958219383,
+        0.24623153910512574,
+        0.1382103252410889,
+        0.032135886707525096
+      ],
+      "confidence": 1,
+      "text": "« all that"
+    },
+    {
+      "box": [
+        0.15727187470473752,
+        0.3571604904684267,
+        0.3012386322021484,
+        0.021594593105434212
+      ],
+      "confidence": 1,
+      "text": "hiendo who paw ya"
+    },
+    {
+      "box": [
+        0.12941547356983604,
+        0.3892341607259273,
+        0.5339468002319335,
+        0.05873095767883796
+      ],
+      "confidence": 0.5,
+      "text": "a heer of Para reado antes aray."
+    },
+    {
+      "box": [
+        0.18625983226376497,
+        0.4373515447701394,
+        0.21887317657470706,
+        0.019542685659663217
+      ],
+      "confidence": 0.5,
+      "text": "tsu alo yu au"
+    },
+    {
+      "box": [
+        0.17453798866910336,
+        0.48691860458536773,
+        0.08418890953063968,
+        0.013081395446885247
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "saber"
+    },
+    {
+      "box": [
+        0.2653786367886063,
+        0.45040096299394916,
+        0.4222555541992188,
+        0.048917401058288124
+      ],
+      "confidence": 0.5,
+      "text": "Gene yon ou The wan Stthe"
+    },
+    {
+      "box": [
+        0.1714041745983465,
+        0.4586947972363127,
+        0.6380097579956054,
+        0.07013000164487315
+      ],
+      "confidence": 1,
+      "text": "conta me. We lia en the centre o hander melly"
+    },
+    {
+      "box": [
+        0.17771734244945953,
+        0.5325691177189473,
+        0.15051888465881347,
+        0.03242001251031823
+      ],
+      "confidence": 1,
+      "text": "pline hook."
+    },
+    {
+      "box": [
+        0.7638603712170163,
+        0.5145348838189717,
+        0.06981519222259525,
+        0.024810828117013073
+      ],
+      "confidence": 1,
+      "text": "1 dona"
+    },
+    {
+      "box": [
+        0.23200280933066225,
+        0.5758065568872951,
+        0.36945678710937496,
+        0.04743432366247202
+      ],
+      "confidence": 1,
+      "text": "we ao mune than satafred -"
+    },
+    {
+      "box": [
+        0.7043121156179584,
+        0.6279069766667241,
+        0.07186858177185051,
+        0.013081395446885358
+      ],
+      "confidence": 0.5,
+      "text": "and"
+    },
+    {
+      "box": [
+        0.574362244563811,
+        0.6397363309242012,
+        0.19508481979370118,
+        0.04001485553070261
+      ],
+      "confidence": 0.5,
+      "text": "em time to"
+    }
+  ],
+  "text": "Dea mac-\n665° Ganges Square\nLandon 5. W. / 9/6/55.\nThat branj man pablo destrons senhas\nTar Th Pra fae ter paramo Benner agita\na gasa en a ter E vanes cares atrul me as a\n« all that\nhiendo who paw ya\na heer of Para reado antes aray.\ntsu alo yu au\nsaber\nGene yon ou The wan Stthe\nconta me. We lia en the centre o hander melly\npline hook.\n1 dona\nwe ao mune than satafred -\nand\nem time to",
+  "source_sha256": "a78dcb58019a7fa83d01e64f519d7323e523a7aef7769e4dbc7b8515a1ac8592",
+  "status": "machine-draft"
+}

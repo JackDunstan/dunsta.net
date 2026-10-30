@@ -1,0 +1,287 @@
+---
+type: "index"
+---
+
+# Artifacts
+
+Numbers identify book, scan and item: B01-S000-A01 is Book 1, scan 000, artifact 01. Whole-page records can be split during review. Edit captions and metadata in the corresponding page note’s artifacts field.
+
+- [[chubb-book-1-000|B01-S000-A01 — Telegram & Handwritten note — Book 1, scan 000]] · Telegram, Handwritten note · Caption: not mapped
+- [[chubb-book-1-001|B01-S001-A01 — Letter — Book 1, scan 001]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-002|B01-S002-A01 — Typed document, Photo & Handwritten note — Book 1, scan 002]] · Typed document, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-003|B01-S003-A01 — Photo & Handwritten note — Book 1, scan 003]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-004|B01-S004-A01 — Photo & Handwritten note — Book 1, scan 004]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-005|B01-S005-A01 — Photo & Handwritten note — Book 1, scan 005]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-006|B01-S006-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 006]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-007|B01-S007-A01 — Newspaper clipping & Handwritten note — Book 1, scan 007]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-1-008|B01-S008-A01 — Telegram, Newspaper clipping & Handwritten note — Book 1, scan 008]] · Telegram, Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-1-009|B01-S009-A01 — Newspaper clipping & Handwritten note — Book 1, scan 009]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-1-010|B01-S010-A01 — Canberra clergy — newspaper cutting]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-1-010|B01-S010-A02 — Canon F. G. Ward]] · Portrait photo · Caption: not mapped
+- [[chubb-book-1-010|B01-S010-A03 — A memorial site in Brussels]] · Photo · Caption: not mapped
+- [[chubb-book-1-011|B01-S011-A01 — Invitation, Greeting card & Handwritten note — Book 1, scan 011]] · Invitation, Greeting card, Handwritten note · Caption: not mapped
+- [[chubb-book-1-012|B01-S012-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 012]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-013|B01-S013-A01 — Invitation & Handwritten note — Book 1, scan 013]] · Invitation, Handwritten note · Caption: not mapped
+- [[chubb-book-1-014|B01-S014-A01 — Newspaper clipping, Typed document & Handwritten note — Book 1, scan 014]] · Newspaper clipping, Typed document, Handwritten note · Caption: not mapped
+- [[chubb-book-1-015|B01-S015-A01 — Invitation — Book 1, scan 015]] · Invitation · Caption: not mapped
+- [[chubb-book-1-016|B01-S016-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 016]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-017|B01-S017-A01 — Photo & Handwritten note — Book 1, scan 017]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-018|B01-S018-A01 — Photo & Handwritten note — Book 1, scan 018]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-019|B01-S019-A01 — Photo & Handwritten note — Book 1, scan 019]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-020|B01-S020-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 020]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-021|B01-S021-A01 — Greeting card & Handwritten note — Book 1, scan 021]] · Greeting card, Handwritten note · Caption: not mapped
+- [[chubb-book-1-022|B01-S022-A01 — Photo & Handwritten note — Book 1, scan 022]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-023|B01-S023-A01 — Letter, Photo & Handwritten note — Book 1, scan 023]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-024|B01-S024-A01 — Greeting card — Book 1, scan 024]] · Greeting card · Caption: not mapped
+- [[chubb-book-1-025|B01-S025-A01 — Letter & Handwritten note — Book 1, scan 025]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-026|B01-S026-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 026]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-027|B01-S027-A01 — Certificate, Photo & Handwritten note — Book 1, scan 027]] · Certificate, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-028|B01-S028-A01 — Invitation, Photo & Handwritten note — Book 1, scan 028]] · Invitation, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-029|B01-S029-A01 — Photo & Handwritten note — Book 1, scan 029]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-030|B01-S030-A01 — Newspaper clipping & Handwritten note — Book 1, scan 030]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-1-031|B01-S031-A01 — Photo & Handwritten note — Book 1, scan 031]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-032|B01-S032-A01 — Photo & Handwritten note — Book 1, scan 032]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-033|B01-S033-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 033]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-034|B01-S034-A01 — Photo & Handwritten note — Book 1, scan 034]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-035|B01-S035-A01 — Photo & Handwritten note — Book 1, scan 035]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-036|B01-S036-A01 — Photo & Handwritten note — Book 1, scan 036]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-037|B01-S037-A01 — Photo, Greeting card & Handwritten note — Book 1, scan 037]] · Photo, Greeting card, Handwritten note · Caption: not mapped
+- [[chubb-book-1-038|B01-S038-A01 — Photo & Handwritten note — Book 1, scan 038]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-039|B01-S039-A01 — Newspaper clipping & Handwritten note — Book 1, scan 039]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-1-040|B01-S040-A01 — Photo & Handwritten note — Book 1, scan 040]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-041|B01-S041-A01 — Photo & Handwritten note — Book 1, scan 041]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-042|B01-S042-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 042]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-043|B01-S043-A01 — Letter, Photo & Handwritten note — Book 1, scan 043]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-044|B01-S044-A01 — Letter & Handwritten note — Book 1, scan 044]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-045|B01-S045-A01 — Photo & Handwritten note — Book 1, scan 045]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-046|B01-S046-A01 — Photo & Handwritten note — Book 1, scan 046]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-047|B01-S047-A01 — Letter & Handwritten note — Book 1, scan 047]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-048|B01-S048-A01 — Photo & Handwritten note — Book 1, scan 048]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-049|B01-S049-A01 — Photo, Letter & Handwritten note — Book 1, scan 049]] · Photo, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-050|B01-S050-A01 — Photo & Handwritten note — Book 1, scan 050]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-051|B01-S051-A01 — Letter — Book 1, scan 051]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-052|B01-S052-A01 — Photo & Handwritten note — Book 1, scan 052]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-053|B01-S053-A01 — Letter & Handwritten note — Book 1, scan 053]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-054|B01-S054-A01 — Photo & Handwritten note — Book 1, scan 054]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-055|B01-S055-A01 — Photo & Handwritten note — Book 1, scan 055]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-056|B01-S056-A01 — Photo & Handwritten note — Book 1, scan 056]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-057|B01-S057-A01 — Typed document — Book 1, scan 057]] · Typed document · Caption: not mapped
+- [[chubb-book-1-058|B01-S058-A01 — Photo & Handwritten note — Book 1, scan 058]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-059|B01-S059-A01 — Letter, Photo & Handwritten note — Book 1, scan 059]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-060|B01-S060-A01 — Photo & Greeting card — Book 1, scan 060]] · Photo, Greeting card · Caption: not mapped
+- [[chubb-book-1-061|B01-S061-A01 — Letter, Newspaper clipping & Handwritten note — Book 1, scan 061]] · Typed document, Letter, Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-1-062|B01-S062-A01 — Letter & Handwritten note — Book 1, scan 062]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-063|B01-S063-A01 — Photo & Handwritten note — Book 1, scan 063]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-064|B01-S064-A01 — Letter, Photo & Handwritten note — Book 1, scan 064]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-065|B01-S065-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 065]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-066|B01-S066-A01 — Letter & Handwritten note — Book 1, scan 066]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-067|B01-S067-A01 — Letter & Handwritten note — Book 1, scan 067]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-068|B01-S068-A01 — Letter & Handwritten note — Book 1, scan 068]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-069|B01-S069-A01 — Photo & Handwritten note — Book 1, scan 069]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-070|B01-S070-A01 — Letter — Book 1, scan 070]] · Letter · Caption: not mapped
+- [[chubb-book-1-071|B01-S071-A01 — Letter & Handwritten note — Book 1, scan 071]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-072|B01-S072-A01 — Photo, Newspaper clipping, Letter & Handwritten note — Book 1, scan 072]] · Photo, Newspaper clipping, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-073|B01-S073-A01 — Typed document — Book 1, scan 073]] · Typed document · Caption: not mapped
+- [[chubb-book-1-074|B01-S074-A01 — Typed document — Book 1, scan 074]] · Typed document · Caption: not mapped
+- [[chubb-book-1-075|B01-S075-A01 — Typed document — Book 1, scan 075]] · Typed document · Caption: not mapped
+- [[chubb-book-1-076|B01-S076-A01 — Newspaper clipping & Handwritten note — Book 1, scan 076]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-1-077|B01-S077-A01 — Photo & Handwritten note — Book 1, scan 077]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-078|B01-S078-A01 — Certificate & Handwritten note — Book 1, scan 078]] · Certificate, Handwritten note · Caption: not mapped
+- [[chubb-book-1-079|B01-S079-A01 — Newspaper clipping & Handwritten note — Book 1, scan 079]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-1-080|B01-S080-A01 — Letter, Photo & Handwritten note — Book 1, scan 080]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-081|B01-S081-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 081]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-082|B01-S082-A01 — Letter & Handwritten note — Book 1, scan 082]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-083|B01-S083-A01 — Letter, Photo & Handwritten note — Book 1, scan 083]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-084|B01-S084-A01 — Photo & Handwritten note — Book 1, scan 084]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-085|B01-S085-A01 — Photo & Handwritten note — Book 1, scan 085]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-086|B01-S086-A01 — Newspaper clipping, Photo, Letter & Handwritten note — Book 1, scan 086]] · Newspaper clipping, Photo, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-087|B01-S087-A01 — Photo & Handwritten note — Book 1, scan 087]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-088|B01-S088-A01 — Letter & Handwritten note — Book 1, scan 088]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-089|B01-S089-A01 — Letter & Handwritten note — Book 1, scan 089]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-090|B01-S090-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 090]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-091|B01-S091-A01 — Printed material — Book 1, scan 091]] · Printed material · Caption: not mapped
+- [[chubb-book-1-092|B01-S092-A01 — Letter & Invitation — Book 1, scan 092]] · Typed document, Letter, Invitation · Caption: not mapped
+- [[chubb-book-1-093|B01-S093-A01 — Photo & Handwritten note — Book 1, scan 093]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-094|B01-S094-A01 — Letter — Book 1, scan 094]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-095|B01-S095-A01 — Typed document — Book 1, scan 095]] · Typed document · Caption: not mapped
+- [[chubb-book-1-096|B01-S096-A01 — Letter — Book 1, scan 096]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-097|B01-S097-A01 — Photo & Handwritten note — Book 1, scan 097]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-098|B01-S098-A01 — Letter — Book 1, scan 098]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-099|B01-S099-A01 — Letter & Handwritten note — Book 1, scan 099]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-100|B01-S100-A01 — Letter — Book 1, scan 100]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-101|B01-S101-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 101]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-102|B01-S102-A01 — Photo & Invitation — Book 1, scan 102]] · Photo, Invitation · Caption: not mapped
+- [[chubb-book-1-103|B01-S103-A01 — Letter, Photo & Handwritten note — Book 1, scan 103]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-104|B01-S104-A01 — Letter — Book 1, scan 104]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-105|B01-S105-A01 — Letter, Photo & Handwritten note — Book 1, scan 105]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-106|B01-S106-A01 — Photo & Handwritten note — Book 1, scan 106]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-107|B01-S107-A01 — Photo & Handwritten note — Book 1, scan 107]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-108|B01-S108-A01 — Photo, Letter, Greeting card & Handwritten note — Book 1, scan 108]] · Photo, Letter, Greeting card, Handwritten note · Caption: not mapped
+- [[chubb-book-1-109|B01-S109-A01 — Photo & Handwritten note — Book 1, scan 109]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-110|B01-S110-A01 — Photo & Handwritten note — Book 1, scan 110]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-111|B01-S111-A01 — Letter — Book 1, scan 111]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-112|B01-S112-A01 — Letter, Photo & Handwritten note — Book 1, scan 112]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-113|B01-S113-A01 — Letter & Photo — Book 1, scan 113]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-1-114|B01-S114-A01 — Letter & Photo — Book 1, scan 114]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-1-115|B01-S115-A01 — Letter, Photo & Handwritten note — Book 1, scan 115]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-116|B01-S116-A01 — Letter, Photo & Handwritten note — Book 1, scan 116]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-117|B01-S117-A01 — Letter, Photo & Handwritten note — Book 1, scan 117]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-118|B01-S118-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 118]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-119|B01-S119-A01 — Letter, Photo & Handwritten note — Book 1, scan 119]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-120|B01-S120-A01 — Letter, Photo & Handwritten note — Book 1, scan 120]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-121|B01-S121-A01 — Letter — Book 1, scan 121]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-122|B01-S122-A01 — Letter, Photo & Handwritten note — Book 1, scan 122]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-123|B01-S123-A01 — Letter & Invitation — Book 1, scan 123]] · Typed document, Letter, Invitation · Caption: not mapped
+- [[chubb-book-1-124|B01-S124-A01 — Letter & Handwritten note — Book 1, scan 124]] · Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-125|B01-S125-A01 — Letter & Handwritten note — Book 1, scan 125]] · Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-126|B01-S126-A01 — Letter — Book 1, scan 126]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-127|B01-S127-A01 — Letter — Book 1, scan 127]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-128|B01-S128-A01 — Letter, Photo & Handwritten note — Book 1, scan 128]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-129|B01-S129-A01 — Letter — Book 1, scan 129]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-130|B01-S130-A01 — Letter & Photo — Book 1, scan 130]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-1-131|B01-S131-A01 — Letter, Photo & Handwritten note — Book 1, scan 131]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-132|B01-S132-A01 — Newspaper clipping — Book 1, scan 132]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-1-133|B01-S133-A01 — Invitation & Letter — Book 1, scan 133]] · Invitation, Letter · Caption: not mapped
+- [[chubb-book-1-134|B01-S134-A01 — Letter, Photo & Handwritten note — Book 1, scan 134]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-135|B01-S135-A01 — Letter, Photo & Handwritten note — Book 1, scan 135]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-136|B01-S136-A01 — Letter & Photo — Book 1, scan 136]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-1-137|B01-S137-A01 — Letter & Photo — Book 1, scan 137]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-1-138|B01-S138-A01 — Letter — Book 1, scan 138]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-1-139|B01-S139-A01 — Letter, Photo & Handwritten note — Book 1, scan 139]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-140|B01-S140-A01 — Letter & Handwritten note — Book 1, scan 140]] · Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-141|B01-S141-A01 — Letter & Invitation — Book 1, scan 141]] · Typed document, Letter, Invitation · Caption: not mapped
+- [[chubb-book-1-142|B01-S142-A01 — Letter & Invitation — Book 1, scan 142]] · Typed document, Letter, Invitation · Caption: not mapped
+- [[chubb-book-1-143|B01-S143-A01 — Letter & Photo — Book 1, scan 143]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-1-144|B01-S144-A01 — Letter, Photo & Handwritten note — Book 1, scan 144]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-145|B01-S145-A01 — Printed material — Book 1, scan 145]] · Printed material · Caption: not mapped
+- [[chubb-book-1-146|B01-S146-A01 — Letter & Photo — Book 1, scan 146]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-1-147|B01-S147-A01 — Letter & Photo — Book 1, scan 147]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-1-148|B01-S148-A01 — Typed document & Printed material — Book 1, scan 148]] · Typed document, Printed material · Caption: not mapped
+- [[chubb-book-1-149|B01-S149-A01 — Newspaper clipping, Photo & Handwritten note — Book 1, scan 149]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-150|B01-S150-A01 — Letter, Photo & Handwritten note — Book 1, scan 150]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-151|B01-S151-A01 — Letter & Greeting card — Book 1, scan 151]] · Typed document, Letter, Greeting card · Caption: not mapped
+- [[chubb-book-1-152|B01-S152-A01 — Letter, Photo & Handwritten note — Book 1, scan 152]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-153|B01-S153-A01 — Letter, Photo & Handwritten note — Book 1, scan 153]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-154|B01-S154-A01 — Letter, Photo & Handwritten note — Book 1, scan 154]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-155|B01-S155-A01 — Letter & Handwritten note — Book 1, scan 155]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-156|B01-S156-A01 — Newspaper clipping & Handwritten note — Book 1, scan 156]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-1-157|B01-S157-A01 — Letter & Handwritten note — Book 1, scan 157]] · Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-1-158|B01-S158-A01 — Letter, Photo & Handwritten note — Book 1, scan 158]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-159|B01-S159-A01 — Newspaper clipping — Book 1, scan 159]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-1-160|B01-S160-A01 — Typed document — Book 1, scan 160]] · Typed document · Caption: not mapped
+- [[chubb-book-1-161|B01-S161-A01 — Photo & Handwritten note — Book 1, scan 161]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-1-162|B01-S162-A01 — Photo & Handwritten note — Book 1, scan 162]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-000|B02-S000-A01 — Printed material, Photo & Handwritten note — Book 2, scan 000]] · Printed material, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-001|B02-S001-A01 — Letter, Photo & Handwritten note — Book 2, scan 001]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-002|B02-S002-A01 — Letter & Photo — Book 2, scan 002]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-003|B02-S003-A01 — Newspaper clipping & Handwritten note — Book 2, scan 003]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-2-004|B02-S004-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 004]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-005|B02-S005-A01 — Newspaper clipping & Handwritten note — Book 2, scan 005]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-2-006|B02-S006-A01 — Printed material, Photo & Handwritten note — Book 2, scan 006]] · Printed material, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-007|B02-S007-A01 — Photo & Handwritten note — Book 2, scan 007]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-008|B02-S008-A01 — Photo, Invitation, Letter & Handwritten note — Book 2, scan 008]] · Photo, Invitation, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-2-009|B02-S009-A01 — Photo, Invitation, Letter & Handwritten note — Book 2, scan 009]] · Photo, Invitation, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-2-010|B02-S010-A01 — Photo & Handwritten note — Book 2, scan 010]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-011|B02-S011-A01 — Letter, Photo & Handwritten note — Book 2, scan 011]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-012|B02-S012-A01 — Letter — Book 2, scan 012]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-2-013|B02-S013-A01 — Photo & Handwritten note — Book 2, scan 013]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-014|B02-S014-A01 — Letter, Photo & Handwritten note — Book 2, scan 014]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-015|B02-S015-A01 — Photo & Handwritten note — Book 2, scan 015]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-016|B02-S016-A01 — Photo, Invitation & Printed material — Book 2, scan 016]] · Photo, Invitation, Printed material · Caption: not mapped
+- [[chubb-book-2-017|B02-S017-A01 — Photo, Letter & Handwritten note — Book 2, scan 017]] · Photo, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-2-018|B02-S018-A01 — Letter & Handwritten note — Book 2, scan 018]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-2-019|B02-S019-A01 — Photo & Handwritten note — Book 2, scan 019]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-020|B02-S020-A01 — Letter, Photo & Handwritten note — Book 2, scan 020]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-021|B02-S021-A01 — Letter, Greeting card & Handwritten note — Book 2, scan 021]] · Letter, Greeting card, Handwritten note · Caption: not mapped
+- [[chubb-book-2-022|B02-S022-A01 — Newspaper clipping, Letter & Invitation — Book 2, scan 022]] · Newspaper clipping, Letter, Invitation · Caption: not mapped
+- [[chubb-book-2-023|B02-S023-A01 — Photo & Handwritten note — Book 2, scan 023]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-024|B02-S024-A01 — Photo & Handwritten note — Book 2, scan 024]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-025|B02-S025-A01 — Photo & Handwritten note — Book 2, scan 025]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-026|B02-S026-A01 — Letter — Book 2, scan 026]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-2-027|B02-S027-A01 — Newspaper clipping & Handwritten note — Book 2, scan 027]] · Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-2-028|B02-S028-A01 — Letter & Photo — Book 2, scan 028]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-029|B02-S029-A01 — Letter & Handwritten note — Book 2, scan 029]] · Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-2-030|B02-S030-A01 — Letter — Book 2, scan 030]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-2-031|B02-S031-A01 — Letter — Book 2, scan 031]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-2-032|B02-S032-A01 — Photo, Invitation & Letter — Book 2, scan 032]] · Photo, Invitation, Letter · Caption: not mapped
+- [[chubb-book-2-033|B02-S033-A01 — Letter — Book 2, scan 033]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-2-034|B02-S034-A01 — Photo, Greeting card & Handwritten note — Book 2, scan 034]] · Photo, Greeting card, Handwritten note · Caption: not mapped
+- [[chubb-book-2-035|B02-S035-A01 — Greeting card, Photo & Handwritten note — Book 2, scan 035]] · Greeting card, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-036|B02-S036-A01 — Letter & Photo — Book 2, scan 036]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-037|B02-S037-A01 — Letter, Photo, Newspaper clipping & Handwritten note — Book 2, scan 037]] · Typed document, Letter, Photo, Newspaper clipping, Handwritten note · Caption: not mapped
+- [[chubb-book-2-038|B02-S038-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 038]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-039|B02-S039-A01 — Photo, Letter & Handwritten note — Book 2, scan 039]] · Photo, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-2-040|B02-S040-A01 — Letter, Photo & Handwritten note — Book 2, scan 040]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-041|B02-S041-A01 — Letter, Photo & Handwritten note — Book 2, scan 041]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-042|B02-S042-A01 — Letter — Book 2, scan 042]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-2-043|B02-S043-A01 — Telegram, Letter & Photo — Book 2, scan 043]] · Telegram, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-044|B02-S044-A01 — Telegram — Book 2, scan 044]] · Telegram · Caption: not mapped
+- [[chubb-book-2-045|B02-S045-A01 — Letter & Photo — Book 2, scan 045]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-046|B02-S046-A01 — Telegram — Book 2, scan 046]] · Telegram · Caption: not mapped
+- [[chubb-book-2-047|B02-S047-A01 — Telegram — Book 2, scan 047]] · Telegram · Caption: not mapped
+- [[chubb-book-2-048|B02-S048-A01 — Telegram — Book 2, scan 048]] · Telegram · Caption: not mapped
+- [[chubb-book-2-049|B02-S049-A01 — Telegram — Book 2, scan 049]] · Telegram · Caption: not mapped
+- [[chubb-book-2-050|B02-S050-A01 — Telegram — Book 2, scan 050]] · Telegram · Caption: not mapped
+- [[chubb-book-2-051|B02-S051-A01 — Typed document & Telegram — Book 2, scan 051]] · Typed document, Telegram · Caption: not mapped
+- [[chubb-book-2-052|B02-S052-A01 — Letter & Photo — Book 2, scan 052]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-053|B02-S053-A01 — Telegram, Photo & Handwritten note — Book 2, scan 053]] · Telegram, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-054|B02-S054-A01 — Typed document, Telegram & Photo — Book 2, scan 054]] · Typed document, Telegram, Photo · Caption: not mapped
+- [[chubb-book-2-055|B02-S055-A01 — Telegram & Letter — Book 2, scan 055]] · Telegram, Letter · Caption: not mapped
+- [[chubb-book-2-056|B02-S056-A01 — Typed document & Telegram — Book 2, scan 056]] · Typed document, Telegram · Caption: not mapped
+- [[chubb-book-2-057|B02-S057-A01 — Photo — Book 2, scan 057]] · Photo · Caption: not mapped
+- [[chubb-book-2-058|B02-S058-A01 — Telegram, Newspaper clipping, Photo & Handwritten note — Book 2, scan 058]] · Telegram, Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-059|B02-S059-A01 — Letter, Photo & Handwritten note — Book 2, scan 059]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-060|B02-S060-A01 — Photo & Handwritten note — Book 2, scan 060]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-061|B02-S061-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 061]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-062|B02-S062-A01 — Photo, Letter, Invitation & Handwritten note — Book 2, scan 062]] · Photo, Letter, Invitation, Handwritten note · Caption: not mapped
+- [[chubb-book-2-063|B02-S063-A01 — Letter, Photo & Newspaper clipping — Book 2, scan 063]] · Typed document, Letter, Photo, Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-064|B02-S064-A01 — Newspaper clipping — Book 2, scan 064]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-065|B02-S065-A01 — Newspaper clipping — Book 2, scan 065]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-066|B02-S066-A01 — Typed document — Book 2, scan 066]] · Typed document · Caption: not mapped
+- [[chubb-book-2-067|B02-S067-A01 — Newspaper clipping — Book 2, scan 067]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-068|B02-S068-A01 — Newspaper clipping, Letter & Handwritten note — Book 2, scan 068]] · Newspaper clipping, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-2-069|B02-S069-A01 — Newspaper clipping — Book 2, scan 069]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-070|B02-S070-A01 — Newspaper clipping — Book 2, scan 070]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-071|B02-S071-A01 — Typed document — Book 2, scan 071]] · Typed document · Caption: not mapped
+- [[chubb-book-2-072|B02-S072-A01 — Newspaper clipping — Book 2, scan 072]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-073|B02-S073-A01 — Typed document — Book 2, scan 073]] · Typed document · Caption: not mapped
+- [[chubb-book-2-074|B02-S074-A01 — Letter, Photo & Handwritten note — Book 2, scan 074]] · Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-075|B02-S075-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 075]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-076|B02-S076-A01 — Letter & Photo — Book 2, scan 076]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-077|B02-S077-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 077]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-078|B02-S078-A01 — Letter & Handwritten note — Book 2, scan 078]] · Typed document, Letter, Handwritten note · Caption: not mapped
+- [[chubb-book-2-079|B02-S079-A01 — Letter & Photo — Book 2, scan 079]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-080|B02-S080-A01 — Letter — Book 2, scan 080]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-2-081|B02-S081-A01 — Invitation & Letter — Book 2, scan 081]] · Invitation, Letter · Caption: not mapped
+- [[chubb-book-2-082|B02-S082-A01 — Invitation — Book 2, scan 082]] · Invitation · Caption: not mapped
+- [[chubb-book-2-083|B02-S083-A01 — Photo & Handwritten note — Book 2, scan 083]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-084|B02-S084-A01 — Letter, Photo & Handwritten note — Book 2, scan 084]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-085|B02-S085-A01 — Letter & Photo — Book 2, scan 085]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-086|B02-S086-A01 — Photo & Handwritten note — Book 2, scan 086]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-087|B02-S087-A01 — Printed material — Book 2, scan 087]] · Printed material · Caption: not mapped
+- [[chubb-book-2-088|B02-S088-A01 — Photo & Handwritten note — Book 2, scan 088]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-089|B02-S089-A01 — Photo & Handwritten note — Book 2, scan 089]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-090|B02-S090-A01 — Letter — Book 2, scan 090]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-2-091|B02-S091-A01 — Photo & Handwritten note — Book 2, scan 091]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-092|B02-S092-A01 — Photo & Handwritten note — Book 2, scan 092]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-093|B02-S093-A01 — Photo & Handwritten note — Book 2, scan 093]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-094|B02-S094-A01 — Letter, Photo & Handwritten note — Book 2, scan 094]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-095|B02-S095-A01 — Printed material, Newspaper clipping, Photo & Handwritten note — Book 2, scan 095]] · Printed material, Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-096|B02-S096-A01 — Letter & Photo — Book 2, scan 096]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-097|B02-S097-A01 — Photo & Handwritten note — Book 2, scan 097]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-098|B02-S098-A01 — Letter, Photo & Handwritten note — Book 2, scan 098]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-099|B02-S099-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 099]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-100|B02-S100-A01 — Photo & Handwritten note — Book 2, scan 100]] · Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-101|B02-S101-A01 — Letter — Book 2, scan 101]] · Typed document, Letter · Caption: not mapped
+- [[chubb-book-2-102|B02-S102-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 102]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-103|B02-S103-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 103]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-104|B02-S104-A01 — Letter, Photo & Handwritten note — Book 2, scan 104]] · Typed document, Letter, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-105|B02-S105-A01 — Letter & Photo — Book 2, scan 105]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-106|B02-S106-A01 — Letter & Photo — Book 2, scan 106]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-107|B02-S107-A01 — Letter, Photo & Newspaper clipping — Book 2, scan 107]] · Typed document, Letter, Photo, Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-108|B02-S108-A01 — Newspaper clipping — Book 2, scan 108]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-109|B02-S109-A01 — Letter & Photo — Book 2, scan 109]] · Typed document, Letter, Photo · Caption: not mapped
+- [[chubb-book-2-110|B02-S110-A01 — Newspaper clipping — Book 2, scan 110]] · Newspaper clipping · Caption: not mapped
+- [[chubb-book-2-111|B02-S111-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 111]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-112|B02-S112-A01 — Newspaper clipping, Photo & Handwritten note — Book 2, scan 112]] · Newspaper clipping, Photo, Handwritten note · Caption: not mapped
+- [[chubb-book-2-113|B02-S113-A01 — Photo & Handwritten note — Book 2, scan 113]] · Photo, Handwritten note · Caption: not mapped

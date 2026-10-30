@@ -1,0 +1,271 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-052.jpg",
+  "lines": [
+    {
+      "box": [
+        0.41889116419188044,
+        0.8706395358035998,
+        0.020533893108367895,
+        0.1061046475546219
+      ],
+      "confidence": 1,
+      "text": "MEETiNG OF THE"
+    },
+    {
+      "box": [
+        0.45013052863697184,
+        0.8558330195154349,
+        0.02546854734420778,
+        0.12557942924195953
+      ],
+      "confidence": 1,
+      "text": "AUSTAALIAA TRANSPORT"
+    },
+    {
+      "box": [
+        0.47086147722362737,
+        0.8740039491898292,
+        0.03904607772827151,
+        0.09775263266053269
+      ],
+      "confidence": 1,
+      "text": "RarISORy COUNCiL"
+    },
+    {
+      "box": [
+        0.5038555339438926,
+        0.8674368477312256,
+        0.026339859962463352,
+        0.11568085984989773
+      ],
+      "confidence": 1,
+      "text": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "box": [
+        0.5284227213468417,
+        0.8893658181418607,
+        0.017515977621078482,
+        0.05701306897069791
+      ],
+      "confidence": 1,
+      "text": "CHAMBER"
+    },
+    {
+      "box": [
+        0.5482546135574795,
+        0.8633720920496682,
+        0.03490761041641233,
+        0.1046511635750822
+      ],
+      "confidence": 1,
+      "text": "BRISBANE *5/1/55"
+    },
+    {
+      "box": [
+        0.6916101579155218,
+        0.8586163338153269,
+        0.02396567821502693,
+        0.12577425874934378
+      ],
+      "confidence": 1,
+      "text": "1. G. PATERSon CHRIRMAN"
+    },
+    {
+      "box": [
+        0.7134946920086702,
+        0.8659297483623422,
+        0.02194955587387082,
+        0.1169994701651953
+      ],
+      "confidence": 1,
+      "text": "AusT. RORA SAFETY COUNCIL"
+    },
+    {
+      "box": [
+        0.7450298071321945,
+        0.8674254992950885,
+        0.022054704427719063,
+        0.111062634212585
+      ],
+      "confidence": 1,
+      "text": "BRUCE HALL REPT. SAT"
+    },
+    {
+      "box": [
+        0.7676335950888975,
+        0.8673486167845046,
+        0.022099580764770477,
+        0.11266033466045677
+      ],
+      "confidence": 1,
+      "text": "ARE SITTING AT TABLE"
+    },
+    {
+      "box": [
+        0.7885010218315484,
+        0.9040697655391239,
+        0.018480501770973157,
+        0.06831395615527946
+      ],
+      "confidence": 1,
+      "text": "To mY LEFT."
+    },
+    {
+      "box": [
+        0.880398579167158,
+        0.6013312827596503,
+        0.035106525421142565,
+        0.17532773612348718
+      ],
+      "confidence": 1,
+      "text": "CH.MEFAR YEN SECT. REPT. SOT."
+    },
+    {
+      "box": [
+        0.9055441393059834,
+        0.661337205984483,
+        0.020533896684646558,
+        0.11482558516039454
+      ],
+      "confidence": 1,
+      "text": "HOM. MR WETHERELL"
+    },
+    {
+      "box": [
+        0.9227566563813114,
+        0.5943376494584224,
+        0.01885223269462588,
+        0.07433166638820399
+      ],
+      "confidence": 1,
+      "text": "QUEENSLANE"
+    },
+    {
+      "box": [
+        0.9446223816997726,
+        0.6755404427957301,
+        0.024090547561645526,
+        0.09950930243777978
+      ],
+      "confidence": 1,
+      "text": "HOr MR. WARNER."
+    },
+    {
+      "box": [
+        0.9411158930403676,
+        0.6296939107047277,
+        0.024918835163116437,
+        0.03251539343337262
+      ],
+      "confidence": 0.5,
+      "text": "VIc."
+    },
+    {
+      "box": [
+        0.8870636466262485,
+        0.4404069731319269,
+        0.018480509519577026,
+        0.13226744688052605
+      ],
+      "confidence": 1,
+      "text": "SENATOR MON CEO Me LADY"
+    },
+    {
+      "box": [
+        0.9096509118171824,
+        0.3997092990707658,
+        0.012320351004600494,
+        0.1686046543003289
+      ],
+      "confidence": 1,
+      "text": "MINISTER FOR SHIPPINE TRANSPORA"
+    },
+    {
+      "box": [
+        0.9199178609017434,
+        0.46656976820845353,
+        0.016427111625671342,
+        0.056686043844720646
+      ],
+      "confidence": 1,
+      "text": "CHAIRMAN"
+    },
+    {
+      "box": [
+        0.9794661181933998,
+        0.5624999995060013,
+        0.012320330142974845,
+        0.01598837268131159
+      ],
+      "confidence": 1,
+      "text": "or"
+    },
+    {
+      "box": [
+        0.9753593406700902,
+        0.5058139539336093,
+        0.014373720884323093,
+        0.04069767284983561
+      ],
+      "confidence": 1,
+      "text": "• June"
+    },
+    {
+      "box": [
+        0.9740563151104848,
+        0.4571257814611436,
+        0.019335436224937386,
+        0.03478780623350808
+      ],
+      "confidence": 1,
+      "text": "I AUST."
+    },
+    {
+      "box": [
+        0.8804524827255362,
+        0.15212838102464876,
+        0.035896614789962755,
+        0.2233134977170369
+      ],
+      "confidence": 1,
+      "text": "HON d. FRANCIS MINISTER FOR MANY"
+    },
+    {
+      "box": [
+        0.9074204220255687,
+        0.2120692863611643,
+        0.024936037063598704,
+        0.16158888974514396
+      ],
+      "confidence": 1,
+      "text": "HON. MR HAMIATON M.H.R."
+    },
+    {
+      "box": [
+        0.9294527149388954,
+        0.20627073145686303,
+        0.026545078754425022,
+        0.1674139830625554
+      ],
+      "confidence": 1,
+      "text": "HON MR N. MADDEN. TAS."
+    },
+    {
+      "box": [
+        0.9568788381500348,
+        0.21366279048767323,
+        0.026694066524505677,
+        0.15697674198976985
+      ],
+      "confidence": 1,
+      "text": "HON MR STyANTS W.A."
+    }
+  ],
+  "text": "MEETiNG OF THE\nAUSTAALIAA TRANSPORT\nRarISORy COUNCiL\nLEGISLATIVE COUNCIL\nCHAMBER\nBRISBANE *5/1/55\n1. G. PATERSon CHRIRMAN\nAusT. RORA SAFETY COUNCIL\nBRUCE HALL REPT. SAT\nARE SITTING AT TABLE\nTo mY LEFT.\nCH.MEFAR YEN SECT. REPT. SOT.\nHOM. MR WETHERELL\nQUEENSLANE\nHOr MR. WARNER.\nVIc.\nSENATOR MON CEO Me LADY\nMINISTER FOR SHIPPINE TRANSPORA\nCHAIRMAN\nor\n• June\nI AUST.\nHON d. FRANCIS MINISTER FOR MANY\nHON. MR HAMIATON M.H.R.\nHON MR N. MADDEN. TAS.\nHON MR STyANTS W.A.",
+  "source_sha256": "a126e60adde42aed68096ed8b268168f609d358e8b8229d7c7ab823bef7b4536",
+  "status": "machine-draft"
+}

@@ -1,0 +1,224 @@
+{
+  "candidate_names": [
+    "Charles",
+    "Mr. Burns"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-096.jpg",
+  "lines": [
+    {
+      "box": [
+        0.41683778565788815,
+        0.11482558204248583,
+        0.10266940116882323,
+        0.02487379929115041
+      ],
+      "confidence": 1,
+      "text": "AS PHILP & COME"
+    },
+    {
+      "box": [
+        0.4373585107990566,
+        0.13513089500952968,
+        0.057521171569824225,
+        0.0088079774622154
+      ],
+      "confidence": 1,
+      "text": "SYDNEY"
+    },
+    {
+      "box": [
+        0.4250513389059099,
+        0.1379310342082043,
+        0.09240245819091791,
+        0.024859662819077255
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "* LIM TEPH"
+    },
+    {
+      "box": [
+        0.5913757713165356,
+        0.15406976751683255,
+        0.05954825401306152,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "9th."
+    },
+    {
+      "box": [
+        0.6488706384356479,
+        0.15251989416106193,
+        0.12114989280700683,
+        0.014631268832664635
+      ],
+      "confidence": 1,
+      "text": "June, 1955."
+    },
+    {
+      "box": [
+        0.23812861458120516,
+        0.2831381367854773,
+        0.12949225425720212,
+        0.015119074510326458
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.40657084281983447,
+        0.30503978792818853,
+        0.35523612976074215,
+        0.013274165405624205
+      ],
+      "confidence": 1,
+      "text": "It was with a great deal of pleasure"
+    },
+    {
+      "box": [
+        0.2402464319429805,
+        0.328470380279295,
+        0.5236139297485352,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "that we read in this morning's Press that you had had"
+    },
+    {
+      "box": [
+        0.2381930282572008,
+        0.35174418584348277,
+        0.4825461959838868,
+        0.01474564650963095
+      ],
+      "confidence": 1,
+      "text": "conferred upon you by Her Majesty, The Queen, the"
+    },
+    {
+      "box": [
+        0.2381930336484519,
+        0.3764534886535603,
+        0.5051334381103515,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "decoration of Commander of the Order of the British"
+    },
+    {
+      "box": [
+        0.23819301797786666,
+        0.4011627910304634,
+        0.0718685817718506,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Empire."
+    },
+    {
+      "box": [
+        0.40643116361471454,
+        0.42088698141641145,
+        0.3370331573486328,
+        0.01565337581617654
+      ],
+      "confidence": 1,
+      "text": "Mr. Burns and Mr. Mitchell join me"
+    },
+    {
+      "box": [
+        0.24024641440825703,
+        0.44606542886355105,
+        0.46406570434570316,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "in heartily congratulating you on the honour so"
+    },
+    {
+      "box": [
+        0.24020889143548527,
+        0.47078276954843423,
+        0.09042410850524904,
+        0.011922832930857497
+      ],
+      "confidence": 1,
+      "text": "bestowed."
+    },
+    {
+      "box": [
+        0.4948665273061576,
+        0.4927325581793385,
+        0.20944559097290033,
+        0.01889534907252466
+      ],
+      "confidence": 1,
+      "text": "Yours very sincerely,"
+    },
+    {
+      "box": [
+        0.5749486657780349,
+        0.5116279069507862,
+        0.1704312133789062,
+        0.021802325463737615
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Hare"
+    },
+    {
+      "box": [
+        0.2402464107629045,
+        0.632183908172865,
+        0.2772073745727539,
+        0.01461841741776071
+      ],
+      "confidence": 1,
+      "text": "C. H. McFadyen, Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.24194625283578872,
+        0.6457715615939372,
+        0.0993301010131836,
+        0.011338204435286103
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.24024639910302567,
+        0.6555232559016223,
+        0.347022590637207,
+        0.014680104377942205
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.23814768652863819,
+        0.6670044541308184,
+        0.102760066986084,
+        0.01628178900896604
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE,"
+    },
+    {
+      "box": [
+        0.23814483508995912,
+        0.6800564542213683,
+        0.0945522212982178,
+        0.013433603140024064
+      ],
+      "confidence": 1,
+      "text": "VICTORIA."
+    }
+  ],
+  "text": "AS PHILP & COME\nSYDNEY\n* LIM TEPH\n9th.\nJune, 1955.\nDear Charles,\nIt was with a great deal of pleasure\nthat we read in this morning's Press that you had had\nconferred upon you by Her Majesty, The Queen, the\ndecoration of Commander of the Order of the British\nEmpire.\nMr. Burns and Mr. Mitchell join me\nin heartily congratulating you on the honour so\nbestowed.\nYours very sincerely,\nHare\nC. H. McFadyen, Esq., C.B.E.,\nSecretary,\nDepartment of Shipping & Transport,\nMELBOURNE,\nVICTORIA.",
+  "source_sha256": "dcfe8f65a36207ad139c53406513262ffdb0e8d704bd4ebf2fc084d14b5a8452",
+  "status": "machine-draft"
+}

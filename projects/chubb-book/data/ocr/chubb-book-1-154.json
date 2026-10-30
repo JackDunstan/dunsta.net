@@ -1,0 +1,283 @@
+{
+  "candidate_names": [
+    "Charles"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-154.jpg",
+  "lines": [
+    {
+      "box": [
+        0.6694045330606315,
+        0.13081395368042747,
+        0.15195070266723631,
+        0.00446456096322001
+      ],
+      "confidence": 1,
+      "text": "TELEPHONE NO.: CANBERRA F0 411"
+    },
+    {
+      "box": [
+        0.7720739206865295,
+        0.13517441864848556,
+        0.1252566719055176,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "\"TERRITORIES \" CANBERRA"
+    },
+    {
+      "box": [
+        0.5975359453359238,
+        0.19040697691605735,
+        0.2279260635375976,
+        0.010300361825553384
+      ],
+      "confidence": 1,
+      "text": "DEPARTMENT OF TERRITORIES,"
+    },
+    {
+      "box": [
+        0.6343072759479617,
+        0.21164844473479416,
+        0.06608770847320555,
+        0.012749622186446596
+      ],
+      "confidence": 1,
+      "text": "Canberra,"
+    },
+    {
+      "box": [
+        0.7474332669687845,
+        0.2107558146624413,
+        0.06981519222259525,
+        0.016034636425824367
+      ],
+      "confidence": 1,
+      "text": "JUN 1955"
+    },
+    {
+      "box": [
+        0.6919917897310919,
+        0.23253757730229396,
+        0.06776180267333975,
+        0.007288004000770787
+      ],
+      "confidence": 1,
+      "text": "In reply quote No."
+    },
+    {
+      "box": [
+        0.24435318901995073,
+        0.33139534912154867,
+        0.12936344146728518,
+        0.011663890538439192
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.3819301776165828,
+        0.3647214853517373,
+        0.3655030822753906,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Heartiest congratulations on the well"
+    },
+    {
+      "box": [
+        0.24435319664471314,
+        0.37645348859829286,
+        0.4845995712280273,
+        0.011698589190036968
+      ],
+      "confidence": 1,
+      "text": "deserved honour recently bestowed by Her Majesty."
+    },
+    {
+      "box": [
+        0.3819301888449543,
+        0.3996463306289074,
+        0.2094455718994141,
+        0.011690878425416051
+      ],
+      "confidence": 1,
+      "text": "With kindest regards,"
+    },
+    {
+      "box": [
+        0.6098562646893191,
+        0.42130857664225263,
+        0.15811087608337404,
+        0.01328444670619
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.6488706428167512,
+        0.5013262600173066,
+        0.19712524414062504,
+        0.014662111891148633
+      ],
+      "confidence": 1,
+      "text": "Assistant Secretary."
+    },
+    {
+      "box": [
+        0.2464065696033184,
+        0.5375773649744087,
+        0.2751539993286133,
+        0.014748216623968968
+      ],
+      "confidence": 1,
+      "text": "Mr. C. H. McFadyen, C.B.E.,"
+    },
+    {
+      "box": [
+        0.25051336433534077,
+        0.562334217630053,
+        0.35728950500488277,
+        0.01034020070582764
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.24640657133178337,
+        0.5741279073192231,
+        0.16837781906127927,
+        0.011636902651462111
+      ],
+      "confidence": 1,
+      "text": "Rialto Buildings,"
+    },
+    {
+      "box": [
+        0.24640657534489435,
+        0.585755814208758,
+        0.14579054832458493,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Collins Street,"
+    },
+    {
+      "box": [
+        0.2422997956358067,
+        0.5959302327011707,
+        0.18275154113769534,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE.. VIC."
+    },
+    {
+      "box": [
+        0.22176591912740903,
+        0.9186046513744558,
+        0.19301847457885743,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "EmiLE JOCK) DEVILLE."
+    },
+    {
+      "box": [
+        0.19917865059236675,
+        0.9314765694750788,
+        0.2751539993286133,
+        0.014744360609248441
+      ],
+      "confidence": 1,
+      "text": "JOCI WAS A MELB. GRAmmAR BOY."
+    },
+    {
+      "box": [
+        0.19262032510799487,
+        0.9433728958219957,
+        0.3334097290039062,
+        0.0177315544175638
+      ],
+      "confidence": 1,
+      "text": "HIS FATHER WAS A FRENCH WOOL BUYER AND"
+    },
+    {
+      "box": [
+        0.1868583161220168,
+        0.9606542881911888,
+        0.32443531036376955,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "IN I9I5 WAS PART OUTER OF THe FAMOUS"
+    },
+    {
+      "box": [
+        0.18891170448912945,
+        0.9752431478169821,
+        0.1950718688964844,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "RACING MARE \"CARLITA\"."
+    },
+    {
+      "box": [
+        0.6212232356094697,
+        0.8786107195965166,
+        0.31733486175537107,
+        0.03504599142032416
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "18. Dike Podgion Meet"
+    },
+    {
+      "box": [
+        0.6527667317615908,
+        0.9220783196298943,
+        0.1523720836639404,
+        0.020668942142017754
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "світіня"
+    },
+    {
+      "box": [
+        0.8151950696812394,
+        0.9301503095321743,
+        0.10472279548645025,
+        0.02210433244915999
+      ],
+      "confidence": 0.5,
+      "text": "E. D evil"
+    },
+    {
+      "box": [
+        0.6365503159845121,
+        0.96802325594245,
+        0.26694044113159177,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "THE SANITARY SQUAM 2 ACCS."
+    },
+    {
+      "box": [
+        0.8275153994102087,
+        0.9809902741943703,
+        0.11293634414672848,
+        0.010288795467818468
+      ],
+      "confidence": 1,
+      "text": "FRAMCE 1916"
+    }
+  ],
+  "text": "TELEPHONE NO.: CANBERRA F0 411\n\"TERRITORIES \" CANBERRA\nDEPARTMENT OF TERRITORIES,\nCanberra,\nJUN 1955\nIn reply quote No.\nDear Charles,\nHeartiest congratulations on the well\ndeserved honour recently bestowed by Her Majesty.\nWith kindest regards,\nYours sincerely,\nAssistant Secretary.\nMr. C. H. McFadyen, C.B.E.,\nDepartment of Shipping and Transport,\nRialto Buildings,\nCollins Street,\nMELBOURNE.. VIC.\nEmiLE JOCK) DEVILLE.\nJOCI WAS A MELB. GRAmmAR BOY.\nHIS FATHER WAS A FRENCH WOOL BUYER AND\nIN I9I5 WAS PART OUTER OF THe FAMOUS\nRACING MARE \"CARLITA\".\n18. Dike Podgion Meet\nсвітіня\nE. D evil\nTHE SANITARY SQUAM 2 ACCS.\nFRAMCE 1916",
+  "source_sha256": "2d29dce830f3276dda9610353f698ef52856d87506ba74f1dc086d42a863b9c4",
+  "status": "machine-draft"
+}

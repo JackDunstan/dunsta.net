@@ -1,0 +1,431 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-011.jpg",
+  "lines": [
+    {
+      "box": [
+        0.29752186871677305,
+        0.1311962652853329,
+        0.2796526908874511,
+        0.014652427585645555
+      ],
+      "confidence": 1,
+      "text": "AU SERALIAN IMPARIAL FORCE."
+    },
+    {
+      "box": [
+        0.4558521597249474,
+        0.16843501313283926,
+        0.12936344146728518,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Heai quarters,"
+    },
+    {
+      "box": [
+        0.5893223895180454,
+        0.15988372157678532,
+        0.17248458862304683,
+        0.020487631031309572
+      ],
+      "confidence": 1,
+      "text": "Isto Anzao Corpse"
+    },
+    {
+      "box": [
+        0.5334603783448347,
+        0.17549775842077142,
+        0.18989049911499023,
+        0.023397902700355022
+      ],
+      "confidence": 1,
+      "text": "28th-20lraa77,1917."
+    },
+    {
+      "box": [
+        0.6427104726129224,
+        0.19331395396362083,
+        0.07802874565124518,
+        0.020348836424917804
+      ],
+      "confidence": 1,
+      "text": "45/24/33"
+    },
+    {
+      "box": [
+        0.13333627248704757,
+        0.2305469193685048,
+        0.09267037391662597,
+        0.012743370602554593
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "D.G..S•s"
+    },
+    {
+      "box": [
+        0.1641831043416567,
+        0.24245961181750375,
+        0.0617775297164917,
+        0.010720311172444874
+      ],
+      "confidence": 0.5,
+      "text": "G.H.Q."
+    },
+    {
+      "box": [
+        0.2361396473724527,
+        0.25862068944592,
+        0.5585215377807617,
+        0.016088612199778307
+      ],
+      "confidence": 1,
+      "text": "on the recomendation of the Doil.s., A•I.I., approval has"
+    },
+    {
+      "box": [
+        0.1373748319714953,
+        0.2728352126337257,
+        0.35564395904541013,
+        0.016998059975162905
+      ],
+      "confidence": 1,
+      "text": "been given for the appointmont of ;-"
+    },
+    {
+      "box": [
+        0.18661185965550686,
+        0.2918251221941892,
+        0.5405624771118164,
+        0.02193821941615215
+      ],
+      "confidence": 1,
+      "text": "No. 7304 Warrant 0281cer 0.ii/ADY AN, No. 2 Austrelian"
+    },
+    {
+      "box": [
+        0.23613964232997367,
+        0.30813439448489666,
+        0.24640655517578128,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "casualty Cleering Station"
+    },
+    {
+      "box": [
+        0.5112936375710991,
+        0.3050397877188211,
+        0.2032854080200195,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "be Quarternster and"
+    },
+    {
+      "box": [
+        0.2358248325046282,
+        0.3147458010869528,
+        0.5118310928344727,
+        0.020124325807067134
+      ],
+      "confidence": 1,
+      "text": "Honorary Lieutenant No. 8 Australian Flelo Anbalance"
+    },
+    {
+      "box": [
+        0.23573426894046975,
+        0.32189981810620416,
+        0.551044807434082,
+        0.02721589355738574
+      ],
+      "confidence": 1,
+      "text": "56. Australian Division, to take effect teon 21.2.1317."
+    },
+    {
+      "box": [
+        0.23613963054505802,
+        0.35610465130178126,
+        0.06776180744171142,
+        0.011711440604940893
+      ],
+      "confidence": 1,
+      "text": "I shall"
+    },
+    {
+      "box": [
+        0.312027669190325,
+        0.35583689500278526,
+        0.06998983383178708,
+        0.01216341941152177
+      ],
+      "confidence": 1,
+      "text": "be glad"
+    },
+    {
+      "box": [
+        0.4186712910150959,
+        0.3510183294435296,
+        0.3494711303710937,
+        0.015419321709454925
+      ],
+      "confidence": 1,
+      "text": "you will iesne the necessary orders"
+    },
+    {
+      "box": [
+        0.13945124262571043,
+        0.36557262663258905,
+        0.46235149383544927,
+        0.016399712398134425
+      ],
+      "confidence": 1,
+      "text": "for Meutenant Wellaiyen te proceed aocordingly•"
+    },
+    {
+      "box": [
+        0.5934291574364903,
+        0.388081395364416,
+        0.10677618026733404,
+        0.01908040826664248
+      ],
+      "confidence": 0.5,
+      "text": "- 2r"
+    },
+    {
+      "box": [
+        0.5051334730532667,
+        0.4084302331253773,
+        0.20739219665527342,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "m 1 outer ant-Jon eral"
+    },
+    {
+      "box": [
+        0.1334702268232843,
+        0.42296511659974634,
+        0.04928131103515623,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "0. Co,"
+    },
+    {
+      "box": [
+        0.4373716722463945,
+        0.41860465132035696,
+        0.36755645751953125,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "Conmand ing Australian Imperial Porce."
+    },
+    {
+      "box": [
+        0.19301848471857228,
+        0.4301503095759944,
+        0.2381930160522461,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "2 Aust. Cas. Clearing Stn."
+    },
+    {
+      "box": [
+        0.23408624731765584,
+        0.4549071619660098,
+        0.158110876083374,
+        0.0102091168640569
+      ],
+      "confidence": 1,
+      "text": "For information."
+    },
+    {
+      "box": [
+        0.38809035117993895,
+        0.4709302332000771,
+        0.14579054832458493,
+        0.02761627824616364
+      ],
+      "confidence": 0.5,
+      "text": "jiwricham"
+    },
+    {
+      "box": [
+        0.4394250523339248,
+        0.4969053933459133,
+        0.1478439426422119,
+        0.013269025176948057
+      ],
+      "confidence": 1,
+      "text": "Lieut. -Colonel,"
+    },
+    {
+      "box": [
+        0.13757701160238206,
+        0.5013262599498317,
+        0.2156057357788086,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "H.Q .,Ist. Anzac Corps,"
+    },
+    {
+      "box": [
+        0.1765730762502509,
+        0.5130033879025474,
+        0.09859922409057617,
+        0.011783921961021293
+      ],
+      "confidence": 1,
+      "text": "38.2.1917."
+    },
+    {
+      "box": [
+        0.4414323151190217,
+        0.6394060235237595,
+        0.1294556999206543,
+        0.02351353423559588
+      ],
+      "confidence": 1,
+      "text": "A Christmas"
+    },
+    {
+      "box": [
+        0.4435318275501812,
+        0.6613372097210404,
+        0.11293634414672854,
+        0.030523254637376707
+      ],
+      "confidence": 1,
+      "text": "Message"
+    },
+    {
+      "box": [
+        0.44763860500569125,
+        0.6976127322751414,
+        0.11293634414672854,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "There may be"
+    },
+    {
+      "box": [
+        0.44763860774509495,
+        0.7151162792450952,
+        0.12731005668640133,
+        0.011674171839004877
+      ],
+      "confidence": 1,
+      "text": "many newer ways"
+    },
+    {
+      "box": [
+        0.4414086318619742,
+        0.7265237283321888,
+        0.12744967460632328,
+        0.02078975269374972
+      ],
+      "confidence": 1,
+      "text": "In which 1 miğht"
+    },
+    {
+      "box": [
+        0.44546719894440534,
+        0.7423529391281618,
+        0.10085205078125004,
+        0.016747609584548573
+      ],
+      "confidence": 1,
+      "text": "address you."
+    },
+    {
+      "box": [
+        0.4455112582231757,
+        0.7569746350717595,
+        0.11308425903320318,
+        0.01512049616806066
+      ],
+      "confidence": 1,
+      "text": "But theres no"
+    },
+    {
+      "box": [
+        0.4433688982593149,
+        0.7725341528007511,
+        0.1358494758605957,
+        0.0174316942533701
+      ],
+      "confidence": 1,
+      "text": "truer better phrase"
+    },
+    {
+      "box": [
+        0.44763860665437777,
+        0.7891246686190068,
+        0.12320327758789057,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Than the old wish"
+    },
+    {
+      "box": [
+        0.44558521786341104,
+        0.8037135280265044,
+        0.11704311370849613,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "\"Cod Bless You."
+    },
+    {
+      "box": [
+        0.48459958917439283,
+        0.8953488372782182,
+        0.010266940593719465,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "C"
+    },
+    {
+      "box": [
+        0.2731006157244754,
+        0.9127906976875747,
+        0.059548254013061463,
+        0.01889534907252466
+      ],
+      "confidence": 1,
+      "text": "from"
+    },
+    {
+      "box": [
+        0.34702259009638786,
+        0.9460654288661509,
+        0.20739219665527348,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "—Australian Natives' Association"
+    },
+    {
+      "box": [
+        0.36344969736149524,
+        0.9636627909456765,
+        0.19301847457885746,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Flemington Branch. I2o. 69."
+    }
+  ],
+  "text": "AU SERALIAN IMPARIAL FORCE.\nHeai quarters,\nIsto Anzao Corpse\n28th-20lraa77,1917.\n45/24/33\nD.G..S•s\nG.H.Q.\non the recomendation of the Doil.s., A•I.I., approval has\nbeen given for the appointmont of ;-\nNo. 7304 Warrant 0281cer 0.ii/ADY AN, No. 2 Austrelian\ncasualty Cleering Station\nbe Quarternster and\nHonorary Lieutenant No. 8 Australian Flelo Anbalance\n56. Australian Division, to take effect teon 21.2.1317.\nI shall\nbe glad\nyou will iesne the necessary orders\nfor Meutenant Wellaiyen te proceed aocordingly•\n- 2r\nm 1 outer ant-Jon eral\n0. Co,\nConmand ing Australian Imperial Porce.\n2 Aust. Cas. Clearing Stn.\nFor information.\njiwricham\nLieut. -Colonel,\nH.Q .,Ist. Anzac Corps,\n38.2.1917.\nA Christmas\nMessage\nThere may be\nmany newer ways\nIn which 1 miğht\naddress you.\nBut theres no\ntruer better phrase\nThan the old wish\n\"Cod Bless You.\nC\nfrom\n—Australian Natives' Association\nFlemington Branch. I2o. 69.",
+  "source_sha256": "4ba8b7b105516063bc2c722adab1466ea026ae6559a574cf151dd9931a61a572",
+  "status": "machine-draft"
+}

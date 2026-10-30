@@ -1,0 +1,691 @@
+{
+  "candidate_names": [
+    "BOTy",
+    "FIERA",
+    "HORIE",
+    "Kee",
+    "MAAS",
+    "Mack Clark",
+    "ROSS SmITH",
+    "Rod",
+    "STAME"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-008.jpg",
+  "lines": [
+    {
+      "box": [
+        0.18480493083424654,
+        0.1308139539092582,
+        0.23819301605224608,
+        0.02761627824616375
+      ],
+      "confidence": 1,
+      "text": "TELEGRAM."
+    },
+    {
+      "box": [
+        0.156057497148267,
+        0.17285587988565798,
+        0.19507186889648437,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Charges to Pay-Message"
+    },
+    {
+      "box": [
+        0.28742932210821465,
+        0.19461869167471846,
+        0.07606538295745852,
+        0.011925407261262344
+      ],
+      "confidence": 1,
+      "text": "Porterage."
+    },
+    {
+      "box": [
+        0.14373716652529678,
+        0.21075581396056786,
+        0.05954825401306152,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "E.T. No. 2"
+    },
+    {
+      "box": [
+        0.137577008603237,
+        0.22238372112228788,
+        0.08008213043212889,
+        0.004360464586819601
+      ],
+      "confidence": 1,
+      "text": "D.79/4.8.0.90316"
+    },
+    {
+      "box": [
+        0.13552361450957734,
+        0.2340116280594683,
+        0.022587268352508544,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "To"
+    },
+    {
+      "box": [
+        0.34291581131731336,
+        0.2325581395585341,
+        0.02874743223190307,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "No."
+    },
+    {
+      "box": [
+        0.11909651383454112,
+        0.2718023255767773,
+        0.2813141632080078,
+        0.02925868249382202
+      ],
+      "confidence": 0.5,
+      "text": "Caft me Fairyon"
+    },
+    {
+      "box": [
+        0.10677618331702572,
+        0.3037790705686788,
+        0.10266940116882324,
+        0.02325581281613076
+      ],
+      "confidence": 0.5,
+      "text": "Kildonan"
+    },
+    {
+      "box": [
+        0.20739219763865321,
+        0.29796511649778235,
+        0.0965092372894287,
+        0.021802325463737615
+      ],
+      "confidence": 1,
+      "text": "Vanta"
+    },
+    {
+      "box": [
+        0.084188912213205,
+        0.3241279074410266,
+        0.022587268352508544,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "•"
+    },
+    {
+      "box": [
+        0.13347022548594528,
+        0.3226744192263947,
+        0.036960985660553,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "03"
+    },
+    {
+      "box": [
+        0.35106127163148976,
+        0.3210114118101506,
+        0.08843187332153318,
+        0.01495391936770174
+      ],
+      "confidence": 1,
+      "text": "ASCOT VALE"
+    },
+    {
+      "box": [
+        0.41273100735414725,
+        0.3415697674528141,
+        0.024640655517578103,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "20000"
+    },
+    {
+      "box": [
+        0.1519507206078812,
+        0.35319767470294394,
+        0.2587269020080567,
+        0.011627906408065547
+      ],
+      "confidence": 1,
+      "text": "Open here from right to left.."
+    },
+    {
+      "box": [
+        0.15378885838377077,
+        0.36503351191015676,
+        0.08250567436218262,
+        0.009759813573484766
+      ],
+      "confidence": 1,
+      "text": "SIATION EKOM."
+    },
+    {
+      "box": [
+        0.27921958369663313,
+        0.3646524032234739,
+        0.08427130699157714,
+        0.01052077484805436
+      ],
+      "confidence": 1,
+      "text": "No. OF WORDS."
+    },
+    {
+      "box": [
+        0.40862423094347267,
+        0.36482558107005847,
+        0.04517453670501709,
+        0.015988372681311702
+      ],
+      "confidence": 1,
+      "text": "CHECK."
+    },
+    {
+      "box": [
+        0.1457905557635755,
+        0.37354651196402766,
+        0.12731005668640136,
+        0.02325581281613076
+      ],
+      "confidence": 0.5,
+      "text": "Eethan"
+    },
+    {
+      "box": [
+        0.32238193022914474,
+        0.37790697683530705,
+        0.032854208946228036,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "14"
+    },
+    {
+      "box": [
+        0.15808022118971243,
+        0.41558385656102703,
+        0.18281286239624023,
+        0.024936937421534022
+      ],
+      "confidence": 0.5,
+      "text": "hecleane"
+    },
+    {
+      "box": [
+        0.16837782372830998,
+        0.45494186004523285,
+        0.06570841789245604,
+        0.023255814502557648
+      ],
+      "confidence": 0.5,
+      "text": "olE"
+    },
+    {
+      "box": [
+        0.4168377838633526,
+        0.40406976760220936,
+        0.09650923728942873,
+        0.03343023271501644
+      ],
+      "confidence": 1,
+      "text": "home"
+    },
+    {
+      "box": [
+        0.30788835931251735,
+        0.45172158821577857,
+        0.08237523078918457,
+        0.01661496284680497
+      ],
+      "confidence": 1,
+      "text": "ma a"
+    },
+    {
+      "box": [
+        0.5071868603960479,
+        0.14098837210801762,
+        0.28952772140502936,
+        0.014626128603988375
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH OF AUSTRALIA."
+    },
+    {
+      "box": [
+        0.6016427135414391,
+        0.17151162793349917,
+        0.1868583106994629,
+        0.010185984991800456
+      ],
+      "confidence": 1,
+      "text": "Postmaster-General's Department,"
+    },
+    {
+      "box": [
+        0.5092402501827388,
+        0.24127906980262037,
+        0.12114989280700683,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "This message has"
+    },
+    {
+      "box": [
+        0.632443534307031,
+        0.2396109637771504,
+        0.09650923728942862,
+        0.008935547633892038
+      ],
+      "confidence": 1,
+      "text": "been received"
+    },
+    {
+      "box": [
+        0.4989733108403365,
+        0.25000000005940326,
+        0.23203285217285158,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "subject to the Post and Telegraph"
+    },
+    {
+      "box": [
+        0.4989733128202276,
+        0.26017441866405444,
+        0.14168376922607417,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Act and Regulations."
+    },
+    {
+      "box": [
+        0.50924024929707,
+        0.2732095489551092,
+        0.1252566719055176,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "All complaints to"
+    },
+    {
+      "box": [
+        0.6365503065999372,
+        0.2732095491973573,
+        0.09445585250854494,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "be addressed"
+    },
+    {
+      "box": [
+        0.498973309873533,
+        0.2819767442912997,
+        0.23203285217285158,
+        0.010242530880092415
+      ],
+      "confidence": 1,
+      "text": "in writing to the Deputy Post-"
+    },
+    {
+      "box": [
+        0.4989733089125083,
+        0.29215116282587617,
+        0.10266940116882323,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "master-General."
+    },
+    {
+      "box": [
+        0.7679671471112668,
+        0.24709302322091775,
+        0.06570841789245607,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "DATH STAME"
+    },
+    {
+      "box": [
+        0.7494866533298878,
+        0.27180232602872034,
+        0.03696098566055295,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "OT"
+    },
+    {
+      "box": [
+        0.7268993848023098,
+        0.2979651164780479,
+        0.10266940116882328,
+        0.024709301854950683
+      ],
+      "confidence": 0.5,
+      "text": "(29-425JL195"
+    },
+    {
+      "box": [
+        0.5277207401094676,
+        0.36472148540565885,
+        0.0739219713211059,
+        0.0075154730327142705
+      ],
+      "confidence": 1,
+      "text": "TIME LODGED."
+    },
+    {
+      "box": [
+        0.5564681727432129,
+        0.375000000162641,
+        0.08829568862915038,
+        0.024709301854950683
+      ],
+      "confidence": 1,
+      "text": "219"
+    },
+    {
+      "box": [
+        0.7474332656621192,
+        0.3648255813604526,
+        0.053388090133666966,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "REMARKS."
+    },
+    {
+      "box": [
+        0.6940451747146696,
+        0.4084302322732144,
+        0.06570841789245596,
+        0.026162790893770604
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "2my"
+    },
+    {
+      "box": [
+        0.39940188182747677,
+        0.49468475190422123,
+        0.3794722366333008,
+        0.047321602899768944
+      ],
+      "confidence": 0.5,
+      "text": "Mack Clark."
+    },
+    {
+      "box": [
+        0.6590072720712259,
+        0.5764799935634746,
+        0.08239613533020018,
+        0.011284198727257833
+      ],
+      "confidence": 1,
+      "text": "TIME RECEIVED,"
+    },
+    {
+      "box": [
+        0.08796021949476128,
+        0.6309357006215942,
+        0.6987868499755859,
+        0.03209382385199944
+      ],
+      "confidence": 1,
+      "text": "THIS TELEGRAM EARNS ITS PANCE AMONG THESE RECORAS BECAUSE IT IS A REmINDER"
+    },
+    {
+      "box": [
+        0.7864476376352851,
+        0.6409883722493258,
+        0.04106776237487797,
+        0.00887900174560008
+      ],
+      "confidence": 1,
+      "text": "OF A"
+    },
+    {
+      "box": [
+        0.09020236458163382,
+        0.6545742896570825,
+        0.7374900054931641,
+        0.019992158857728426
+      ],
+      "confidence": 1,
+      "text": "STERLING FRIEND AN AN HEROIC CHARACTER. I TREN LACK FIRST NHEN He TODIS ME IN MANE"
+    },
+    {
+      "box": [
+        0.09017390157477494,
+        0.6696245443016385,
+        0.7498245239257812,
+        0.01908310064691865
+      ],
+      "confidence": 1,
+      "text": "AS A MANIFEST ChERIS IN THE CUSTOMS OFFICE AT THe RAMAY SHIPPING SHER AT SPENCER STReET"
+    },
+    {
+      "box": [
+        0.08800738550680108,
+        0.681307952887539,
+        0.7397730255126953,
+        0.023101235785176533
+      ],
+      "confidence": 1,
+      "text": "IN o9I2. We WERe FIRM FRIeNS UNTIL THe VAR SEPARATOR US IN IGIS. JACI WAS ACTING"
+    },
+    {
+      "box": [
+        0.08829569216268496,
+        0.7209302330579024,
+        0.22176589965820315,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "NeAR MessInes oN 1917-"
+    },
+    {
+      "box": [
+        0.3098992345188546,
+        0.7106927974136138,
+        0.5260277557373046,
+        0.01843655246427689
+      ],
+      "confidence": 1,
+      "text": "I WAS WITH THe & FIERA AmBULANCE IN THe SAme BRIGARE AS LACIE"
+    },
+    {
+      "box": [
+        0.08778360264606257,
+        0.72187463933149,
+        0.7668703460693359,
+        0.02984361791905843
+      ],
+      "confidence": 1,
+      "text": "ne weRe movinG FRoM FRONT hOMe HORIE TO A REST ARCA NOT FAR FROM THe COAST AT"
+    },
+    {
+      "box": [
+        0.09394308227959712,
+        0.7375958382549846,
+        0.7218902587890624,
+        0.03455436092683639
+      ],
+      "confidence": 1,
+      "text": "BOULoGNe. JACK WAS SERIOUSLY HOUNDeD AND WAS TAKEN TO mY OLA UNIT, THe"
+    },
+    {
+      "box": [
+        0.09155652188042104,
+        0.7473469467421794,
+        0.6872724914550781,
+        0.040952262574861176
+      ],
+      "confidence": 1,
+      "text": "2ª AUST. CASUALT GEARING STATION AT TROIS ARBRES NEAR STEENHERCE. THe"
+    },
+    {
+      "box": [
+        0.7741273111310204,
+        0.7500000001118936,
+        0.05544147491455076,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "FIRST"
+    },
+    {
+      "box": [
+        0.0916894011707636,
+        0.764295573234381,
+        0.7325070190429688,
+        0.036631940846734046
+      ],
+      "confidence": 1,
+      "text": "RePORT 1 RECENCE ABOUT NACK HAS THAT He HAS KILLER. HOWEVER IT WAS NOT UNTIL"
+    },
+    {
+      "box": [
+        0.08968529735490428,
+        0.779212372076366,
+        0.7320237731933593,
+        0.03681987961449529
+      ],
+      "confidence": 1,
+      "text": "Seme meera HAM PASSeD THAT 1 ReCeNCO A LeTTER FROM SISTER ROSS KING RR.C."
+    },
+    {
+      "box": [
+        0.09146516575887446,
+        0.7923789688104058,
+        0.7448850250244141,
+        0.0428284224317097
+      ],
+      "confidence": 1,
+      "text": "MICTATeR BYJACK. He HAD LOST BOTy LEGS ABOve THe Kee AND ROSS SmITH STATED"
+    },
+    {
+      "box": [
+        0.08956657959182415,
+        0.8108062442669396,
+        0.7674495697021485,
+        0.039177015120744896
+      ],
+      "confidence": 1,
+      "text": "THAT HIS BUTTOCK WOUNA VAS ENDUGM TO STOP ANY ORDINARI MAN. SHe REPERRErA TO"
+    },
+    {
+      "box": [
+        0.09765326719446463,
+        0.8277745679802927,
+        0.742674560546875,
+        0.03908101021979993
+      ],
+      "confidence": 1,
+      "text": "NACK AS THE BRAVeST SOUL SHe MAn MURSeR. ROSS KING WON HeR RR.C. ORE SALLIPOLI."
+    },
+    {
+      "box": [
+        0.09559485490655284,
+        0.8445217595016975,
+        0.7202993774414062,
+        0.04029389507047476
+      ],
+      "confidence": 1,
+      "text": "OUR ANISION WAS IN THe BOULOGNe AREA WHEN JACK WAS HEAL ENOUGN To BE"
+    },
+    {
+      "box": [
+        0.09337461811997955,
+        0.85896913340666,
+        0.7186939239501953,
+        0.043722505173147685
+      ],
+      "confidence": 1,
+      "text": "Sent to THe BAse HOSPITaL As WImeRCUX. I WAS ABLeTO See HIm THeRe ON"
+    },
+    {
+      "box": [
+        0.21686616835803513,
+        0.877128801182952,
+        0.6113357543945312,
+        0.036019471132259895
+      ],
+      "confidence": 1,
+      "text": "URTIMATELY HE WAS TRANSFeRRER TO SOUTHALL hOMMON THeRE"
+    },
+    {
+      "box": [
+        0.09742214083735654,
+        0.8904515149108923,
+        0.7922550201416017,
+        0.04293832348891846
+      ],
+      "confidence": 1,
+      "text": "I WAS ABLe R CONTACT Nom oN my LeAve AR THe MAR CHeST ChUB al MorefeRRy Rod."
+    },
+    {
+      "box": [
+        0.09986325884568004,
+        0.9148784850355586,
+        0.7795963287353516,
+        0.036150624539133314
+      ],
+      "confidence": 1,
+      "text": "JACI ReTURNeD TO AUSTRALIA ARE MAAS PROVIDeD WITH FIRSTLY A MOTOR CYCLe"
+    },
+    {
+      "box": [
+        0.09973654634747468,
+        0.930926564030118,
+        0.7816947174072266,
+        0.03742543835222567
+      ],
+      "confidence": 1,
+      "text": "AND SINE CAR AND LATER WITH A MOTOR CAR BIT HAnTA CONTROLS. He merT LoNG"
+    },
+    {
+      "box": [
+        0.10177317800263637,
+        0.9468993666690861,
+        0.7593136596679687,
+        0.03895434945373799
+      ],
+      "confidence": 1,
+      "text": "DISTANCES AND VISITeR Me IN CANBeRRA IN THe CARLY 1930, 1 SAN HAm OFTEN"
+    },
+    {
+      "box": [
+        0.1252566910005202,
+        0.9680232556307641,
+        0.7227925872802735,
+        0.02906976728498356
+      ],
+      "confidence": 1,
+      "text": "she Hame in CARAToN BUT He PASSeR oN SOme YORS AGO BeDra A SURReROR FROm"
+    }
+  ],
+  "text": "TELEGRAM.\nCharges to Pay-Message\nPorterage.\nE.T. No. 2\nD.79/4.8.0.90316\nTo\nNo.\nCaft me Fairyon\nKildonan\nVanta\n•\n03\nASCOT VALE\n20000\nOpen here from right to left..\nSIATION EKOM.\nNo. OF WORDS.\nCHECK.\nEethan\n14\nhecleane\nolE\nhome\nma a\nCOMMONWEALTH OF AUSTRALIA.\nPostmaster-General's Department,\nThis message has\nbeen received\nsubject to the Post and Telegraph\nAct and Regulations.\nAll complaints to\nbe addressed\nin writing to the Deputy Post-\nmaster-General.\nDATH STAME\nOT\n(29-425JL195\nTIME LODGED.\n219\nREMARKS.\n2my\nMack Clark.\nTIME RECEIVED,\nTHIS TELEGRAM EARNS ITS PANCE AMONG THESE RECORAS BECAUSE IT IS A REmINDER\nOF A\nSTERLING FRIEND AN AN HEROIC CHARACTER. I TREN LACK FIRST NHEN He TODIS ME IN MANE\nAS A MANIFEST ChERIS IN THE CUSTOMS OFFICE AT THe RAMAY SHIPPING SHER AT SPENCER STReET\nIN o9I2. We WERe FIRM FRIeNS UNTIL THe VAR SEPARATOR US IN IGIS. JACI WAS ACTING\nNeAR MessInes oN 1917-\nI WAS WITH THe & FIERA AmBULANCE IN THe SAme BRIGARE AS LACIE\nne weRe movinG FRoM FRONT hOMe HORIE TO A REST ARCA NOT FAR FROM THe COAST AT\nBOULoGNe. JACK WAS SERIOUSLY HOUNDeD AND WAS TAKEN TO mY OLA UNIT, THe\n2ª AUST. CASUALT GEARING STATION AT TROIS ARBRES NEAR STEENHERCE. THe\nFIRST\nRePORT 1 RECENCE ABOUT NACK HAS THAT He HAS KILLER. HOWEVER IT WAS NOT UNTIL\nSeme meera HAM PASSeD THAT 1 ReCeNCO A LeTTER FROM SISTER ROSS KING RR.C.\nMICTATeR BYJACK. He HAD LOST BOTy LEGS ABOve THe Kee AND ROSS SmITH STATED\nTHAT HIS BUTTOCK WOUNA VAS ENDUGM TO STOP ANY ORDINARI MAN. SHe REPERRErA TO\nNACK AS THE BRAVeST SOUL SHe MAn MURSeR. ROSS KING WON HeR RR.C. ORE SALLIPOLI.\nOUR ANISION WAS IN THe BOULOGNe AREA WHEN JACK WAS HEAL ENOUGN To BE\nSent to THe BAse HOSPITaL As WImeRCUX. I WAS ABLeTO See HIm THeRe ON\nURTIMATELY HE WAS TRANSFeRRER TO SOUTHALL hOMMON THeRE\nI WAS ABLe R CONTACT Nom oN my LeAve AR THe MAR CHeST ChUB al MorefeRRy Rod.\nJACI ReTURNeD TO AUSTRALIA ARE MAAS PROVIDeD WITH FIRSTLY A MOTOR CYCLe\nAND SINE CAR AND LATER WITH A MOTOR CAR BIT HAnTA CONTROLS. He merT LoNG\nDISTANCES AND VISITeR Me IN CANBeRRA IN THe CARLY 1930, 1 SAN HAm OFTEN\nshe Hame in CARAToN BUT He PASSeR oN SOme YORS AGO BeDra A SURReROR FROm",
+  "source_sha256": "0db467c750d0a77ca6f5c5502db9fda90e1e8b29c6a79b25cbe4f8ddcef150c6",
+  "status": "machine-draft"
+}

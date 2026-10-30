@@ -1,0 +1,75 @@
+{
+  "candidate_names": [
+    "ESSEN DOM",
+    "LAiNG",
+    "OBRIen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-093.jpg",
+  "lines": [
+    {
+      "box": [
+        0.7039264123908954,
+        0.26156320775620767,
+        0.022614250183105478,
+        0.4739409024266412
+      ],
+      "confidence": 1,
+      "text": "1 BOWe KDONALD. DUSSeLL ROgER/SON, DONALDSON, FITZMAURiCE MOLeAN, GARDINeR. LiNTon. MeFAoyer. SURRVAN"
+    },
+    {
+      "box": [
+        0.7248459854328371,
+        0.43895348709853776,
+        0.01232034921646119,
+        0.17441860370990137
+      ],
+      "confidence": 1,
+      "text": "MARTiN MeDoNALd WALKeR OBRIen"
+    },
+    {
+      "box": [
+        0.22987283117262136,
+        0.8749416434663776,
+        0.4272837066650391,
+        0.01947939237802032
+      ],
+      "confidence": 1,
+      "text": "I BELIEVE THIS WAS THE ONLY PHOTO TAKEN"
+    },
+    {
+      "box": [
+        0.23613964675984775,
+        0.8982558143079024,
+        0.3696098327636719,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "OF THE 1920 ESSEN DOM FOOTBALL TEAM."
+    },
+    {
+      "box": [
+        0.2584218133516474,
+        0.9152915925547472,
+        0.44817611694335935,
+        0.021136404454022983
+      ],
+      "confidence": 1,
+      "text": "IT HASA SCRATCH ACTURE TAKEN AT TRAINiNG"
+    },
+    {
+      "box": [
+        0.7426422723521994,
+        0.38508319214457076,
+        0.021080474853515607,
+        0.35770460106860635
+      ],
+      "confidence": 1,
+      "text": "CORNALL COLLiNS FAULKHeR OGDEN AALDLAW - GARDeN, LAiNG"
+    }
+  ],
+  "text": "1 BOWe KDONALD. DUSSeLL ROgER/SON, DONALDSON, FITZMAURiCE MOLeAN, GARDINeR. LiNTon. MeFAoyer. SURRVAN\nMARTiN MeDoNALd WALKeR OBRIen\nI BELIEVE THIS WAS THE ONLY PHOTO TAKEN\nOF THE 1920 ESSEN DOM FOOTBALL TEAM.\nIT HASA SCRATCH ACTURE TAKEN AT TRAINiNG\nCORNALL COLLiNS FAULKHeR OGDEN AALDLAW - GARDeN, LAiNG",
+  "source_sha256": "368f3f38525d3a157fd67b90ae8bf3094de38f2d13909df0d0f07035e5a21739",
+  "status": "machine-draft"
+}

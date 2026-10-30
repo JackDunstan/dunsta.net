@@ -1,0 +1,58 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.2173684686422348,
+      0.3089515455067158,
+      0.07237546145915985,
+      0.0511939637362957
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-060.jpg",
+  "lines": [
+    {
+      "box": [
+        0.5893223863945493,
+        0.45784883713950997,
+        0.24435317993164063,
+        0.014741790494910312
+      ],
+      "confidence": 1,
+      "text": "DESCRIBiNG THE PLAN OF THE"
+    },
+    {
+      "box": [
+        0.5889715902379229,
+        0.4726362428659101,
+        0.2779106712341308,
+        0.0184317992705354
+      ],
+      "confidence": 1,
+      "text": "10,000 TOn'S SUL CARRIER FROm A"
+    },
+    {
+      "box": [
+        0.589322387050765,
+        0.4941860472205808,
+        0.25462011337280277,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "TRAING ON my OFFICE WALL."
+    },
+    {
+      "box": [
+        0.6078028785173789,
+        0.8168604651467274,
+        0.14579054832458505,
+        0.04360465092747534
+      ],
+      "confidence": 1,
+      "text": "Greetings"
+    }
+  ],
+  "text": "DESCRIBiNG THE PLAN OF THE\n10,000 TOn'S SUL CARRIER FROm A\nTRAING ON my OFFICE WALL.\nGreetings",
+  "source_sha256": "a91e19d36735ed54b7e68218f1a0e6851ffc37909edcc129f1868ebf09bba098",
+  "status": "machine-draft"
+}

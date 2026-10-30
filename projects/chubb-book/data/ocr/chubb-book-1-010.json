@@ -1,0 +1,256 @@
+{
+  "candidate_names": [
+    "CAVELL",
+    "Cattaneo",
+    "DEAN HAYDON ANA",
+    "Dr. Barry",
+    "Griffin",
+    "Haydon",
+    "Rev. T. M. Dunleavy Assistant Pastor"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.1689385175704956,
+      0.7423858270049095,
+      0.09319481253623962,
+      0.06592028588056564
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-010.jpg",
+  "lines": [
+    {
+      "box": [
+        0.38193018807630486,
+        0.10167992925978775,
+        0.12114989280700683,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "THE CANBERRA"
+    },
+    {
+      "box": [
+        0.5010266946621011,
+        0.09883720923253314,
+        0.06776180744171145,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "Times"
+    },
+    {
+      "box": [
+        0.4558332870524241,
+        0.11475332551783146,
+        0.11092069625854495,
+        0.014679395235501769
+      ],
+      "confidence": 1,
+      "text": "21-2-19>8"
+    },
+    {
+      "box": [
+        0.1108829599633319,
+        0.13517441879670655,
+        0.03285420656204223,
+        0.00436046458681949
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Drumm"
+    },
+    {
+      "box": [
+        0.12101227554885412,
+        0.4713481699009976,
+        0.8544734954833985,
+        0.018770840186971505
+      ],
+      "confidence": 1,
+      "text": "Left to Right: Rev. D. J. Griffin, Assistant-Pastor at Queanbeyan, Rt. Rev. Dr. Barry (Bishop of Goulburn, who delivered the occa-"
+    },
+    {
+      "box": [
+        0.12099446445693658,
+        0.4822386115869307,
+        0.8545431518554687,
+        0.020780580218759503
+      ],
+      "confidence": 1,
+      "text": "sional sermon yesterday). His Ex-cellency, the Apostolic Delegate (Most Rev. Dr. B. Cattaneo), Rev. P.M. Haydon (now Parish Priest"
+    },
+    {
+      "box": [
+        0.12102525122371581,
+        0.4943837113677694,
+        0.7887094116210939,
+        0.01710595081170818
+      ],
+      "confidence": 1,
+      "text": "of the new Canberra Parish), Rev. T. M. Dunleavy Assistant Pastor at Queanbeyan, who celebratedPontifical High Mass)."
+    },
+    {
+      "box": [
+        0.1600510304184949,
+        0.5043250410053972,
+        0.7599604797363281,
+        0.017858085328767426
+      ],
+      "confidence": 1,
+      "text": "The five churchmen were present at the blessing of Canberra on May 8 last year, when the above group was taken."
+    },
+    {
+      "box": [
+        0.20255069380364488,
+        0.5470273075028957,
+        0.7261470031738282,
+        0.03345072954550554
+      ],
+      "confidence": 1,
+      "text": "/ INCLUDE THIS CUTTING OF ROMAN CATHONE CHURCH DIGNiTARiES BECAUSE I KEN"
+    },
+    {
+      "box": [
+        0.1622176613711683,
+        0.5857558142833882,
+        0.3839835739135742,
+        0.020348836424917804
+      ],
+      "confidence": 1,
+      "text": "FATHERS MAYDON AND MUNLERTY. FATHERA"
+    },
+    {
+      "box": [
+        0.5165221569098134,
+        0.5720160732988432,
+        0.06956470012664795,
+        0.013842340700400801
+      ],
+      "confidence": 1,
+      "text": "HA-1120 n"
+    },
+    {
+      "box": [
+        0.5417613191570783,
+        0.5748407347285674,
+        0.3600408172607422,
+        0.02002025809992103
+      ],
+      "confidence": 1,
+      "text": "LATER BECAME DEAN HAYDON ANA HAS"
+    },
+    {
+      "box": [
+        0.1615167643503005,
+        0.593313298230943,
+        0.7035328674316407,
+        0.03471467096546288
+      ],
+      "confidence": 1,
+      "text": "HiGHLY REGARDER BY ALL DENOMINATiONS IN QUEANBEJAN ANIZ CANBERRA."
+    },
+    {
+      "box": [
+        0.15946782544835827,
+        0.6104916816680965,
+        0.744909896850586,
+        0.03963847881286775
+      ],
+      "confidence": 1,
+      "text": "FATHER DUNLEAYY WAS CLOSELY RELATED TO JACK DUNLEAYY THE HELL KNOWN"
+    },
+    {
+      "box": [
+        0.16593449944931563,
+        0.6424222318610173,
+        0.329342155456543,
+        0.022475111916674395
+      ],
+      "confidence": 1,
+      "text": "BOXiNG PERSONALITY IN SYRNEY."
+    },
+    {
+      "box": [
+        0.17043121272169112,
+        0.8822674422538161,
+        0.14579054832458496,
+        0.011631762001179324
+      ],
+      "confidence": 1,
+      "text": "CANON F.G. VARIA"
+    },
+    {
+      "box": [
+        0.16016427654939058,
+        0.904067197114981,
+        0.16016426086425783,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "CHURCH OF ENGLANA"
+    },
+    {
+      "box": [
+        0.16632443943315384,
+        0.9213085762071451,
+        0.1745379829406738,
+        0.014737935323403173
+      ],
+      "confidence": 1,
+      "text": "RECTOR IN CANBERRA"
+    },
+    {
+      "box": [
+        0.1555610208330186,
+        0.9398342242374363,
+        0.20632118225097656,
+        0.01686795721214296
+      ],
+      "confidence": 1,
+      "text": "HE WAS CHAPLAIN TO THE"
+    },
+    {
+      "box": [
+        0.1581108812601768,
+        0.9549071622074535,
+        0.19507186889648437,
+        0.016023070068089562
+      ],
+      "confidence": 1,
+      "text": "EiGTH BRIGADE I\"A.IF"
+    },
+    {
+      "box": [
+        0.1452122920865291,
+        0.9700181913330894,
+        0.23522573471069338,
+        0.020413910573188643
+      ],
+      "confidence": 1,
+      "text": "ANA A HERO AmOnG FRONT"
+    },
+    {
+      "box": [
+        0.48020739202131835,
+        0.9125884044231737,
+        0.4747908020019531,
+        0.020876797609472586
+      ],
+      "confidence": 1,
+      "text": "THE STONE MARKS THE SPOT WHERE NURSE FaITH CAVELL"
+    },
+    {
+      "box": [
+        0.4530930171203611,
+        0.9325486992517942,
+        0.22309436798095694,
+        0.021357513549157048
+      ],
+      "confidence": 1,
+      "text": "WAS SHOT AT BRUSSELS"
+    }
+  ],
+  "text": "THE CANBERRA\nTimes\n21-2-19>8\nDrumm\nLeft to Right: Rev. D. J. Griffin, Assistant-Pastor at Queanbeyan, Rt. Rev. Dr. Barry (Bishop of Goulburn, who delivered the occa-\nsional sermon yesterday). His Ex-cellency, the Apostolic Delegate (Most Rev. Dr. B. Cattaneo), Rev. P.M. Haydon (now Parish Priest\nof the new Canberra Parish), Rev. T. M. Dunleavy Assistant Pastor at Queanbeyan, who celebratedPontifical High Mass).\nThe five churchmen were present at the blessing of Canberra on May 8 last year, when the above group was taken.\n/ INCLUDE THIS CUTTING OF ROMAN CATHONE CHURCH DIGNiTARiES BECAUSE I KEN\nFATHERS MAYDON AND MUNLERTY. FATHERA\nHA-1120 n\nLATER BECAME DEAN HAYDON ANA HAS\nHiGHLY REGARDER BY ALL DENOMINATiONS IN QUEANBEJAN ANIZ CANBERRA.\nFATHER DUNLEAYY WAS CLOSELY RELATED TO JACK DUNLEAYY THE HELL KNOWN\nBOXiNG PERSONALITY IN SYRNEY.\nCANON F.G. VARIA\nCHURCH OF ENGLANA\nRECTOR IN CANBERRA\nHE WAS CHAPLAIN TO THE\nEiGTH BRIGADE I\"A.IF\nANA A HERO AmOnG FRONT\nTHE STONE MARKS THE SPOT WHERE NURSE FaITH CAVELL\nWAS SHOT AT BRUSSELS",
+  "source_sha256": "cb884cd18aa93940c9c72da3581a308b1ddedc4a2f39835723cdcfc241193dd8",
+  "status": "machine-draft"
+}

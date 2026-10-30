@@ -1,0 +1,58 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.35664573311805725,
+      0.17533354461193085,
+      0.115540511906147,
+      0.08172626793384552
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-055.jpg",
+  "lines": [
+    {
+      "box": [
+        0.23378661509032198,
+        0.5063914614955632,
+        0.3764022064208985,
+        0.022000155124276444
+      ],
+      "confidence": 0.5,
+      "text": "mALcoLm maFADyEN KUnLALUmPuR"
+    },
+    {
+      "box": [
+        0.5564441073207437,
+        0.520243865669613,
+        0.10066414833068837,
+        0.011837849671813228
+      ],
+      "confidence": 1,
+      "text": "mAY 1964"
+    },
+    {
+      "box": [
+        0.17248460201842122,
+        0.9257294428802814,
+        0.1827515411376953,
+        0.011936339522546358
+      ],
+      "confidence": 0.5,
+      "text": "A émAP TRKEN Ar my"
+    },
+    {
+      "box": [
+        0.36550308945741106,
+        0.9229651166334838,
+        0.35523612976074226,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "MOTHERS PLACE BOl HAROLE ST. MIDQLE PARK."
+    }
+  ],
+  "text": "mALcoLm maFADyEN KUnLALUmPuR\nmAY 1964\nA émAP TRKEN Ar my\nMOTHERS PLACE BOl HAROLE ST. MIDQLE PARK.",
+  "source_sha256": "82ced01975ed50439f2dc9e727fee38bbff77744c894b10dca3524c60c54436b",
+  "status": "machine-draft"
+}

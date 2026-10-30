@@ -1,0 +1,183 @@
+{
+  "candidate_names": [
+    "Charles"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-130.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4763860446229781,
+        0.13351016819940198,
+        0.19096508026123055,
+        0.014745645666417562
+      ],
+      "confidence": 1,
+      "text": "54 Rathdown Street,"
+    },
+    {
+      "box": [
+        0.5213849910824401,
+        0.14474375784506965,
+        0.08659346580505367,
+        0.014291554188749389
+      ],
+      "confidence": 1,
+      "text": "CARLTON."
+    },
+    {
+      "box": [
+        0.4763860399588833,
+        0.1802325581372174,
+        0.1498973274230957,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955."
+    },
+    {
+      "box": [
+        0.2032854229078184,
+        0.24127906975821145,
+        0.20739219665527345,
+        0.014689099778125714
+      ],
+      "confidence": 1,
+      "text": "c. E. McFadyen, Esq.,"
+    },
+    {
+      "box": [
+        0.1993814685104985,
+        0.2512059020079813,
+        0.30292047500610353,
+        0.03661777486219331
+      ],
+      "confidence": 1,
+      "text": "Secretar Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.20322840662359148,
+        0.2657680363561902,
+        0.08840971946716308,
+        0.01206857814502127
+      ],
+      "confidence": 1,
+      "text": "Dept. of"
+    },
+    {
+      "box": [
+        0.20299639049345358,
+        0.2760705286461984,
+        0.158688440322876,
+        0.014742474340949885
+      ],
+      "confidence": 1,
+      "text": "497 Collins St.,"
+    },
+    {
+      "box": [
+        0.20123203323057098,
+        0.2891246683012123,
+        0.1478439426422119,
+        0.014654401548134355
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE, C.1."
+    },
+    {
+      "box": [
+        0.20328541921051155,
+        0.3125000000634439,
+        0.12936345100402832,
+        0.01464412024756867
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.3121149982202448,
+        0.33554376664791696,
+        0.35523612976074215,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "It was with great pleasure I read in"
+    },
+    {
+      "box": [
+        0.2361396374765634,
+        0.34571175955705125,
+        0.45174537658691405,
+        0.013299867813825417
+      ],
+      "confidence": 1,
+      "text": "\"Sun\" this morning that you have been awarded"
+    },
+    {
+      "box": [
+        0.20328543870708984,
+        0.35897435891656415,
+        0.42505130767822263,
+        0.01166517559560809
+      ],
+      "confidence": 1,
+      "text": "the C.B.E. Believe me Charles I am thrilled"
+    },
+    {
+      "box": [
+        0.23613963866868715,
+        0.3704686120399776,
+        0.4332648849487305,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "received this honor which is a high one and"
+    },
+    {
+      "box": [
+        0.20328543622294887,
+        0.38372093048056033,
+        0.3449691772460937,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "one in my opinion that you deserve."
+    },
+    {
+      "box": [
+        0.31211499924174574,
+        0.4069767441006853,
+        0.316221752166748,
+        0.013081395446885136
+      ],
+      "confidence": 1,
+      "text": "Congratulations and Best Wishes,"
+    },
+    {
+      "box": [
+        0.4291581179251606,
+        0.43015030964234036,
+        0.16016426086425778,
+        0.01461713236059159
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.4681306444304013,
+        0.4881925030760311,
+        0.11096663475036628,
+        0.013440575671343602
+      ],
+      "confidence": 1,
+      "text": "s. V. Lunch"
+    }
+  ],
+  "text": "54 Rathdown Street,\nCARLTON.\n9th June, 1955.\nc. E. McFadyen, Esq.,\nSecretar Shipping & Transport,\nDept. of\n497 Collins St.,\nMELBOURNE, C.1.\nDear Charles,\nIt was with great pleasure I read in\n\"Sun\" this morning that you have been awarded\nthe C.B.E. Believe me Charles I am thrilled\nreceived this honor which is a high one and\none in my opinion that you deserve.\nCongratulations and Best Wishes,\nYours sincerely,\ns. V. Lunch",
+  "source_sha256": "2b1d560ff61a65d640629ceeb4e868662036692c78909ee490e2caaf0db18d8b",
+  "status": "machine-draft"
+}

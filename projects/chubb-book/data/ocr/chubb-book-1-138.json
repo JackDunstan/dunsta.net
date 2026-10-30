@@ -1,0 +1,274 @@
+{
+  "candidate_names": [
+    "Her Majesty",
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-138.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2546201240098142,
+        0.1264367818569777,
+        0.39630390167236335,
+        0.019009725906277697
+      ],
+      "confidence": 1,
+      "text": "Australian Ruad Gransport Federation"
+    },
+    {
+      "box": [
+        0.1581108863423508,
+        0.1555232558733568,
+        0.10266940116882325,
+        0.008932977519553909
+      ],
+      "confidence": 1,
+      "text": "Telegrams & Cables"
+    },
+    {
+      "box": [
+        0.15811088129952794,
+        0.1656976746389256,
+        0.10061601638793943,
+        0.010252811759051461
+      ],
+      "confidence": 1,
+      "text": "\"Artport, Canberra\""
+    },
+    {
+      "box": [
+        0.14373716600898132,
+        0.17727674643767033,
+        0.13141683578491212,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "Telephones: F673 & B 965"
+    },
+    {
+      "box": [
+        0.17445925982334493,
+        0.20320147720554071,
+        0.06175909996032716,
+        0.009294719847823374
+      ],
+      "confidence": 1,
+      "text": "DCP: BH"
+    },
+    {
+      "box": [
+        0.6468172535343867,
+        0.15406976754971335,
+        0.10472278594970696,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "LONDON CIRCUIT."
+    },
+    {
+      "box": [
+        0.6632443540725066,
+        0.1642441860816901,
+        0.073921971321106,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "P.O. BOX 167"
+    },
+    {
+      "box": [
+        0.6344969200061993,
+        0.1758720933465322,
+        0.12936345100402835,
+        0.010246386051599554
+      ],
+      "confidence": 1,
+      "text": "CANBERRA CITY, A.C.T."
+    },
+    {
+      "box": [
+        0.5051334739459226,
+        0.22369584401984965,
+        0.1519507122039795,
+        0.014676249206435066
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955."
+    },
+    {
+      "box": [
+        0.1745379931881861,
+        0.2601744191952571,
+        0.18069814682006838,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.29568789504202025,
+        0.280523255692255,
+        0.3921971130371093,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "In this morning's paper I was more than"
+    },
+    {
+      "box": [
+        0.1745379912311658,
+        0.29354553485304735,
+        0.5030800628662109,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "pleased to read that Her Majesty has appointed you"
+    },
+    {
+      "box": [
+        0.17453798903382464,
+        0.3050397877672708,
+        0.3408624267578124,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "a Commander of the British Empire."
+    },
+    {
+      "box": [
+        0.2936345019150082,
+        0.32703488402083847,
+        0.36550308227539063,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "I hope that you will accept the very"
+    },
+    {
+      "box": [
+        0.17453798935213244,
+        0.3386383732033813,
+        0.4517453765869141,
+        0.011652324602310804
+      ],
+      "confidence": 1,
+      "text": "sincere congratulations of the Federation and"
+    },
+    {
+      "box": [
+        0.1743695847585461,
+        0.3483380108049403,
+        0.47258861541748043,
+        0.015093706436224652
+      ],
+      "confidence": 1,
+      "text": "particularly those of the Executive Council and"
+    },
+    {
+      "box": [
+        0.2628336919476706,
+        0.36191860508085105,
+        0.39425048828125,
+        0.011644613416083138
+      ],
+      "confidence": 1,
+      "text": "I am sure all of us in our Industry who"
+    },
+    {
+      "box": [
+        0.17248460379050384,
+        0.3735465119703859,
+        0.4845995712280274,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "know you so well will share my own feelings that"
+    },
+    {
+      "box": [
+        0.17248461432205603,
+        0.3850574710613489,
+        0.3326488494873047,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "it was an honour richly deserved."
+    },
+    {
+      "box": [
+        0.5051334738258954,
+        0.4069767440934178,
+        0.1622176551818847,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5168309500121816,
+        0.4301032722264504,
+        0.1860506248474122,
+        0.04095624591479996
+      ],
+      "confidence": 0.5,
+      "text": "Alieman"
+    },
+    {
+      "box": [
+        0.5051334728672976,
+        0.4867374004549476,
+        0.13141683578491203,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "D.C. Pittman."
+    },
+    {
+      "box": [
+        0.1745379940576613,
+        0.591511936374701,
+        0.26283367156982423,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Mr. C.H. Mc Fadyen, C.B.E."
+    },
+    {
+      "box": [
+        0.17864477208879442,
+        0.6118479223813389,
+        0.3449691772460937,
+        0.011698588768430329
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.17453799184063734,
+        0.6250000000236505,
+        0.19096508026123044,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.17248460582483793,
+        0.6366047745819468,
+        0.16016426086425783,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE. VIC."
+    }
+  ],
+  "text": "Australian Ruad Gransport Federation\nTelegrams & Cables\n\"Artport, Canberra\"\nTelephones: F673 & B 965\nDCP: BH\nLONDON CIRCUIT.\nP.O. BOX 167\nCANBERRA CITY, A.C.T.\n9th June, 1955.\nDear Mr. McFadyen,\nIn this morning's paper I was more than\npleased to read that Her Majesty has appointed you\na Commander of the British Empire.\nI hope that you will accept the very\nsincere congratulations of the Federation and\nparticularly those of the Executive Council and\nI am sure all of us in our Industry who\nknow you so well will share my own feelings that\nit was an honour richly deserved.\nYours sincerely,\nAlieman\nD.C. Pittman.\nMr. C.H. Mc Fadyen, C.B.E.\nDepartment of Shipping & Transport,\n497 Collins Street,\nMELBOURNE. VIC.",
+  "source_sha256": "f87181d057fdc92cf952e0085148ab8fe397e512798cb0ec2bf2628b724fccb5",
+  "status": "machine-draft"
+}

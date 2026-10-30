@@ -1,0 +1,106 @@
+{
+  "candidate_names": [
+    "LEiLA"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.5023447275161743,
+      0.6087642908096313,
+      0.09382398426532745,
+      0.0663653314113617
+    ],
+    [
+      0.32370293140411377,
+      0.6094361171126366,
+      0.10511898249387741,
+      0.07435471564531326
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-041.jpg",
+  "lines": [
+    {
+      "box": [
+        0.21765915503801964,
+        0.44164456212715786,
+        0.39425048828125003,
+        0.017683465959327904
+      ],
+      "confidence": 1,
+      "text": "F. CompRy ViCTORIAN SCOTTISH REGIMENT 1912."
+    },
+    {
+      "box": [
+        0.22765524642669263,
+        0.45392098762561783,
+        0.517960090637207,
+        0.019630128572094563
+      ],
+      "confidence": 1,
+      "text": "dom GRIEVES IS ON THE LEFT OF COLOUR SERST ANCHISON CENTRE"
+    },
+    {
+      "box": [
+        0.22749898886672454,
+        0.4669142153629666,
+        0.45651599884033206,
+        0.021739853471912762
+      ],
+      "confidence": 1,
+      "text": "FRONT ROW. DIM. MON THE M.M. WITH Iy BATT. IN FRANCE."
+    },
+    {
+      "box": [
+        0.22763978649165068,
+        0.4837714560385862,
+        0.5158610534667969,
+        0.01945790898789357
+      ],
+      "confidence": 1,
+      "text": "CAPTAIN HODGSON ON EXTREME RIGHT HAS MILLER AT GALLIPOLI."
+    },
+    {
+      "box": [
+        0.7104722779867848,
+        0.6133720929586545,
+        0.018480495214462267,
+        0.01453488364249178
+      ],
+      "confidence": 0.5,
+      "text": "*1"
+    },
+    {
+      "box": [
+        0.33675565138336433,
+        0.8575581395325746,
+        0.15811087608337399,
+        0.014678819320773195
+      ],
+      "confidence": 1,
+      "text": "LEiLA AND ME."
+    },
+    {
+      "box": [
+        0.18219505379397688,
+        0.8769052977849404,
+        0.594301414489746,
+        0.028335837744486003
+      ],
+      "confidence": 1,
+      "text": "LEILA IS OUR NEXT DOOR NEIGHBOUR AND A VERY DRAR FRIEND."
+    },
+    {
+      "box": [
+        0.1806981535455384,
+        0.9053934570912824,
+        0.37782341003417963,
+        0.026292589256765586
+      ],
+      "confidence": 1,
+      "text": "SitE 15 NOW MRS W. CHAMBERMAIN. HU"
+    }
+  ],
+  "text": "F. CompRy ViCTORIAN SCOTTISH REGIMENT 1912.\ndom GRIEVES IS ON THE LEFT OF COLOUR SERST ANCHISON CENTRE\nFRONT ROW. DIM. MON THE M.M. WITH Iy BATT. IN FRANCE.\nCAPTAIN HODGSON ON EXTREME RIGHT HAS MILLER AT GALLIPOLI.\n*1\nLEiLA AND ME.\nLEILA IS OUR NEXT DOOR NEIGHBOUR AND A VERY DRAR FRIEND.\nSitE 15 NOW MRS W. CHAMBERMAIN. HU",
+  "source_sha256": "b10276d7a5de8b8ac902135ebc69d8ba54471ecedd8e9bada147d41c06adb7c8",
+  "status": "machine-draft"
+}

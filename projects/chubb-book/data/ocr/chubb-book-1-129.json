@@ -1,0 +1,286 @@
+{
+  "candidate_names": [
+    "Berry",
+    "Charles",
+    "Ivy",
+    "Stephen Mills"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-129.jpg",
+  "lines": [
+    {
+      "box": [
+        0.6074317569233681,
+        0.22729794082581656,
+        0.3100956916809082,
+        0.0426605514418531
+      ],
+      "confidence": 1,
+      "text": "Commonwealth of Australia,"
+    },
+    {
+      "box": [
+        0.5679012305502308,
+        0.26722614920182974,
+        0.39094650268554687,
+        0.030918727915194344
+      ],
+      "confidence": 1,
+      "text": "Department of Customs and Excise,"
+    },
+    {
+      "box": [
+        0.707818928030321,
+        0.3052325581854216,
+        0.09053498268127436,
+        0.0319767436374625
+      ],
+      "confidence": 1,
+      "text": "Sydney."
+    },
+    {
+      "box": [
+        0.6727807175631605,
+        0.34715748629140375,
+        0.1441504955291748,
+        0.019347816811012386
+      ],
+      "confidence": 1,
+      "text": "6th May, 1963."
+    },
+    {
+      "box": [
+        0.291357278231593,
+        0.38209439337135054,
+        0.13343222618103023,
+        0.018163451878847603
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.48090217125460016,
+        0.4154599124506372,
+        0.39404880523681635,
+        0.023265484786286428
+      ],
+      "confidence": 1,
+      "text": "I was very pleased to receive your note"
+    },
+    {
+      "box": [
+        0.2895006088681205,
+        0.4253142456736365,
+        0.14528717041015626,
+        0.018409486372984674
+      ],
+      "confidence": 1,
+      "text": "congratulating"
+    },
+    {
+      "box": [
+        0.43374888169029563,
+        0.4288740673510396,
+        0.44948909759521477,
+        0.023386296450881083
+      ],
+      "confidence": 1,
+      "text": "me on my appointment as Comptroller-General."
+    },
+    {
+      "box": [
+        0.47893108763524994,
+        0.45774883728015403,
+        0.4042305755615234,
+        0.022935521897494593
+      ],
+      "confidence": 1,
+      "text": "A lot of water has gone under the bridge"
+    },
+    {
+      "box": [
+        0.2897016431297177,
+        0.4691424903118331,
+        0.5728655242919922,
+        0.023775345023866246
+      ],
+      "confidence": 1,
+      "text": "since we formed part of the staff of the Tariff Branch in"
+    },
+    {
+      "box": [
+        0.2875233575957998,
+        0.4822594877751809,
+        0.5154125213623046,
+        0.025405000882098183
+      ],
+      "confidence": 1,
+      "text": "Canberra and when we used to play cricket together."
+    },
+    {
+      "box": [
+        0.2875920096827458,
+        0.4953038680285333,
+        0.603918342590332,
+        0.02946556751803886
+      ],
+      "confidence": 1,
+      "text": "all of Arch Berry's boys have done very well for themselves."
+    },
+    {
+      "box": [
+        0.2876083884249158,
+        0.5112930415713355,
+        0.5832392501831054,
+        0.024865254917751378
+      ],
+      "confidence": 1,
+      "text": "As you thought, I am the first person to be appointed from"
+    },
+    {
+      "box": [
+        0.2875186360954406,
+        0.5257363911148307,
+        0.6223980712890625,
+        0.026560351199901633
+      ],
+      "confidence": 1,
+      "text": "the position of Collector, N.S.W. to Comptroller-General since"
+    },
+    {
+      "box": [
+        0.28550987856969284,
+        0.5385431146505721,
+        0.36315586090087887,
+        0.021329437464791545
+      ],
+      "confidence": 1,
+      "text": "Stephen Mills was appointed in 1913."
+    },
+    {
+      "box": [
+        0.4746755613215099,
+        0.569845865702172,
+        0.4332766342163086,
+        0.024757750042756932
+      ],
+      "confidence": 1,
+      "text": "When next you are in Canberra please get in"
+    },
+    {
+      "box": [
+        0.28327595124859156,
+        0.5792506320607971,
+        0.6328915405273439,
+        0.03167960837536066
+      ],
+      "confidence": 1,
+      "text": "touch with me, as I would like to meet and chat with you again."
+    },
+    {
+      "box": [
+        0.47066919747523,
+        0.6115029388428987,
+        0.41666488647460936,
+        0.025903374061988838
+      ],
+      "confidence": 1,
+      "text": "Ivy joins me in extending to you and your"
+    },
+    {
+      "box": [
+        0.28133299195880107,
+        0.6217063995440566,
+        0.26061687469482425,
+        0.02179039072232203
+      ],
+      "confidence": 1,
+      "text": "good lady our best wishes."
+    },
+    {
+      "box": [
+        0.4662593888059676,
+        0.6551306366607835,
+        0.2155148315429688,
+        0.021460737019461384
+      ],
+      "confidence": 1,
+      "text": "With kindest regards."
+    },
+    {
+      "box": [
+        0.5669289320326547,
+        0.6837543741190983,
+        0.16262290954589842,
+        0.021577113929991176
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5946502084924724,
+        0.7122093026079118,
+        0.13786007881164553,
+        0.027616278442814224
+      ],
+      "confidence": 0.5,
+      "text": "Trauk"
+    },
+    {
+      "box": [
+        0.5653038506764251,
+        0.7350874721003766,
+        0.1635662269592285,
+        0.018322215063411806
+      ],
+      "confidence": 1,
+      "text": "(F.J. Marcusson)"
+    },
+    {
+      "box": [
+        0.27086839236798355,
+        0.7598133416206959,
+        0.2648947715759278,
+        0.0230447732096426
+      ],
+      "confidence": 1,
+      "text": "Mr. C.H. McFadyen, C.B.E.,"
+    },
+    {
+      "box": [
+        0.27280035198295766,
+        0.7731786416949308,
+        0.15419109344482418,
+        0.01958693885129248
+      ],
+      "confidence": 1,
+      "text": "3 Newton Court,"
+    },
+    {
+      "box": [
+        0.2707430707336657,
+        0.7886764786889986,
+        0.1044762802124023,
+        0.017751803246488063
+      ],
+      "confidence": 1,
+      "text": "ST. KILDA."
+    },
+    {
+      "box": [
+        0.4218107023591449,
+        0.7921511631462064,
+        0.09465020179748534,
+        0.01889534805351767
+      ],
+      "confidence": 1,
+      "text": "VICTORIA."
+    }
+  ],
+  "text": "Commonwealth of Australia,\nDepartment of Customs and Excise,\nSydney.\n6th May, 1963.\nDear Charles,\nI was very pleased to receive your note\ncongratulating\nme on my appointment as Comptroller-General.\nA lot of water has gone under the bridge\nsince we formed part of the staff of the Tariff Branch in\nCanberra and when we used to play cricket together.\nall of Arch Berry's boys have done very well for themselves.\nAs you thought, I am the first person to be appointed from\nthe position of Collector, N.S.W. to Comptroller-General since\nStephen Mills was appointed in 1913.\nWhen next you are in Canberra please get in\ntouch with me, as I would like to meet and chat with you again.\nIvy joins me in extending to you and your\ngood lady our best wishes.\nWith kindest regards.\nYours sincerely,\nTrauk\n(F.J. Marcusson)\nMr. C.H. McFadyen, C.B.E.,\n3 Newton Court,\nST. KILDA.\nVICTORIA.",
+  "source_sha256": "0746722f3908946deb21dccf80301508fbe71a7adb6d0b7463f779cbdfcdbdec",
+  "status": "machine-draft"
+}

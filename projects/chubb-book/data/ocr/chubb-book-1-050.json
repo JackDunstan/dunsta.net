@@ -1,0 +1,289 @@
+{
+  "candidate_names": [
+    "ALF",
+    "BORAM",
+    "BRET",
+    "L.C",
+    "MCLARTY",
+    "PAT EGAN",
+    "SAIN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-050.jpg",
+  "lines": [
+    {
+      "box": [
+        0.26078030912688627,
+        0.5375773655753739,
+        0.6324435043334962,
+        0.014748215780755691
+      ],
+      "confidence": 1,
+      "text": "Or THE STEPS OF THE ARMINISTRATIVE BLOCK, STRTE GOYT, ROCKYARa NEWCASTLE."
+    },
+    {
+      "box": [
+        0.23203284785015896,
+        0.5552325584602115,
+        0.6591375732421875,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "MRS MOLARTY A CHARMING SCOTEHOMAN HAS JUST ARUNCHER A SHIP ROE IS STRATING"
+    },
+    {
+      "box": [
+        0.2320328641981274,
+        0.5697674419619767,
+        0.6632443237304687,
+        0.014671108134545419
+      ],
+      "confidence": 1,
+      "text": "ON THE LEFT OF THE NSM. MINISTAR FOR PUBLIC HORKS. THe ROCKYARA DIRECTOR IS ON"
+    },
+    {
+      "box": [
+        0.23408624914500634,
+        0.5826702029887169,
+        0.5852156066894532,
+        0.016357206012378445
+      ],
+      "confidence": 1,
+      "text": "HIS RIGHT. L.C. AS THEY FACE YOU. RiOR MCLARTY IS MEXT TO DIRS HARDING."
+    },
+    {
+      "box": [
+        0.23819302487915764,
+        0.5959302325987997,
+        0.7186858367919922,
+        0.021802325463737726
+      ],
+      "confidence": 1,
+      "text": "I AM IN THe FRONT LET WITH H.P. HEMOUTH CHAIRMAN SHIPBUILDING BORAM ON MY LEFT."
+    },
+    {
+      "box": [
+        0.7994736161670236,
+        0.6308640734941866,
+        0.17672365188598638,
+        0.02463913469795198
+      ],
+      "confidence": 1,
+      "text": "PAT HEFFERNAN FROM"
+    },
+    {
+      "box": [
+        0.7999840948233613,
+        0.6492117678203055,
+        0.19283523559570315,
+        0.021875079599341762
+      ],
+      "confidence": 1,
+      "text": "TOONOOnBA HAS A GRERT"
+    },
+    {
+      "box": [
+        0.8038860852347999,
+        0.6648125757196901,
+        0.18896888732910155,
+        0.02237415313720703
+      ],
+      "confidence": 1,
+      "text": "FULL BACK. AM HIS RETURN"
+    },
+    {
+      "box": [
+        0.8020503653329435,
+        0.680725919719721,
+        0.17210626602172852,
+        0.019669300892203312
+      ],
+      "confidence": 1,
+      "text": "TO AUSTRALIA AT THE"
+    },
+    {
+      "box": [
+        0.8038509515627495,
+        0.6936574378620037,
+        0.16014507293701175,
+        0.021616100105535274
+      ],
+      "confidence": 1,
+      "text": "END OF 1918 1 TOIS"
+    },
+    {
+      "box": [
+        0.8035360834995265,
+        0.7056797832691025,
+        0.16064857482910155,
+        0.024454384963139342
+      ],
+      "confidence": 1,
+      "text": "HIS PRACE. PRIOR TO"
+    },
+    {
+      "box": [
+        0.8016815384082886,
+        0.7206003388920541,
+        0.1773765945434571,
+        0.025823100703043056
+      ],
+      "confidence": 1,
+      "text": "THAT / HAEI PRAYeR A"
+    },
+    {
+      "box": [
+        0.8078192882925675,
+        0.7346694437391583,
+        0.181006145477295,
+        0.02578967909808705
+      ],
+      "confidence": 1,
+      "text": "FEr GAmES AS HING 3"
+    },
+    {
+      "box": [
+        0.8060961959579594,
+        0.7554564292699729,
+        0.17638502120971677,
+        0.0190328417574801
+      ],
+      "confidence": 1,
+      "text": "/ WAS FURA BASIS MOTH"
+    },
+    {
+      "box": [
+        0.8017886079435624,
+        0.7684010125520246,
+        0.17249925613403316,
+        0.02321154833050776
+      ],
+      "confidence": 1,
+      "text": "THE 8' BRIGARE SURE"
+    },
+    {
+      "box": [
+        0.8019270128424452,
+        0.7834126694154855,
+        0.17026741027832037,
+        0.021759808959421312
+      ],
+      "confidence": 1,
+      "text": "THAT WON THE SAIN"
+    },
+    {
+      "box": [
+        0.8062066411741919,
+        0.7994271544712893,
+        0.1641176986694336,
+        0.020648084416208135
+      ],
+      "confidence": 1,
+      "text": "CHAMDONSHIP AFTER"
+    },
+    {
+      "box": [
+        0.8078912014686535,
+        0.8125513977861314,
+        0.13369377136230465,
+        0.020165978860897216
+      ],
+      "confidence": 1,
+      "text": "THE ARMISTICE"
+    },
+    {
+      "box": [
+        0.7999327755402849,
+        0.8259546639352638,
+        0.19282215118408197,
+        0.021960683463422948
+      ],
+      "confidence": 1,
+      "text": "Par. H. Is FOURTH FRom THe"
+    },
+    {
+      "box": [
+        0.8063351913109464,
+        0.8413559122529033,
+        0.15941889762878414,
+        0.016633562447221584
+      ],
+      "confidence": 1,
+      "text": "RIGHT IN THE SECOND"
+    },
+    {
+      "box": [
+        0.34702258724517876,
+        0.8720930233843104,
+        0.455852165222168,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "8' FIERA AMBULANCe RUGBY. TEAM. FRANCE 1417"
+    },
+    {
+      "box": [
+        0.8090349097890249,
+        0.8561046513986804,
+        0.07802874565124518,
+        0.011711440604941004
+      ],
+      "confidence": 1,
+      "text": "BACK RoN."
+    },
+    {
+      "box": [
+        0.8952772081140279,
+        0.8575581395746873,
+        0.028747432231903014,
+        0.01889534907252466
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "fric"
+    },
+    {
+      "box": [
+        0.2893416966564432,
+        0.8891956939374968,
+        0.5630217361450196,
+        0.02409706149451185
+      ],
+      "confidence": 1,
+      "text": "PROBABLY THE BRET RUGBY SIRe (AS A UNIT) IN THe ANZAC CORPS."
+    },
+    {
+      "box": [
+        0.3305954849956535,
+        0.9084302326959713,
+        0.572895278930664,
+        0.020393816798688236
+      ],
+      "confidence": 1,
+      "text": "( AM) OM THE RiGHT OF AUB VALL (CAPT) ANA CAPT. RiLeY 15 ON HIS LEFT."
+    },
+    {
+      "box": [
+        0.2975134233571457,
+        0.9284237984461792,
+        0.5466399765014648,
+        0.021384223175723416
+      ],
+      "confidence": 1,
+      "text": "PAT EGAN (THIRE hEFT IN BACK RON) PLAYER WITH ALF. TRAM THAT"
+    },
+    {
+      "box": [
+        0.299794674058538,
+        0.9504862955907137,
+        0.33264884948730467,
+        0.023430592396109562
+      ],
+      "confidence": 1,
+      "text": "BEAT NS.N IN STRNEY IN 1919. 1117"
+    }
+  ],
+  "text": "Or THE STEPS OF THE ARMINISTRATIVE BLOCK, STRTE GOYT, ROCKYARa NEWCASTLE.\nMRS MOLARTY A CHARMING SCOTEHOMAN HAS JUST ARUNCHER A SHIP ROE IS STRATING\nON THE LEFT OF THE NSM. MINISTAR FOR PUBLIC HORKS. THe ROCKYARA DIRECTOR IS ON\nHIS RIGHT. L.C. AS THEY FACE YOU. RiOR MCLARTY IS MEXT TO DIRS HARDING.\nI AM IN THe FRONT LET WITH H.P. HEMOUTH CHAIRMAN SHIPBUILDING BORAM ON MY LEFT.\nPAT HEFFERNAN FROM\nTOONOOnBA HAS A GRERT\nFULL BACK. AM HIS RETURN\nTO AUSTRALIA AT THE\nEND OF 1918 1 TOIS\nHIS PRACE. PRIOR TO\nTHAT / HAEI PRAYeR A\nFEr GAmES AS HING 3\n/ WAS FURA BASIS MOTH\nTHE 8' BRIGARE SURE\nTHAT WON THE SAIN\nCHAMDONSHIP AFTER\nTHE ARMISTICE\nPar. H. Is FOURTH FRom THe\nRIGHT IN THE SECOND\n8' FIERA AMBULANCe RUGBY. TEAM. FRANCE 1417\nBACK RoN.\nfric\nPROBABLY THE BRET RUGBY SIRe (AS A UNIT) IN THe ANZAC CORPS.\n( AM) OM THE RiGHT OF AUB VALL (CAPT) ANA CAPT. RiLeY 15 ON HIS LEFT.\nPAT EGAN (THIRE hEFT IN BACK RON) PLAYER WITH ALF. TRAM THAT\nBEAT NS.N IN STRNEY IN 1919. 1117",
+  "source_sha256": "1d0d1a270d5d97d99746f186c9ddc7f499d576485f04f1f12cbdc81068353362",
+  "status": "machine-draft"
+}

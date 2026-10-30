@@ -1,0 +1,214 @@
+{
+  "candidate_names": [
+    "Fer",
+    "HAR"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-085.jpg",
+  "lines": [
+    {
+      "box": [
+        0.7166324461703824,
+        0.13351016771463353,
+        0.1498973274230957,
+        0.016357206012378445
+      ],
+      "confidence": 0.5,
+      "text": "SERS\" JiM SREivES"
+    },
+    {
+      "box": [
+        0.7446960869014932,
+        0.1505366726890588,
+        0.12848809242248538,
+        0.017732557841468766
+      ],
+      "confidence": 1,
+      "text": "EGyPT. doy. Igi5."
+    },
+    {
+      "box": [
+        0.7186858281211609,
+        0.1802325586332416,
+        0.18891170501708987,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Jem wor THE M.M. WH"
+    },
+    {
+      "box": [
+        0.7161378369400875,
+        0.19491723895193558,
+        0.18766540527343745,
+        0.01925304692788632
+      ],
+      "confidence": 1,
+      "text": "THE FAmoUS 14\" BATT. AT"
+    },
+    {
+      "box": [
+        0.7207392251256641,
+        0.2192749777739691,
+        0.15811087608337404,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "BULLECOURT IN 1917."
+    },
+    {
+      "box": [
+        0.714579054555372,
+        0.2470930233988453,
+        0.21560575485229494,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "dIm. MARRIED ONLY FRANKLiN."
+    },
+    {
+      "box": [
+        0.7142258455150258,
+        0.260103037712893,
+        0.23256649017333986,
+        0.019089453416414548
+      ],
+      "confidence": 1,
+      "text": "1 WIRE BEST MAN RITHE NEGRING."
+    },
+    {
+      "box": [
+        0.7145790583614229,
+        0.29069767458666496,
+        0.2505133438110352,
+        0.011689593368247042
+      ],
+      "confidence": 1,
+      "text": "dim WAS KIALEG AND ONLY SERIOUSLY"
+    },
+    {
+      "box": [
+        0.7084188959234031,
+        0.3081343942051824,
+        0.24640655517578125,
+        0.011633047479954972
+      ],
+      "confidence": 1,
+      "text": "INJURED IN A CAR ACCIRENT SOME"
+    },
+    {
+      "box": [
+        0.7121359393190742,
+        0.325881273896625,
+        0.08907514572143549,
+        0.0182955907995358
+      ],
+      "confidence": 1,
+      "text": "YEARS AGO."
+    },
+    {
+      "box": [
+        0.29774127578949455,
+        0.6976127320925988,
+        0.21149896621704095,
+        0.010236104751033759
+      ],
+      "confidence": 1,
+      "text": "OCH EARN FROM THE BRAES SP BALOUHIDDER"
+    },
+    {
+      "box": [
+        0.2977412824025535,
+        0.7236958440198497,
+        0.49691989898681643,
+        0.014676249206434955
+      ],
+      "confidence": 1,
+      "text": "/ HAR A DENGHTRUL SUNDRY TOUR OF THE HIGHLANES IN THE"
+    },
+    {
+      "box": [
+        0.2729746713784192,
+        0.7397599369937616,
+        0.5177389144897462,
+        0.017263823963708402
+      ],
+      "confidence": 1,
+      "text": "LATE AUTUMN OF 1956. HE HAS ARRANGED BY ANAREN dONNSON"
+    },
+    {
+      "box": [
+        0.2832406054976762,
+        0.7540103302043817,
+        0.536188507080078,
+        0.016714595251648312
+      ],
+      "confidence": 1,
+      "text": "OR BURTISLAND SHIP BUILEING CO. THe WeATHER AND THe SCeNeR"
+    },
+    {
+      "box": [
+        0.28523093622300133,
+        0.7716484266084257,
+        0.1708883476257324,
+        0.013047854105631584
+      ],
+      "confidence": 1,
+      "text": "WeRe mAGNIFICeNT"
+    },
+    {
+      "box": [
+        0.7125256706814013,
+        0.8284703801823958,
+        0.21971252441406242,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "A Fer FRIENDS ON THE HONE"
+    },
+    {
+      "box": [
+        0.7084188994275018,
+        0.8443854991495581,
+        0.2156057357788086,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "VOYRGE OF H.MA.T BREmEN"
+    },
+    {
+      "box": [
+        0.9240246426754404,
+        0.8502906977562085,
+        0.049281311035156206,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "1919."
+    },
+    {
+      "box": [
+        0.7084188978595898,
+        0.8677325583366651,
+        0.23613962173461922,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "/ THINKY THIS SNAP WAS TAKEN"
+    },
+    {
+      "box": [
+        0.7185874425435622,
+        0.8832697867014326,
+        0.12956023216247559,
+        0.015437170849976312
+      ],
+      "confidence": 1,
+      "text": "AT PERTH W.A."
+    }
+  ],
+  "text": "SERS\" JiM SREivES\nEGyPT. doy. Igi5.\nJem wor THE M.M. WH\nTHE FAmoUS 14\" BATT. AT\nBULLECOURT IN 1917.\ndIm. MARRIED ONLY FRANKLiN.\n1 WIRE BEST MAN RITHE NEGRING.\ndim WAS KIALEG AND ONLY SERIOUSLY\nINJURED IN A CAR ACCIRENT SOME\nYEARS AGO.\nOCH EARN FROM THE BRAES SP BALOUHIDDER\n/ HAR A DENGHTRUL SUNDRY TOUR OF THE HIGHLANES IN THE\nLATE AUTUMN OF 1956. HE HAS ARRANGED BY ANAREN dONNSON\nOR BURTISLAND SHIP BUILEING CO. THe WeATHER AND THe SCeNeR\nWeRe mAGNIFICeNT\nA Fer FRIENDS ON THE HONE\nVOYRGE OF H.MA.T BREmEN\n1919.\n/ THINKY THIS SNAP WAS TAKEN\nAT PERTH W.A.",
+  "source_sha256": "e3535197aac5b462a742b4cc472686dca28008969b4f49eac09bcbc843c80f66",
+  "status": "machine-draft"
+}

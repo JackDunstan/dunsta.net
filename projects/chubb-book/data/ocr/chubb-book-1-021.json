@@ -1,0 +1,447 @@
+{
+  "candidate_names": [
+    "Bree",
+    "Cupo",
+    "Hand",
+    "Somme",
+    "Thomas splen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-021.jpg",
+  "lines": [
+    {
+      "box": [
+        0.31006160548450423,
+        0.2136627903366397,
+        0.2361396217346191,
+        0.07994186172013151
+      ],
+      "confidence": 1,
+      "text": "Greeting"
+    },
+    {
+      "box": [
+        0.1309047359841481,
+        0.35829051215919017,
+        0.6826610565185546,
+        0.035039050087899204
+      ],
+      "confidence": 1,
+      "text": "9 les Acrinalia in saventas 1915 as fin Class Harrant affecr of the"
+    },
+    {
+      "box": [
+        0.06920632365567293,
+        0.3816951485490725,
+        0.695315933227539,
+        0.03997534592524765
+      ],
+      "confidence": 1,
+      "text": "2 A.C.C.S. after arce wish the uns in Egypt and France I wans"
+    },
+    {
+      "box": [
+        0.07932114434498252,
+        0.4028028038078768,
+        0.715971908569336,
+        0.038604604786840024
+      ],
+      "confidence": 1,
+      "text": "mamases deutenant 4. m. 8\" Fued ambulance and joined the latter"
+    },
+    {
+      "box": [
+        0.0858747880682317,
+        0.42876136259024156,
+        0.5448256301879884,
+        0.02236416021561216
+      ],
+      "confidence": 1,
+      "text": "unt as achas Somme. France in February 1907."
+    },
+    {
+      "box": [
+        0.08350020166811646,
+        0.4445533015060108,
+        0.4405874633789063,
+        0.03204027811686205
+      ],
+      "confidence": 1,
+      "text": "rama 4 Captan tavele months later."
+    },
+    {
+      "box": [
+        0.6262833710463106,
+        0.42296511658198477,
+        0.16016426086425783,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "I assauned the"
+    },
+    {
+      "box": [
+        0.1528016867829818,
+        0.4528927097198766,
+        0.6627957153320313,
+        0.044923173548582884
+      ],
+      "confidence": 1,
+      "text": "Me Cranally daring Mation under Li. Cal. Srupton Ances Yes"
+    },
+    {
+      "box": [
+        0.07694761184259434,
+        0.47420482209462556,
+        0.7029348754882813,
+        0.050747671557358154
+      ],
+      "confidence": 1,
+      "text": "Macquare & lynney became the mon epaent unes of is Hand."
+    },
+    {
+      "box": [
+        0.08321497267761721,
+        0.5052428165932072,
+        0.4515247726440429,
+        0.03434201450499674
+      ],
+      "confidence": 1,
+      "text": "Unsun en farward babble areas. Huer"
+    },
+    {
+      "box": [
+        0.5369433124715839,
+        0.4871302493983265,
+        0.25698041915893555,
+        0.03193475670987367
+      ],
+      "confidence": 1,
+      "text": "mum nas a mena hus"
+    },
+    {
+      "box": [
+        0.08650287733020733,
+        0.502874067311741,
+        0.7563770294189452,
+        0.05532306026927569
+      ],
+      "confidence": 1,
+      "text": "tomost practical mestads to hear on the headment of wounded negl"
+    },
+    {
+      "box": [
+        0.0890070555356504,
+        0.550406979766751,
+        0.5406591033935547,
+        0.04437387737945364
+      ],
+      "confidence": 1,
+      "text": "do enter specialis personnel for the mars arend."
+    },
+    {
+      "box": [
+        0.624398688682582,
+        0.532414586385604,
+        0.19807703018188483,
+        0.03164103513898098
+      ],
+      "confidence": 1,
+      "text": "we left amanha"
+    },
+    {
+      "box": [
+        0.0827511184366692,
+        0.5840041480894457,
+        0.4869350051879883,
+        0.0398765314373688
+      ],
+      "confidence": 1,
+      "text": "roused mule me were in Cairo. When me"
+    },
+    {
+      "box": [
+        0.5668360333871243,
+        0.5618558259492856,
+        0.27189163208007816,
+        0.03588280648282938
+      ],
+      "confidence": 1,
+      "text": "renched France in the."
+    },
+    {
+      "box": [
+        0.08547426320650793,
+        0.608023549764314,
+        0.3628554916381836,
+        0.03333171166538873
+      ],
+      "confidence": 1,
+      "text": "carly ammmer y 196 we were wo"
+    },
+    {
+      "box": [
+        0.08717287598646696,
+        0.619703803096423,
+        0.40877487182617184,
+        0.0393275405114778
+      ],
+      "confidence": 1,
+      "text": "recame M the natic wantone than han"
+    },
+    {
+      "box": [
+        0.44461861243487605,
+        0.5818317329378944,
+        0.3926055908203125,
+        0.055080872526430236
+      ],
+      "confidence": 0.5,
+      "text": "Congreen as a throned und"
+    },
+    {
+      "box": [
+        0.6180698161560966,
+        0.604651162933729,
+        0.12936345100402835,
+        0.017441860033704848
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "кентанем"
+    },
+    {
+      "box": [
+        0.748378285327166,
+        0.5947003573788691,
+        0.0928817176818848,
+        0.01878354235310975
+      ],
+      "confidence": 1,
+      "text": "me wee"
+    },
+    {
+      "box": [
+        0.08071489794549698,
+        0.6352759037376426,
+        0.4647187042236329,
+        0.042096982057067134
+      ],
+      "confidence": 1,
+      "text": "satired an a Reloan farmers propula"
+    },
+    {
+      "box": [
+        0.5811088289247925,
+        0.6220159151274449,
+        0.13141683578491214,
+        0.017683465959328015
+      ],
+      "confidence": 0.5,
+      "text": "Troo artes"
+    },
+    {
+      "box": [
+        0.7124084384675047,
+        0.6035905099715864,
+        0.14497056007385256,
+        0.03543368743437769
+      ],
+      "confidence": 0.5,
+      "text": "almasede the"
+    },
+    {
+      "box": [
+        0.08510971381519578,
+        0.6474227131963175,
+        0.4592692565917969,
+        0.06133012577667374
+      ],
+      "confidence": 1,
+      "text": "alman from Barlent t armentores."
+    },
+    {
+      "box": [
+        0.7050970593286127,
+        0.6213360133698855,
+        0.15153770446777348,
+        0.02946697474580018
+      ],
+      "confidence": 1,
+      "text": "maneers and"
+    },
+    {
+      "box": [
+        0.08518353612403193,
+        0.6908209728631576,
+        0.3481190299987793,
+        0.04239035116477308
+      ],
+      "confidence": 1,
+      "text": "eratna centre couton 10 ma"
+    },
+    {
+      "box": [
+        0.20225128259020295,
+        0.644258990252358,
+        0.5983335876464844,
+        0.07964297631058836
+      ],
+      "confidence": 1,
+      "text": "havers the felt was gen the from me and less on a"
+    },
+    {
+      "box": [
+        0.312970357345721,
+        0.6780826959433176,
+        0.5309426116943359,
+        0.053774704667554296
+      ],
+      "confidence": 1,
+      "text": "had brought w. pons an tray lamann pom"
+    },
+    {
+      "box": [
+        0.08448911599631508,
+        0.6897190166641395,
+        0.7537086486816408,
+        0.08162619728203058
+      ],
+      "confidence": 0.5,
+      "text": "and tone moto ran plant. lone ens a smale mun"
+    },
+    {
+      "box": [
+        0.6289755574203766,
+        0.7214870909435543,
+        0.18188007354736324,
+        0.03713143008878861
+      ],
+      "confidence": 1,
+      "text": "west and later"
+    },
+    {
+      "box": [
+        0.47508070816384307,
+        0.7379835332674257,
+        0.37110233306884766,
+        0.04664115163733962
+      ],
+      "confidence": 1,
+      "text": "Bree fung was a delistsful character"
+    },
+    {
+      "box": [
+        0.5961978851448662,
+        0.7753138487345038,
+        0.2427862167358399,
+        0.02932059290554534
+      ],
+      "confidence": 1,
+      "text": "in a corner 7 the full"
+    },
+    {
+      "box": [
+        0.08070125253146287,
+        0.8114754093729035,
+        0.5003775405883789,
+        0.05169414989090304
+      ],
+      "confidence": 0.5,
+      "text": "and ellenasely provenen te saton wh"
+    },
+    {
+      "box": [
+        0.5862921481037331,
+        0.7941243811943802,
+        0.2653874397277832,
+        0.031664758103806534
+      ],
+      "confidence": 1,
+      "text": "elecas hght, they made"
+    },
+    {
+      "box": [
+        0.0827499180983574,
+        0.811733050161855,
+        0.7201517486572265,
+        0.06755756678357783
+      ],
+      "confidence": 1,
+      "text": "Thomas splen fo thigh cases and prosen the wisdom y say"
+    },
+    {
+      "box": [
+        0.45431090506210253,
+        0.8246236614484632,
+        0.4079405975341797,
+        0.04252558066505552
+      ],
+      "confidence": 1,
+      "text": "caster mas another Rea too prosens"
+    },
+    {
+      "box": [
+        0.1129363491784818,
+        0.8968023256211989,
+        0.16632442474365236,
+        0.01889534907252466
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "сока нил ?"
+    },
+    {
+      "box": [
+        0.21876109231818908,
+        0.9166354219491711,
+        0.23004432678222658,
+        0.025158921772141407
+      ],
+      "confidence": 1,
+      "text": "were kims were"
+    },
+    {
+      "box": [
+        0.11375175616906141,
+        0.9049524903067576,
+        0.7440950775146485,
+        0.06670333093294101
+      ],
+      "confidence": 1,
+      "text": "were alaster t the une. I mas the champrace y me army Cupo"
+    },
+    {
+      "box": [
+        0.1136542286467077,
+        0.9251654733537684,
+        0.7334876251220702,
+        0.049870306364104944
+      ],
+      "confidence": 1,
+      "text": "and there were continuas impedions of hush vening French and"
+    },
+    {
+      "box": [
+        0.11426463912081118,
+        0.9598942404905932,
+        0.4307643508911133,
+        0.0297830111151981
+      ],
+      "confidence": 1,
+      "text": "Berth maliary o Medical persomel"
+    },
+    {
+      "box": [
+        0.6242299831988575,
+        0.9809902742255079,
+        0.15605749130249025,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "metical speero"
+    }
+  ],
+  "text": "Greeting\n9 les Acrinalia in saventas 1915 as fin Class Harrant affecr of the\n2 A.C.C.S. after arce wish the uns in Egypt and France I wans\nmamases deutenant 4. m. 8\" Fued ambulance and joined the latter\nunt as achas Somme. France in February 1907.\nrama 4 Captan tavele months later.\nI assauned the\nMe Cranally daring Mation under Li. Cal. Srupton Ances Yes\nMacquare & lynney became the mon epaent unes of is Hand.\nUnsun en farward babble areas. Huer\nmum nas a mena hus\ntomost practical mestads to hear on the headment of wounded negl\ndo enter specialis personnel for the mars arend.\nwe left amanha\nroused mule me were in Cairo. When me\nrenched France in the.\ncarly ammmer y 196 we were wo\nrecame M the natic wantone than han\nCongreen as a throned und\nкентанем\nme wee\nsatired an a Reloan farmers propula\nTroo artes\nalmasede the\nalman from Barlent t armentores.\nmaneers and\neratna centre couton 10 ma\nhavers the felt was gen the from me and less on a\nhad brought w. pons an tray lamann pom\nand tone moto ran plant. lone ens a smale mun\nwest and later\nBree fung was a delistsful character\nin a corner 7 the full\nand ellenasely provenen te saton wh\nelecas hght, they made\nThomas splen fo thigh cases and prosen the wisdom y say\ncaster mas another Rea too prosens\nсока нил ?\nwere kims were\nwere alaster t the une. I mas the champrace y me army Cupo\nand there were continuas impedions of hush vening French and\nBerth maliary o Medical persomel\nmetical speero",
+  "source_sha256": "582fcfb31c84b0b503806b22e718001594e8762b1a2c855d30ecfc2a7deaeda5",
+  "status": "machine-draft"
+}

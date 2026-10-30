@@ -1,0 +1,178 @@
+{
+  "candidate_names": [
+    "ANA",
+    "HeRT",
+    "TERRIER"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.3632337152957916,
+      0.727119617164135,
+      0.0542227178812027,
+      0.038353823125362396
+    ],
+    [
+      0.485220342874527,
+      0.8192565478384495,
+      0.054294224828481674,
+      0.038404401391744614
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-149.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3504451075238481,
+        0.21908737432373493,
+        0.24073833465576172,
+        0.05044220739713712
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "УД ВІМ В"
+    },
+    {
+      "box": [
+        0.2791579527781568,
+        0.39348737271437273,
+        0.28562660217285163,
+        0.03715316138364477
+      ],
+      "confidence": 1,
+      "text": "DRUMMOND"
+    },
+    {
+      "box": [
+        0.3514717436993136,
+        0.4295010607520827,
+        0.3512266159057617,
+        0.06662420379072032
+      ],
+      "confidence": 1,
+      "text": "Gorms HOTEL"
+    },
+    {
+      "box": [
+        0.28131417058824437,
+        0.5043604650585992,
+        0.21355236053466797,
+        0.014649260476244708
+      ],
+      "confidence": 1,
+      "text": "ST • FILLANS •"
+    },
+    {
+      "box": [
+        0.5215605775421743,
+        0.5029069767976552,
+        0.18069814682006835,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "PERTHSHIRE"
+    },
+    {
+      "box": [
+        0.2854209514201082,
+        0.5247093025274585,
+        0.4168377685546875,
+        0.010215542571508807
+      ],
+      "confidence": 1,
+      "text": "TELEGRAMS: HOTEL • ST. FILLANS TELEPHONE: ST. FILLANS 212 € 213"
+    },
+    {
+      "box": [
+        0.19486332174553966,
+        0.5510361208968269,
+        0.5384442520141601,
+        0.019099161331891823
+      ],
+      "confidence": 1,
+      "text": "IF YOU OPEN THE WINGS OF THE ABOYE FOLDER MY SUNGRY RUN IN"
+    },
+    {
+      "box": [
+        0.16191661829245035,
+        0.5635299895234277,
+        0.5303046035766601,
+        0.02054018852038264
+      ],
+      "confidence": 1,
+      "text": "THE HIGHARIAS IN THE LATE AUTUMN OF 1956 CAT BE TRACKO."
+    },
+    {
+      "box": [
+        0.19276727566584825,
+        0.5781820825207414,
+        0.5282857513427734,
+        0.020151848291317775
+      ],
+      "confidence": 1,
+      "text": "IN A CHAUFFEUR DRIVeN CAR PROYIMER BY MOVARA JOHNSTON OF"
+    },
+    {
+      "box": [
+        0.176370145101083,
+        0.5942224176066918,
+        0.5610861206054687,
+        0.02109648841972578
+      ],
+      "confidence": 1,
+      "text": "BURNTISLANG SHIPBUNLAING CO. I HeRT FROM ERINBURGH THROUGH"
+    },
+    {
+      "box": [
+        0.18239679870621658,
+        0.6084755825975693,
+        0.5264131927490234,
+        0.022310761199600404
+      ],
+      "confidence": 1,
+      "text": "STIRRING TO CALAMADER ANA ON TO THE DRUmmONa ARMS FOR"
+    },
+    {
+      "box": [
+        0.1823051775087913,
+        0.6178603498316619,
+        0.5246994400024414,
+        0.029135966279884018
+      ],
+      "confidence": 1,
+      "text": "LUNCH, / NETURNER TO ERNBURCH YIR THE RELIGHTFUL CITY OF"
+    },
+    {
+      "box": [
+        0.18227501174039973,
+        0.6383912820194408,
+        0.34179275512695306,
+        0.020631333139488728
+      ],
+      "confidence": 1,
+      "text": "PERTH WHICH IS THE H.Q. OF THE FAmOUS"
+    },
+    {
+      "box": [
+        0.18587903973078965,
+        0.639564388437707,
+        0.5528284072875976,
+        0.04558614837079844
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "MACROY FOR A VISITE TA BUTSARN SHIPLARBY RANNY"
+    },
+    {
+      "box": [
+        0.33059549282682127,
+        0.9680232561320303,
+        0.30390142440795903,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "ULTE MALCOLM AND THE TERRIER."
+    }
+  ],
+  "text": "УД ВІМ В\nDRUMMOND\nGorms HOTEL\nST • FILLANS •\nPERTHSHIRE\nTELEGRAMS: HOTEL • ST. FILLANS TELEPHONE: ST. FILLANS 212 € 213\nIF YOU OPEN THE WINGS OF THE ABOYE FOLDER MY SUNGRY RUN IN\nTHE HIGHARIAS IN THE LATE AUTUMN OF 1956 CAT BE TRACKO.\nIN A CHAUFFEUR DRIVeN CAR PROYIMER BY MOVARA JOHNSTON OF\nBURNTISLANG SHIPBUNLAING CO. I HeRT FROM ERINBURGH THROUGH\nSTIRRING TO CALAMADER ANA ON TO THE DRUmmONa ARMS FOR\nLUNCH, / NETURNER TO ERNBURCH YIR THE RELIGHTFUL CITY OF\nPERTH WHICH IS THE H.Q. OF THE FAmOUS\nMACROY FOR A VISITE TA BUTSARN SHIPLARBY RANNY\nULTE MALCOLM AND THE TERRIER.",
+  "source_sha256": "7c9b9d7d4cb51c7ec29aa331ff30302b4daa171a20d735f37f644270baffc772",
+  "status": "machine-draft"
+}

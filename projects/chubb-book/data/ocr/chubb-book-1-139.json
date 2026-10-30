@@ -1,0 +1,358 @@
+{
+  "candidate_names": [
+    "ANDREW AmESS Ara",
+    "BARFE LONGE",
+    "Charles"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.3918422758579254,
+      0.6734941974282265,
+      0.08549785614013672,
+      0.06047593802213669
+    ],
+    [
+      0.5502035617828369,
+      0.7344250790774822,
+      0.08355368673801422,
+      0.05910075083374977
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-139.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3511293656293175,
+        0.05377906940206423,
+        0.3080082130432129,
+        0.023255814502557537
+      ],
+      "confidence": 1,
+      "text": "The Adolaide Steamship Co. Ltd."
+    },
+    {
+      "box": [
+        0.5420944594589617,
+        0.08267020320009533,
+        0.13347022056579594,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "505 Collins Street"
+    },
+    {
+      "box": [
+        0.5748306971988781,
+        0.09995903776926429,
+        0.07210452079772944,
+        0.013744715143367281
+      ],
+      "confidence": 1,
+      "text": "Meltourne"
+    },
+    {
+      "box": [
+        0.540041072268989,
+        0.1293604656047862,
+        0.1519507122039795,
+        0.016086042085440178
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955."
+    },
+    {
+      "box": [
+        0.3264887070031193,
+        0.16424418598295265,
+        0.1293634510040283,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.42505133885191826,
+        0.1874447393378763,
+        0.2874743270874023,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "I have noted with pleasure in"
+    },
+    {
+      "box": [
+        0.3264887162974312,
+        0.20910698481966428,
+        0.39425048828125003,
+        0.013276735519962335
+      ],
+      "confidence": 1,
+      "text": "this morning's Press the honour bestowed"
+    },
+    {
+      "box": [
+        0.3264887058335572,
+        0.23386383727809346,
+        0.3655030822753906,
+        0.014682674492280334
+      ],
+      "confidence": 1,
+      "text": "on you by Her Majesty The Queen and I"
+    },
+    {
+      "box": [
+        0.326488725469231,
+        0.25862068973361085,
+        0.39425048828125,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "send you my very hearty congratulations."
+    },
+    {
+      "box": [
+        0.4229979480040273,
+        0.28052325590449434,
+        0.2977412605285645,
+        0.011696019075698949
+      ],
+      "confidence": 1,
+      "text": "At some later date I will 100k"
+    },
+    {
+      "box": [
+        0.32425623608462545,
+        0.3019080787157786,
+        0.4049103164672852,
+        0.016485230254452365
+      ],
+      "confidence": 1,
+      "text": "forward to the opportunity of celebrating"
+    },
+    {
+      "box": [
+        0.32443532417329946,
+        0.32703488392999547,
+        0.3162217521667481,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "your honour in a fitting manner."
+    },
+    {
+      "box": [
+        0.42094456779772615,
+        0.35013262587847827,
+        0.20944557189941404,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "With kindest regards."
+    },
+    {
+      "box": [
+        0.48870636948554347,
+        0.3880813953597908,
+        0.11498972892761228,
+        0.008912415340029067
+      ],
+      "confidence": 1,
+      "text": "ours sincer"
+    },
+    {
+      "box": [
+        0.5256673507478874,
+        0.39244186031024486,
+        0.18275154113769532,
+        0.04360465092747534
+      ],
+      "confidence": 1,
+      "text": "Ball had"
+    },
+    {
+      "box": [
+        0.32200264743739254,
+        0.44088199302043873,
+        0.2081746864318848,
+        0.017115096303870647
+      ],
+      "confidence": 1,
+      "text": "C. E. McFadyen, Esq.,"
+    },
+    {
+      "box": [
+        0.35039304519557946,
+        0.4527821189471981,
+        0.10003795623779294,
+        0.014456729568494975
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.3796973539366577,
+        0.46649687697811326,
+        0.3474069976806641,
+        0.014699174491416889
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.399971085842701,
+        0.4763161035785618,
+        0.18782468795776364,
+        0.015178002476376018
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.4271047267981746,
+        0.48982558196258674,
+        0.16221765518188475,
+        0.015988370994884815
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE. C.1."
+    },
+    {
+      "box": [
+        0.27926078487448974,
+        0.8764534887204509,
+        0.22587268829345702,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "UNCLE ANDREW AmESS Ara"
+    },
+    {
+      "box": [
+        0.513347023318895,
+        0.8779069767834052,
+        0.08829568862915038,
+        0.01466596790586927
+      ],
+      "confidence": 1,
+      "text": "AunT TeLL."
+    },
+    {
+      "box": [
+        0.7667752878934496,
+        0.21575781837895036,
+        0.1890437698364258,
+        0.02464915881844143
+      ],
+      "confidence": 1,
+      "text": "BARFE LONGE JOINED HIS"
+    },
+    {
+      "box": [
+        0.7630031730824434,
+        0.23764448872403166,
+        0.16384943008422848,
+        0.02095603436943083
+      ],
+      "confidence": 1,
+      "text": "BROTHER'S FIRM- SOUTH"
+    },
+    {
+      "box": [
+        0.7731717471647088,
+        0.25368517088141473,
+        0.17035255432128915,
+        0.019467741698948826
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIRN RUBARR CO"
+    },
+    {
+      "box": [
+        0.7693804843544529,
+        0.27145657410722634,
+        0.1738811683654785,
+        0.018040276754229145
+      ],
+      "confidence": 1,
+      "text": "AS GENERAL MANAGER"
+    },
+    {
+      "box": [
+        0.777367104701311,
+        0.2827219323035818,
+        0.19069778442382812,
+        0.02228190475180547
+      ],
+      "confidence": 1,
+      "text": "FOR VICTORIA. I VISITeD"
+    },
+    {
+      "box": [
+        0.7720739258281949,
+        0.305039788175022,
+        0.1519507122039795,
+        0.016357206012378445
+      ],
+      "confidence": 1,
+      "text": "HIm AT HIs H.Q. AT"
+    },
+    {
+      "box": [
+        0.7761806972995978,
+        0.3241279073482928,
+        0.10677618026733404,
+        0.011627906408065547
+      ],
+      "confidence": 0.5,
+      "text": "RANGEdOriG."
+    },
+    {
+      "box": [
+        0.7734742777889164,
+        0.33925917022946916,
+        0.1635321998596192,
+        0.016380964392165298
+      ],
+      "confidence": 1,
+      "text": "HE WAS KILLER IN M"
+    },
+    {
+      "box": [
+        0.7732192246736677,
+        0.3531630314509777,
+        0.16603614807128897,
+        0.01985781473147985
+      ],
+      "confidence": 1,
+      "text": "MOTOR CAR ACCIDeNT"
+    },
+    {
+      "box": [
+        0.7711726783974191,
+        0.3689431756595647,
+        0.1741730690002442,
+        0.021104352227572787
+      ],
+      "confidence": 1,
+      "text": "WHILe On A BUSINeSS"
+    },
+    {
+      "box": [
+        0.7694440308131237,
+        0.3879405780564916,
+        0.1632528305053711,
+        0.017133637722565154
+      ],
+      "confidence": 1,
+      "text": "TRiP TO ENGLAND."
+    }
+  ],
+  "text": "The Adolaide Steamship Co. Ltd.\n505 Collins Street\nMeltourne\n9th June, 1955.\nDear Charles,\nI have noted with pleasure in\nthis morning's Press the honour bestowed\non you by Her Majesty The Queen and I\nsend you my very hearty congratulations.\nAt some later date I will 100k\nforward to the opportunity of celebrating\nyour honour in a fitting manner.\nWith kindest regards.\nours sincer\nBall had\nC. E. McFadyen, Esq.,\nSecretary,\nDepartment of Shipping & Transport,\n497 Collins Street,\nMELBOURNE. C.1.\nUNCLE ANDREW AmESS Ara\nAunT TeLL.\nBARFE LONGE JOINED HIS\nBROTHER'S FIRM- SOUTH\nAUSTRALIRN RUBARR CO\nAS GENERAL MANAGER\nFOR VICTORIA. I VISITeD\nHIm AT HIs H.Q. AT\nRANGEdOriG.\nHE WAS KILLER IN M\nMOTOR CAR ACCIDeNT\nWHILe On A BUSINeSS\nTRiP TO ENGLAND.",
+  "source_sha256": "8d20eb091a5d8e6082a77321ca1a073a5c07eba785b8d0ba286aba3dca71f415",
+  "status": "machine-draft"
+}

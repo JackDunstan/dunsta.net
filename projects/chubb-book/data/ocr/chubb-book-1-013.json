@@ -1,0 +1,353 @@
+{
+  "candidate_names": [
+    "Devonport"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-013.jpg",
+  "lines": [
+    {
+      "box": [
+        0.49679930779051235,
+        0.13404242711165348,
+        0.14816774368286129,
+        0.01137052058751975
+      ],
+      "confidence": 1,
+      "text": "3 HEYINGTON PLACE,"
+    },
+    {
+      "box": [
+        0.5236139621697703,
+        0.14970930242132185,
+        0.07597536087036127,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "TOORAK."
+    },
+    {
+      "box": [
+        0.5215605772916783,
+        0.16860465118510892,
+        0.12731005668640138,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "16.7.63"
+    },
+    {
+      "box": [
+        0.2639497588051182,
+        0.19075198762099932,
+        0.2585021781921386,
+        0.03188530899169273
+      ],
+      "confidence": 1,
+      "text": "Wear he lue Fadyen"
+    },
+    {
+      "box": [
+        0.5112936304594694,
+        0.22811671095355934,
+        0.17864477157592773,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "Your letter won"
+    },
+    {
+      "box": [
+        0.2772073867675253,
+        0.25145348824669134,
+        0.4312115097045899,
+        0.01910354098211242
+      ],
+      "confidence": 1,
+      "text": "one tat I especially apprenated"
+    },
+    {
+      "box": [
+        0.27496531286418596,
+        0.27434630825244977,
+        0.39665321350097643,
+        0.022891841453329675
+      ],
+      "confidence": 1,
+      "text": "I too recall our very luffy"
+    },
+    {
+      "box": [
+        0.2689938403964999,
+        0.29354553522741844,
+        0.4209445571899414,
+        0.02917771883289122
+      ],
+      "confidence": 1,
+      "text": "associtin a to part- an"
+    },
+    {
+      "box": [
+        0.26855593099413144,
+        0.30987090563906383,
+        0.4403401565551758,
+        0.03026697511276666
+      ],
+      "confidence": 1,
+      "text": "assocatin basel on mutual"
+    },
+    {
+      "box": [
+        0.38775661532605243,
+        0.33323834500720473,
+        0.2881646156311035,
+        0.024415052432491202
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "sam hat to man"
+    },
+    {
+      "box": [
+        0.025885002711595072,
+        0.4471145988597858,
+        0.13721216201782227,
+        0.020750669754257767
+      ],
+      "confidence": 1,
+      "text": "ARCHIE SLEN IS"
+    },
+    {
+      "box": [
+        0.032376897885344036,
+        0.4732723997967154,
+        0.15088836669921876,
+        0.016592405202850435
+      ],
+      "confidence": 1,
+      "text": "How HEAR OF THE"
+    },
+    {
+      "box": [
+        0.03771729370058214,
+        0.48931631467697523,
+        0.15873878479003906,
+        0.02224330665999874
+      ],
+      "confidence": 1,
+      "text": "1.C./. ORGANISATION"
+    },
+    {
+      "box": [
+        0.05564982972322584,
+        0.5030208584563628,
+        0.12230393409729003,
+        0.025311674932586126
+      ],
+      "confidence": 1,
+      "text": "IM AUSTRARiA"
+    },
+    {
+      "box": [
+        0.030154525909228944,
+        0.5293007705126652,
+        0.16978151321411133,
+        0.020674566375165848
+      ],
+      "confidence": 1,
+      "text": "HE IS FArI ONTA SCOTCH"
+    },
+    {
+      "box": [
+        0.04214002243074624,
+        0.5486180260156217,
+        0.0944362449645996,
+        0.018213960156832742
+      ],
+      "confidence": 1,
+      "text": "COLLEGIAN."
+    },
+    {
+      "box": [
+        0.12625727641757997,
+        0.5710563842735961,
+        0.06851136684417725,
+        0.025312637882249578
+      ],
+      "confidence": 1,
+      "text": "28/5/65"
+    },
+    {
+      "box": [
+        0.2732424403020008,
+        0.4477529268763435,
+        0.1308364200592041,
+        0.03218681342194929
+      ],
+      "confidence": 1,
+      "text": "shooting."
+    },
+    {
+      "box": [
+        0.344535545482007,
+        0.4715755690659351,
+        0.27812328338623044,
+        0.02811385170745173
+      ],
+      "confidence": 1,
+      "text": "many tanks al"
+    },
+    {
+      "box": [
+        0.28493522901870977,
+        0.5008469462926058,
+        0.26998088836669915,
+        0.02634284224371053
+      ],
+      "confidence": 1,
+      "text": "warned regard,"
+    },
+    {
+      "box": [
+        0.4229979503795714,
+        0.5247093021403241,
+        0.2176591300964355,
+        0.026162790893770493
+      ],
+      "confidence": 0.5,
+      "text": "Your sucerly"
+    },
+    {
+      "box": [
+        0.45174537641399154,
+        0.5494186046759254,
+        0.19712526321411133,
+        0.021802325463737726
+      ],
+      "confidence": 0.5,
+      "text": "Archiblem"
+    },
+    {
+      "box": [
+        0.19194686161607577,
+        0.9463603056315951,
+        0.06188276767730716,
+        0.017330360243954956
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.3282666266879478,
+        0.7331475940002974,
+        0.25727302551269526,
+        0.02028865628702048
+      ],
+      "confidence": 1,
+      "text": "The Chairman and Members of the"
+    },
+    {
+      "box": [
+        0.2645411164056981,
+        0.7477986640736489,
+        0.2802115440368652,
+        0.028744280180184933
+      ],
+      "confidence": 1,
+      "text": "Australian Coastal Shipping"
+    },
+    {
+      "box": [
+        0.5503080077757896,
+        0.7514534881685474,
+        0.10061601638793938,
+        0.01889534907252466
+      ],
+      "confidence": 1,
+      "text": "Commission"
+    },
+    {
+      "box": [
+        0.31827515009036117,
+        0.7776162787680816,
+        0.27926078796386716,
+        0.01598837268131159
+      ],
+      "confidence": 1,
+      "text": "request the pleasure of the company of"
+    },
+    {
+      "box": [
+        0.3388090382084748,
+        0.800872093045574,
+        0.2053388023376465,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "C. H. McFadyen, Esq."
+    },
+    {
+      "box": [
+        0.32854209322780564,
+        0.8183023873438907,
+        0.2648870658874512,
+        0.024756852343059244
+      ],
+      "confidence": 1,
+      "text": "on the Inaugural Yoyage of"
+    },
+    {
+      "box": [
+        0.31622176817698633,
+        0.8443854997807255,
+        0.2751539993286133,
+        0.023430592396109562
+      ],
+      "confidence": 1,
+      "text": "MY Princess of Tasmania"
+    },
+    {
+      "box": [
+        0.34496919989844604,
+        0.8691423522377957,
+        0.22587268829345702,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "from Melbourne to Devonport"
+    },
+    {
+      "box": [
+        0.33059548297127916,
+        0.8866279070834384,
+        0.2505133438110352,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "on September 23rd 1959, at 8 p.m."
+    },
+    {
+      "box": [
+        0.2525667417056614,
+        0.9084302325051515,
+        0.410677604675293,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "The Yessel sails for return to Melbourne at 8 p.m., Soptember 26th"
+    },
+    {
+      "box": [
+        0.26283367260953566,
+        0.9460654290647247,
+        0.2094455909729004,
+        0.014690384835294612
+      ],
+      "confidence": 1,
+      "text": "9 P. O. Box 2238 J. Molbourne"
+    }
+  ],
+  "text": "3 HEYINGTON PLACE,\nTOORAK.\n16.7.63\nWear he lue Fadyen\nYour letter won\none tat I especially apprenated\nI too recall our very luffy\nassocitin a to part- an\nassocatin basel on mutual\nsam hat to man\nARCHIE SLEN IS\nHow HEAR OF THE\n1.C./. ORGANISATION\nIM AUSTRARiA\nHE IS FArI ONTA SCOTCH\nCOLLEGIAN.\n28/5/65\nshooting.\nmany tanks al\nwarned regard,\nYour sucerly\nArchiblem\nSecretary,\nThe Chairman and Members of the\nAustralian Coastal Shipping\nCommission\nrequest the pleasure of the company of\nC. H. McFadyen, Esq.\non the Inaugural Yoyage of\nMY Princess of Tasmania\nfrom Melbourne to Devonport\non September 23rd 1959, at 8 p.m.\nThe Yessel sails for return to Melbourne at 8 p.m., Soptember 26th\n9 P. O. Box 2238 J. Molbourne",
+  "source_sha256": "c9db2cf55a78d7564aacbcd239334aa684657aea5eefe8e0cefbbf3367206dbe",
+  "status": "machine-draft"
+}

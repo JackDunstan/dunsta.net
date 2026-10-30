@@ -1,0 +1,404 @@
+{
+  "candidate_names": [
+    "Charles",
+    "Charles Hector McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-104.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3039014510074084,
+        0.19040697686760777,
+        0.4784394073486328,
+        0.010300361825553384
+      ],
+      "confidence": 1,
+      "text": "COMMERCIAL COUNSELLOR AND AUSTRALIAN GOVERNMENT"
+    },
+    {
+      "box": [
+        0.40657085194351417,
+        0.2033598584890124,
+        0.27310060501098643,
+        0.010302931939891513
+      ],
+      "confidence": 1,
+      "text": "TRADE COMMISSIONER IN MALAYA"
+    },
+    {
+      "box": [
+        0.19712526076593734,
+        0.21220159152606421,
+        0.09240245819091797,
+        0.007275152585866862
+      ],
+      "confidence": 1,
+      "text": "CABLE ADDRESS:"
+    },
+    {
+      "box": [
+        0.19507187122458702,
+        0.2192749780554265,
+        0.1314168357849121,
+        0.008922696218988113
+      ],
+      "confidence": 1,
+      "text": "\"AUSTCOM\" SINGAPORE"
+    },
+    {
+      "box": [
+        0.19712525826800878,
+        0.2294429708280452,
+        0.06570841789245604,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "P. O. BOX 99"
+    },
+    {
+      "box": [
+        0.1950718687510554,
+        0.23837209311553986,
+        0.06365502834320066,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "SINGAPORE"
+    },
+    {
+      "box": [
+        0.19507187256562566,
+        0.25287356320916043,
+        0.1149897289276123,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "TELEPHONE: 33825"
+    },
+    {
+      "box": [
+        0.761806985399952,
+        0.21352785125817464,
+        0.08008213043212886,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "6TH. FLOOR,"
+    },
+    {
+      "box": [
+        0.7823408653806807,
+        0.22236958442326338,
+        0.10266940116882328,
+        0.00728157829331888
+      ],
+      "confidence": 1,
+      "text": "CROSBY HOUSE"
+    },
+    {
+      "box": [
+        0.8028747482374,
+        0.23110465112789447,
+        0.11088294982910152,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "ROBINSON ROAD."
+    },
+    {
+      "box": [
+        0.8234086290059114,
+        0.2396109638377124,
+        0.09856262207031241,
+        0.008935547633892038
+      ],
+      "confidence": 1,
+      "text": "SINGAPORE, 1."
+    },
+    {
+      "box": [
+        0.6570841960052427,
+        0.2789566755980839,
+        0.16016426086425772,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "22nd June, 1955."
+    },
+    {
+      "box": [
+        0.3018480596342071,
+        0.31104651220120094,
+        0.2792607688903808,
+        0.016097608443174982
+      ],
+      "confidence": 1,
+      "text": "C.H. McFadyen, Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.30595482993944856,
+        0.32558139545669007,
+        0.09240245819091797,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "secretary."
+    },
+    {
+      "box": [
+        0.3058482666360485,
+        0.335097817794747,
+        0.3390493774414061,
+        0.012354457831614596
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Iransport,"
+    },
+    {
+      "box": [
+        0.3011440282445914,
+        0.3460455573581438,
+        0.10209945678710936,
+        0.014716928348827873
+      ],
+      "confidence": 1,
+      "text": "Melbourne."
+    },
+    {
+      "box": [
+        0.30174765917490987,
+        0.38179924938052334,
+        0.1316176223754883,
+        0.01547126871205129
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.4002547301161438,
+        0.405227876309759,
+        0.04343304634094236,
+        0.012218665908017456
+      ],
+      "confidence": 1,
+      "text": "News"
+    },
+    {
+      "box": [
+        0.4496919845981023,
+        0.4069767445188355,
+        0.3655030822753907,
+        0.011679312067681136
+      ],
+      "confidence": 1,
+      "text": "comes slowly to us in Singapore but I"
+    },
+    {
+      "box": [
+        0.3018480563748526,
+        0.4186046512680438,
+        0.16016426086425778,
+        0.010219398164622695
+      ],
+      "confidence": 1,
+      "text": "was most pleased"
+    },
+    {
+      "box": [
+        0.4620123253590174,
+        0.41715116312348666,
+        0.33264884948730467,
+        0.011672886360229229
+      ],
+      "confidence": 1,
+      "text": "to read in the New Year's Honours"
+    },
+    {
+      "box": [
+        0.30184805067555437,
+        0.4302325582629566,
+        0.04517453670501709,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "that"
+    },
+    {
+      "box": [
+        0.3469229577201608,
+        0.42841902343499494,
+        0.4786465454101563,
+        0.016035821983816367
+      ],
+      "confidence": 1,
+      "text": "one, Charles Hector McFadyen, had been appointed"
+    },
+    {
+      "box": [
+        0.30178183373797823,
+        0.4403673517750957,
+        0.49500816345214843,
+        0.013422785555757821
+      ],
+      "confidence": 1,
+      "text": "Commander of the British Empire and this brief and"
+    },
+    {
+      "box": [
+        0.30390144238952443,
+        0.4534883722164449,
+        0.15811087608337404,
+        0.01026052252367271
+      ],
+      "confidence": 1,
+      "text": "somewhat hurried"
+    },
+    {
+      "box": [
+        0.46406571242463995,
+        0.4534883724258122,
+        0.26488704681396485,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "noteis to convey to you my"
+    },
+    {
+      "box": [
+        0.30390144513255274,
+        0.4651162793541068,
+        0.16016426086425778,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "congratulations."
+    },
+    {
+      "box": [
+        0.4024640834709502,
+        0.48673740056499315,
+        0.42505130767822263,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Should you ever be passing through this way"
+    },
+    {
+      "box": [
+        0.3039014382706766,
+        0.49854651178039844,
+        0.05954825401306152,
+        0.010295221175270486
+      ],
+      "confidence": 1,
+      "text": "I feel"
+    },
+    {
+      "box": [
+        0.37166324505219295,
+        0.5014534883830466,
+        0.04722792625427247,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "sure"
+    },
+    {
+      "box": [
+        0.42094456964938504,
+        0.4985465118369722,
+        0.40657081604003903,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "that you and I could adequately celebrate"
+    },
+    {
+      "box": [
+        0.3038257583942217,
+        0.5098731035567493,
+        0.09050043106079103,
+        0.012230536244170587
+      ],
+      "confidence": 1,
+      "text": "the award"
+    },
+    {
+      "box": [
+        0.39835729075823517,
+        0.5101679925632614,
+        0.2915810966491698,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "and, of course, the occasion."
+    },
+    {
+      "box": [
+        0.40235490905857707,
+        0.5343814425470903,
+        0.1295817661285401,
+        0.015539440826227158
+      ],
+      "confidence": 1,
+      "text": "Kind regards,"
+    },
+    {
+      "box": [
+        0.5496939069932424,
+        0.5550462077649222,
+        0.15942552566528323,
+        0.017881386686910306
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5893223820486463,
+        0.5843023257798023,
+        0.08829568862915038,
+        0.04360465092747534
+      ],
+      "confidence": 0.5,
+      "text": "Mela"
+    },
+    {
+      "box": [
+        0.5789841539632217,
+        0.6379238847775249,
+        0.06379760742187501,
+        0.014849904782997636
+      ],
+      "confidence": 1,
+      "text": "(C. A."
+    },
+    {
+      "box": [
+        0.6405682139969696,
+        0.6392704821508336,
+        0.06793954849243156,
+        0.012156709962772405
+      ],
+      "confidence": 1,
+      "text": "Allen)"
+    },
+    {
+      "box": [
+        0.2073922088813795,
+        0.754199823238297,
+        0.6960985565185547,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "NO RESPONSIBILITY IS ACCEPTED BY THIS OFFICE CONCERNING THE STANDING OF ANY FIRMS MENTIONED"
+    }
+  ],
+  "text": "COMMERCIAL COUNSELLOR AND AUSTRALIAN GOVERNMENT\nTRADE COMMISSIONER IN MALAYA\nCABLE ADDRESS:\n\"AUSTCOM\" SINGAPORE\nP. O. BOX 99\nSINGAPORE\nTELEPHONE: 33825\n6TH. FLOOR,\nCROSBY HOUSE\nROBINSON ROAD.\nSINGAPORE, 1.\n22nd June, 1955.\nC.H. McFadyen, Esq., C.B.E.,\nsecretary.\nDepartment of Shipping & Iransport,\nMelbourne.\nDear Charles,\nNews\ncomes slowly to us in Singapore but I\nwas most pleased\nto read in the New Year's Honours\nthat\none, Charles Hector McFadyen, had been appointed\nCommander of the British Empire and this brief and\nsomewhat hurried\nnoteis to convey to you my\ncongratulations.\nShould you ever be passing through this way\nI feel\nsure\nthat you and I could adequately celebrate\nthe award\nand, of course, the occasion.\nKind regards,\nYours sincerely,\nMela\n(C. A.\nAllen)\nNO RESPONSIBILITY IS ACCEPTED BY THIS OFFICE CONCERNING THE STANDING OF ANY FIRMS MENTIONED",
+  "source_sha256": "565cb89cfcbb58228f05ceef70707aae72cd802240a67df0da2d3823ed66153b",
+  "status": "machine-draft"
+}

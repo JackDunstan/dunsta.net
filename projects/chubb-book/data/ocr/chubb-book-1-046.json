@@ -1,0 +1,204 @@
+{
+  "candidate_names": [
+    "ALEX MOIR",
+    "TERIAN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-046.jpg",
+  "lines": [
+    {
+      "box": [
+        0.7843942541133697,
+        0.14367816113154985,
+        0.1622176551818848,
+        0.016357206012378445
+      ],
+      "confidence": 0.5,
+      "text": "ESSENION AISTRICT"
+    },
+    {
+      "box": [
+        0.7905544176121331,
+        0.16424418596945178,
+        0.14373716354370114,
+        0.01453488364249178
+      ],
+      "confidence": 0.5,
+      "text": "SCOFTISH SOCIETY"
+    },
+    {
+      "box": [
+        0.800821358452005,
+        0.18168604638992947,
+        0.11498972892761228,
+        0.013274165827230844
+      ],
+      "confidence": 1,
+      "text": "CRICKET TEAM"
+    },
+    {
+      "box": [
+        0.808994030294121,
+        0.19611803079329682,
+        0.08016388893127446,
+        0.016194170708154654
+      ],
+      "confidence": 1,
+      "text": "PRR. 1914."
+    },
+    {
+      "box": [
+        0.24024640894985316,
+        0.3473837207877657,
+        0.1683778190612793,
+        0.014685244606618575
+      ],
+      "confidence": 0.5,
+      "text": "O. RANICIN, - SRIMARRW,"
+    },
+    {
+      "box": [
+        0.3059192147354946,
+        0.3647336985104288,
+        0.0822067451477051,
+        0.01617213754291358
+      ],
+      "confidence": 0.5,
+      "text": "ALEX MOIR,"
+    },
+    {
+      "box": [
+        0.49281314238872825,
+        0.3430232563775576,
+        0.07392197132110595,
+        0.015988370994884926
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "в. ВЕннІє,"
+    },
+    {
+      "box": [
+        0.5071610494442571,
+        0.36037163838065545,
+        0.10477440834045404,
+        0.014721838380255425
+      ],
+      "confidence": 0.5,
+      "text": "AnEx. CAmeRon"
+    },
+    {
+      "box": [
+        0.6364667345431729,
+        0.3398460596967874,
+        0.09256960868835451,
+        0.015075322698429483
+      ],
+      "confidence": 0.5,
+      "text": "A. MCFRR-(EN),"
+    },
+    {
+      "box": [
+        0.31416837517882107,
+        0.6030061891190786,
+        0.40862422943115223,
+        0.013272880770061835
+      ],
+      "confidence": 1,
+      "text": "FLEMINGTO PRESE TERIAN FOOTBALL TEAM. 1910"
+    },
+    {
+      "box": [
+        0.25037289579408395,
+        0.6276429045836844,
+        0.6614894866943359,
+        0.021003272868594047
+      ],
+      "confidence": 0.5,
+      "text": "R.OWE, GRYSH, C.CLOWE, L WILLIAMSON, CAMERON, C.MEFRRYEN, J.ERSTON, W.SmITH."
+    },
+    {
+      "box": [
+        0.4969199201462136,
+        0.6453488375637163,
+        0.19507186889648437,
+        0.01308139460367197
+      ],
+      "confidence": 0.5,
+      "text": "EGLIRE, C.VRLARNCE."
+    },
+    {
+      "box": [
+        0.34086243158832785,
+        0.664244186554983,
+        0.39425048828125,
+        0.020548032934322058
+      ],
+      "confidence": 0.5,
+      "text": "C BATTERSEY, ELOWYER, RURIR, DmCLERN, ATHAN."
+    },
+    {
+      "box": [
+        0.6837782361107405,
+        0.6758720932011834,
+        0.06365502834320069,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "J.URIE."
+    },
+    {
+      "box": [
+        0.792607810855011,
+        0.7325375776999057,
+        0.19096508026123038,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "TAKEN IN FRONT OF THE"
+    },
+    {
+      "box": [
+        0.7987679679521008,
+        0.7499999998433529,
+        0.1252566719055176,
+        0.011715296198054892
+      ],
+      "confidence": 1,
+      "text": "TEMAR MOME IN"
+    },
+    {
+      "box": [
+        0.7987679720132721,
+        0.7659883723384256,
+        0.14579054832458493,
+        0.013081394603671859
+      ],
+      "confidence": 0.5,
+      "text": "GERASTONE STReRT"
+    },
+    {
+      "box": [
+        0.8377823434873326,
+        0.7776162796058675,
+        0.1519507122039795,
+        0.013276735519962335
+      ],
+      "confidence": 0.5,
+      "text": "MOONRE PONRS 1419"
+    },
+    {
+      "box": [
+        0.3059548246683926,
+        0.9244031834103009,
+        0.6180698013305663,
+        0.017457281562946902
+      ],
+      "confidence": 0.5,
+      "text": "CHAS. MEFRA-EN, - REVAR, - CAMERON, - AGNAR, BILL MENAR, GRACE MENAR ANEN, MICFRGYEN."
+    }
+  ],
+  "text": "ESSENION AISTRICT\nSCOFTISH SOCIETY\nCRICKET TEAM\nPRR. 1914.\nO. RANICIN, - SRIMARRW,\nALEX MOIR,\nв. ВЕннІє,\nAnEx. CAmeRon\nA. MCFRR-(EN),\nFLEMINGTO PRESE TERIAN FOOTBALL TEAM. 1910\nR.OWE, GRYSH, C.CLOWE, L WILLIAMSON, CAMERON, C.MEFRRYEN, J.ERSTON, W.SmITH.\nEGLIRE, C.VRLARNCE.\nC BATTERSEY, ELOWYER, RURIR, DmCLERN, ATHAN.\nJ.URIE.\nTAKEN IN FRONT OF THE\nTEMAR MOME IN\nGERASTONE STReRT\nMOONRE PONRS 1419\nCHAS. MEFRA-EN, - REVAR, - CAMERON, - AGNAR, BILL MENAR, GRACE MENAR ANEN, MICFRGYEN.",
+  "source_sha256": "fb14a4bd7f023b75c386a665aff8be4ea2ea219801ef0a13c8c364e9fe8fa1fe",
+  "status": "machine-draft"
+}

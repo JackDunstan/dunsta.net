@@ -1,0 +1,274 @@
+{
+  "candidate_names": [
+    "Aust",
+    "CoUrCEL"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-054.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4175893681892937,
+        0.8733491690317383,
+        0.025610666275024396,
+        0.10650609131938693
+      ],
+      "confidence": 1,
+      "text": "MEETING OF THE"
+    },
+    {
+      "box": [
+        0.44901405080550943,
+        0.8585656302775677,
+        0.02835652947425843,
+        0.12593778817659984
+      ],
+      "confidence": 1,
+      "text": "RUSTRALIRA TRANSPORT"
+    },
+    {
+      "box": [
+        0.47086147720225313,
+        0.8769109239649506,
+        0.03918158054351806,
+        0.0990954533179812
+      ],
+      "confidence": 0.5,
+      "text": "AGrISORy COUNCiL"
+    },
+    {
+      "box": [
+        0.5072932906556872,
+        0.8703762534605761,
+        0.02499468684196471,
+        0.11541478218598034
+      ],
+      "confidence": 1,
+      "text": "LEGISRATITE COUNCIL"
+    },
+    {
+      "box": [
+        0.526990899090061,
+        0.892017850469244,
+        0.0224330139160156,
+        0.05752295671997609
+      ],
+      "confidence": 1,
+      "text": "CHAMBER"
+    },
+    {
+      "box": [
+        0.5482546135802949,
+        0.8662790687938542,
+        0.03490761041641233,
+        0.1046511635750822
+      ],
+      "confidence": 1,
+      "text": "BRISBANE **/1/55"
+    },
+    {
+      "box": [
+        0.6895567658315089,
+        0.8614688865736497,
+        0.026095967292785627,
+        0.127334554252321
+      ],
+      "confidence": 1,
+      "text": "1. G. PRTE RSON CHRIR MRN"
+    },
+    {
+      "box": [
+        0.7098369032575382,
+        0.8686801350695038,
+        0.02710260152816779,
+        0.1187765052316464
+      ],
+      "confidence": 0.5,
+      "text": "Aust, RoRa SAFETY CoUrCEL"
+    },
+    {
+      "box": [
+        0.73511293481159,
+        0.9142441862275934,
+        0.012320331335067713,
+        0.023255812816130872
+      ],
+      "confidence": 0.5,
+      "text": "Arra"
+    },
+    {
+      "box": [
+        0.7429118967832128,
+        0.8702722625135392,
+        0.024964356422424228,
+        0.11266351188841806
+      ],
+      "confidence": 1,
+      "text": "BRUCR HRLL REPT. SAT"
+    },
+    {
+      "box": [
+        0.7675436141939613,
+        0.8687603195151884,
+        0.023601593971252388,
+        0.11415804349459135
+      ],
+      "confidence": 1,
+      "text": "ARE SITTING AT TABLE"
+    },
+    {
+      "box": [
+        0.7885010218315484,
+        0.9069767422833098,
+        0.018480501770973157,
+        0.06831395615527946
+      ],
+      "confidence": 1,
+      "text": "T6 MY LEFT."
+    },
+    {
+      "box": [
+        0.8813188279634186,
+        0.6029344736030032,
+        0.03125644445419318,
+        0.17650756026452663
+      ],
+      "confidence": 1,
+      "text": "C.H.MEFARYEN SECY. REPT. S.T."
+    },
+    {
+      "box": [
+        0.9053719187651285,
+        0.6278000511604335,
+        0.02457425594329843,
+        0.1513888816934682
+      ],
+      "confidence": 0.5,
+      "text": "HON. MR HETHEREnL MS.H"
+    },
+    {
+      "box": [
+        0.9204066646420407,
+        0.5970819627002673,
+        0.026527853012084934,
+        0.1808592023099027
+      ],
+      "confidence": 0.5,
+      "text": "HOrI• J. JUGGAN QUEENSLANO"
+    },
+    {
+      "box": [
+        0.9466119010469631,
+        0.6787790700027233,
+        0.0205338954925538,
+        0.09883720741980262
+      ],
+      "confidence": 1,
+      "text": "HOrt MR. HARNER."
+    },
+    {
+      "box": [
+        0.9383971512706094,
+        0.631261180693665,
+        0.031040163040161106,
+        0.03605769230769229
+      ],
+      "confidence": 1,
+      "text": "V.IC."
+    },
+    {
+      "box": [
+        0.8870636466262485,
+        0.44331394987611294,
+        0.018480509519577026,
+        0.13226744688052616
+      ],
+      "confidence": 0.5,
+      "text": "SENATOR HON GEO. MeLERY"
+    },
+    {
+      "box": [
+        0.9096509117966485,
+        0.4011627937670543,
+        0.012320351004600605,
+        0.1686046408089149
+      ],
+      "confidence": 1,
+      "text": "TUNISTER FOR SHIPPING TRANSPORT"
+    },
+    {
+      "box": [
+        0.9199178609076103,
+        0.4694767451145998,
+        0.016427111625671342,
+        0.056686043844720535
+      ],
+      "confidence": 1,
+      "text": "CHAIRMAN"
+    },
+    {
+      "box": [
+        0.9733059506753068,
+        0.5087209302101928,
+        0.016427112221717888,
+        0.053779069139934244
+      ],
+      "confidence": 0.5,
+      "text": "M. JunE"
+    },
+    {
+      "box": [
+        0.9702469235138245,
+        0.45989374513739567,
+        0.0240745866298675,
+        0.042512028539844815
+      ],
+      "confidence": 1,
+      "text": "S AUST."
+    },
+    {
+      "box": [
+        0.8783805735337286,
+        0.15508124142550095,
+        0.03803678274154665,
+        0.22327097278058683
+      ],
+      "confidence": 1,
+      "text": "HON A. FRANCIS MUNISTER FOR MArY"
+    },
+    {
+      "box": [
+        0.9055441377957425,
+        0.21947674430308017,
+        0.024640676975250186,
+        0.15697674198976985
+      ],
+      "confidence": 1,
+      "text": "HOM. MR HAMILTON MT.H.R."
+    },
+    {
+      "box": [
+        0.930184795660719,
+        0.2078488342354945,
+        0.022587287425994917,
+        0.1686046543003289
+      ],
+      "confidence": 1,
+      "text": "HoN mR d. magnEN. TAs."
+    },
+    {
+      "box": [
+        0.9528611344988306,
+        0.21630617537053132,
+        0.031221344470977797,
+        0.15751275586196534
+      ],
+      "confidence": 1,
+      "text": "HON MR STYANTS W.A."
+    }
+  ],
+  "text": "MEETING OF THE\nRUSTRALIRA TRANSPORT\nAGrISORy COUNCiL\nLEGISRATITE COUNCIL\nCHAMBER\nBRISBANE **/1/55\n1. G. PRTE RSON CHRIR MRN\nAust, RoRa SAFETY CoUrCEL\nArra\nBRUCR HRLL REPT. SAT\nARE SITTING AT TABLE\nT6 MY LEFT.\nC.H.MEFARYEN SECY. REPT. S.T.\nHON. MR HETHEREnL MS.H\nHOrI• J. JUGGAN QUEENSLANO\nHOrt MR. HARNER.\nV.IC.\nSENATOR HON GEO. MeLERY\nTUNISTER FOR SHIPPING TRANSPORT\nCHAIRMAN\nM. JunE\nS AUST.\nHON A. FRANCIS MUNISTER FOR MArY\nHOM. MR HAMILTON MT.H.R.\nHoN mR d. magnEN. TAs.\nHON MR STYANTS W.A.",
+  "source_sha256": "e7f4c5e206ad702063b5a59dda5167c1ba29e7a8acb1d4e30fa7975422580a0f",
+  "status": "machine-draft"
+}

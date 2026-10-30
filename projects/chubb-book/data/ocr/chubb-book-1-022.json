@@ -1,0 +1,179 @@
+{
+  "candidate_names": [
+    "ANa",
+    "BOB",
+    "HOULA",
+    "KATE GARDINER"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.2617073059082031,
+      0.2108764424920082,
+      0.07093276083469391,
+      0.05017348378896713
+    ],
+    [
+      0.1965945065021515,
+      0.2311754934489727,
+      0.06357308477163315,
+      0.04496769979596138
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-022.jpg",
+  "lines": [
+    {
+      "box": [
+        0.32510186382796036,
+        0.36426807843717746,
+        0.06842584609985353,
+        0.029109590565810528
+      ],
+      "confidence": 1,
+      "text": "STUDIOS"
+    },
+    {
+      "box": [
+        0.13727815245295957,
+        0.47207188843840275,
+        0.3022950744628906,
+        0.019374154290722867
+      ],
+      "confidence": 1,
+      "text": "KATE GARDINER WITH YOUNG BOB."
+    },
+    {
+      "box": [
+        0.13326348578691735,
+        0.4897210360726929,
+        0.2982180786132812,
+        0.01640595217703933
+      ],
+      "confidence": 1,
+      "text": "BOB. FLEW TyPHOONS IN FRANCE AND"
+    },
+    {
+      "box": [
+        0.13525776752536373,
+        0.5005450684002654,
+        0.3207624053955078,
+        0.01852795594988621
+      ],
+      "confidence": 1,
+      "text": "IS MON DR SARDINER OF BERUMARIS."
+    },
+    {
+      "box": [
+        0.5913757697703711,
+        0.4809902738350389,
+        0.25256673812866215,
+        0.01610274867185124
+      ],
+      "confidence": 1,
+      "text": "MAUMe MOF ANa RUBE FoX"
+    },
+    {
+      "box": [
+        0.18275154286483733,
+        0.7179487181313132,
+        0.2197125244140625,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "MAURE AT THE WHEEL"
+    },
+    {
+      "box": [
+        0.5975359350559266,
+        0.7223695843073913,
+        0.1704312133789062,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "MOTHER ANa ne"
+    },
+    {
+      "box": [
+        0.7412731011059107,
+        0.8212209302852784,
+        0.16837781906127924,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "1 AM SITTING ON THE"
+    },
+    {
+      "box": [
+        0.7409050043186534,
+        0.8379258564693483,
+        0.17327287673950198,
+        0.014337224311052887
+      ],
+      "confidence": 1,
+      "text": "STEP OF THe CAR WITH"
+    },
+    {
+      "box": [
+        0.7432760083718726,
+        0.8559097307108902,
+        0.11098391532897955,
+        0.01492472479134721
+      ],
+      "confidence": 1,
+      "text": "ARTHUR FiRSON"
+    },
+    {
+      "box": [
+        0.7407182137326618,
+        0.8761402693040187,
+        0.19811130523681642,
+        0.019845016439017926
+      ],
+      "confidence": 1,
+      "text": "THE GATE HOULA BE ABOUT"
+    },
+    {
+      "box": [
+        0.7761806992514754,
+        0.8938953488764286,
+        0.08829568862915038,
+        0.014592714587952749
+      ],
+      "confidence": 1,
+      "text": "mia. 1930's ."
+    },
+    {
+      "box": [
+        0.3429158125807744,
+        0.922965116226005,
+        0.030800819396972656,
+        0.007267441821245946
+      ],
+      "confidence": 0.5,
+      "text": "1506"
+    },
+    {
+      "box": [
+        0.5112936359107892,
+        0.9213085762757786,
+        0.07186858177185063,
+        0.008923981697763872
+      ],
+      "confidence": 0.5,
+      "text": "TO. HERCH"
+    },
+    {
+      "box": [
+        0.3220445819266659,
+        0.9366964069361213,
+        0.3579954147338867,
+        0.024484239775559025
+      ],
+      "confidence": 1,
+      "text": "CuSToms TEPT. PICNiC COTTER RIVER FET"
+    }
+  ],
+  "text": "STUDIOS\nKATE GARDINER WITH YOUNG BOB.\nBOB. FLEW TyPHOONS IN FRANCE AND\nIS MON DR SARDINER OF BERUMARIS.\nMAUMe MOF ANa RUBE FoX\nMAURE AT THE WHEEL\nMOTHER ANa ne\n1 AM SITTING ON THE\nSTEP OF THe CAR WITH\nARTHUR FiRSON\nTHE GATE HOULA BE ABOUT\nmia. 1930's .\n1506\nTO. HERCH\nCuSToms TEPT. PICNiC COTTER RIVER FET",
+  "source_sha256": "80918dcaf09825b0aeb6bd6a9aa1f63c9a4e2f21bfe15cbda53f17221f5f1267",
+  "status": "machine-draft"
+}

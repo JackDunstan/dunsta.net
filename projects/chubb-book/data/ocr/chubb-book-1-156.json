@@ -1,0 +1,949 @@
+{
+  "candidate_names": [
+    "HANCOCK VIS",
+    "Murdoch",
+    "Sir Valston",
+    "Valston"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.5753692984580994,
+      0.20153449475765228,
+      0.08346986025571823,
+      0.05904145538806915
+    ],
+    [
+      0.36490505933761597,
+      0.1862814836204052,
+      0.07725591957569122,
+      0.054646093398332596
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-156.jpg",
+  "lines": [
+    {
+      "box": [
+        0.297741280648721,
+        0.08866279050007486,
+        0.2915810966491699,
+        0.01889534907252466
+      ],
+      "confidence": 1,
+      "text": "AIR CHIEF LEAVES"
+    },
+    {
+      "box": [
+        0.31006160220792217,
+        0.11046511649362956,
+        0.2689938354492188,
+        0.021802325463737615
+      ],
+      "confidence": 1,
+      "text": "AFTER 36 YEARS"
+    },
+    {
+      "box": [
+        0.5975359363160794,
+        0.07848837205812709,
+        0.06365502834320069,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "monur-Jung"
+    },
+    {
+      "box": [
+        0.5975359334347015,
+        0.08720930229553958,
+        0.06981519699096672,
+        0.002906976812819595
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Tackobes"
+    },
+    {
+      "box": [
+        0.6077922181316356,
+        0.09298849091588257,
+        0.04724924087524407,
+        0.007336971508940193
+      ],
+      "confidence": 1,
+      "text": "Workers"
+    },
+    {
+      "box": [
+        0.6591375772815242,
+        0.0930232559062375,
+        0.01848049163818355,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "at"
+    },
+    {
+      "box": [
+        0.6837782336020368,
+        0.09302325585778792,
+        0.02053388118743893,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "the"
+    },
+    {
+      "box": [
+        0.5975359354177221,
+        0.10167992924919145,
+        0.06365502834320058,
+        0.0030946065428824054
+      ],
+      "confidence": 0.5,
+      "text": "His Hereas"
+    },
+    {
+      "box": [
+        0.6735112967804534,
+        0.10029069786647393,
+        0.028747429847717276,
+        0.004360464586819601
+      ],
+      "confidence": 1,
+      "text": "Bend"
+    },
+    {
+      "box": [
+        0.712525667816914,
+        0.09302325585778792,
+        0.030800819396972656,
+        0.007267441821245835
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "GMH"
+    },
+    {
+      "box": [
+        0.6180698169860463,
+        0.10610465110972589,
+        0.0369609832763671,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "today"
+    },
+    {
+      "box": [
+        0.6550308052987914,
+        0.10610079593821875,
+        0.09240245819091797,
+        0.007271296992753085
+      ],
+      "confidence": 1,
+      "text": "hearing reports"
+    },
+    {
+      "box": [
+        0.5995893237665934,
+        0.11317418212672203,
+        0.14373716354370114,
+        0.006189213085764811
+      ],
+      "confidence": 1,
+      "text": "from union officials on the"
+    },
+    {
+      "box": [
+        0.5975359385066813,
+        0.12209302343230044,
+        0.03696098089218136,
+        0.0029069763912130675
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "2huaes"
+    },
+    {
+      "box": [
+        0.31211499168935547,
+        0.39964633088614,
+        0.12936344146728512,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "CANBERRA, Today.—"
+    },
+    {
+      "box": [
+        0.44969199158327383,
+        0.3996463304887581,
+        0.07186858177185057,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "RAAF today"
+    },
+    {
+      "box": [
+        0.5462012303755033,
+        0.39964633088614,
+        0.10061601638793949,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "his 58th goodbye"
+    },
+    {
+      "box": [
+        0.6488706404307527,
+        0.3996463307892407,
+        0.08008213043212886,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "to colleagues"
+    },
+    {
+      "box": [
+        0.3018480507737929,
+        0.40843023256909317,
+        0.030800819396972712,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "The"
+    },
+    {
+      "box": [
+        0.3305954835437072,
+        0.40843023256909317,
+        0.053388090133666966,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "retiring"
+    },
+    {
+      "box": [
+        0.38809034963491695,
+        0.40843023265042366,
+        0.03696098327636721,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Chief"
+    },
+    {
+      "box": [
+        0.42915811121820496,
+        0.40843023266859213,
+        0.014373716115951563,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "of"
+    },
+    {
+      "box": [
+        0.44926008760186903,
+        0.40667560711897854,
+        0.05013944625854494,
+        0.009399491638129698
+      ],
+      "confidence": 1,
+      "text": "birthday"
+    },
+    {
+      "box": [
+        0.30385235950844813,
+        0.4155210343536324,
+        0.06169980049133306,
+        0.00907421027739208
+      ],
+      "confidence": 1,
+      "text": "Air Staff,"
+    },
+    {
+      "box": [
+        0.36755647036397354,
+        0.4155614498734861,
+        0.07802874565124512,
+        0.0075154730327144925
+      ],
+      "confidence": 1,
+      "text": "Air Marshal"
+    },
+    {
+      "box": [
+        0.4496919936962464,
+        0.4142441860116154,
+        0.04312114715576171,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "service."
+    },
+    {
+      "box": [
+        0.49897331702714753,
+        0.40843023276576373,
+        0.09650922775268556,
+        0.005813952782426024
+      ],
+      "confidence": 1,
+      "text": "- alter 36 years"
+    },
+    {
+      "box": [
+        0.5975359346457882,
+        0.4069767442783305,
+        0.07597535610198958,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "headquarters."
+    },
+    {
+      "box": [
+        0.3039014395631522,
+        0.4229651163384729,
+        0.07802874565124512,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Sir Valston"
+    },
+    {
+      "box": [
+        0.3921971262541794,
+        0.4229651162900234,
+        0.05338809013366702,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Hancock"
+    },
+    {
+      "box": [
+        0.45995893175398755,
+        0.4200581397396359,
+        0.020533881187438985,
+        0.008720930016852257
+      ],
+      "confidence": 1,
+      "text": "Air"
+    },
+    {
+      "box": [
+        0.48870636482460916,
+        0.42005813971541095,
+        0.04722792625427241,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Marshal"
+    },
+    {
+      "box": [
+        0.5462012336571439,
+        0.42151162804771036,
+        0.051334700584411586,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Murdoch"
+    },
+    {
+      "box": [
+        0.6098562648831285,
+        0.41860465120662516,
+        0.13552360534667962,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "He will receive his tor-"
+    },
+    {
+      "box": [
+        0.4496919989503456,
+        0.42732558134228404,
+        0.14784393310546873,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "was Air Officer Command-"
+    },
+    {
+      "box": [
+        0.5975359347903342,
+        0.424418604598098,
+        0.026694045066833483,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "mal"
+    },
+    {
+      "box": [
+        0.632401089250183,
+        0.4242782158921574,
+        0.04731281280517585,
+        0.007548219223764363
+      ],
+      "confidence": 1,
+      "text": "farewell"
+    },
+    {
+      "box": [
+        0.3039014384755568,
+        0.43147656919737987,
+        0.13963038444519044,
+        0.0075154730327144925
+      ],
+      "confidence": 1,
+      "text": "(left) was farewelled in"
+    },
+    {
+      "box": [
+        0.3018480489157891,
+        0.43895348838635895,
+        0.14168377876281735,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Canberra today by his"
+    },
+    {
+      "box": [
+        0.4496919924835677,
+        0.43459302326676763,
+        0.02258726835250857,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "ing"
+    },
+    {
+      "box": [
+        0.4763860398477046,
+        0.4331395349431242,
+        0.07597535610198974,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Headquarters"
+    },
+    {
+      "box": [
+        0.5564681728851142,
+        0.43459302320274906,
+        0.04106776237487786,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "Opera-"
+    },
+    {
+      "box": [
+        0.5975359371820802,
+        0.43147656949180635,
+        0.1252566719055176,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "senior officers of the"
+    },
+    {
+      "box": [
+        0.4517453804550174,
+        0.44040697676482965,
+        0.032854208946228036,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "tional"
+    },
+    {
+      "box": [
+        0.4948665315257971,
+        0.4404069767793646,
+        0.057494864463806195,
+        0.008720930016852257
+      ],
+      "confidence": 1,
+      "text": "Command"
+    },
+    {
+      "box": [
+        0.30184805200959813,
+        0.447674418569755,
+        0.06160163879394531,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "successor,"
+    },
+    {
+      "box": [
+        0.5626283385466213,
+        0.44040697669112117,
+        0.03696098327636721,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "before"
+    },
+    {
+      "box": [
+        0.3675564692637982,
+        0.44622093019766185,
+        0.024640655517578103,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "Air"
+    },
+    {
+      "box": [
+        0.3921971262541794,
+        0.44622093017949327,
+        0.05338809013366702,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "Marshal"
+    },
+    {
+      "box": [
+        0.44763860212555284,
+        0.4491279073141484,
+        0.08624229431152342,
+        0.004452994605485094
+      ],
+      "confidence": 1,
+      "text": "taking as new"
+    },
+    {
+      "box": [
+        0.5359342923029397,
+        0.4476744185031367,
+        0.028747432231903014,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "post."
+    },
+    {
+      "box": [
+        0.6016427125617496,
+        0.43750000013611845,
+        0.04312114715576165,
+        0.014754641909814348
+      ],
+      "confidence": 1,
+      "text": "vice hasi"
+    },
+    {
+      "box": [
+        0.6283367556841852,
+        0.4375000002047521,
+        0.028747432231903125,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "with"
+    },
+    {
+      "box": [
+        0.6591375779995593,
+        0.4375000000109537,
+        0.053388090133666966,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "many of"
+    },
+    {
+      "box": [
+        0.7207392202112786,
+        0.43168604660534804,
+        0.026694045066833483,
+        0.0058139532040326625
+      ],
+      "confidence": 1,
+      "text": "ser-"
+    },
+    {
+      "box": [
+        0.7125256686452408,
+        0.4375000000109537,
+        0.03490759611129768,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "whom"
+    },
+    {
+      "box": [
+        0.6464627183982486,
+        0.4442889083938051,
+        0.045870957374572696,
+        0.008063506911435425
+      ],
+      "confidence": 1,
+      "text": "worked"
+    },
+    {
+      "box": [
+        0.3018480482760619,
+        0.4549071619058024,
+        0.14373716354370114,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "A. M. Murdoch (Today's"
+    },
+    {
+      "box": [
+        0.4579055456545255,
+        0.4534883721282017,
+        0.1416837787628174,
+        0.008934262576723029
+      ],
+      "confidence": 1,
+      "text": "Sir Valston spent today"
+    },
+    {
+      "box": [
+        0.59753593509261,
+        0.4520348836678654,
+        0.08213552474975594,
+        0.007293144651053796
+      ],
+      "confidence": 1,
+      "text": "than 30 years,"
+    },
+    {
+      "box": [
+        0.6919917859634331,
+        0.4447674419527492,
+        0.02053388118743904,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "for"
+    },
+    {
+      "box": [
+        0.7186858317279909,
+        0.44476744175895067,
+        0.028747432231903014,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "more"
+    },
+    {
+      "box": [
+        0.6796714600254109,
+        0.4504862951783375,
+        0.06776180267333975,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "at a dinner"
+    },
+    {
+      "box": [
+        0.3305954863657989,
+        0.46220930229068524,
+        0.08624229431152347,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "picturegram)."
+    },
+    {
+      "box": [
+        0.451745384354233,
+        0.4606542881724358,
+        0.09240245819091802,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "handing over to"
+    },
+    {
+      "box": [
+        0.5441478449400112,
+        0.46065428812398634,
+        0.053388090133666966,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "Air Mar-"
+    },
+    {
+      "box": [
+        0.5995893223397555,
+        0.4578488373898295,
+        0.03901437282562259,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "at the"
+    },
+    {
+      "box": [
+        0.6365503091568769,
+        0.4578488373145554,
+        0.03490759611129757,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "mess"
+    },
+    {
+      "box": [
+        0.6694045176261227,
+        0.4578488374261669,
+        0.07802874565124507,
+        0.008720930016852257
+      ],
+      "confidence": 1,
+      "text": "at the RAAF"
+    },
+    {
+      "box": [
+        0.31006160353570367,
+        0.4694767441329817,
+        0.07186858177185057,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Sir Valston"
+    },
+    {
+      "box": [
+        0.38378845681968576,
+        0.46340879715687755,
+        0.36180229187011725,
+        0.015507718296202788
+      ],
+      "confidence": 1,
+      "text": "leaves the shal Murdoch and saying base at Fairbairn tonight."
+    },
+    {
+      "box": [
+        0.36340401481626133,
+        0.47801346181204374,
+        0.1746293449401855,
+        0.022170750679535556
+      ],
+      "confidence": 1,
+      "text": "•ELE 'HERALD'"
+    },
+    {
+      "box": [
+        0.5441478428217029,
+        0.4796511633593765,
+        0.09445585250854494,
+        0.02325581281613076
+      ],
+      "confidence": 1,
+      "text": "31/8/65"
+    },
+    {
+      "box": [
+        0.24402769594374674,
+        0.5270146794869012,
+        0.6721399688720703,
+        0.024066943599522106
+      ],
+      "confidence": 1,
+      "text": "THE PUBLICATION OF THE ABOYE IN TONIGHTS HERALD TOOK MY THOUGHTS BACK"
+    },
+    {
+      "box": [
+        0.21720666846904735,
+        0.541643564821511,
+        0.7380921173095704,
+        0.029094267692532094
+      ],
+      "confidence": 1,
+      "text": "TO CANBERRA IN 1928. HE HAD QUITE A GOOD CRICKET TEAM IN THE DEPARTMENT"
+    },
+    {
+      "box": [
+        0.22122232827735822,
+        0.5578071879323122,
+        0.734209976196289,
+        0.03242466367524244
+      ],
+      "confidence": 1,
+      "text": "OF TRAME ANT CUSTOMS AND ME HERE HELL SUPPORTER BY OUR COMPTROLAER GENERAL"
+    },
+    {
+      "box": [
+        0.22322720464625184,
+        0.6059094461330119,
+        0.7077727508544922,
+        0.034157332227253256
+      ],
+      "confidence": 1,
+      "text": "COmMANmANT. ROyAL MOLiTARy COLARSe, HUNTROON. THeY MUST HAVe BREN TANKING"
+    },
+    {
+      "box": [
+        0.22940080505764143,
+        0.6164282002890663,
+        0.7365365600585938,
+        0.038567179604824586
+      ],
+      "confidence": 1,
+      "text": "CRICKET ONE RAY AS A MATCH HAS ARRANGCA BETWeEN THe CARETS AND THe TRAMe"
+    },
+    {
+      "box": [
+        0.2271949423171445,
+        0.6348934505763624,
+        0.689399185180664,
+        0.03493372767926528
+      ],
+      "confidence": 1,
+      "text": "* CUSTomS SIRe. IT TOO PLACE DNe SUNRY AS A SOCIAL OCCASION ON THe"
+    },
+    {
+      "box": [
+        0.22502557601197487,
+        0.6467752265151654,
+        0.685391845703125,
+        0.041081274219786135
+      ],
+      "confidence": 1,
+      "text": "RELIGHTFUL COLLEGE OVAL WHEN WAS REMINAFUL OF ONE OF THOSE BEAUTIRUL"
+    },
+    {
+      "box": [
+        0.2310609288708477,
+        0.6586156777205161,
+        0.728857421875,
+        0.04631114659532842
+      ],
+      "confidence": 1,
+      "text": "CRiCKET GReeNS IN ON ENGLAND DE MHICH WE REAR AND SEE SO MUCH IN THE SPHERE"
+    },
+    {
+      "box": [
+        0.26257076992585904,
+        0.7013498567016176,
+        0.08060794830322265,
+        0.01735842575761304
+      ],
+      "confidence": 0.5,
+      "text": "'TATER',"
+    },
+    {
+      "box": [
+        0.29704619382724873,
+        0.6934889363278935,
+        0.6523067474365234,
+        0.04170772103900722
+      ],
+      "confidence": 1,
+      "text": "THe CARETS MIR US PROUDAY. EACH MEMBER OF THE MUNTROON TeAM TOON A"
+    },
+    {
+      "box": [
+        0.2333953133235593,
+        0.717077115338385,
+        0.6586093902587891,
+        0.03474934389905315
+      ],
+      "confidence": 1,
+      "text": "TAC. PLAYER AS HIS GUEST. BEING CAPTRIN OF THe TiC. SIGE mY HOST HAS"
+    },
+    {
+      "box": [
+        0.23958250280541904,
+        0.7303612244346376,
+        0.7305336761474609,
+        0.03986466405246236
+      ],
+      "confidence": 1,
+      "text": "CATET HANCOCK THE COLLEGE CAPTAIN. AT THe TiMe HANCOCK VIS A CHAMPION"
+    },
+    {
+      "box": [
+        0.23929736923193218,
+        0.7476322875771709,
+        0.7346968841552735,
+        0.0429736153411191
+      ],
+      "confidence": 1,
+      "text": "ATHLETE AND WAS INSTRUMENTAL IN MELPING HUNTROON WIN THe LAFFERTY GUA"
+    },
+    {
+      "box": [
+        0.23138348982202203,
+        0.775562431051771,
+        0.5988624954223633,
+        0.03790798406491336
+      ],
+      "confidence": 1,
+      "text": "A TROPHY COMPETER FOR BY THe MILITARY COLLEGES OF THE EmPIRe."
+    },
+    {
+      "box": [
+        0.2744905821091669,
+        0.7950422162163235,
+        0.6645986938476562,
+        0.036784643414376816
+      ],
+      "confidence": 1,
+      "text": "CARRET HANCOCI WAS A CHARMING HOST ANA RATHOUGM I MISSER THE"
+    },
+    {
+      "box": [
+        0.2354062747620606,
+        0.8155490004193049,
+        0.6853253173828124,
+        0.037320185087087565
+      ],
+      "confidence": 1,
+      "text": "PLeASURE OF MEETING HIM AGAIN, I HAYe WATCHED WITH INTEReST AND"
+    },
+    {
+      "box": [
+        0.23125078963126483,
+        0.8306334447046433,
+        0.6938055419921876,
+        0.04396207895456006
+      ],
+      "confidence": 1,
+      "text": "PAEASURe HIS DOrANCEMeNT OVeR THe YeARS TO THE POSITION OF CHIEF OF"
+    },
+    {
+      "box": [
+        0.2333281279846315,
+        0.8596293720424576,
+        0.4120977020263672,
+        0.029461476994657065
+      ],
+      "confidence": 1,
+      "text": "AIR STARE WITH THE RANI OF AIR MARSHAL."
+    },
+    {
+      "box": [
+        0.6981519512652241,
+        0.8908045977606677,
+        0.02258726835250857,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": ". 65"
+    }
+  ],
+  "text": "AIR CHIEF LEAVES\nAFTER 36 YEARS\nmonur-Jung\nTackobes\nWorkers\nat\nthe\nHis Hereas\nBend\nGMH\ntoday\nhearing reports\nfrom union officials on the\n2huaes\nCANBERRA, Today.—\nRAAF today\nhis 58th goodbye\nto colleagues\nThe\nretiring\nChief\nof\nbirthday\nAir Staff,\nAir Marshal\nservice.\n- alter 36 years\nheadquarters.\nSir Valston\nHancock\nAir\nMarshal\nMurdoch\nHe will receive his tor-\nwas Air Officer Command-\nmal\nfarewell\n(left) was farewelled in\nCanberra today by his\ning\nHeadquarters\nOpera-\nsenior officers of the\ntional\nCommand\nsuccessor,\nbefore\nAir\nMarshal\ntaking as new\npost.\nvice hasi\nwith\nmany of\nser-\nwhom\nworked\nA. M. Murdoch (Today's\nSir Valston spent today\nthan 30 years,\nfor\nmore\nat a dinner\npicturegram).\nhanding over to\nAir Mar-\nat the\nmess\nat the RAAF\nSir Valston\nleaves the shal Murdoch and saying base at Fairbairn tonight.\n•ELE 'HERALD'\n31/8/65\nTHE PUBLICATION OF THE ABOYE IN TONIGHTS HERALD TOOK MY THOUGHTS BACK\nTO CANBERRA IN 1928. HE HAD QUITE A GOOD CRICKET TEAM IN THE DEPARTMENT\nOF TRAME ANT CUSTOMS AND ME HERE HELL SUPPORTER BY OUR COMPTROLAER GENERAL\nCOmMANmANT. ROyAL MOLiTARy COLARSe, HUNTROON. THeY MUST HAVe BREN TANKING\nCRICKET ONE RAY AS A MATCH HAS ARRANGCA BETWeEN THe CARETS AND THe TRAMe\n* CUSTomS SIRe. IT TOO PLACE DNe SUNRY AS A SOCIAL OCCASION ON THe\nRELIGHTFUL COLLEGE OVAL WHEN WAS REMINAFUL OF ONE OF THOSE BEAUTIRUL\nCRiCKET GReeNS IN ON ENGLAND DE MHICH WE REAR AND SEE SO MUCH IN THE SPHERE\n'TATER',\nTHe CARETS MIR US PROUDAY. EACH MEMBER OF THE MUNTROON TeAM TOON A\nTAC. PLAYER AS HIS GUEST. BEING CAPTRIN OF THe TiC. SIGE mY HOST HAS\nCATET HANCOCK THE COLLEGE CAPTAIN. AT THe TiMe HANCOCK VIS A CHAMPION\nATHLETE AND WAS INSTRUMENTAL IN MELPING HUNTROON WIN THe LAFFERTY GUA\nA TROPHY COMPETER FOR BY THe MILITARY COLLEGES OF THE EmPIRe.\nCARRET HANCOCI WAS A CHARMING HOST ANA RATHOUGM I MISSER THE\nPLeASURE OF MEETING HIM AGAIN, I HAYe WATCHED WITH INTEReST AND\nPAEASURe HIS DOrANCEMeNT OVeR THe YeARS TO THE POSITION OF CHIEF OF\nAIR STARE WITH THE RANI OF AIR MARSHAL.\n. 65",
+  "source_sha256": "d9369e3c0829d54465920d7c6b7ea8d58cfa90a083002495db45dfbdf0e8ecc1",
+  "status": "machine-draft"
+}

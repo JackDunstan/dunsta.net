@@ -1,0 +1,192 @@
+{
+  "candidate_names": [
+    "HUGH"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.6268536448478699,
+      0.20608900487422943,
+      0.09063988924026489,
+      0.06411309540271759
+    ],
+    [
+      0.5913826823234558,
+      0.6660012565553188,
+      0.04756339639425278,
+      0.03364342823624611
+    ],
+    [
+      0.18839888274669647,
+      0.6636189185082912,
+      0.04313475266098976,
+      0.030510876327753067
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-004.jpg",
+  "lines": [
+    {
+      "box": [
+        0.08829568930160242,
+        0.48673740041601055,
+        0.2566735076904297,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "THIS WAS THE SHOPPING CENTRE"
+    },
+    {
+      "box": [
+        0.08829568438837888,
+        0.5013262599310361,
+        0.27720739364624025,
+        0.016115600086755166
+      ],
+      "confidence": 1,
+      "text": "IN COLOGNE GERMANY MARCH 1919"
+    },
+    {
+      "box": [
+        0.08771740799696794,
+        0.5136037712475557,
+        0.29476543426513674,
+        0.021503417287433546
+      ],
+      "confidence": 1,
+      "text": "I WAS THERE FROM CHARLEROI WITY"
+    },
+    {
+      "box": [
+        0.08965222183371069,
+        0.5264657851894896,
+        0.30284408569335936,
+        0.02339505432560629
+      ],
+      "confidence": 1,
+      "text": "CAPT. HUGN LAmES OF SuPONCeR BATT."
+    },
+    {
+      "box": [
+        0.09174568989224632,
+        0.5425245944519943,
+        0.33190086364746096,
+        0.025252356558748246
+      ],
+      "confidence": 1,
+      "text": "HUGH WAS A FAMOUS RICHMONA FOOTBALLER"
+    },
+    {
+      "box": [
+        0.10227655974205234,
+        0.9349356123996718,
+        0.1651468276977539,
+        0.018789330169650675
+      ],
+      "confidence": 1,
+      "text": "MAGGIE DONNELLY"
+    },
+    {
+      "box": [
+        0.16408908620722926,
+        0.9541350081451722,
+        0.14820786476135253,
+        0.019055564671254133
+      ],
+      "confidence": 1,
+      "text": "NEWRY IRELANA"
+    },
+    {
+      "box": [
+        0.6899383991206537,
+        0.3604651166816355,
+        0.06570841789245607,
+        0.023255812816130872
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Сечане"
+    },
+    {
+      "box": [
+        0.6550307996451918,
+        0.3806366046845693,
+        0.055441479682922346,
+        0.02652519893899208
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Но 1"
+    },
+    {
+      "box": [
+        0.5049320605587971,
+        0.4936686254932998,
+        0.30844718933105464,
+        0.018100984743693482
+      ],
+      "confidence": 1,
+      "text": "IN MARCH 1909 1 WAS BULLETED WITH"
+    },
+    {
+      "box": [
+        0.48254619835545226,
+        0.511494252988214,
+        0.33470226287841803,
+        0.016122025372600435
+      ],
+      "confidence": 1,
+      "text": "THIS YoUNG LADyS FAmILY AT WALCOURT"
+    },
+    {
+      "box": [
+        0.7474185615263379,
+        0.5275720110365795,
+        0.06984460353851318,
+        0.011716442968231933
+      ],
+      "confidence": 1,
+      "text": "BELGIUm"
+    },
+    {
+      "box": [
+        0.490759759211808,
+        0.9460654289054947,
+        0.21149896621704106,
+        0.016357206012378445
+      ],
+      "confidence": 1,
+      "text": "mISS mINEE DONNELLY"
+    },
+    {
+      "box": [
+        0.5195071867922868,
+        0.9606542883921725,
+        0.15605749130249025,
+        0.014636409061340783
+      ],
+      "confidence": 1,
+      "text": "SHEEPBRINGE HOUSE"
+    },
+    {
+      "box": [
+        0.5433191586708603,
+        0.9774452048991399,
+        0.07954074382781984,
+        0.017583349550012728
+      ],
+      "confidence": 1,
+      "text": "NEWRY."
+    },
+    {
+      "box": [
+        0.6180698193866079,
+        0.9752431472566669,
+        0.23819301605224608,
+        0.017683465959328126
+      ],
+      "confidence": 1,
+      "text": "SOVEN MONA IRELANA 1919"
+    }
+  ],
+  "text": "THIS WAS THE SHOPPING CENTRE\nIN COLOGNE GERMANY MARCH 1919\nI WAS THERE FROM CHARLEROI WITY\nCAPT. HUGN LAmES OF SuPONCeR BATT.\nHUGH WAS A FAMOUS RICHMONA FOOTBALLER\nMAGGIE DONNELLY\nNEWRY IRELANA\nСечане\nНо 1\nIN MARCH 1909 1 WAS BULLETED WITH\nTHIS YoUNG LADyS FAmILY AT WALCOURT\nBELGIUm\nmISS mINEE DONNELLY\nSHEEPBRINGE HOUSE\nNEWRY.\nSOVEN MONA IRELANA 1919",
+  "source_sha256": "16d3cb5f737d60f6afd21f88e0050caab9030953d8605a1d90948b9fc0bd19dc",
+  "status": "machine-draft"
+}

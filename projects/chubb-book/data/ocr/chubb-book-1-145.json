@@ -1,0 +1,131 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-145.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3140263264094669,
+        0.1406474345914116,
+        0.29602563858032227,
+        0.017485592451694232
+      ],
+      "confidence": 1,
+      "text": "CHRIST CHURCH, SOUTH YARRA"
+    },
+    {
+      "box": [
+        0.44147843978404183,
+        0.18895348939511314,
+        0.04517453670501709,
+        0.03633720741980273
+      ],
+      "confidence": 1,
+      "text": "+"
+    },
+    {
+      "box": [
+        0.35934292456364,
+        0.28912466864633357,
+        0.2094455718994141,
+        0.0161078889005275
+      ],
+      "confidence": 1,
+      "text": "Memorial Service"
+    },
+    {
+      "box": [
+        0.4127310092718512,
+        0.311046511718448,
+        0.10266940116882323,
+        0.011676741953343006
+      ],
+      "confidence": 1,
+      "text": "MARCH 5, 1957"
+    },
+    {
+      "box": [
+        0.29774128000709693,
+        0.37931034520305085,
+        0.3305954742431641,
+        0.019009725906277586
+      ],
+      "confidence": 1,
+      "text": "WILLIAM DUNSTAN, V.C."
+    },
+    {
+      "box": [
+        0.42505133824902797,
+        0.4026162791049459,
+        0.08008213043212897,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "1895 - 1957"
+    },
+    {
+      "box": [
+        0.28747433824095237,
+        0.5508399646094176,
+        0.37782341003417974,
+        0.010206546749718659
+      ],
+      "confidence": 1,
+      "text": "Be strong and of good courage; be not afraid, neither be thou dis-"
+    },
+    {
+      "box": [
+        0.38809034868492687,
+        0.5625000001563025,
+        0.026694045066833483,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "thy"
+    },
+    {
+      "box": [
+        0.4599589321645102,
+        0.5610079575879473,
+        0.20533880233764645,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "with thee whithersoever thou goest:"
+    },
+    {
+      "box": [
+        0.2689938400036221,
+        0.5623342177113834,
+        0.06365502834320069,
+        0.008886712510221106
+      ],
+      "confidence": 1,
+      "text": "mayed; for"
+    },
+    {
+      "box": [
+        0.3347022599208824,
+        0.5625000000109537,
+        0.02464065551757816,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "the"
+    },
+    {
+      "box": [
+        0.2689938437161737,
+        0.5725022104632337,
+        0.08008213043212897,
+        0.008893138217673124
+      ],
+      "confidence": 1,
+      "text": "Joshua I, v. 9."
+    }
+  ],
+  "text": "CHRIST CHURCH, SOUTH YARRA\n+\nMemorial Service\nMARCH 5, 1957\nWILLIAM DUNSTAN, V.C.\n1895 - 1957\nBe strong and of good courage; be not afraid, neither be thou dis-\nthy\nwith thee whithersoever thou goest:\nmayed; for\nthe\nJoshua I, v. 9.",
+  "source_sha256": "57654b62d665b15ff9f509cc8b6bf4f2cad1b85ef2080f6ac050221d5d77b105",
+  "status": "machine-draft"
+}

@@ -1,0 +1,438 @@
+{
+  "candidate_names": [
+    "Brennan",
+    "Brownlee",
+    "Brownrigg",
+    "Chapman",
+    "Cleary",
+    "Dalton",
+    "Denahy",
+    "Duffy",
+    "Gannon",
+    "Griffiths",
+    "Hehir",
+    "Kelly",
+    "Kenny",
+    "Marcusson",
+    "Mason",
+    "Moore",
+    "Murphy",
+    "O'loughlin",
+    "Oxenham",
+    "Pearce",
+    "Peate",
+    "Rushton",
+    "Simones",
+    "Taylor",
+    "Thompson",
+    "Warren"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-090.jpg",
+  "lines": [
+    {
+      "box": [
+        0.6568355828555572,
+        0.4044654373634936,
+        0.103166618347168,
+        0.015197032115609077
+      ],
+      "confidence": 1,
+      "text": "COLLINGRIDRE"
+    },
+    {
+      "box": [
+        0.19483297170437375,
+        0.43706498879616784,
+        0.5610074234008788,
+        0.025333109416337707
+      ],
+      "confidence": 1,
+      "text": "STAFF OF REPT OF TRAGE • CUSTOMS CANBERRA. FCT. ABOUT 1930"
+    },
+    {
+      "box": [
+        0.09650924614343523,
+        0.48255813960524074,
+        0.5975359344482422,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "First Row. Misses Lee, Kilmister, Noller, Mesers. Born, Abno"
+    },
+    {
+      "box": [
+        0.7351129371767393,
+        0.4811046514497299,
+        0.04312114715576176,
+        0.010174418212458791
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Bн11."
+    },
+    {
+      "box": [
+        0.10034298948853568,
+        0.49342303619900574,
+        0.4583557510375976,
+        0.017960857860184087
+      ],
+      "confidence": 1,
+      "text": "Second Eow.Messrs lavender, Thompson, Chapman,"
+    },
+    {
+      "box": [
+        0.5585215628107154,
+        0.49115826687673025,
+        0.14784393310546873,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Sullivan, PRICE"
+    },
+    {
+      "box": [
+        0.704180580784412,
+        0.49217256166718215,
+        0.09471892356872558,
+        0.01274789992314751
+      ],
+      "confidence": 1,
+      "text": "No no van,"
+    },
+    {
+      "box": [
+        0.12923534729484554,
+        0.5083600967630824,
+        0.06391123771667481,
+        0.012349573939801517
+      ],
+      "confidence": 1,
+      "text": "Peate,"
+    },
+    {
+      "box": [
+        0.19701589100381084,
+        0.5031847976758764,
+        0.6696174621582032,
+        0.016436995920304454
+      ],
+      "confidence": 1,
+      "text": "Duggan, Synan, Misses. D. Fielder, Marzorini, M. Flilder, Mr. Cooper."
+    },
+    {
+      "box": [
+        0.09824100042101691,
+        0.5146301406174411,
+        0.5775466918945312,
+        0.02190620260466325
+      ],
+      "confidence": 1,
+      "text": "Third Row. Messrs. Denahy, Murphy, Clapson, Kelly, Warren,"
+    },
+    {
+      "box": [
+        0.6755646807195937,
+        0.5159151195295024,
+        0.14373716354370114,
+        0.011701159304375208
+      ],
+      "confidence": 1,
+      "text": "Taylor, Moore,"
+    },
+    {
+      "box": [
+        0.12720583324066267,
+        0.5273788152781274,
+        0.5854230499267578,
+        0.016384025256682255
+      ],
+      "confidence": 1,
+      "text": "Misses. Cleary, Bartlett, Hehir, Messrs. Gannon, Brownrigg•"
+    },
+    {
+      "box": [
+        0.09829891419505891,
+        0.5368718969734402,
+        0.6739522552490234,
+        0.02229188671162663
+      ],
+      "confidence": 1,
+      "text": "Fourth Row.Messrs. Griffiths, Dalton, Kenny, Brennan, Oxenham. Cork,"
+    },
+    {
+      "box": [
+        0.131258083065743,
+        0.5501710141295212,
+        0.5629234695434571,
+        0.01725329222877303
+      ],
+      "confidence": 1,
+      "text": "Rushton, Bossence, Berry, Wilkinson, Green, Duffy, Misses"
+    },
+    {
+      "box": [
+        0.13141684554323035,
+        0.5667550839185993,
+        0.16016426086425783,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Brownlee, Mason,"
+    },
+    {
+      "box": [
+        0.29148152889764434,
+        0.5650727589789809,
+        0.07617451667785641,
+        0.01229634272324942
+      ],
+      "confidence": 1,
+      "text": "Duffy,"
+    },
+    {
+      "box": [
+        0.3655030797543587,
+        0.5623342176611907,
+        0.19507186889648442,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Mesars. O'loughlin,"
+    },
+    {
+      "box": [
+        0.558521556980776,
+        0.5610079574552952,
+        0.18275154113769532,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Townsend, Simones."
+    },
+    {
+      "box": [
+        0.10061601745284751,
+        0.5799418604171261,
+        0.10061601638793946,
+        0.01466468284870015
+      ],
+      "confidence": 1,
+      "text": "Left Arch•"
+    },
+    {
+      "box": [
+        0.21971253028517823,
+        0.5755813952271388,
+        0.41478439331054684,
+        0.013278021420344732
+      ],
+      "confidence": 1,
+      "text": "Mesers. Melodyen, Bolton, Entwistle, Cook."
+    },
+    {
+      "box": [
+        0.7185961637475216,
+        0.5723178978718662,
+        0.11311568260192861,
+        0.015247925101498638
+      ],
+      "confidence": 0.5,
+      "text": "\"th Messrs."
+    },
+    {
+      "box": [
+        0.13330008521231781,
+        0.586507127208887,
+        0.3657967376708985,
+        0.015843761589124483
+      ],
+      "confidence": 1,
+      "text": "CraTey, Marcusson, Pearce, Ridgeway."
+    },
+    {
+      "box": [
+        0.7104722811135045,
+        0.6453488374302075,
+        0.08008213043212897,
+        0.014686529663787584
+      ],
+      "confidence": 0.5,
+      "text": "2 A.C.C.S"
+    },
+    {
+      "box": [
+        0.6981519512816619,
+        0.661337209691511,
+        0.09445585250854482,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "THE LAKE"
+    },
+    {
+      "box": [
+        0.7166324444522771,
+        0.6772767465989951,
+        0.10882956504821784,
+        0.016037206540162607
+      ],
+      "confidence": 1,
+      "text": "TROIs ARBRES"
+    },
+    {
+      "box": [
+        0.7351129368737662,
+        0.6947674423965652,
+        0.09650923728942873,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "STEEN HERCK"
+    },
+    {
+      "box": [
+        0.7720739242213693,
+        0.7078488372782183,
+        0.05544147491455076,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "FRANCE"
+    },
+    {
+      "box": [
+        0.1108829615025828,
+        0.9433139536002658,
+        0.197125244140625,
+        0.014687814720956482
+      ],
+      "confidence": 1,
+      "text": "The Horded. Bedman if"
+    },
+    {
+      "box": [
+        0.3059169726231707,
+        0.9402753073789115,
+        0.08015784263610842,
+        0.011891245314971544
+      ],
+      "confidence": 1,
+      "text": "GERMANY"
+    },
+    {
+      "box": [
+        0.08418890985919937,
+        0.9606542883750107,
+        0.3285420989990234,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "BERNARO HARTNELL • OS. LODRIAM ARE IN THE"
+    },
+    {
+      "box": [
+        0.3551642694379019,
+        0.9678088477562912,
+        0.059691996574401884,
+        0.010603234369495507
+      ],
+      "confidence": 1,
+      "text": "PICTURE"
+    },
+    {
+      "box": [
+        0.7556468202068973,
+        0.8226744184538829,
+        0.10882956504821772,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "THE GAS GONG"
+    },
+    {
+      "box": [
+        0.7610181470581685,
+        0.8366175858529771,
+        0.08582489967346185,
+        0.014863424866100372
+      ],
+      "confidence": 0.5,
+      "text": "2° A.CC.S."
+    },
+    {
+      "box": [
+        0.7470447458865954,
+        0.8601657085194969,
+        0.12195316314697258,
+        0.015598071981172024
+      ],
+      "confidence": 1,
+      "text": "THE GERMANS"
+    },
+    {
+      "box": [
+        0.7508304748071564,
+        0.873769847239501,
+        0.1370454978942871,
+        0.016826525923427926
+      ],
+      "confidence": 1,
+      "text": "THREW CROUR GAS"
+    },
+    {
+      "box": [
+        0.75359343014318,
+        0.8924418608584673,
+        0.13347022056579583,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "BUT APART FROM"
+    },
+    {
+      "box": [
+        0.7505825220471882,
+        0.9035635519912466,
+        0.12102571487426761,
+        0.018624701192166082
+      ],
+      "confidence": 1,
+      "text": "THE SMELL We"
+    },
+    {
+      "box": [
+        0.7471504814989207,
+        0.9207185804672379,
+        0.11149834632873534,
+        0.011153422658365497
+      ],
+      "confidence": 1,
+      "text": "WERE TOO FAR"
+    },
+    {
+      "box": [
+        0.7550081095439257,
+        0.9319819019975639,
+        0.130628719329834,
+        0.016656733950506153
+      ],
+      "confidence": 1,
+      "text": "REMIER THe WHE"
+    },
+    {
+      "box": [
+        0.7474332647058344,
+        0.9476744186283014,
+        0.1375769996643067,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "TO BE AFFECTEG"
+    }
+  ],
+  "text": "COLLINGRIDRE\nSTAFF OF REPT OF TRAGE • CUSTOMS CANBERRA. FCT. ABOUT 1930\nFirst Row. Misses Lee, Kilmister, Noller, Mesers. Born, Abno\nBн11.\nSecond Eow.Messrs lavender, Thompson, Chapman,\nSullivan, PRICE\nNo no van,\nPeate,\nDuggan, Synan, Misses. D. Fielder, Marzorini, M. Flilder, Mr. Cooper.\nThird Row. Messrs. Denahy, Murphy, Clapson, Kelly, Warren,\nTaylor, Moore,\nMisses. Cleary, Bartlett, Hehir, Messrs. Gannon, Brownrigg•\nFourth Row.Messrs. Griffiths, Dalton, Kenny, Brennan, Oxenham. Cork,\nRushton, Bossence, Berry, Wilkinson, Green, Duffy, Misses\nBrownlee, Mason,\nDuffy,\nMesars. O'loughlin,\nTownsend, Simones.\nLeft Arch•\nMesers. Melodyen, Bolton, Entwistle, Cook.\n\"th Messrs.\nCraTey, Marcusson, Pearce, Ridgeway.\n2 A.C.C.S\nTHE LAKE\nTROIs ARBRES\nSTEEN HERCK\nFRANCE\nThe Horded. Bedman if\nGERMANY\nBERNARO HARTNELL • OS. LODRIAM ARE IN THE\nPICTURE\nTHE GAS GONG\n2° A.CC.S.\nTHE GERMANS\nTHREW CROUR GAS\nBUT APART FROM\nTHE SMELL We\nWERE TOO FAR\nREMIER THe WHE\nTO BE AFFECTEG",
+  "source_sha256": "a0249a91837c5ac505ca717b90e4223b3a06a55929afd988936026795cb545ac",
+  "status": "machine-draft"
+}

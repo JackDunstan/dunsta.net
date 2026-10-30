@@ -1,0 +1,253 @@
+{
+  "candidate_names": [
+    "F.J",
+    "Her Majesty",
+    "Mulrones",
+    "PETER"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.5050868391990662,
+      0.6898382883518934,
+      0.0371408611536026,
+      0.026271166279911995
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-103.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2956878897474597,
+        0.10742705579836609,
+        0.2505133438110351,
+        0.010305502054229643
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH OF AUSTRALIA"
+    },
+    {
+      "box": [
+        0.4086242321220759,
+        0.12936046532103118,
+        0.14168376922607417,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "DEPARTMENT OF AIR"
+    },
+    {
+      "box": [
+        0.4743326516591171,
+        0.13953488366786537,
+        0.09034907341003418,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "VICTORIA BARRACKS"
+    },
+    {
+      "box": [
+        0.5154004103613059,
+        0.14809902737419378,
+        0.08418890953063962,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE, S.C.1"
+    },
+    {
+      "box": [
+        0.45585215653778843,
+        0.15988372092100223,
+        0.17043121337890632,
+        0.014740505437741303
+      ],
+      "confidence": 1,
+      "text": "- 9th June, 1955."
+    },
+    {
+      "box": [
+        0.27902919339202353,
+        0.21672010486482973,
+        0.22077106475830083,
+        0.04142719913013837
+      ],
+      "confidence": 1,
+      "text": "Dear Chales,"
+    },
+    {
+      "box": [
+        0.3203285476501339,
+        0.255813953700037,
+        0.2689938354492188,
+        0.011648469009197027
+      ],
+      "confidence": 1,
+      "text": "I was delighted to hear the"
+    },
+    {
+      "box": [
+        0.28131417654678775,
+        0.2789566754795596,
+        0.29979465484619144,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "news that Her Majesty had been"
+    },
+    {
+      "box": [
+        0.2833675672944493,
+        0.30371352781108096,
+        0.316221752166748,
+        0.01169344853975407
+      ],
+      "confidence": 1,
+      "text": "graciously pleased to make you a"
+    },
+    {
+      "box": [
+        0.2833675616445261,
+        0.32404951374217217,
+        0.28747432708740234,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Commander of the Order of the"
+    },
+    {
+      "box": [
+        0.283367559351576,
+        0.3488063659367282,
+        0.2874743270874024,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "British Empire. I hasten to"
+    },
+    {
+      "box": [
+        0.2833675530330003,
+        0.37209302384641996,
+        0.3285420989990234,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "offer my congratulations for this"
+    },
+    {
+      "box": [
+        0.28336755677477077,
+        0.3968023258683344,
+        0.1806981468200684,
+        0.010359477828183472
+      ],
+      "confidence": 1,
+      "text": "well earned award."
+    },
+    {
+      "box": [
+        0.397861641779164,
+        0.43846993627668596,
+        0.2476726531982421,
+        0.030096514471645852
+      ],
+      "confidence": 1,
+      "text": "and Mulrones"
+    },
+    {
+      "box": [
+        0.42094456535842556,
+        0.47524314753552455,
+        0.16016426086425778,
+        0.016035921482993487
+      ],
+      "confidence": 0.5,
+      "text": "(F.J. MULROONEY)"
+    },
+    {
+      "box": [
+        0.28542094614402563,
+        0.5029069766588248,
+        0.2772073936462402,
+        0.013081395446885247
+      ],
+      "confidence": 0.5,
+      "text": "C.E. MeFadyen, Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.2895277248316457,
+        0.5174418606430438,
+        0.09240245819091797,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.2915811135008981,
+        0.5274093723196821,
+        0.24845994949340822,
+        0.00892783686927101
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping ano"
+    },
+    {
+      "box": [
+        0.30587917400831655,
+        0.5389076704447542,
+        0.1007673168182373,
+        0.012300938236091463
+      ],
+      "confidence": 1,
+      "text": "Transport,"
+    },
+    {
+      "box": [
+        0.2854209457802983,
+        0.5508399647218858,
+        0.18891170501708987,
+        0.011660034945325193
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.2832022921771793,
+        0.5618174705319366,
+        0.1029999351501465,
+        0.014446454170422673
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.3589584264365541,
+        0.9431064293995075,
+        0.15875537872314455,
+        0.0142903028601149
+      ],
+      "confidence": 1,
+      "text": "PETER AND HELEr."
+    },
+    {
+      "box": [
+        0.5195071872837389,
+        0.9389534886968105,
+        0.1868583106994628,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "MARIE ANa YoUNG BILL."
+    }
+  ],
+  "text": "COMMONWEALTH OF AUSTRALIA\nDEPARTMENT OF AIR\nVICTORIA BARRACKS\nMELBOURNE, S.C.1\n- 9th June, 1955.\nDear Chales,\nI was delighted to hear the\nnews that Her Majesty had been\ngraciously pleased to make you a\nCommander of the Order of the\nBritish Empire. I hasten to\noffer my congratulations for this\nwell earned award.\nand Mulrones\n(F.J. MULROONEY)\nC.E. MeFadyen, Esq., C.B.E.,\nSecretary,\nDepartment of Shipping ano\nTransport,\n497 Collins Street,\nMELBOURNE.\nPETER AND HELEr.\nMARIE ANa YoUNG BILL.",
+  "source_sha256": "8d4bba8413e1387bf29c45b279b76a92e123d3ee90bdbd86f090023f004418d8",
+  "status": "machine-draft"
+}

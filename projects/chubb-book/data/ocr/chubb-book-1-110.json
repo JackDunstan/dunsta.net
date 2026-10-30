@@ -1,0 +1,41 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-110.jpg",
+  "lines": [
+    {
+      "box": [
+        0.05742120174961128,
+        0.4403221187291999,
+        0.03676060318946839,
+        0.46822151433673187
+      ],
+      "confidence": 0.5,
+      "text": "/ LERR INE AUSTRALAN DELEGATION, HEET GORT CHEEC 1S ON MY RiANT"
+    },
+    {
+      "box": [
+        0.05253472764135234,
+        0.3747276648287452,
+        0.02588667631149292,
+        0.23299072697350243
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "C.M. MOFRRTEN. L.R.COUTTS. A. TURRHOPE"
+    },
+    {
+      "box": [
+        0.04498859772178362,
+        0.15679709924524532,
+        0.018441151380538943,
+        0.08754745739735303
+      ],
+      "confidence": 0.5,
+      "text": "Loriaon 195%"
+    }
+  ],
+  "text": "/ LERR INE AUSTRALAN DELEGATION, HEET GORT CHEEC 1S ON MY RiANT\nC.M. MOFRRTEN. L.R.COUTTS. A. TURRHOPE\nLoriaon 195%",
+  "source_sha256": "8ca727f4b2a5d131a1194d0fb7b27d3860c5d021f1b51639e37def4be9f46580",
+  "status": "machine-draft"
+}

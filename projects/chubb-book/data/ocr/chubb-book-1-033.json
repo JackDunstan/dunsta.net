@@ -1,0 +1,219 @@
+{
+  "candidate_names": [
+    "A. S. McAlpine",
+    "ANCA",
+    "AlF",
+    "Byrne",
+    "DUT",
+    "MIAD",
+    "MRS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-033.jpg",
+  "lines": [
+    {
+      "box": [
+        0.18685831879616033,
+        0.3488063660150489,
+        0.4825461959838867,
+        0.01020526169254965
+      ],
+      "confidence": 1,
+      "text": "MEMBERS of the Australian Shipbuilding Board, who met in Brisbane last"
+    },
+    {
+      "box": [
+        0.18667054449700488,
+        0.3587398750722064,
+        0.1769383430480957,
+        0.012330703667894571
+      ],
+      "confidence": 1,
+      "text": "night (from left to right) :"
+    },
+    {
+      "box": [
+        0.3634497022724064,
+        0.3589743591762191,
+        0.30390142440795903,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "Messrs. C. H. McFadyen, J. C. Merrilees sec-"
+    },
+    {
+      "box": [
+        0.18685832487766632,
+        0.36773255831486273,
+        0.4825461959838867,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "retary), H. P. Weymouth, A. S. McAlpine (chairman), Senator J. J. Arnold"
+    },
+    {
+      "box": [
+        0.2977412825580217,
+        0.37790697704409437,
+        0.2607802772521972,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": ". (deputy chairman), and J. W. Byrne."
+    },
+    {
+      "box": [
+        0.2088499729254613,
+        0.4020246123498413,
+        0.24197452545166015,
+        0.029976221652920576
+      ],
+      "confidence": 1,
+      "text": "COURIER MAiL 1/7/19"
+    },
+    {
+      "box": [
+        0.6694045176540562,
+        0.6569767441329817,
+        0.02053388118743893,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "271"
+    },
+    {
+      "box": [
+        0.2648870674868792,
+        0.7659883722346137,
+        0.30184804916381835,
+        0.010315783354795438
+      ],
+      "confidence": 1,
+      "text": "Bruxelles. - Monument élevé à la Mémoire d'Anspach"
+    },
+    {
+      "box": [
+        0.6057317993758989,
+        0.7673874348944206,
+        0.05342346668243414,
+        0.008829781273421045
+      ],
+      "confidence": 1,
+      "text": "ND Phot"
+    },
+    {
+      "box": [
+        0.10662342442270692,
+        0.7881050213028642,
+        0.6799922943115235,
+        0.02172212912696958
+      ],
+      "confidence": 1,
+      "text": "THE EiGTH FIENA AMBULANCE HAS BiLLETEA AT WALCOURT, A SMALL TOrN Some"
+    },
+    {
+      "box": [
+        0.0882956859412596,
+        0.8094606541443327,
+        0.6796714782714843,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "PEN MINES FROM BRUSSEAS. IT MRS MO TROUBLE TO MOVE IN ANCA OUT IN ARE OF"
+    },
+    {
+      "box": [
+        0.09445586051744768,
+        0.8240495135974076,
+        0.6837782287597656,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "OUR SUNBEAM' AMBULANCES. THe RAILWAY MIAD BEEN DESTROYCA BY THE SERMANS"
+    },
+    {
+      "box": [
+        0.0943479280136203,
+        0.8406424415301438,
+        0.7168921661376952,
+        0.019311643511083276
+      ],
+      "confidence": 1,
+      "text": "WHO HAG RECENTLY MOTER DUT. THE YEAR HAS 19I9 AND CHARLEROI BEAGIUM HAS"
+    },
+    {
+      "box": [
+        0.09445586391218036,
+        0.8575581396052407,
+        0.6960985565185547,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "REMOBILiSATION CENTRE FOR THE AlF. THe THEATRES WERE SHOWING WITH THe"
+    },
+    {
+      "box": [
+        0.0963265993175191,
+        0.8714800317546029,
+        0.6553896331787109,
+        0.01972346891880461
+      ],
+      "confidence": 1,
+      "text": "OLA PROPS AND COSTUMES HiAMEN ARMY DURING THE OCCUPATION. I SAN A"
+    },
+    {
+      "box": [
+        0.10054222342531652,
+        0.8878339214854406,
+        0.7208712005615235,
+        0.016346436491273986
+      ],
+      "confidence": 1,
+      "text": "WONDERFUL PREGENTATION OF | PAGLiACCI. THE TEMOR HAS MAGNIFICENT. I HAS TORO"
+    },
+    {
+      "box": [
+        0.08814683180064171,
+        0.900537255388886,
+        0.7086578369140626,
+        0.020263425656697254
+      ],
+      "confidence": 1,
+      "text": "THAT BRUSSELS WAS THE EUROPEAN STARTING POINT FOR OPERA SINGERS PRIOR TO 1914."
+    },
+    {
+      "box": [
+        0.09445586280007916,
+        0.9155614502633808,
+        0.7248459625244141,
+        0.017683465959328126
+      ],
+      "confidence": 1,
+      "text": "THe THeATRE RELA MONTRE IN WHICH ! SAN PAGHACCI WAS THe SAME HOUSe WHERE MELBR"
+    },
+    {
+      "box": [
+        0.09825443224635798,
+        0.9267726432300627,
+        0.704856491088867,
+        0.02173848577983395
+      ],
+      "confidence": 1,
+      "text": "MARE HER DEBÚT AS GIARA IN RIGORETTO. / SAN RASO. LA FILLE DU TAMBOUR MANOR'"
+    },
+    {
+      "box": [
+        0.09835035686497165,
+        0.9475392427507282,
+        0.3228269577026367,
+        0.0142867124576046
+      ],
+      "confidence": 1,
+      "text": "ANN THE TAUGHTER OF THE REGIMENT"
+    }
+  ],
+  "text": "MEMBERS of the Australian Shipbuilding Board, who met in Brisbane last\nnight (from left to right) :\nMessrs. C. H. McFadyen, J. C. Merrilees sec-\nretary), H. P. Weymouth, A. S. McAlpine (chairman), Senator J. J. Arnold\n. (deputy chairman), and J. W. Byrne.\nCOURIER MAiL 1/7/19\n271\nBruxelles. - Monument élevé à la Mémoire d'Anspach\nND Phot\nTHE EiGTH FIENA AMBULANCE HAS BiLLETEA AT WALCOURT, A SMALL TOrN Some\nPEN MINES FROM BRUSSEAS. IT MRS MO TROUBLE TO MOVE IN ANCA OUT IN ARE OF\nOUR SUNBEAM' AMBULANCES. THe RAILWAY MIAD BEEN DESTROYCA BY THE SERMANS\nWHO HAG RECENTLY MOTER DUT. THE YEAR HAS 19I9 AND CHARLEROI BEAGIUM HAS\nREMOBILiSATION CENTRE FOR THE AlF. THe THEATRES WERE SHOWING WITH THe\nOLA PROPS AND COSTUMES HiAMEN ARMY DURING THE OCCUPATION. I SAN A\nWONDERFUL PREGENTATION OF | PAGLiACCI. THE TEMOR HAS MAGNIFICENT. I HAS TORO\nTHAT BRUSSELS WAS THE EUROPEAN STARTING POINT FOR OPERA SINGERS PRIOR TO 1914.\nTHe THeATRE RELA MONTRE IN WHICH ! SAN PAGHACCI WAS THe SAME HOUSe WHERE MELBR\nMARE HER DEBÚT AS GIARA IN RIGORETTO. / SAN RASO. LA FILLE DU TAMBOUR MANOR'\nANN THE TAUGHTER OF THE REGIMENT",
+  "source_sha256": "b9fdfa6d47d8a2fd62d6bac4773cd0194f913560d971514113248d46fc2119ac",
+  "status": "machine-draft"
+}

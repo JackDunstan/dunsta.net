@@ -1,0 +1,224 @@
+{
+  "candidate_names": [
+    "McFadyen",
+    "Shane Paltridge"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-015.jpg",
+  "lines": [
+    {
+      "box": [
+        0.22941176735263027,
+        0.17064544689437156,
+        0.45882350921630866,
+        0.03768788513939114
+      ],
+      "confidence": 1,
+      "text": "The Minister for Shipping and Transport"
+    },
+    {
+      "box": [
+        0.3299975329637682,
+        0.20822792223755504,
+        0.24983074188232424,
+        0.02490700587669792
+      ],
+      "confidence": 1,
+      "text": "(Senator the Hoir. Shane Paltridge)"
+    },
+    {
+      "box": [
+        0.2895277215847835,
+        0.23961096401259063,
+        0.3305954742431641,
+        0.02347043085477718
+      ],
+      "confidence": 1,
+      "text": "requests the pleasure of the company of"
+    },
+    {
+      "box": [
+        0.3672332486057888,
+        0.2774778857830349,
+        0.2264358711242676,
+        0.017071718035494787
+      ],
+      "confidence": 1,
+      "text": "Mr. and Mrs. C. H. McFadyen"
+    },
+    {
+      "box": [
+        0.23797700699956026,
+        0.2972765438117613,
+        0.4358819961547852,
+        0.02168181340953712
+      ],
+      "confidence": 1,
+      "text": "at functions to be held at Marree and Port Augusta, on Saturday, 27th July, 1957"
+    },
+    {
+      "box": [
+        0.25439027895388916,
+        0.31563191223781506,
+        0.3948248672485352,
+        0.020436886450972525
+      ],
+      "confidence": 1,
+      "text": "to mark the Opening of the Standard Gauge Stirling North-Marree Railway"
+    },
+    {
+      "box": [
+        0.1806981514835089,
+        0.3517441863839158,
+        0.11293633460998534,
+        0.004577652739803928
+      ],
+      "confidence": 1,
+      "text": "R.S.V.P. 12TH JULY. 1957"
+    },
+    {
+      "box": [
+        0.18275154136178018,
+        0.35610465123430635,
+        0.06570841789245604,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "THE SECRETARY"
+    },
+    {
+      "box": [
+        0.18275154186400738,
+        0.36191860472267845,
+        0.11293634414672848,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH RAILWAYS"
+    },
+    {
+      "box": [
+        0.18053751936652748,
+        0.36863647941087674,
+        0.16250295639038084,
+        0.007855202854470167
+      ],
+      "confidence": 1,
+      "text": "623 COLLINS STREET. MELBOURNE, C.I"
+    },
+    {
+      "box": [
+        0.30390144132100344,
+        0.588662790616354,
+        0.30390142440795903,
+        0.01889534907252466
+      ],
+      "confidence": 1,
+      "text": "The Ministon for Shipping and Transport"
+    },
+    {
+      "box": [
+        0.2854209452719476,
+        0.6148255813936156,
+        0.334702262878418,
+        0.021802325463737615
+      ],
+      "confidence": 1,
+      "text": "Hon. Hubert Opperman, 098. M.Ф."
+    },
+    {
+      "box": [
+        0.34086242570268965,
+        0.6467727674462694,
+        0.22587268829345708,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "roguests the plotsure of the company of"
+    },
+    {
+      "box": [
+        0.37987679890945714,
+        0.6786030063279215,
+        0.26488706588745115,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "C. H. McFadyen, Esq., C.B.E."
+    },
+    {
+      "box": [
+        0.3511293682623182,
+        0.7063953487149365,
+        0.199178638458252,
+        0.026162790893770493
+      ],
+      "confidence": 1,
+      "text": "al A Cooktail Parly"
+    },
+    {
+      "box": [
+        0.3305954849061334,
+        0.7369186049153181,
+        0.23613962173461917,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "lo mark the maiden voyage of the"
+    },
+    {
+      "box": [
+        0.30800821683855306,
+        0.7558139535950662,
+        0.28952772140502925,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "Commonwalth Lighthouse Fornice Yessol"
+    },
+    {
+      "box": [
+        0.39571999533233493,
+        0.7753932972495952,
+        0.12708882331848148,
+        0.033216484872563345
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "\"Саро Доп\""
+    },
+    {
+      "box": [
+        0.3675564655282061,
+        0.8094606542381825,
+        0.1704312133789062,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "at No. 3 North Wharf"
+    },
+    {
+      "box": [
+        0.3367556430271068,
+        0.8328488369026912,
+        0.22792608261108405,
+        0.01905213532249661
+      ],
+      "confidence": 1,
+      "text": "on Monday, ith March, 1963"
+    },
+    {
+      "box": [
+        0.2997946646784558,
+        0.8924418606369877,
+        0.13757699966430664,
+        0.010299076768384374
+      ],
+      "confidence": 1,
+      "text": "52 015% Entension 283"
+    }
+  ],
+  "text": "The Minister for Shipping and Transport\n(Senator the Hoir. Shane Paltridge)\nrequests the pleasure of the company of\nMr. and Mrs. C. H. McFadyen\nat functions to be held at Marree and Port Augusta, on Saturday, 27th July, 1957\nto mark the Opening of the Standard Gauge Stirling North-Marree Railway\nR.S.V.P. 12TH JULY. 1957\nTHE SECRETARY\nCOMMONWEALTH RAILWAYS\n623 COLLINS STREET. MELBOURNE, C.I\nThe Ministon for Shipping and Transport\nHon. Hubert Opperman, 098. M.Ф.\nroguests the plotsure of the company of\nC. H. McFadyen, Esq., C.B.E.\nal A Cooktail Parly\nlo mark the maiden voyage of the\nCommonwalth Lighthouse Fornice Yessol\n\"Саро Доп\"\nat No. 3 North Wharf\non Monday, ith March, 1963\n52 015% Entension 283",
+  "source_sha256": "459a7e1d44c514f4610e2d30834373d6f010b0ff3255ef2ba9c0927a2a8cfef2",
+  "status": "machine-draft"
+}

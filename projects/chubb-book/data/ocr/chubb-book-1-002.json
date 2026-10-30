@@ -1,0 +1,451 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-002.jpg",
+  "lines": [
+    {
+      "box": [
+        0.15605749708318065,
+        0.12936046432813608,
+        0.10882956504821775,
+        0.03197674536262318
+      ],
+      "confidence": 1,
+      "text": "PAID"
+    },
+    {
+      "box": [
+        0.21355236906515201,
+        0.11046511632035694,
+        0.3798767852783203,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIAN IMPERIAL"
+    },
+    {
+      "box": [
+        0.6201232024330682,
+        0.1104651162736503,
+        0.10677618026733393,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "FORCE."
+    },
+    {
+      "box": [
+        0.4722792637854783,
+        0.13372093032309906,
+        0.12731005668640133,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Headquarters."
+    },
+    {
+      "box": [
+        0.6077219162423729,
+        0.13351026631275398,
+        0.059710173606872585,
+        0.0120492348304162
+      ],
+      "confidence": 0.5,
+      "text": "A.I.F."
+    },
+    {
+      "box": [
+        0.4906630261705595,
+        0.14362780246821305,
+        0.322546272277832,
+        0.013387126905743174
+      ],
+      "confidence": 1,
+      "text": "130 Horseferry Rd. London. S.W.1."
+    },
+    {
+      "box": [
+        0.16016427266069605,
+        0.1613372100432302,
+        0.10882956504821778,
+        0.030523254637376707
+      ],
+      "confidence": 0.5,
+      "text": "LOMDON"
+    },
+    {
+      "box": [
+        0.2628336839541289,
+        0.1802325583511999,
+        0.3675564575195312,
+        0.011633047479954972
+      ],
+      "confidence": 1,
+      "text": "LEAVE OF ABSENCE IS HEREBY GRANTED TO"
+    },
+    {
+      "box": [
+        0.12320328877852987,
+        0.19186046534121237,
+        0.08624229431152344,
+        0.024709301854950683
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "варр"
+    },
+    {
+      "box": [
+        0.20944558733839436,
+        0.203488371942255,
+        0.06981519222259525,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "_Rank"
+    },
+    {
+      "box": [
+        0.27720739497417995,
+        0.19761273179499816,
+        0.10882956504821778,
+        0.02477098881513229
+      ],
+      "confidence": 1,
+      "text": "M. tadi"
+    },
+    {
+      "box": [
+        0.5256673524500758,
+        0.2034883720232309,
+        0.06570841789245607,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "Nama"
+    },
+    {
+      "box": [
+        0.7782340872258624,
+        0.20203488408659998,
+        0.04517453670501703,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Unit"
+    },
+    {
+      "box": [
+        0.12923103197468597,
+        0.2264423751255762,
+        0.04543937206268309,
+        0.01077804008908867
+      ],
+      "confidence": 1,
+      "text": "from"
+    },
+    {
+      "box": [
+        0.7823408627231297,
+        0.22529069776877053,
+        0.02258726835250857,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "at"
+    },
+    {
+      "box": [
+        0.12731006313033397,
+        0.2484526968229107,
+        0.34086242675781253,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "which hour you will report to Ce"
+    },
+    {
+      "box": [
+        0.5030800847553982,
+        0.2470930233261709,
+        0.09856262207031252,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "aure"
+    },
+    {
+      "box": [
+        0.6344969192738685,
+        0.2484526966276287,
+        0.13141683578491214,
+        0.014628698718326505
+      ],
+      "confidence": 1,
+      "text": "eD pending"
+    },
+    {
+      "box": [
+        0.12731007891439616,
+        0.2732095491160269,
+        0.3572895050048828,
+        0.010220683221791704
+      ],
+      "confidence": 1,
+      "text": "embarkation for return to Australia."
+    },
+    {
+      "box": [
+        0.168377825527786,
+        0.29651162816363485,
+        0.158110876083374,
+        0.010296506232439606
+      ],
+      "confidence": 1,
+      "text": "Leave is granted"
+    },
+    {
+      "box": [
+        0.400310144020808,
+        0.2934147460459122,
+        0.419139404296875,
+        0.017033486741501958
+      ],
+      "confidence": 1,
+      "text": "understanding that you are undererders for"
+    },
+    {
+      "box": [
+        0.12936345894535997,
+        0.30813439435685974,
+        0.19096508026123046,
+        0.0101795588627418
+      ],
+      "confidence": 1,
+      "text": "embarkation and are"
+    },
+    {
+      "box": [
+        0.5256673529925024,
+        0.30668604678039846,
+        0.12320327758789062,
+        0.010290080524987588
+      ],
+      "confidence": 1,
+      "text": "short notice"
+    },
+    {
+      "box": [
+        0.6529774124090082,
+        0.30523255829409424,
+        0.06570841789245607,
+        0.01308139460367197
+      ],
+      "confidence": 0.5,
+      "text": "(1.e.."
+    },
+    {
+      "box": [
+        0.7226837977703272,
+        0.3063402495199523,
+        0.053605709075927765,
+        0.009412524343907158
+      ],
+      "confidence": 1,
+      "text": "under"
+    },
+    {
+      "box": [
+        0.1579768744737288,
+        0.3178978860083155,
+        0.07008321285247804,
+        0.012460041636391916
+      ],
+      "confidence": 0.5,
+      "text": "hours)."
+    },
+    {
+      "box": [
+        0.39425052102857455,
+        0.3183023872540589,
+        0.42094455718994134,
+        0.010185984570193818
+      ],
+      "confidence": 1,
+      "text": "address must be at once notified toD.a.AG."
+    },
+    {
+      "box": [
+        0.12930941530699983,
+        0.32971920251788045,
+        0.08224359512329102,
+        0.010619734368632061
+      ],
+      "confidence": 1,
+      "text": "at these"
+    },
+    {
+      "box": [
+        0.21149897535540765,
+        0.3299418608619238,
+        0.1355236053466797,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Eeadquarters,"
+    },
+    {
+      "box": [
+        0.34904688038352694,
+        0.3264942938906321,
+        0.46617729187011725,
+        0.014162574585932397
+      ],
+      "confidence": 1,
+      "text": "and the address now given should be verifio at"
+    },
+    {
+      "box": [
+        0.12731006802947206,
+        0.341569767838668,
+        0.42505130767822263,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "least once in seven days, to the aforesaid."
+    },
+    {
+      "box": [
+        0.16837781798584245,
+        0.36472148536142734,
+        0.3347022628784179,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "In the event of your not reporting"
+    },
+    {
+      "box": [
+        0.5030800868865279,
+        0.3633720934044944,
+        0.314168357849121,
+        0.011627906408065547
+      ],
+      "confidence": 1,
+      "text": "in time for embarkation in res-"
+    },
+    {
+      "box": [
+        0.18275156210110738,
+        0.3748894786192215,
+        0.5852155685424805,
+        0.014645405304737569
+      ],
+      "confidence": 1,
+      "text": "to advice to your address as registered, you will be plased"
+    },
+    {
+      "box": [
+        0.1293634584470022,
+        0.3880813955942397,
+        0.6283367538452147,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "leave without pay from the date you should. have embarked, unlesa"
+    },
+    {
+      "box": [
+        0.13141684889369684,
+        0.3996463304835586,
+        0.5379876708984375,
+        0.011690878425416051
+      ],
+      "confidence": 1,
+      "text": "satisfaotory reasons can be given for failure to report"
+    },
+    {
+      "box": [
+        0.6569947737250722,
+        0.40092024819234684,
+        0.21989135742187493,
+        0.04118276000760701
+      ],
+      "confidence": 0.5,
+      "text": "A Bretty Lice."
+    },
+    {
+      "box": [
+        0.6899383973989953,
+        0.43459302350641593,
+        0.0739219713211059,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Captain."
+    },
+    {
+      "box": [
+        0.638418346943584,
+        0.44296916079700965,
+        0.0804528331756591,
+        0.02249191041334242
+      ],
+      "confidence": 0.5,
+      "text": "D. A 1. G."
+    },
+    {
+      "box": [
+        0.13953300842653,
+        0.4537288667305026,
+        0.4232640838623047,
+        0.01581454593243592
+      ],
+      "confidence": 1,
+      "text": "Above instructions received and understood."
+    },
+    {
+      "box": [
+        0.2112355379904343,
+        0.4829909768685261,
+        0.28594781875610353,
+        0.039831999653108796
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "natal."
+    },
+    {
+      "box": [
+        0.5215605738063284,
+        0.4752906976424669,
+        0.0985626316070557,
+        0.04796511635750822
+      ],
+      "confidence": 1,
+      "text": "bake"
+    },
+    {
+      "box": [
+        0.38962217356296536,
+        0.6831046009035885,
+        0.08948239326477048,
+        0.013577888751852063
+      ],
+      "confidence": 1,
+      "text": "..."
+    },
+    {
+      "box": [
+        0.21737236493430642,
+        0.8750800125864695,
+        0.5898102569580078,
+        0.026240404468000134
+      ],
+      "confidence": 1,
+      "text": "MOTHER WITH HER DOS NESS AT FRANCiS STREET ASCOT VALE"
+    }
+  ],
+  "text": "PAID\nAUSTRALIAN IMPERIAL\nFORCE.\nHeadquarters.\nA.I.F.\n130 Horseferry Rd. London. S.W.1.\nLOMDON\nLEAVE OF ABSENCE IS HEREBY GRANTED TO\nварр\n_Rank\nM. tadi\nNama\nUnit\nfrom\nat\nwhich hour you will report to Ce\naure\neD pending\nembarkation for return to Australia.\nLeave is granted\nunderstanding that you are undererders for\nembarkation and are\nshort notice\n(1.e..\nunder\nhours).\naddress must be at once notified toD.a.AG.\nat these\nEeadquarters,\nand the address now given should be verifio at\nleast once in seven days, to the aforesaid.\nIn the event of your not reporting\nin time for embarkation in res-\nto advice to your address as registered, you will be plased\nleave without pay from the date you should. have embarked, unlesa\nsatisfaotory reasons can be given for failure to report\nA Bretty Lice.\nCaptain.\nD. A 1. G.\nAbove instructions received and understood.\nnatal.\nbake\n...\nMOTHER WITH HER DOS NESS AT FRANCiS STREET ASCOT VALE",
+  "source_sha256": "ef2b6b7ce77183d01aaad4396fcf9b602013cbe10d2b2201c7f61ad23d6dd678",
+  "status": "machine-draft"
+}

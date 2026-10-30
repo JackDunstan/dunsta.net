@@ -1,0 +1,354 @@
+{
+  "candidate_names": [
+    "ANSARY",
+    "Charles",
+    "EX TRADE",
+    "JOAN",
+    "JONN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.6151540875434875,
+      0.8028457686305046,
+      0.08955029398202896,
+      0.06334238499403
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-119.jpg",
+  "lines": [
+    {
+      "box": [
+        0.24014814953476937,
+        0.11457854112575894,
+        0.12339980125427247,
+        0.02520338188326532
+      ],
+      "confidence": 1,
+      "text": "f. M. Higgins"
+    },
+    {
+      "box": [
+        0.4907597574947036,
+        0.11482558168372903,
+        0.1663244247436524,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "Box 3931 G.P.O. Lydney"
+    },
+    {
+      "box": [
+        0.49486652910059303,
+        0.1321839076321072,
+        0.15400410652160645,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "Telephone: BU 5727"
+    },
+    {
+      "box": [
+        0.5030800888088719,
+        0.17727674606173616,
+        0.1663244247436525,
+        0.011676741953343006
+      ],
+      "confidence": 1,
+      "text": "December 23rd, 1958."
+    },
+    {
+      "box": [
+        0.25667351134995003,
+        0.2541998231843756,
+        0.10882956504821778,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.3408624245603086,
+        0.2761627908730022,
+        0.322381935119629,
+        0.011635617594293102
+      ],
+      "confidence": 1,
+      "text": "I was certainly pleased to receive your"
+    },
+    {
+      "box": [
+        0.2587269075529479,
+        0.29929266122550846,
+        0.2997946548461914,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "card and best wishes and it gives me"
+    },
+    {
+      "box": [
+        0.5564681726340721,
+        0.29796511666030834,
+        0.11498972892761217,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "much pleasure"
+    },
+    {
+      "box": [
+        0.25872689578981095,
+        0.32404951376294056,
+        0.18275154113769532,
+        0.011706299954658106
+      ],
+      "confidence": 1,
+      "text": "in reciprocating them."
+    },
+    {
+      "box": [
+        0.3406758243754743,
+        0.343845841868196,
+        0.30831932067871093,
+        0.014217447538906969
+      ],
+      "confidence": 1,
+      "text": "Hope you are enjoying your retirement"
+    },
+    {
+      "box": [
+        0.260614592122449,
+        0.36725400597395663,
+        0.4048231506347656,
+        0.015343543810722116
+      ],
+      "confidence": 1,
+      "text": "and please look me up any time you are in Sydney."
+    },
+    {
+      "box": [
+        0.3429158121361797,
+        0.3938953490151369,
+        0.05954825401306152,
+        0.010174418212458791
+      ],
+      "confidence": 1,
+      "text": "Cheers."
+    },
+    {
+      "box": [
+        0.5071177648660246,
+        0.42703910107746057,
+        0.08227371215820312,
+        0.010747379164691595
+      ],
+      "confidence": 1,
+      "text": "Sincerely,"
+    },
+    {
+      "box": [
+        0.2628336829443334,
+        0.5145348838599209,
+        0.19096508026123044,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Charles McFadyen, Esqo,"
+    },
+    {
+      "box": [
+        0.26283367845518085,
+        0.5274093720800814,
+        0.1252566719055176,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "3 Newton Court,"
+    },
+    {
+      "box": [
+        0.2628336825152374,
+        0.5392441864968435,
+        0.16632442474365233,
+        0.02043751127207627
+      ],
+      "confidence": 1,
+      "text": "ST. KILDA• VICTORIA."
+    },
+    {
+      "box": [
+        0.1639438074418483,
+        0.6423032797647795,
+        0.544813232421875,
+        0.02389227363728086
+      ],
+      "confidence": 1,
+      "text": "JONN MOGGINS WAS HEAR OF THE CALTEX OIL INTERESTS IN"
+    },
+    {
+      "box": [
+        0.16788838398427017,
+        0.6595346719839105,
+        0.5655077362060547,
+        0.02576387676910208
+      ],
+      "confidence": 1,
+      "text": "AUSTRALiA. WITH HIS PERSONAL ASSISTANT ARTHUR FITZGERALD,"
+    },
+    {
+      "box": [
+        0.1700698254184043,
+        0.6767218237995929,
+        0.5264555358886719,
+        0.024741907229368643
+      ],
+      "confidence": 1,
+      "text": "AN EX TRADE • CUSTOMS OFFICIAL, HE ORGANISED A FAREWELL"
+    },
+    {
+      "box": [
+        0.17205566330723854,
+        0.69001152704639,
+        0.5511584854125977,
+        0.02381559687310042
+      ],
+      "confidence": 1,
+      "text": "LUNCHeON TO ME AT HOTEL AUSTRALIA SYRNEY. / LOST A VERY"
+    },
+    {
+      "box": [
+        0.17203796882886904,
+        0.7038840409197783,
+        0.5514248657226563,
+        0.028260893783771612
+      ],
+      "confidence": 1,
+      "text": "GOOM FRIEND WHEN HE RICE SOmE YEARS AGO IN SYRNEY AFTER"
+    },
+    {
+      "box": [
+        0.17182225481442742,
+        0.716143220498917,
+        0.5681208038330079,
+        0.03094462184754221
+      ],
+      "confidence": 1,
+      "text": "A VISIT TO THE USA. WHERE HE CONSULTED THe MAYO CLINIC HITHOUT"
+    },
+    {
+      "box": [
+        0.17190304189214659,
+        0.739772178298218,
+        0.307045783996582,
+        0.0206321055229316
+      ],
+      "confidence": 1,
+      "text": "ANY AALEVIATION OF HIS RIMENT"
+    },
+    {
+      "box": [
+        0.755646816267016,
+        0.8037135278566584,
+        0.10061601638793938,
+        0.014600425774180525
+      ],
+      "confidence": 1,
+      "text": "ROSE STAYED"
+    },
+    {
+      "box": [
+        0.7558290779088801,
+        0.814546830203943,
+        0.11846195220947275,
+        0.0246137303656756
+      ],
+      "confidence": 1,
+      "text": "WITH ANSARY'S"
+    },
+    {
+      "box": [
+        0.7597535954491712,
+        0.8372093024738123,
+        0.10472278594970708,
+        0.014691669892463621
+      ],
+      "confidence": 1,
+      "text": "PARENTS IN"
+    },
+    {
+      "box": [
+        0.7618069828563745,
+        0.8531976742761378,
+        0.07186858177185051,
+        0.01453488364249178
+      ],
+      "confidence": 0.5,
+      "text": "BARITOri"
+    },
+    {
+      "box": [
+        0.7772212879439837,
+        0.8642058195399226,
+        0.10277711868286132,
+        0.017117224574405343
+      ],
+      "confidence": 1,
+      "text": "NORTH WITCH"
+    },
+    {
+      "box": [
+        0.8028747449875192,
+        0.8808139536273627,
+        0.07802874565124507,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "CHESHIRE"
+    },
+    {
+      "box": [
+        0.8336755656149094,
+        0.8938953490151368,
+        0.03901437282562259,
+        0.010174418212458902
+      ],
+      "confidence": 0.5,
+      "text": "U.K."
+    },
+    {
+      "box": [
+        0.12114989728746409,
+        0.9462209303230992,
+        0.04517453670501709,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "JOAN"
+    },
+    {
+      "box": [
+        0.16427104865065723,
+        0.9622093024161223,
+        0.10061601638793943,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "CANBERRA"
+    },
+    {
+      "box": [
+        0.5010267011746323,
+        0.9606542880524807,
+        0.3696098327636719,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "ANNALRY HATTON. SAME BIRCREW AS KEN"
+    }
+  ],
+  "text": "f. M. Higgins\nBox 3931 G.P.O. Lydney\nTelephone: BU 5727\nDecember 23rd, 1958.\nDear Charles,\nI was certainly pleased to receive your\ncard and best wishes and it gives me\nmuch pleasure\nin reciprocating them.\nHope you are enjoying your retirement\nand please look me up any time you are in Sydney.\nCheers.\nSincerely,\nCharles McFadyen, Esqo,\n3 Newton Court,\nST. KILDA• VICTORIA.\nJONN MOGGINS WAS HEAR OF THE CALTEX OIL INTERESTS IN\nAUSTRALiA. WITH HIS PERSONAL ASSISTANT ARTHUR FITZGERALD,\nAN EX TRADE • CUSTOMS OFFICIAL, HE ORGANISED A FAREWELL\nLUNCHeON TO ME AT HOTEL AUSTRALIA SYRNEY. / LOST A VERY\nGOOM FRIEND WHEN HE RICE SOmE YEARS AGO IN SYRNEY AFTER\nA VISIT TO THE USA. WHERE HE CONSULTED THe MAYO CLINIC HITHOUT\nANY AALEVIATION OF HIS RIMENT\nROSE STAYED\nWITH ANSARY'S\nPARENTS IN\nBARITOri\nNORTH WITCH\nCHESHIRE\nU.K.\nJOAN\nCANBERRA\nANNALRY HATTON. SAME BIRCREW AS KEN",
+  "source_sha256": "269b0dd65150ad0c733fbd5b53829ed38897a69604f1f2a61588d196dbe67bd2",
+  "status": "machine-draft"
+}

@@ -1,0 +1,282 @@
+{
+  "candidate_names": [
+    "KEN",
+    "Majesty",
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.4817716181278229,
+      0.7256266698241234,
+      0.10388506948947906,
+      0.07348192483186722
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-134.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3901437513534012,
+        0.13953488375610867,
+        0.32032852172851567,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH ADVERTISING DIVISION"
+    },
+    {
+      "box": [
+        0.4784394287381181,
+        0.15694076054619543,
+        0.145790548324585,
+        0.010210401921225909
+      ],
+      "confidence": 1,
+      "text": "Department of the Treasury"
+    },
+    {
+      "box": [
+        0.6673270322865763,
+        0.18597093155751232,
+        0.04522273063659665,
+        0.007418602151643028
+      ],
+      "confidence": 1,
+      "text": "SYDNEY"
+    },
+    {
+      "box": [
+        0.616016427227483,
+        0.20494186034341788,
+        0.11704312324523924,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "June 10, 1955."
+    },
+    {
+      "box": [
+        0.3100615996417726,
+        0.2396109636773791,
+        0.22587268829345697,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Mr. C. H. McFadyen, C.B.E•,"
+    },
+    {
+      "box": [
+        0.31196119260380806,
+        0.25086885084473465,
+        0.08449650764465333,
+        0.012797181949902092
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.3100616040881461,
+        0.2630415559460263,
+        0.29158109664916987,
+        0.01166774613155297
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.31211499123974124,
+        0.2745358088939871,
+        0.14168377876281735,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Rialto Buildings,"
+    },
+    {
+      "box": [
+        0.31211499475092075,
+        0.28633720955759523,
+        0.15811087608337404,
+        0.011629191886841084
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.31211499319296965,
+        0.33139534912154867,
+        0.1498973274230957,
+        0.011663890538439081
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.3244353242027705,
+        0.3517441862581765,
+        0.42094455718994145,
+        0.011651039123535156
+      ],
+      "confidence": 1,
+      "text": "Permit me to offer you sincere congratulations from"
+    },
+    {
+      "box": [
+        0.326488702419193,
+        0.3633720933657347,
+        0.4024640655517578,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "this Division and myself personally upon the high"
+    },
+    {
+      "box": [
+        0.3264887155268298,
+        0.37488947842829523,
+        0.4106776046752929,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "honor which Her Majesty has been pleased to confer"
+    },
+    {
+      "box": [
+        0.4229979603427141,
+        0.38662790721263396,
+        0.28336753845214846,
+        0.01169216348258506
+      ],
+      "confidence": 1,
+      "text": "Such acknowledgment of your public"
+    },
+    {
+      "box": [
+        0.32648870141303293,
+        0.3982558143805768,
+        0.4024640655517578,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "service is, if I may say so, richly deserved, and"
+    },
+    {
+      "box": [
+        0.3244353176620037,
+        0.40981432360223746,
+        0.3798767852783203,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "affords great satisfaction to those of us who,"
+    },
+    {
+      "box": [
+        0.3264887238706064,
+        0.4213085764231954,
+        0.418891143798828,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "though not closely associated, have been privileged"
+    },
+    {
+      "box": [
+        0.3264887073793383,
+        0.4331395351389905,
+        0.3285420989990234,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "to have official relationships with you."
+    },
+    {
+      "box": [
+        0.5256673517446206,
+        0.46220930260992077,
+        0.14579054832458493,
+        0.011707585011827115
+      ],
+      "confidence": 1,
+      "text": "Yours faithfully,"
+    },
+    {
+      "box": [
+        0.5540666741881229,
+        0.5157163970055743,
+        0.13416644096374508,
+        0.015078833838883532
+      ],
+      "confidence": 1,
+      "text": "(W. M. Rutledge)"
+    },
+    {
+      "box": [
+        0.5864054335258428,
+        0.5260657369228382,
+        0.07987991809844974,
+        0.015084852695886775
+      ],
+      "confidence": 1,
+      "text": "Director."
+    },
+    {
+      "box": [
+        0.498973306046375,
+        0.9127906982105186,
+        0.04722792625427252,
+        0.01308139460367197
+      ],
+      "confidence": 0.5,
+      "text": "ULYE"
+    },
+    {
+      "box": [
+        0.19917864617576211,
+        0.9199823166387293,
+        0.13963038444519046,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "KEN AND MARIE"
+    },
+    {
+      "box": [
+        0.22176591573428367,
+        0.9345711758184185,
+        0.13963038444519044,
+        0.01458885941644572
+      ],
+      "confidence": 1,
+      "text": "TELOPER PARK"
+    },
+    {
+      "box": [
+        0.2710472268052758,
+        0.953488372361794,
+        0.09445585250854488,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "CANBERRA"
+    },
+    {
+      "box": [
+        0.7699817448422496,
+        0.9199529560921211,
+        0.08631987571716315,
+        0.016198739238169058
+      ],
+      "confidence": 1,
+      "text": "MiCHAEL"
+    }
+  ],
+  "text": "COMMONWEALTH ADVERTISING DIVISION\nDepartment of the Treasury\nSYDNEY\nJune 10, 1955.\nMr. C. H. McFadyen, C.B.E•,\nSecretary,\nDepartment of Shipping & Transport,\nRialto Buildings,\n497 Collins Street,\nDear Mr. McFadyen,\nPermit me to offer you sincere congratulations from\nthis Division and myself personally upon the high\nhonor which Her Majesty has been pleased to confer\nSuch acknowledgment of your public\nservice is, if I may say so, richly deserved, and\naffords great satisfaction to those of us who,\nthough not closely associated, have been privileged\nto have official relationships with you.\nYours faithfully,\n(W. M. Rutledge)\nDirector.\nULYE\nKEN AND MARIE\nTELOPER PARK\nCANBERRA\nMiCHAEL",
+  "source_sha256": "f124ad93aa3d327870241dcc7be8a13dcedc51e665385ff23830bd76c53a43e9",
+  "status": "machine-draft"
+}

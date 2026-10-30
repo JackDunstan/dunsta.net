@@ -1,0 +1,394 @@
+{
+  "candidate_names": [
+    "McFadyen",
+    "Mr. Elvery"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-059.jpg",
+  "lines": [
+    {
+      "box": [
+        0.5195071882721856,
+        0.17005813947132475,
+        0.07186858177185063,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "SYDNEY."
+    },
+    {
+      "box": [
+        0.5338809029709833,
+        0.18168604704772795,
+        0.16427104949951166,
+        0.013274164984017567
+      ],
+      "confidence": 1,
+      "text": "20th March, 1946."
+    },
+    {
+      "box": [
+        0.22792608557855806,
+        0.21927497777136928,
+        0.19712524414062502,
+        0.013283161227414353
+      ],
+      "confidence": 1,
+      "text": "C.H. McFadyen, Esq.,"
+    },
+    {
+      "box": [
+        0.2566735224735684,
+        0.23110465175339656,
+        0.2977412605285645,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Secondary Industries Division,"
+    },
+    {
+      "box": [
+        0.2956878903172153,
+        0.2412790697178434,
+        0.211498966217041,
+        0.026183352651688918
+      ],
+      "confidence": 0.5,
+      "text": "119h1114. St. St. 2.S.W."
+    },
+    {
+      "box": [
+        0.22792608147465207,
+        0.28052325613463003,
+        0.17864475250244136,
+        0.0116960186540922
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.3652987658257767,
+        0.30868702276147353,
+        0.3104576110839844,
+        0.015788887792936412
+      ],
+      "confidence": 1,
+      "text": "Mr. Elvery has told me that you"
+    },
+    {
+      "box": [
+        0.2299794799594801,
+        0.3212209304840168,
+        0.41683776855468746,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "are leaving Sydney to take up the position"
+    },
+    {
+      "box": [
+        0.22997947260666549,
+        0.3328488371516223,
+        0.3963039016723633,
+        0.014631268832664635
+      ],
+      "confidence": 1,
+      "text": "of Deputy Director, Secondary Industries"
+    },
+    {
+      "box": [
+        0.22792608140179824,
+        0.3457117596660628,
+        0.2197125244140625,
+        0.013299867813825417
+      ],
+      "confidence": 1,
+      "text": "Division, in Victoria."
+    },
+    {
+      "box": [
+        0.367556477361791,
+        0.3677325583511999,
+        0.2792607688903809,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "I would like to offer you my"
+    },
+    {
+      "box": [
+        0.22984042999583792,
+        0.3784827264039673,
+        0.4170893478393554,
+        0.01448883576060056
+      ],
+      "confidence": 1,
+      "text": "congratulations on your appointment and to"
+    },
+    {
+      "box": [
+        0.22997946815818465,
+        0.390804597506212,
+        0.43531826019287106,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "extend to you my best wishes for the future."
+    },
+    {
+      "box": [
+        0.36755646662207897,
+        0.41423519028125266,
+        0.2997946548461914,
+        0.011636902651462222
+      ],
+      "confidence": 1,
+      "text": "I also want to take the oppor-"
+    },
+    {
+      "box": [
+        0.23203287068483697,
+        0.4257294430208802,
+        0.39425048828125003,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "tunity of thanking you for the great co-"
+    },
+    {
+      "box": [
+        0.23203286398377088,
+        0.4374999998492317,
+        0.3860369491577148,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "operation you have extended to the Bank"
+    },
+    {
+      "box": [
+        0.2340041129289861,
+        0.4490563317691276,
+        0.40265113830566407,
+        0.01406376937340037
+      ],
+      "confidence": 1,
+      "text": "over recent months, and to reiterate what"
+    },
+    {
+      "box": [
+        0.23203287331317354,
+        0.4606542882364544,
+        0.39425048828125,
+        0.010275944052914543
+      ],
+      "confidence": 1,
+      "text": "I said at the meeting with the Secondary"
+    },
+    {
+      "box": [
+        0.22997946894286606,
+        0.4723837211855022,
+        0.2197125244140625,
+        0.011701159304375097
+      ],
+      "confidence": 1,
+      "text": "Industries Commission,"
+    },
+    {
+      "box": [
+        0.4537987677071491,
+        0.4708222813274521,
+        0.19301847457885735,
+        0.010282369760366561
+      ],
+      "confidence": 1,
+      "text": "that the Industrial"
+    },
+    {
+      "box": [
+        0.22997947279866524,
+        0.48255813968944317,
+        0.42710472106933595,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Finance Department could not have got along"
+    },
+    {
+      "box": [
+        0.2320328567678488,
+        0.4955791335994453,
+        0.36550308227539063,
+        0.011688307889471172
+      ],
+      "confidence": 1,
+      "text": "without the help of both you and your"
+    },
+    {
+      "box": [
+        0.2320328529865317,
+        0.5087209306331767,
+        0.20739219665527342,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Department in Sydney."
+    },
+    {
+      "box": [
+        0.3880903538486926,
+        0.5406719717032902,
+        0.18069814682006835,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "With kind regards,"
+    },
+    {
+      "box": [
+        0.4291581127386005,
+        0.5654069767387666,
+        0.15811087608337404,
+        0.013284446706190112
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.42094455968022404,
+        0.5784883724123674,
+        0.26899383544921873,
+        0.053779069139934244
+      ],
+      "confidence": 1,
+      "text": "anarmstrong"
+    },
+    {
+      "box": [
+        0.12270156874370543,
+        0.6826792786064176,
+        0.7011983489990234,
+        0.02968820695008556
+      ],
+      "confidence": 1,
+      "text": "/ AGREED TO INVESTIGATE AND REPORT ON ALL REQUESTS TO THE MEN IMDUSTRIAL"
+    },
+    {
+      "box": [
+        0.07757903887150136,
+        0.7019315878860528,
+        0.7566249084472656,
+        0.03275519656882042
+      ],
+      "confidence": 1,
+      "text": "FINANCE REPARTMENT OF THE COmmONERKTH BANK By INMUSTRIALISTS FOR FiNANCiAL"
+    },
+    {
+      "box": [
+        0.07963390191911322,
+        0.7229440105777358,
+        0.7134576416015624,
+        0.03171041810754971
+      ],
+      "confidence": 1,
+      "text": "ASSISTANCE ARE TO GO SO / MAR TO ESTABLISH A COMPETENT BODY OF TECHNiCAL"
+    },
+    {
+      "box": [
+        0.0817576203046822,
+        0.7427340519384942,
+        0.6741551208496095,
+        0.023335041987168625
+      ],
+      "confidence": 1,
+      "text": "INTESTIGATORS IN MHICH TASK I WAS GiVEN ALL POSSIBLE ASSISTANCE BY"
+    },
+    {
+      "box": [
+        0.08172706667729279,
+        0.7601398515664407,
+        0.7400551605224609,
+        0.029765027060538296
+      ],
+      "confidence": 1,
+      "text": "MA J.K.L.ENSEN (HOW SIR JONN JENSEN) SECRETARY TEP! OF MUNITIONS. / GATHEREO"
+    },
+    {
+      "box": [
+        0.08802397571191037,
+        0.7817373235588537,
+        0.7253594970703126,
+        0.022298629045697238
+      ],
+      "confidence": 1,
+      "text": "AROUNO ME A SPLENDIA STAFF OF COST INTESTIORTORS RAG ENGINBERS OF MANY"
+    },
+    {
+      "box": [
+        0.09598313835385483,
+        0.7914860004049483,
+        0.7607249450683593,
+        0.034076663691000375
+      ],
+      "confidence": 1,
+      "text": "CLASSES, INCLURING ELECTRICAL, CHEMICAL, CIVIL, MECHANIAI AND MARINE. OUR REPORTS"
+    },
+    {
+      "box": [
+        0.09834332418538544,
+        0.8200717578097036,
+        0.5773687744140625,
+        0.020922722382212378
+      ],
+      "confidence": 1,
+      "text": "HERE THOROUGM AND APPARENTAY PLERSEN THE BANK OFFICIANS."
+    },
+    {
+      "box": [
+        0.18275154040544578,
+        0.9476744188137163,
+        0.05338809013366699,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "MARiE"
+    },
+    {
+      "box": [
+        0.6405522326909437,
+        0.9603204801403815,
+        0.12957315444946282,
+        0.016859039387589037
+      ],
+      "confidence": 1,
+      "text": "JANE • RAViO"
+    },
+    {
+      "box": [
+        0.3839835730907511,
+        0.984011627981092,
+        0.05133470058441164,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "MARIE"
+    },
+    {
+      "box": [
+        0.4620123219528318,
+        0.9825581397880853,
+        0.051334700584411586,
+        0.00872093001685248
+      ],
+      "confidence": 0.5,
+      "text": "LINAR"
+    }
+  ],
+  "text": "SYDNEY.\n20th March, 1946.\nC.H. McFadyen, Esq.,\nSecondary Industries Division,\n119h1114. St. St. 2.S.W.\nDear Mr. McFadyen,\nMr. Elvery has told me that you\nare leaving Sydney to take up the position\nof Deputy Director, Secondary Industries\nDivision, in Victoria.\nI would like to offer you my\ncongratulations on your appointment and to\nextend to you my best wishes for the future.\nI also want to take the oppor-\ntunity of thanking you for the great co-\noperation you have extended to the Bank\nover recent months, and to reiterate what\nI said at the meeting with the Secondary\nIndustries Commission,\nthat the Industrial\nFinance Department could not have got along\nwithout the help of both you and your\nDepartment in Sydney.\nWith kind regards,\nYours sincerely,\nanarmstrong\n/ AGREED TO INVESTIGATE AND REPORT ON ALL REQUESTS TO THE MEN IMDUSTRIAL\nFINANCE REPARTMENT OF THE COmmONERKTH BANK By INMUSTRIALISTS FOR FiNANCiAL\nASSISTANCE ARE TO GO SO / MAR TO ESTABLISH A COMPETENT BODY OF TECHNiCAL\nINTESTIGATORS IN MHICH TASK I WAS GiVEN ALL POSSIBLE ASSISTANCE BY\nMA J.K.L.ENSEN (HOW SIR JONN JENSEN) SECRETARY TEP! OF MUNITIONS. / GATHEREO\nAROUNO ME A SPLENDIA STAFF OF COST INTESTIORTORS RAG ENGINBERS OF MANY\nCLASSES, INCLURING ELECTRICAL, CHEMICAL, CIVIL, MECHANIAI AND MARINE. OUR REPORTS\nHERE THOROUGM AND APPARENTAY PLERSEN THE BANK OFFICIANS.\nMARiE\nJANE • RAViO\nMARIE\nLINAR",
+  "source_sha256": "33bb45e6491e6acd9636ab6ee02b5fe753f5ce418dce5c92e937b51944e9e364",
+  "status": "machine-draft"
+}

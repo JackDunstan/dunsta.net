@@ -1,0 +1,284 @@
+{
+  "candidate_names": [
+    "Charles",
+    "Shoarlan"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-098.jpg",
+  "lines": [
+    {
+      "box": [
+        0.24845998142899844,
+        0.17860300627341563,
+        0.5954825210571288,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "CAULFIELD RETURNED SAILORS, SOLDIERS AND AIRMEN'S CLUB"
+    },
+    {
+      "box": [
+        0.40451746017293116,
+        0.19622093041048572,
+        0.28747432708740234,
+        0.01023353463669563
+      ],
+      "confidence": 1,
+      "text": "CAULFIELD BRANCH R.S.S.&A.I.L.A."
+    },
+    {
+      "box": [
+        0.2607802932624109,
+        0.21511627926182286,
+        0.051334695816040055,
+        0.00436046458681949
+      ],
+      "confidence": 1,
+      "text": "PRESIDENT:"
+    },
+    {
+      "box": [
+        0.25051334861612806,
+        0.22236958442326338,
+        0.07186858177185063,
+        0.00728157829331888
+      ],
+      "confidence": 1,
+      "text": "F. J. E. GYNGELL"
+    },
+    {
+      "box": [
+        0.2607802881289412,
+        0.23546511645555634,
+        0.051334695816040055,
+        0.0029069763912129565
+      ],
+      "confidence": 0.5,
+      "text": "SECREIANT:"
+    },
+    {
+      "box": [
+        0.25051334855114826,
+        0.2412790696659275,
+        0.07392196655273436,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "J. E. BROADBENT"
+    },
+    {
+      "box": [
+        0.7330595531325709,
+        0.2135278516313317,
+        0.13347022056579594,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "TELEPHONES: LF 1142, LF 1143"
+    },
+    {
+      "box": [
+        0.7330595531325709,
+        0.22369584452853086,
+        0.13347022056579594,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "4 ST. GEORGE'S ROAD"
+    },
+    {
+      "box": [
+        0.7782340916152234,
+        0.23386383747417971,
+        0.11088294982910152,
+        0.0075154730327144925
+      ],
+      "confidence": 1,
+      "text": "ELSTERNWICK, S.4"
+    },
+    {
+      "box": [
+        0.7084188919720024,
+        0.2440318303511949,
+        0.15811087608337393,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "10th June, 1955."
+    },
+    {
+      "box": [
+        0.2751540100766912,
+        0.35755813977077344,
+        0.12320327758789062,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "C• McFadyen,"
+    },
+    {
+      "box": [
+        0.3963039054863681,
+        0.357558139782886,
+        0.12731005668640133,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Esq., C.B.E."
+    },
+    {
+      "box": [
+        0.27480426527822166,
+        0.3662799321299848,
+        0.17933935165405274,
+        0.014674876455075925
+      ],
+      "confidence": 1,
+      "text": "St Leonards Court,"
+    },
+    {
+      "box": [
+        0.2730293533908054,
+        0.3790814075133968,
+        0.12334581375122072,
+        0.016546486332604138
+      ],
+      "confidence": 1,
+      "text": "SOUTH YARRA."
+    },
+    {
+      "box": [
+        0.2751540103067407,
+        0.40406719696244675,
+        0.12936344146728518,
+        0.011630477365616954
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.43531828257244515,
+        0.42572944296274073,
+        0.3819301605224609,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "The President and Committee of the Club"
+    },
+    {
+      "box": [
+        0.27515399868841284,
+        0.4375000003327889,
+        0.4825461959838867,
+        0.011660034945325304
+      ],
+      "confidence": 1,
+      "text": "wish to congratulate you on your appointment as a"
+    },
+    {
+      "box": [
+        0.2749915972412754,
+        0.44697491864343486,
+        0.44386726379394525,
+        0.01532386995647772
+      ],
+      "confidence": 1,
+      "text": "Commander of the Order of the British Empire."
+    },
+    {
+      "box": [
+        0.43121150845980666,
+        0.4723837215208384,
+        0.3552361297607422,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Your many friends here are delighted"
+    },
+    {
+      "box": [
+        0.27515400864675593,
+        0.48255813968944317,
+        0.2956878662109375,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "to see you receive this honor."
+    },
+    {
+      "box": [
+        0.5297741350025048,
+        0.5070733865919497,
+        0.16016426086425795,
+        0.013275450462793326
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.550308008460361,
+        0.5290697672993937,
+        0.0513347005844117,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "(J.E."
+    },
+    {
+      "box": [
+        0.6180698162723957,
+        0.5305232563500535,
+        0.09034907341003418,
+        0.01308139460367197
+      ],
+      "confidence": 0.5,
+      "text": "BOADBENT)"
+    },
+    {
+      "box": [
+        0.6078028755261539,
+        0.5375773647517617,
+        0.21355236053466797,
+        0.02492263483642798
+      ],
+      "confidence": 0.5,
+      "text": "/ Shoarlan"
+    },
+    {
+      "box": [
+        0.6056031430891138,
+        0.5618994831369875,
+        0.10296209335327144,
+        0.014282428933707791
+      ],
+      "confidence": 1,
+      "text": "Secretary•"
+    },
+    {
+      "box": [
+        0.2710090869719035,
+        0.6161857330354156,
+        0.06373131275177002,
+        0.013268068551384848
+      ],
+      "confidence": 1,
+      "text": "JEB/RM"
+    },
+    {
+      "box": [
+        0.5811088307726227,
+        0.6511627908395513,
+        0.051334700584411586,
+        0.024709301854950683
+      ],
+      "confidence": 0.5,
+      "text": "v0lo"
+    }
+  ],
+  "text": "CAULFIELD RETURNED SAILORS, SOLDIERS AND AIRMEN'S CLUB\nCAULFIELD BRANCH R.S.S.&A.I.L.A.\nPRESIDENT:\nF. J. E. GYNGELL\nSECREIANT:\nJ. E. BROADBENT\nTELEPHONES: LF 1142, LF 1143\n4 ST. GEORGE'S ROAD\nELSTERNWICK, S.4\n10th June, 1955.\nC• McFadyen,\nEsq., C.B.E.\nSt Leonards Court,\nSOUTH YARRA.\nDear Charles,\nThe President and Committee of the Club\nwish to congratulate you on your appointment as a\nCommander of the Order of the British Empire.\nYour many friends here are delighted\nto see you receive this honor.\nYours sincerely,\n(J.E.\nBOADBENT)\n/ Shoarlan\nSecretary•\nJEB/RM\nv0lo",
+  "source_sha256": "5dfb87ed3cff3ef5eaaec9f6c5fee6eebe8c6ac4f35c43c8a4db8cecf397c972",
+  "status": "machine-draft"
+}

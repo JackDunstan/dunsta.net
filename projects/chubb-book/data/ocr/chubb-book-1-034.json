@@ -1,0 +1,104 @@
+{
+  "candidate_names": [
+    "MI",
+    "TATE MAS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-034.jpg",
+  "lines": [
+    {
+      "box": [
+        0.20223591003367233,
+        0.5137124971944005,
+        0.7231190490722655,
+        0.052691586980979865
+      ],
+      "confidence": 1,
+      "text": "A PHOTOGRARM TRITEN FROM MY OFFICE MINION NO.1. SECRETARIAT CANBERRA LOOKING"
+    },
+    {
+      "box": [
+        0.16733234572707836,
+        0.5345959278962226,
+        0.6732170104980468,
+        0.051203821318851594
+      ],
+      "confidence": 1,
+      "text": "TOWARDS MOUNT RiNSLiE. THE CHURCH OF STOOHA IS iN THE MiDDLE DiSTANCE."
+    },
+    {
+      "box": [
+        0.16914688372549222,
+        0.5555203173470961,
+        0.6945809936523437,
+        0.047628851299471364
+      ],
+      "confidence": 1,
+      "text": "THE SEMi- COMPRETER WAR MEMORIAL BUiLDiNG iS FRiNTRY DiSCERNABLE AT THE"
+    },
+    {
+      "box": [
+        0.17322793157032762,
+        0.5773877384300686,
+        0.5626028442382813,
+        0.0440108099413804
+      ],
+      "confidence": 1,
+      "text": "FOOT DR MOUNT RiMERiE, THE TATE MAS 23%. OCTOBER 1985° MI"
+    },
+    {
+      "box": [
+        0.22587268964800522,
+        0.8619186051575662,
+        0.1683778190612793,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "MOTHER AND HER CAT"
+    },
+    {
+      "box": [
+        0.6380109775153968,
+        0.8314564345035329,
+        0.2864524269104004,
+        0.021617479602601186
+      ],
+      "confidence": 1,
+      "text": "TEMPTIS PARTY IENT ST FLEMINOTOA."
+    },
+    {
+      "box": [
+        0.5622215173258209,
+        0.8602655091532163,
+        0.4053218460083008,
+        0.020464186326894618
+      ],
+      "confidence": 1,
+      "text": "REnE PRIgHAM, CHAS MCFARYEN, CARRE HOMARA, KEITH HENRERSON"
+    },
+    {
+      "box": [
+        0.631917330582214,
+        0.8764927394009897,
+        0.2884764862060547,
+        0.020897020395617916
+      ],
+      "confidence": 1,
+      "text": "MRGGIE KNIGHTS, JACK GILL. LES.STELLING"
+    },
+    {
+      "box": [
+        0.7659137617492017,
+        0.8996463305899706,
+        0.12731005668640138,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Tome ABouT 19=0"
+    }
+  ],
+  "text": "A PHOTOGRARM TRITEN FROM MY OFFICE MINION NO.1. SECRETARIAT CANBERRA LOOKING\nTOWARDS MOUNT RiNSLiE. THE CHURCH OF STOOHA IS iN THE MiDDLE DiSTANCE.\nTHE SEMi- COMPRETER WAR MEMORIAL BUiLDiNG iS FRiNTRY DiSCERNABLE AT THE\nFOOT DR MOUNT RiMERiE, THE TATE MAS 23%. OCTOBER 1985° MI\nMOTHER AND HER CAT\nTEMPTIS PARTY IENT ST FLEMINOTOA.\nREnE PRIgHAM, CHAS MCFARYEN, CARRE HOMARA, KEITH HENRERSON\nMRGGIE KNIGHTS, JACK GILL. LES.STELLING\nTome ABouT 19=0",
+  "source_sha256": "ff96f5e1d88d1ecbe17f07876b6b20c4b97ec4357f0e19a6cdb07401dbb92ce6",
+  "status": "machine-draft"
+}

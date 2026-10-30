@@ -1,0 +1,67 @@
+{
+  "candidate_names": [
+    "CHRISTMAS CARA",
+    "KAISER"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.5251152515411377,
+      0.14358214102685452,
+      0.03721512854099274,
+      0.026323700323700905
+    ],
+    [
+      0.2978331446647644,
+      0.12084920704364777,
+      0.05161404237151146,
+      0.036508604884147644
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-017.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4332648833198626,
+        0.31388152109239087,
+        0.27104722976684575,
+        0.020420803842451818
+      ],
+      "confidence": 0.5,
+      "text": "Aufgenommen mt Goerz Dogmai"
+    },
+    {
+      "box": [
+        0.2464065728454189,
+        0.3575581395761709,
+        0.4455852127075195,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "HiNENBURG THE KAISER AT LUMENDORF 19Ut-1918."
+    },
+    {
+      "box": [
+        0.197125267750001,
+        0.8691423517316288,
+        0.40657081604003903,
+        0.019009725906277586
+      ],
+      "confidence": 1,
+      "text": "NEWCASTLE (MIS.N) HARBOUR ANa ENVIRONS."
+    },
+    {
+      "box": [
+        0.14579056242703353,
+        0.8968023252275459,
+        0.5503079986572266,
+        0.01889534907252466
+      ],
+      "confidence": 1,
+      "text": "A CHRISTMAS CARA FROM THE HIRECTOR STATE GOT. ROCKYARE."
+    }
+  ],
+  "text": "Aufgenommen mt Goerz Dogmai\nHiNENBURG THE KAISER AT LUMENDORF 19Ut-1918.\nNEWCASTLE (MIS.N) HARBOUR ANa ENVIRONS.\nA CHRISTMAS CARA FROM THE HIRECTOR STATE GOT. ROCKYARE.",
+  "source_sha256": "11ae372a34be51d88581930fca28a5a39985a4bcb99543fdf52de7c518fb10f6",
+  "status": "machine-draft"
+}

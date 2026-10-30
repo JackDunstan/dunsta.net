@@ -1,0 +1,495 @@
+{
+  "candidate_names": [
+    "DUNSTAN",
+    "J.D. Burns",
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-148.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4825462002315639,
+        0.1148255818224373,
+        0.11293634414672848,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "FOR ENGLAND"
+    },
+    {
+      "box": [
+        0.3675564691522732,
+        0.14970930229109225,
+        0.33675563812255854,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "The bugles of England were blowing"
+    },
+    {
+      "box": [
+        0.39587950753703466,
+        0.15928418869846883,
+        0.1302834129333496,
+        0.01452480724277383
+      ],
+      "confidence": 1,
+      "text": "o'er the sea,"
+    },
+    {
+      "box": [
+        0.3696098583063809,
+        0.17285587961043414,
+        0.3531827545166016,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "As they had called a thousand years,"
+    },
+    {
+      "box": [
+        0.3963039052340635,
+        0.1830238727257516,
+        0.17864475250244133,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "calling now to me;"
+    },
+    {
+      "box": [
+        0.36950937504536113,
+        0.19469685986548613,
+        0.3636333084106445,
+        0.013535377306815866
+      ],
+      "confidence": 1,
+      "text": "They woke me from the dreaming in the"
+    },
+    {
+      "box": [
+        0.3963039034462804,
+        0.20778072493242006,
+        0.18891170501708987,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "dawning of the day,"
+    },
+    {
+      "box": [
+        0.36755647832134003,
+        0.21794871811193328,
+        0.2094455718994141,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "The bugles of England"
+    },
+    {
+      "box": [
+        0.5811088309103306,
+        0.21927497781290606,
+        0.1519507122039795,
+        0.010376184836201285
+      ],
+      "confidence": 1,
+      "text": "- and how could"
+    },
+    {
+      "box": [
+        0.39630390333036486,
+        0.22811671096068287,
+        0.07186858177185063,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "I stay!"
+    },
+    {
+      "box": [
+        0.36538018264514655,
+        0.25116057327685315,
+        0.38627433776855463,
+        0.015829086303710938
+      ],
+      "confidence": 1,
+      "text": "The banners of England, unfurled across"
+    },
+    {
+      "box": [
+        0.3954938571616093,
+        0.26270194458109275,
+        0.08166587829589844,
+        0.01422617817009364
+      ],
+      "confidence": 1,
+      "text": "the sea,"
+    },
+    {
+      "box": [
+        0.3652186886013494,
+        0.2721273147398081,
+        0.31679662704467765,
+        0.01805166688037063
+      ],
+      "confidence": 1,
+      "text": "Floating out upon the wind, were"
+    },
+    {
+      "box": [
+        0.3942505191204606,
+        0.28633720965068343,
+        0.1519507122039795,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "beckoning to me"
+    },
+    {
+      "box": [
+        0.367368261103467,
+        0.29197285403755413,
+        0.41316406250000004,
+        0.021818495766448343
+      ],
+      "confidence": 1,
+      "text": "Storm-rent, and battle-torn, smoke-stained"
+    },
+    {
+      "box": [
+        0.3957638328014994,
+        0.3085330212814701,
+        0.09977322578430176,
+        0.014900263171613304
+      ],
+      "confidence": 1,
+      "text": "and grey,"
+    },
+    {
+      "box": [
+        0.3655030882698426,
+        0.32267441891806037,
+        0.3757699966430664,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "The banners of England - and how could"
+    },
+    {
+      "box": [
+        0.3963039035601603,
+        0.33284883740643234,
+        0.06981519222259519,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "I stay!"
+    },
+    {
+      "box": [
+        0.36537474947595955,
+        0.3540170864201272,
+        0.2692389678955078,
+        0.013794506049388033
+      ],
+      "confidence": 1,
+      "text": "O England! I heard the cry"
+    },
+    {
+      "box": [
+        0.6365503076919014,
+        0.3575581397396359,
+        0.08418890953063962,
+        0.008931692462384788
+      ],
+      "confidence": 1,
+      "text": "of those"
+    },
+    {
+      "box": [
+        0.3942505153559314,
+        0.3677325584939489,
+        0.18891170501708981,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "that died for thee,"
+    },
+    {
+      "box": [
+        0.3655030944981029,
+        0.37931034474003233,
+        0.34496917724609377,
+        0.011678027010512015
+      ],
+      "confidence": 1,
+      "text": "Sounding like an organ voice across"
+    },
+    {
+      "box": [
+        0.3942505155827894,
+        0.39080459781880705,
+        0.14784393310546878,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "the winter sea;"
+    },
+    {
+      "box": [
+        0.3696098718140524,
+        0.4026162792814324,
+        0.35112934112548827,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "They lived and died for England, and"
+    },
+    {
+      "box": [
+        0.3963039088037385,
+        0.41423518990836794,
+        0.16632442474365233,
+        0.010183414455855577
+      ],
+      "confidence": 1,
+      "text": "gladly went their"
+    },
+    {
+      "box": [
+        0.5708418882855248,
+        0.4156976744451272,
+        0.04106776237487797,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "way."
+    },
+    {
+      "box": [
+        0.363449690397196,
+        0.42441860500817663,
+        0.08213552474975588,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "England!"
+    },
+    {
+      "box": [
+        0.447638608260789,
+        0.42440318309712155,
+        0.30184803009033195,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "O England! how could I stay!"
+    },
+    {
+      "box": [
+        0.6098326591051298,
+        0.46066449327122827,
+        0.1006632232666016,
+        0.01326403672667742
+      ],
+      "confidence": 1,
+      "text": "J.D. Burns"
+    },
+    {
+      "box": [
+        0.36333876834141576,
+        0.4807148125603383,
+        0.35546180725097654,
+        0.013530218949052375
+      ],
+      "confidence": 1,
+      "text": "In 1914 J.D. Burns was editor of the"
+    },
+    {
+      "box": [
+        0.36318906791417604,
+        0.49158300939760213,
+        0.2982919120788574,
+        0.01583514226210203
+      ],
+      "confidence": 1,
+      "text": "Melbourne University Magazine."
+    },
+    {
+      "box": [
+        0.36344970144919214,
+        0.5043604653521688,
+        0.26078027725219727,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "to that he had been editor"
+    },
+    {
+      "box": [
+        0.3634496957397231,
+        0.5159151193657128,
+        0.16837781906127924,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Scotch Collegian."
+    },
+    {
+      "box": [
+        0.5585215636643803,
+        0.5172413791491449,
+        0.16016426086425783,
+        0.010374899779032276
+      ],
+      "confidence": 1,
+      "text": "He enlisted with"
+    },
+    {
+      "box": [
+        0.36323200634691927,
+        0.5254100790673685,
+        0.37626094818115235,
+        0.01684954649152004
+      ],
+      "confidence": 1,
+      "text": "the First AIF and was killed at Anzac."
+    },
+    {
+      "box": [
+        0.45585215403446455,
+        0.6569407604888176,
+        0.11704312324523924,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "The Directors of"
+    },
+    {
+      "box": [
+        0.36898691826538593,
+        0.6653949759342702,
+        0.2948728370666504,
+        0.0269442068381609
+      ],
+      "confidence": 1,
+      "text": "EVANS, DEAKIN & CO. LTD."
+    },
+    {
+      "box": [
+        0.40451745493713637,
+        0.6904069771375371,
+        0.22381929397583006,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "request the pleasure of the company of"
+    },
+    {
+      "box": [
+        0.3757700299912865,
+        0.7135278515142485,
+        0.2607802772521973,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Mr. C.H. McFadyen a nd Lady"
+    },
+    {
+      "box": [
+        0.49897330639970294,
+        0.732537577496949,
+        0.03696098566055295,
+        0.010194980391983854
+      ],
+      "confidence": 1,
+      "text": "at the"
+    },
+    {
+      "box": [
+        0.37747339071516395,
+        0.7466678643493211,
+        0.28019889831542966,
+        0.022294025100721426
+      ],
+      "confidence": 1,
+      "text": "Launching of M.V. \"INYULA\""
+    },
+    {
+      "box": [
+        0.4209445630521364,
+        0.7674418606496844,
+        0.19096508026123044,
+        0.014609421174363812
+      ],
+      "confidence": 1,
+      "text": "By Mrs. J. K. DUNSTAN"
+    },
+    {
+      "box": [
+        0.43326489204362445,
+        0.7847038020241941,
+        0.1683778190612793,
+        0.008900848982294152
+      ],
+      "confidence": 1,
+      "text": "Daughter of Mr. C. H. McFadyen"
+    },
+    {
+      "box": [
+        0.39425051809999445,
+        0.7948717947273225,
+        0.24640655517578125,
+        0.01036076330695923
+      ],
+      "confidence": 1,
+      "text": "Secretary of Department of Shipping and Transport"
+    },
+    {
+      "box": [
+        0.36550308276521976,
+        0.8125000004997629,
+        0.3039014244079589,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "at the KANGAROO POINT SHIPYARD"
+    },
+    {
+      "box": [
+        0.3901437415346619,
+        0.8270348836729402,
+        0.25667350769042974,
+        0.014698096021522278
+      ],
+      "confidence": 1,
+      "text": "on SATURDAY, 29th MAY, 1954"
+    },
+    {
+      "box": [
+        0.4845995898743287,
+        0.8457117595285133,
+        0.06981519222259525,
+        0.008939403227005926
+      ],
+      "confidence": 1,
+      "text": "at 6.45 a.m."
+    },
+    {
+      "box": [
+        0.38809035092728955,
+        0.861918604938102,
+        0.26078027725219716,
+        0.010318353469133568
+      ],
+      "confidence": 1,
+      "text": "Morning tea will be served after the Launching Ceremony"
+    }
+  ],
+  "text": "FOR ENGLAND\nThe bugles of England were blowing\no'er the sea,\nAs they had called a thousand years,\ncalling now to me;\nThey woke me from the dreaming in the\ndawning of the day,\nThe bugles of England\n- and how could\nI stay!\nThe banners of England, unfurled across\nthe sea,\nFloating out upon the wind, were\nbeckoning to me\nStorm-rent, and battle-torn, smoke-stained\nand grey,\nThe banners of England - and how could\nI stay!\nO England! I heard the cry\nof those\nthat died for thee,\nSounding like an organ voice across\nthe winter sea;\nThey lived and died for England, and\ngladly went their\nway.\nEngland!\nO England! how could I stay!\nJ.D. Burns\nIn 1914 J.D. Burns was editor of the\nMelbourne University Magazine.\nto that he had been editor\nScotch Collegian.\nHe enlisted with\nthe First AIF and was killed at Anzac.\nThe Directors of\nEVANS, DEAKIN & CO. LTD.\nrequest the pleasure of the company of\nMr. C.H. McFadyen a nd Lady\nat the\nLaunching of M.V. \"INYULA\"\nBy Mrs. J. K. DUNSTAN\nDaughter of Mr. C. H. McFadyen\nSecretary of Department of Shipping and Transport\nat the KANGAROO POINT SHIPYARD\non SATURDAY, 29th MAY, 1954\nat 6.45 a.m.\nMorning tea will be served after the Launching Ceremony",
+  "source_sha256": "16a3d4cb9b5f2ec80cc89d6954cb441a96b79fc4562ca2b22b3050a445e1916d",
+  "status": "machine-draft"
+}

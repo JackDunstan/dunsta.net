@@ -1,0 +1,123 @@
+{
+  "candidate_names": [
+    "BUL"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-031.jpg",
+  "lines": [
+    {
+      "box": [
+        0.104524342003144,
+        0.6903757376154296,
+        0.6060833740234375,
+        0.01926179273691353
+      ],
+      "confidence": 1,
+      "text": "AN AUSTRALIAN SHIPPING BOARA VESSEL BEING hAUNCHEM AT dEWCASTRE"
+    },
+    {
+      "box": [
+        0.07802874935443939,
+        0.7122015914346467,
+        0.6817248535156251,
+        0.02035654761114547
+      ],
+      "confidence": 1,
+      "text": "DURING My TERM IN THE SHIPPING MePT. He PROVEM, EVEN TO THE SCOFFERS,"
+    },
+    {
+      "box": [
+        0.08170126622842773,
+        0.7252667795884569,
+        0.6228282928466796,
+        0.02519064345895239
+      ],
+      "confidence": 1,
+      "text": "THAT AUSTRAMIAN SHIP BUILDERS WERE EQUAL TO THE HORNES BEST."
+    },
+    {
+      "box": [
+        0.08779196388104075,
+        0.737411567260059,
+        0.682813949584961,
+        0.0355327599455465
+      ],
+      "confidence": 1,
+      "text": "UNFORTUNATELY, IN THE EARLY 1950S THIS AUSTRALIAN SHIPONNERS TOOK"
+    },
+    {
+      "box": [
+        0.09161857923482153,
+        0.749754319951146,
+        0.7077096557617188,
+        0.03855860749775075
+      ],
+      "confidence": 1,
+      "text": "A LOT oF CoNtiricing. My dePARTmeriT, WITH THe SANCTiOn OF THe meNares"
+    },
+    {
+      "box": [
+        0.09569171110019553,
+        0.7640742652433924,
+        0.7118341064453124,
+        0.04308099519036501
+      ],
+      "confidence": 1,
+      "text": "GOVeRNmeNT, SET A PACE WHICH YeARS LATER THe PRIVATE SHIPOWNER NUST"
+    },
+    {
+      "box": [
+        0.10589466864534358,
+        0.782496978733363,
+        0.6443737030029297,
+        0.039548595640956585
+      ],
+      "confidence": 1,
+      "text": "HAT TO FOLLON. THe BROREN MILL PAY LO. SET A MIGN STAMMARE IN"
+    },
+    {
+      "box": [
+        0.09367345736353058,
+        0.8001727925704654,
+        0.6771080017089843,
+        0.03732885669333863
+      ],
+      "confidence": 1,
+      "text": "BUILDING BUL CARRiERS IN THEIR YARD AT FiNALLA. EVANS MeANIN TO"
+    },
+    {
+      "box": [
+        0.09141519378794392,
+        0.8467390013488787,
+        0.7143554687499999,
+        0.045865656737202
+      ],
+      "confidence": 1,
+      "text": "BUILT SHIPS TO A LIMITED TONNAGe CAPACITY. ANTA MORTS ROCK ENGINeERINg 6."
+    },
+    {
+      "box": [
+        0.09789715201842447,
+        0.8686392665012862,
+        0.7016377258300781,
+        0.03615340377038612
+      ],
+      "confidence": 1,
+      "text": "OF BARmAIN SANEy BUlAT mANY FINe SHIpS BUT WERe UNABLe TO STAy In THe"
+    },
+    {
+      "box": [
+        0.10606670123242011,
+        0.8829454162118932,
+        0.6543460845947265,
+        0.03715361334600875
+      ],
+      "confidence": 1,
+      "text": "ANIZUSTRY RUE MAINLY TO HIGM COSTS OF PROMUCTION AT THeIR hOCATION,"
+    }
+  ],
+  "text": "AN AUSTRALIAN SHIPPING BOARA VESSEL BEING hAUNCHEM AT dEWCASTRE\nDURING My TERM IN THE SHIPPING MePT. He PROVEM, EVEN TO THE SCOFFERS,\nTHAT AUSTRAMIAN SHIP BUILDERS WERE EQUAL TO THE HORNES BEST.\nUNFORTUNATELY, IN THE EARLY 1950S THIS AUSTRALIAN SHIPONNERS TOOK\nA LOT oF CoNtiricing. My dePARTmeriT, WITH THe SANCTiOn OF THe meNares\nGOVeRNmeNT, SET A PACE WHICH YeARS LATER THe PRIVATE SHIPOWNER NUST\nHAT TO FOLLON. THe BROREN MILL PAY LO. SET A MIGN STAMMARE IN\nBUILDING BUL CARRiERS IN THEIR YARD AT FiNALLA. EVANS MeANIN TO\nBUILT SHIPS TO A LIMITED TONNAGe CAPACITY. ANTA MORTS ROCK ENGINeERINg 6.\nOF BARmAIN SANEy BUlAT mANY FINe SHIpS BUT WERe UNABLe TO STAy In THe\nANIZUSTRY RUE MAINLY TO HIGM COSTS OF PROMUCTION AT THeIR hOCATION,",
+  "source_sha256": "df3860e115a61745d2ed07fe8a9adf22645ecad4f030d5d35bea8374e65b82cf",
+  "status": "machine-draft"
+}

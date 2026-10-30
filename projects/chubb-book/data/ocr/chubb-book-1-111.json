@@ -1,0 +1,313 @@
+{
+  "candidate_names": [
+    "Charles"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-111.jpg",
+  "lines": [
+    {
+      "box": [
+        0.20123203292260924,
+        0.1845930232855173,
+        0.07392197132110598,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "CHAIRMAN"
+    },
+    {
+      "box": [
+        0.28336756083342685,
+        0.18459302322091775,
+        0.09856262207031252,
+        0.007272582471528843
+      ],
+      "confidence": 1,
+      "text": "TARIFF BOARD"
+    },
+    {
+      "box": [
+        0.667351127960859,
+        0.1758720931137967,
+        0.11293634414672848,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "\"BLYTHSWOOD,\""
+    },
+    {
+      "box": [
+        0.7125256708110393,
+        0.18877099894222216,
+        0.1498973274230957,
+        0.00890341951823892
+      ],
+      "confidence": 1,
+      "text": "ROCKINGHAM STREET,"
+    },
+    {
+      "box": [
+        0.7760624699180544,
+        0.19873173048882642,
+        0.06594487667083737,
+        0.010966771477413428
+      ],
+      "confidence": 1,
+      "text": "KEW, E. 4."
+    },
+    {
+      "box": [
+        0.6940451795558488,
+        0.22811671066504524,
+        0.15811087608337404,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "10th June, 1955."
+    },
+    {
+      "box": [
+        0.3080082172597771,
+        0.27325581396848286,
+        0.09240245819091797,
+        0.01453488364249167
+      ],
+      "confidence": 1,
+      "text": "Personal."
+    },
+    {
+      "box": [
+        0.30800821619378627,
+        0.3313953491916233,
+        0.1314168357849121,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.42710472882309874,
+        0.36191860480572213,
+        0.39425048828125003,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Please accept my warmest congratulations"
+    },
+    {
+      "box": [
+        0.31006160572719266,
+        0.37488947846117593,
+        0.1498973274230957,
+        0.01028493987470469
+      ],
+      "confidence": 1,
+      "text": "on your mention"
+    },
+    {
+      "box": [
+        0.46611910993389566,
+        0.3748894786192215,
+        0.32648868560791006,
+        0.014645405304737569
+      ],
+      "confidence": 1,
+      "text": "in yesterday's Honor List, and on"
+    },
+    {
+      "box": [
+        0.30800821379917,
+        0.3866279070456601,
+        0.051334700584411586,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "your"
+    },
+    {
+      "box": [
+        0.3572895268162972,
+        0.38517441863117363,
+        0.10061601638793943,
+        0.010174418212459013
+      ],
+      "confidence": 1,
+      "text": "selection"
+    },
+    {
+      "box": [
+        0.45585216710183757,
+        0.38662790726108365,
+        0.22792606353759765,
+        0.01169216348258506
+      ],
+      "confidence": 1,
+      "text": "for the Award of C.B.E."
+    },
+    {
+      "box": [
+        0.3080082156418317,
+        0.42151162798194886,
+        0.04312114715576171,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "your"
+    },
+    {
+      "box": [
+        0.427104717772648,
+        0.4084302327672047,
+        0.3963039016723633,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "It may add to your pleasure to know that"
+    },
+    {
+      "box": [
+        0.353182774225718,
+        0.4213085764619551,
+        0.4681724548339844,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "friends share it, more particularly we who know"
+    },
+    {
+      "box": [
+        0.3078688952451046,
+        0.4313461701597807,
+        0.04134639739990231,
+        0.009400683098615192
+      ],
+      "confidence": 1,
+      "text": "that"
+    },
+    {
+      "box": [
+        0.3963039076788871,
+        0.43313953521650994,
+        0.41273097991943364,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "recognition by Her Majesty of your capable"
+    },
+    {
+      "box": [
+        0.3079914282655829,
+        0.4432458198092355,
+        0.08216909408569334,
+        0.01031068570839433
+      ],
+      "confidence": 1,
+      "text": "services"
+    },
+    {
+      "box": [
+        0.39402642561911333,
+        0.44175081681880757,
+        0.20181404113769535,
+        0.014804179008612084
+      ],
+      "confidence": 1,
+      "text": "was so well merited."
+    },
+    {
+      "box": [
+        0.5154004177711564,
+        0.4796511631451117,
+        0.16016426086425783,
+        0.013275450462793326
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5749486662474194,
+        0.5116279076573251,
+        0.07802874565124518,
+        0.034883720067409585
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Лвас"
+    },
+    {
+      "box": [
+        0.5626283398964133,
+        0.5595930231133472,
+        0.16016426086425783,
+        0.014677534263604075
+      ],
+      "confidence": 1,
+      "text": "(M. E. McCarthy)"
+    },
+    {
+      "box": [
+        0.3080082233082628,
+        0.5944767442252658,
+        0.2669404411315918,
+        0.014718657779440703
+      ],
+      "confidence": 1,
+      "text": "C.H. McFadyen Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.3264623963924741,
+        0.6059921900116862,
+        0.09861524581909181,
+        0.011852829357251737
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.3449692090482425,
+        0.6175950488112174,
+        0.3675564575195312,
+        0.014672393191714539
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.3655030871756739,
+        0.6293604654006184,
+        0.16016426086425783,
+        0.011665175595608201
+      ],
+      "confidence": 1,
+      "text": "Rialto Building,"
+    },
+    {
+      "box": [
+        0.3880903572608274,
+        0.6409883721322425,
+        0.18480491638183594,
+        0.014626128603988264
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.40246407034650167,
+        0.6526162794241814,
+        0.10472278594970708,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    }
+  ],
+  "text": "CHAIRMAN\nTARIFF BOARD\n\"BLYTHSWOOD,\"\nROCKINGHAM STREET,\nKEW, E. 4.\n10th June, 1955.\nPersonal.\nDear Charles,\nPlease accept my warmest congratulations\non your mention\nin yesterday's Honor List, and on\nyour\nselection\nfor the Award of C.B.E.\nyour\nIt may add to your pleasure to know that\nfriends share it, more particularly we who know\nthat\nrecognition by Her Majesty of your capable\nservices\nwas so well merited.\nYours sincerely,\nЛвас\n(M. E. McCarthy)\nC.H. McFadyen Esq., C.B.E.,\nSecretary,\nDepartment of Shipping and Transport,\nRialto Building,\n497 Collins Street,\nMELBOURNE.",
+  "source_sha256": "d143e367d8886f0e7ff121137e50bc41632b4e1a2a0daa016c202080fc047c8d",
+  "status": "machine-draft"
+}

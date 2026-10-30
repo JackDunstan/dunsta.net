@@ -1,0 +1,68 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.3964928388595581,
+      0.20683598518371582,
+      0.1776067614555359,
+      0.12562811374664307
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-037.jpg",
+  "lines": [
+    {
+      "box": [
+        0.15195071945606117,
+        0.6976127326630206,
+        0.5749486541748047,
+        0.02917771883289133
+      ],
+      "confidence": 1,
+      "text": "TALLEN BY AN OFFICIAL PHOTOGRAPHER AT THE DFACe. 1951 Mi"
+    },
+    {
+      "box": [
+        0.03490759904261591,
+        0.8183023873059649,
+        0.1416837787628174,
+        0.011639472765800352
+      ],
+      "confidence": 1,
+      "text": "A CARTA 1 SENT"
+    },
+    {
+      "box": [
+        0.03263113634092121,
+        0.8363938879470165,
+        0.10106216430664064,
+        0.0161657122570682
+      ],
+      "confidence": 1,
+      "text": "HOME FROm"
+    },
+    {
+      "box": [
+        0.045174537754361206,
+        0.8531976742387666,
+        0.13141683578491212,
+        0.013292157892417777
+      ],
+      "confidence": 1,
+      "text": "FRANCE IN 1911"
+    },
+    {
+      "box": [
+        0.5420944556829072,
+        0.8997093024560818,
+        0.0616016435623169,
+        0.03343023271501644
+      ],
+      "confidence": 0.5,
+      "text": "Lukef"
+    }
+  ],
+  "text": "TALLEN BY AN OFFICIAL PHOTOGRAPHER AT THE DFACe. 1951 Mi\nA CARTA 1 SENT\nHOME FROm\nFRANCE IN 1911\nLukef",
+  "source_sha256": "345cb657afe68838aae3c67c4fb5cc7be28237caad4e9581e92b787342d9546c",
+  "status": "machine-draft"
+}

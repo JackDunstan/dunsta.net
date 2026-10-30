@@ -1,0 +1,254 @@
+{
+  "candidate_names": [
+    "MOR",
+    "PENNELL"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-121.jpg",
+  "lines": [
+    {
+      "box": [
+        0.26899384045265556,
+        0.10167992918365698,
+        0.0677618074417114,
+        0.01169216348258506
+      ],
+      "confidence": 1,
+      "text": "FU 7834"
+    },
+    {
+      "box": [
+        0.5256673516391355,
+        0.09883720962300213,
+        0.10882956504821784,
+        0.011684452717964033
+      ],
+      "confidence": 1,
+      "text": "\"Nosilla Court\""
+    },
+    {
+      "box": [
+        0.5503080086232787,
+        0.11184792211095984,
+        0.10061601638793949,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "35 Leslie Road,"
+    },
+    {
+      "box": [
+        0.5831622218380781,
+        0.12643678148749693,
+        0.08624229431152342,
+        0.010191125220476716
+      ],
+      "confidence": 1,
+      "text": "Essendon, 20.5"
+    },
+    {
+      "box": [
+        0.484599592782292,
+        0.14677276758296232,
+        0.14989732742309575,
+        0.01458885941644572
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955."
+    },
+    {
+      "box": [
+        0.28524650519821704,
+        0.2072594268655047,
+        0.29192939758300784,
+        0.01714256482246601
+      ],
+      "confidence": 1,
+      "text": "Mr. Charles MeFadyen, C.B.E.,"
+    },
+    {
+      "box": [
+        0.3367556524537939,
+        0.22093023314874538,
+        0.1519507122039795,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "3 Newton Court,"
+    },
+    {
+      "box": [
+        0.3839835741132007,
+        0.23110465131620406,
+        0.11293634414672848,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "ST. KILDA."
+    },
+    {
+      "box": [
+        0.2895277233806445,
+        0.25581395384278616,
+        0.13141683578491214,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Dear Charlie,"
+    },
+    {
+      "box": [
+        0.34907598462278133,
+        0.27761627926689747,
+        0.2977412605285644,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Hearty congratulations on your"
+    },
+    {
+      "box": [
+        0.46611909647239885,
+        0.28924418626683257,
+        0.10266940116882323,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "\"Commander"
+    },
+    {
+      "box": [
+        0.5687461374550845,
+        0.28907662500488707,
+        0.06784653186798095,
+        0.009056052520778901
+      ],
+      "confidence": 1,
+      "text": "of The"
+    },
+    {
+      "box": [
+        0.28747433334820316,
+        0.29069767458218454,
+        0.3593429183959961,
+        0.02627845278469243
+      ],
+      "confidence": 1,
+      "text": "dedor of the British Empire, Civil\""
+    },
+    {
+      "box": [
+        0.3490759859232604,
+        0.32267441875921055,
+        0.2977412605285644,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "I know of no other person, who"
+    },
+    {
+      "box": [
+        0.29158111138797194,
+        0.33554376672162534,
+        0.36550308227539063,
+        0.013293442527980148
+      ],
+      "confidence": 1,
+      "text": "so thoroughly deserves this honor, as"
+    },
+    {
+      "box": [
+        0.29158110969586803,
+        0.34880636597679415,
+        0.07186858177185057,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "you do."
+    },
+    {
+      "box": [
+        0.35112936846755316,
+        0.3720930234083053,
+        0.15811087608337404,
+        0.01031192776168166
+      ],
+      "confidence": 1,
+      "text": "Kindest regards."
+    },
+    {
+      "box": [
+        0.4394250530013642,
+        0.3938953493153471,
+        0.15195071220397943,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely"
+    },
+    {
+      "box": [
+        0.46817248678849616,
+        0.40116279029162993,
+        0.1437371635437012,
+        0.05232558178754121
+      ],
+      "confidence": 1,
+      "text": "albut."
+    },
+    {
+      "box": [
+        0.5379267375598829,
+        0.4401935487491717,
+        0.0802040195465088,
+        0.012054762937240504
+      ],
+      "confidence": 1,
+      "text": "PENNELL)"
+    },
+    {
+      "box": [
+        0.1663244299357089,
+        0.5667550840146944,
+        0.6283367538452149,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "ARBERT PENNELL WAS A MEMBER OF THE TARLOH ARTIGORY COmmITTER"
+    },
+    {
+      "box": [
+        0.14546389861535175,
+        0.5803367473239438,
+        0.6495044708251954,
+        0.023106792561255363
+      ],
+      "confidence": 1,
+      "text": "OF WHICH AWAS CHAIRMAN DURING THE MOR YEARS 1939-45. HE HAS"
+    },
+    {
+      "box": [
+        0.14739545168915427,
+        0.6018404665967456,
+        0.28017971038818357,
+        0.02203460544953817
+      ],
+      "confidence": 1,
+      "text": "ALSO MAYOR OF ESSENTOr."
+    },
+    {
+      "box": [
+        0.4784394249270763,
+        0.5973837206551136,
+        0.059548254013061575,
+        0.01889534907252477
+      ],
+      "confidence": 0.5,
+      "text": "howa"
+    }
+  ],
+  "text": "FU 7834\n\"Nosilla Court\"\n35 Leslie Road,\nEssendon, 20.5\n9th June, 1955.\nMr. Charles MeFadyen, C.B.E.,\n3 Newton Court,\nST. KILDA.\nDear Charlie,\nHearty congratulations on your\n\"Commander\nof The\ndedor of the British Empire, Civil\"\nI know of no other person, who\nso thoroughly deserves this honor, as\nyou do.\nKindest regards.\nYours sincerely\nalbut.\nPENNELL)\nARBERT PENNELL WAS A MEMBER OF THE TARLOH ARTIGORY COmmITTER\nOF WHICH AWAS CHAIRMAN DURING THE MOR YEARS 1939-45. HE HAS\nALSO MAYOR OF ESSENTOr.\nhowa",
+  "source_sha256": "1925985e644b3a43baeb94f77354c05209690f541f0e41a24540789a13e40b2d",
+  "status": "machine-draft"
+}

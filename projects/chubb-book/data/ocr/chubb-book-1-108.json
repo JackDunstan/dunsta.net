@@ -1,0 +1,178 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.6202826499938965,
+      0.19296681135892868,
+      0.045645762234926224,
+      0.03228700906038284
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-108.jpg",
+  "lines": [
+    {
+      "box": [
+        0.5396703872009933,
+        0.10382866068390106,
+        0.32505256652832026,
+        0.021143345786447942
+      ],
+      "confidence": 1,
+      "text": "ANAN MeFRAYEN AND MALCOLM aT PiANO"
+    },
+    {
+      "box": [
+        0.12320328551170924,
+        0.15406976801300099,
+        0.3080082130432129,
+        0.030722451989994237
+      ],
+      "confidence": 1,
+      "text": "Incase I shoued"
+    },
+    {
+      "box": [
+        0.05682308677410315,
+        0.18539275176549086,
+        0.3880451583862305,
+        0.038813225892030734
+      ],
+      "confidence": 1,
+      "text": "not have the opportinity"
+    },
+    {
+      "box": [
+        0.06541516941736329,
+        0.22534564769869658,
+        0.3475242614746094,
+        0.031194489577720974
+      ],
+      "confidence": 1,
+      "text": "the is to thank you"
+    },
+    {
+      "box": [
+        0.05857446096666433,
+        0.25855849907259376,
+        0.39173973083496094,
+        0.04555899184114831
+      ],
+      "confidence": 1,
+      "text": "for having given me the"
+    },
+    {
+      "box": [
+        0.04858096468918298,
+        0.29429723938180263,
+        0.41188434600830076,
+        0.040546230042961096
+      ],
+      "confidence": 1,
+      "text": "chance of working built"
+    },
+    {
+      "box": [
+        0.06365502982398084,
+        0.3313953485319112,
+        0.3593429183959961,
+        0.03779069814504932
+      ],
+      "confidence": 1,
+      "text": "you, for your unfaileria"
+    },
+    {
+      "box": [
+        0.07149838880888439,
+        0.35949741143274416,
+        0.3681658172607422,
+        0.02964645776993191
+      ],
+      "confidence": 1,
+      "text": "patience and hindnes"
+    },
+    {
+      "box": [
+        0.05494815317526168,
+        0.389689936476211,
+        0.3973154067993164,
+        0.059705685346554516
+      ],
+      "confidence": 0.5,
+      "text": "and you confide eped"
+    },
+    {
+      "box": [
+        0.057494865141869765,
+        0.4447391688248219,
+        0.35934291839599614,
+        0.03359858532272331
+      ],
+      "confidence": 1,
+      "text": "mento have a latle"
+    },
+    {
+      "box": [
+        0.07370613609898684,
+        0.47959328247766764,
+        0.21191720962524413,
+        0.0304142271492146
+      ],
+      "confidence": 1,
+      "text": "in myself."
+    },
+    {
+      "box": [
+        0.17911324824704467,
+        0.6838033421670392,
+        0.32813907623291017,
+        0.20796698748169484
+      ],
+      "confidence": 1,
+      "text": "Greetings"
+    },
+    {
+      "box": [
+        0.3722664929264841,
+        0.7474430125075382,
+        0.14907041549682615,
+        0.09996053626535217
+      ],
+      "confidence": 1,
+      "text": "from"
+    },
+    {
+      "box": [
+        0.5626283374759967,
+        0.684593023193965,
+        0.1252566719055176,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "STRALIAN COMMONWEALT"
+    },
+    {
+      "box": [
+        0.5902037681742089,
+        0.6918434893647118,
+        0.07461727142333985,
+        0.018504924420020274
+      ],
+      "confidence": 1,
+      "text": "(LITARY FORCES"
+    },
+    {
+      "box": [
+        0.4522438218926266,
+        0.7171087012998415,
+        0.2553305435180664,
+        0.1496929704984873
+      ],
+      "confidence": 1,
+      "text": "France"
+    }
+  ],
+  "text": "ANAN MeFRAYEN AND MALCOLM aT PiANO\nIncase I shoued\nnot have the opportinity\nthe is to thank you\nfor having given me the\nchance of working built\nyou, for your unfaileria\npatience and hindnes\nand you confide eped\nmento have a latle\nin myself.\nGreetings\nfrom\nSTRALIAN COMMONWEALT\n(LITARY FORCES\nFrance",
+  "source_sha256": "36ca7921e55365a31cbe7a8dafca21ec3dd2b520cbf06370b6a02e3af3202d1e",
+  "status": "machine-draft"
+}

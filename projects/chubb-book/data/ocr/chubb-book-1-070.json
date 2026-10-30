@@ -1,0 +1,247 @@
+{
+  "candidate_names": [
+    "Ammon",
+    "Aud",
+    "Kar",
+    "Sam",
+    "Yue"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-070.jpg",
+  "lines": [
+    {
+      "box": [
+        0.21149897300806328,
+        0.14244186055740027,
+        0.03285420894622801,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "FROM"
+    },
+    {
+      "box": [
+        0.30390143795564484,
+        0.11482558161625411,
+        0.03490759611129762,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "991"
+    },
+    {
+      "box": [
+        0.22981734319198693,
+        0.14959478882540445,
+        0.2180208206176758,
+        0.011741281082733424
+      ],
+      "confidence": 1,
+      "text": "THE VEN. ARCHDEACON ROBERTSON"
+    },
+    {
+      "box": [
+        0.6837782327083621,
+        0.13517441880940329,
+        0.11909650802612304,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "ST. JOHN'S RECTORY."
+    },
+    {
+      "box": [
+        0.7659137602703603,
+        0.14534883717440605,
+        0.0759753561019898,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "CANBERRA."
+    },
+    {
+      "box": [
+        0.8275154003618604,
+        0.15552325572295844,
+        0.026694045066833483,
+        0.005813953625639412
+      ],
+      "confidence": 0.5,
+      "text": "F.C.T."
+    },
+    {
+      "box": [
+        0.8685831639693289,
+        0.17296511603423181,
+        0.05749486446380614,
+        0.01889534907252477
+      ],
+      "confidence": 1,
+      "text": "1938"
+    },
+    {
+      "box": [
+        0.22796047646086776,
+        0.20972271987492752,
+        0.30780042648315425,
+        0.04308139655992693
+      ],
+      "confidence": 1,
+      "text": "Dem In. mozadyen,"
+    },
+    {
+      "box": [
+        0.40998960270676177,
+        0.24973661602617092,
+        0.5102346420288086,
+        0.03130815473939341
+      ],
+      "confidence": 1,
+      "text": "lena let me ade a Congratulation"
+    },
+    {
+      "box": [
+        0.24640658862669754,
+        0.2789566748901111,
+        0.6201231765747071,
+        0.032272325375773625
+      ],
+      "confidence": 1,
+      "text": "I the many fow must have recened on"
+    },
+    {
+      "box": [
+        0.24845995314699792,
+        0.3561046513524335,
+        0.6098562622070312,
+        0.021879433109947888
+      ],
+      "confidence": 1,
+      "text": "and 1 am lookip broard 10 the mectuas"
+    },
+    {
+      "box": [
+        0.2422998139022947,
+        0.38063660480084827,
+        0.6776180267333984,
+        0.02652519893899208
+      ],
+      "confidence": 1,
+      "text": "Sam sue we have much in common, and"
+    },
+    {
+      "box": [
+        0.25434082723784335,
+        0.40638496298002824,
+        0.6516725158691407,
+        0.031006243880294715
+      ],
+      "confidence": 1,
+      "text": "Yue to diagree well well dragree a"
+    },
+    {
+      "box": [
+        0.25051335221897264,
+        0.4314765691434683,
+        0.6119096374511719,
+        0.02927924509495372
+      ],
+      "confidence": 0.5,
+      "text": "Aunds rebedug rach others opennon!"
+    },
+    {
+      "box": [
+        0.2443531855285947,
+        0.45203488382359347,
+        0.10882956504821778,
+        0.02906976728498356
+      ],
+      "confidence": 1,
+      "text": "from"
+    },
+    {
+      "box": [
+        0.236652322481685,
+        0.47187604243220904,
+        0.48686466217041025,
+        0.04299881561576113
+      ],
+      "confidence": 1,
+      "text": "to The Hospital, Mediene offers,"
+    },
+    {
+      "box": [
+        0.24137130172451066,
+        0.4900956498715674,
+        0.6469532012939454,
+        0.04791516102488125
+      ],
+      "confidence": 1,
+      "text": "→ Nape, I feel that Prigs are gong To te"
+    },
+    {
+      "box": [
+        0.36226938457328756,
+        0.5018159926838394,
+        0.5240314865112305,
+        0.05844682850319127
+      ],
+      "confidence": 1,
+      "text": "an ta fatme. Aud Shore Kar tre"
+    },
+    {
+      "box": [
+        0.2492080945320199,
+        0.5295092948336326,
+        0.6612028503417969,
+        0.056552271417133815
+      ],
+      "confidence": 1,
+      "text": "my honkles we will have ard the those Ammon"
+    },
+    {
+      "box": [
+        0.25317725812735375,
+        0.5674061847854718,
+        0.3390897750854492,
+        0.03568926371904091
+      ],
+      "confidence": 1,
+      "text": "to all such milAntions"
+    },
+    {
+      "box": [
+        0.3539932198687636,
+        0.5808007774953113,
+        0.4769171142578125,
+        0.05020846865221418
+      ],
+      "confidence": 1,
+      "text": "horth fess she the we meet -"
+    },
+    {
+      "box": [
+        0.45585215834022746,
+        0.6177325587324385,
+        0.09650923728942867,
+        0.02325581281613076
+      ],
+      "confidence": 0.5,
+      "text": "Sau"
+    },
+    {
+      "box": [
+        0.5770020557133481,
+        0.6555232565281074,
+        0.211498966217041,
+        0.036342349334905655
+      ],
+      "confidence": 0.5,
+      "text": "C. Rokerton"
+    }
+  ],
+  "text": "FROM\n991\nTHE VEN. ARCHDEACON ROBERTSON\nST. JOHN'S RECTORY.\nCANBERRA.\nF.C.T.\n1938\nDem In. mozadyen,\nlena let me ade a Congratulation\nI the many fow must have recened on\nand 1 am lookip broard 10 the mectuas\nSam sue we have much in common, and\nYue to diagree well well dragree a\nAunds rebedug rach others opennon!\nfrom\nto The Hospital, Mediene offers,\n→ Nape, I feel that Prigs are gong To te\nan ta fatme. Aud Shore Kar tre\nmy honkles we will have ard the those Ammon\nto all such milAntions\nhorth fess she the we meet -\nSau\nC. Rokerton",
+  "source_sha256": "72a9ab63a8abc79ceb10cf56037d97aac16c7c1bcb16bf228ee35a0a11277b9d",
+  "status": "machine-draft"
+}

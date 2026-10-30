@@ -1,0 +1,85 @@
+{
+  "candidate_names": [
+    "EGYPT ANA",
+    "MRS",
+    "THIE"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-035.jpg",
+  "lines": [
+    {
+      "box": [
+        0.16796255585105827,
+        0.6979566600158281,
+        0.553037223815918,
+        0.024126404476418783
+      ],
+      "confidence": 1,
+      "text": "A PERFECT LAUNCHING AT EVANS DeARIN SHIPYARA. BRISBANE."
+    },
+    {
+      "box": [
+        0.1371172915244044,
+        0.7191428038766371,
+        0.584113540649414,
+        0.0292593587509411
+      ],
+      "confidence": 1,
+      "text": "AND WHy NOT! SeeING THIE LADY LAUNCHING WAS MRS 1.K. RUNSTAN."
+    },
+    {
+      "box": [
+        0.28336755144049036,
+        0.7979651157034384,
+        0.020533890724182102,
+        0.09156976728498356
+      ],
+      "confidence": 1,
+      "text": "ALSiRT PARK"
+    },
+    {
+      "box": [
+        0.25616957691598247,
+        0.9019807650179209,
+        0.5349307250976563,
+        0.03242558109138416
+      ],
+      "confidence": 1,
+      "text": "I ACCS. CAMP AT ALBERT PARI IN MOVISMBER 19I5 PRIOR TO"
+    },
+    {
+      "box": [
+        0.2394723009042498,
+        0.915343525838559,
+        0.5477077102661132,
+        0.046806750310194656
+      ],
+      "confidence": 1,
+      "text": "OUR REPARTURE FOR EGYPT ANA GARLiPON AS He UNDERSTOOR"
+    },
+    {
+      "box": [
+        0.24979145342109818,
+        0.9380460619149246,
+        0.5456256484985351,
+        0.0342493268054318
+      ],
+      "confidence": 1,
+      "text": "AT THE TIME. THE EYACUATION FROM ANSAC TOOK PRACE AFTER"
+    },
+    {
+      "box": [
+        0.2559909479925714,
+        0.9633532947873609,
+        0.24344919204711912,
+        0.021319715666834105
+      ],
+      "confidence": 1,
+      "text": "WE ARRIVED AT ZEiTOUN."
+    }
+  ],
+  "text": "A PERFECT LAUNCHING AT EVANS DeARIN SHIPYARA. BRISBANE.\nAND WHy NOT! SeeING THIE LADY LAUNCHING WAS MRS 1.K. RUNSTAN.\nALSiRT PARK\nI ACCS. CAMP AT ALBERT PARI IN MOVISMBER 19I5 PRIOR TO\nOUR REPARTURE FOR EGYPT ANA GARLiPON AS He UNDERSTOOR\nAT THE TIME. THE EYACUATION FROM ANSAC TOOK PRACE AFTER\nWE ARRIVED AT ZEiTOUN.",
+  "source_sha256": "b55d3dc2cdcccbc5cfb24caf469a20de04acb74abf5cbd8f23fd61087cd28bf8",
+  "status": "machine-draft"
+}

@@ -1,0 +1,339 @@
+{
+  "candidate_names": [
+    "IN FACT",
+    "MAS",
+    "Otra",
+    "REEP",
+    "RESI",
+    "TAURING",
+    "ViCTORIAN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-157.jpg",
+  "lines": [
+    {
+      "box": [
+        0.11909651160884284,
+        0.9694767444314487,
+        0.1252566719055176,
+        0.013281876170245233
+      ],
+      "confidence": 1,
+      "text": "hIFE HE MAS"
+    },
+    {
+      "box": [
+        0.24800689679404464,
+        0.9555219222469903,
+        0.42993991851806634,
+        0.025005333830464882
+      ],
+      "confidence": 1,
+      "text": "SUDERINTENGENT OF SiGNERAS, ViCTORIAN RAILKAYS."
+    },
+    {
+      "box": [
+        0.11427367964966856,
+        0.9310599749869045,
+        0.7118892669677734,
+        0.03877072793840841
+      ],
+      "confidence": 1,
+      "text": "SAINTS, ALEX MATHIRSON HOUR HAVE BEEN OUR FIRST CHOiCE. IN HIS OFFICIAL"
+    },
+    {
+      "box": [
+        0.11225758880361703,
+        0.9147552198008775,
+        0.7239537811279296,
+        0.034077432701589805
+      ],
+      "confidence": 1,
+      "text": "REEP ERECTION, 1E IT MAG BERM THE PRACTICE OF PRESBITeRIANS TO CREATE"
+    },
+    {
+      "box": [
+        0.10828964888252202,
+        0.897065597867474,
+        0.6993286895751953,
+        0.037387561207846365
+      ],
+      "confidence": 1,
+      "text": "OUR RETURN We PRESENTER HIM WITH A KRiTiNG RESI AS A MARK DF OUR"
+    },
+    {
+      "box": [
+        0.10819572592391026,
+        0.8821985438904317,
+        0.7343232727050781,
+        0.03346541157662597
+      ],
+      "confidence": 1,
+      "text": "He CORReSPONDeR ReGULARLY WITH ALL HIS BOYS AND THeY MIERE NUmeROUs. ON"
+    },
+    {
+      "box": [
+        0.10614703880385853,
+        0.8655384194684063,
+        0.7446156311035157,
+        0.03833778340873417
+      ],
+      "confidence": 1,
+      "text": "EPIC AS HE ALONE COULE DO. THAT IS HINY HE HALT US. TAURING THe MAR OF 1914-18"
+    },
+    {
+      "box": [
+        0.10000644824272734,
+        0.8363344648610586,
+        0.7465525054931642,
+        0.03732997310783459
+      ],
+      "confidence": 1,
+      "text": "JUST WHAT HE WAS. HIS IMMONAGe WAS PROFOUNE. He TALKeR TO US OF EmeRSON"
+    },
+    {
+      "box": [
+        0.10626926937084924,
+        0.8513888435761217,
+        0.7632063293457032,
+        0.03932642241055517
+      ],
+      "confidence": 1,
+      "text": "AND OTHER GREAT WRITERS ANTA ALMAYS MANAGER TO INTRODUCE THE CHRISTIAN"
+    },
+    {
+      "box": [
+        0.10204409610881476,
+        0.8236806730229531,
+        0.7259657287597656,
+        0.033285306261030545
+      ],
+      "confidence": 1,
+      "text": "HIM THe APDERRANCE OF A NIMETEENTA CENTURY PHiLOSOPMER. IN FACT TriAT IS"
+    },
+    {
+      "box": [
+        0.09388949717387064,
+        0.8006042964243224,
+        0.5511316680908204,
+        0.02707446812529357
+      ],
+      "confidence": 1,
+      "text": "HIM AND LOVE HIM AS LEADER OF THE JUNiOR BIBLE CLASS."
+    },
+    {
+      "box": [
+        0.09811029173658838,
+        0.8101500695768886,
+        0.7380152130126953,
+        0.032753722631857496
+      ],
+      "confidence": 1,
+      "text": "WITH DAUGHTERS OLDER THAN WE WERE AMA MORE SIDEBURN HHISKERS WHICH GAYE"
+    },
+    {
+      "box": [
+        0.642409031548238,
+        0.7992407007469207,
+        0.1957328796386718,
+        0.015453448240784318
+      ],
+      "confidence": 1,
+      "text": "He was a FAmiLy mAN"
+    },
+    {
+      "box": [
+        0.0940177725641717,
+        0.7797087655307123,
+        0.7585726928710939,
+        0.03352681437390337
+      ],
+      "confidence": 1,
+      "text": "HE WAS FROM SCOTAANI AND OUR BOYS OF THE FLEMiNGTON PRESBYTRRIAN CHURCH Krew"
+    },
+    {
+      "box": [
+        0.09836185812502976,
+        0.7693989805978365,
+        0.7683657836914063,
+        0.022035865210306316
+      ],
+      "confidence": 1,
+      "text": "THIS LETTER WAS WRITTEN BY A TRULY LOVABLE CHARACTER MAMEN ALES MATHIESON."
+    },
+    {
+      "box": [
+        0.11812393440052968,
+        0.10586356464958968,
+        0.054098658561706536,
+        0.6051114433956399
+      ],
+      "confidence": 1,
+      "text": "Chat- do you for thunt of te pateling as ) Peace. Of conse"
+    },
+    {
+      "box": [
+        0.16427099175787427,
+        0.10610465289337845,
+        0.034907690286636345,
+        0.6206395210785534
+      ],
+      "confidence": 1,
+      "text": "i muot be da but will i last. He is a Very Kangune man"
+    },
+    {
+      "box": [
+        0.19608976191233707,
+        0.10460953934252881,
+        0.036274459362030054,
+        0.6149270405925343
+      ],
+      "confidence": 1,
+      "text": "who cao this will be de laal- was. keem to ku mi the ven peac"
+    },
+    {
+      "box": [
+        0.22803091449600224,
+        0.12924542662771,
+        0.04364697694778444,
+        0.586027082987953
+      ],
+      "confidence": 1,
+      "text": "settlement fast came for territonal war. Reople knuduer by"
+    },
+    {
+      "box": [
+        0.26353744491234066,
+        0.10312217214964248,
+        0.04388967514038089,
+        0.6106100040236792
+      ],
+      "confidence": 1,
+      "text": "the pace motto of 1000 fears and with choug hatress cannot"
+    },
+    {
+      "box": [
+        0.2917561425000641,
+        0.10160851295046003,
+        0.05068967819213871,
+        0.6078228937852288
+      ],
+      "confidence": 1,
+      "text": "lui letter ni anil, became a little Inot-or men in paris"
+    },
+    {
+      "box": [
+        0.3277745239938229,
+        0.10157533159990062,
+        0.04447432279586794,
+        0.5788807890037854
+      ],
+      "confidence": 1,
+      "text": "Ko. Slaa 6 ku lileon han come clawra to te practil"
+    },
+    {
+      "box": [
+        0.3653642621184169,
+        0.10163502022350024,
+        0.04431510925292964,
+        0.5714191736951536
+      ],
+      "confidence": 1,
+      "text": "his League ) kation echeme. \"hungo for de Guşelı but"
+    },
+    {
+      "box": [
+        0.3980069991051669,
+        0.10739062595051452,
+        0.04844710350036624,
+        0.5861398712077255
+      ],
+      "confidence": 1,
+      "text": "feet for the men, cungo the poet. Wilon eviden tlought"
+    },
+    {
+      "box": [
+        0.436401406601305,
+        0.3472759734040409,
+        0.044264945983886694,
+        0.3461629933324354
+      ],
+      "confidence": 1,
+      "text": "men coula want without weiss."
+    },
+    {
+      "box": [
+        0.46926615624337453,
+        0.11472602442953639,
+        0.05032076120376583,
+        0.5525157061643458
+      ],
+      "confidence": 1,
+      "text": "the dresses influenza ba broken out- Giene. Kome kay"
+    },
+    {
+      "box": [
+        0.5005739947818506,
+        0.12034491652236012,
+        0.053663215637206996,
+        0.5746823149798298
+      ],
+      "confidence": 1,
+      "text": "Coe his the premonic for of it lact write. It-co mili"
+    },
+    {
+      "box": [
+        0.5389083542815595,
+        0.09878817119778305,
+        0.0463908314704895,
+        0.5945999590724469
+      ],
+      "confidence": 1,
+      "text": "for the conse as it presenter tall in new Zealand kay."
+    },
+    {
+      "box": [
+        0.5760209931364387,
+        0.10162575892765735,
+        0.04355934143066398,
+        0.5830880594295701
+      ],
+      "confidence": 1,
+      "text": "I death nate has never been high and festerday cowo only"
+    },
+    {
+      "box": [
+        0.6145864500855092,
+        0.4881406404448484,
+        0.04084273099899294,
+        0.18086273706033096
+      ],
+      "confidence": 1,
+      "text": "gor de colole atale."
+    },
+    {
+      "box": [
+        0.7109493025036232,
+        0.10009095298960846,
+        0.051501545906066926,
+        0.5861631843708555
+      ],
+      "confidence": 1,
+      "text": "bad i the Otra ranges. Rain kid ten Doe Lope for mon"
+    },
+    {
+      "box": [
+        0.8049281269251307,
+        0.5944767449853972,
+        0.022587277889251745,
+        0.08575581112970398
+      ],
+      "confidence": 1,
+      "text": "all evil."
+    }
+  ],
+  "text": "hIFE HE MAS\nSUDERINTENGENT OF SiGNERAS, ViCTORIAN RAILKAYS.\nSAINTS, ALEX MATHIRSON HOUR HAVE BEEN OUR FIRST CHOiCE. IN HIS OFFICIAL\nREEP ERECTION, 1E IT MAG BERM THE PRACTICE OF PRESBITeRIANS TO CREATE\nOUR RETURN We PRESENTER HIM WITH A KRiTiNG RESI AS A MARK DF OUR\nHe CORReSPONDeR ReGULARLY WITH ALL HIS BOYS AND THeY MIERE NUmeROUs. ON\nEPIC AS HE ALONE COULE DO. THAT IS HINY HE HALT US. TAURING THe MAR OF 1914-18\nJUST WHAT HE WAS. HIS IMMONAGe WAS PROFOUNE. He TALKeR TO US OF EmeRSON\nAND OTHER GREAT WRITERS ANTA ALMAYS MANAGER TO INTRODUCE THE CHRISTIAN\nHIM THe APDERRANCE OF A NIMETEENTA CENTURY PHiLOSOPMER. IN FACT TriAT IS\nHIM AND LOVE HIM AS LEADER OF THE JUNiOR BIBLE CLASS.\nWITH DAUGHTERS OLDER THAN WE WERE AMA MORE SIDEBURN HHISKERS WHICH GAYE\nHe was a FAmiLy mAN\nHE WAS FROM SCOTAANI AND OUR BOYS OF THE FLEMiNGTON PRESBYTRRIAN CHURCH Krew\nTHIS LETTER WAS WRITTEN BY A TRULY LOVABLE CHARACTER MAMEN ALES MATHIESON.\nChat- do you for thunt of te pateling as ) Peace. Of conse\ni muot be da but will i last. He is a Very Kangune man\nwho cao this will be de laal- was. keem to ku mi the ven peac\nsettlement fast came for territonal war. Reople knuduer by\nthe pace motto of 1000 fears and with choug hatress cannot\nlui letter ni anil, became a little Inot-or men in paris\nKo. Slaa 6 ku lileon han come clawra to te practil\nhis League ) kation echeme. \"hungo for de Guşelı but\nfeet for the men, cungo the poet. Wilon eviden tlought\nmen coula want without weiss.\nthe dresses influenza ba broken out- Giene. Kome kay\nCoe his the premonic for of it lact write. It-co mili\nfor the conse as it presenter tall in new Zealand kay.\nI death nate has never been high and festerday cowo only\ngor de colole atale.\nbad i the Otra ranges. Rain kid ten Doe Lope for mon\nall evil.",
+  "source_sha256": "372036365b4acb5a669c2107d3c5002b0ae4c6b236173dbb70a2cfe017db877e",
+  "status": "machine-draft"
+}

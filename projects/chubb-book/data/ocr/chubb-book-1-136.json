@@ -1,0 +1,220 @@
+{
+  "candidate_names": [
+    "Swanston"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.4295520782470703,
+      0.7559797689318657,
+      0.09783922880887985,
+      0.06920547038316727
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-136.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4024640695278538,
+        0.16268788686907787,
+        0.25256671905517575,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "DEPARTMENT OF DEFENCE PRODUCTION"
+    },
+    {
+      "box": [
+        0.554414784808073,
+        0.1787790698441486,
+        0.028747432231903125,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "339"
+    },
+    {
+      "box": [
+        0.5872689984528631,
+        0.17860300614250657,
+        0.1622176551818848,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Swanston Street,"
+    },
+    {
+      "box": [
+        0.6281988904204704,
+        0.18984283195703822,
+        0.10294513702392571,
+        0.014209684916664078
+      ],
+      "confidence": 1,
+      "text": "MEIBOURNE."
+    },
+    {
+      "box": [
+        0.562628341773508,
+        0.22369584448896696,
+        0.15811087608337404,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "14th June, 1955."
+    },
+    {
+      "box": [
+        0.3757276766472155,
+        0.24846047779586522,
+        0.041152448654174834,
+        0.010346486018254164
+      ],
+      "confidence": 1,
+      "text": "Dear"
+    },
+    {
+      "box": [
+        0.4743326568355634,
+        0.2703488374451921,
+        0.2299794578552246,
+        0.011702444783150856
+      ],
+      "confidence": 1,
+      "text": "I was indeed pleased to"
+    },
+    {
+      "box": [
+        0.37782340924354246,
+        0.28197674432503705,
+        0.3347022628784179,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "learn of the honour conferred upon"
+    },
+    {
+      "box": [
+        0.37577003473711257,
+        0.29354553494761915,
+        0.3264886856079102,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "you by her Majesty the Queen, and"
+    },
+    {
+      "box": [
+        0.36755646902332983,
+        0.3066860469049789,
+        0.3737166213989258,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "wish to offer you my congratulations."
+    },
+    {
+      "box": [
+        0.5153843647823437,
+        0.32990289277596063,
+        0.049313406944274885,
+        0.0102523538941941
+      ],
+      "confidence": 1,
+      "text": "Your s"
+    },
+    {
+      "box": [
+        0.5215605747876663,
+        0.446220930589572,
+        0.032854208946228036,
+        0.011627906408065436
+      ],
+      "confidence": 0.5,
+      "text": "(R."
+    },
+    {
+      "box": [
+        0.43531827427921493,
+        0.45784883743020766,
+        0.30800821304321285,
+        0.014741790494910312
+      ],
+      "confidence": 1,
+      "text": "Controller-General of Munitions"
+    },
+    {
+      "box": [
+        0.5522522418299841,
+        0.4691614480590425,
+        0.07414028167724607,
+        0.013711987503011391
+      ],
+      "confidence": 1,
+      "text": "Supply."
+    },
+    {
+      "box": [
+        0.3778234120343197,
+        0.5029069770256533,
+        0.25667350769042974,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "Mr. C.H. McFadyen, C.B.E.,"
+    },
+    {
+      "box": [
+        0.37982675509788033,
+        0.517230638690274,
+        0.09660932540893552,
+        0.012050350401698662
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.3778234112779056,
+        0.5274093720437443,
+        0.34702259063720703,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.3798768010328831,
+        0.5392441859611503,
+        0.1868583106994629,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.37568279054025683,
+        0.5505874080808344,
+        0.10284386634826659,
+        0.016557742387820595
+      ],
+      "confidence": 1,
+      "text": "MEIBOURNE•"
+    },
+    {
+      "box": [
+        0.35934292043685373,
+        0.9127906978715488,
+        0.26283367156982423,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "DAVIO GUNSTAIN AT 5 mONTHS"
+    }
+  ],
+  "text": "DEPARTMENT OF DEFENCE PRODUCTION\n339\nSwanston Street,\nMEIBOURNE.\n14th June, 1955.\nDear\nI was indeed pleased to\nlearn of the honour conferred upon\nyou by her Majesty the Queen, and\nwish to offer you my congratulations.\nYour s\n(R.\nController-General of Munitions\nSupply.\nMr. C.H. McFadyen, C.B.E.,\nSecretary,\nDepartment of Shipping & Transport,\n497 Collins Street,\nMEIBOURNE•\nDAVIO GUNSTAIN AT 5 mONTHS",
+  "source_sha256": "abd08574ea7f9c277c07e94fee8bb4fd4591adbc9ade761f268e8090b003b5a4",
+  "status": "machine-draft"
+}

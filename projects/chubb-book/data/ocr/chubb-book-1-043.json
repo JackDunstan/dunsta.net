@@ -1,0 +1,291 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-043.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3203285505856104,
+        0.1744186045003946,
+        0.2792607688903809,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIAN SHIPBUILDING BOARD"
+    },
+    {
+      "box": [
+        0.42701205417058946,
+        0.1901224198059679,
+        0.07000053405761714,
+        0.012197020620924537
+      ],
+      "confidence": 1,
+      "text": "SYDNEY"
+    },
+    {
+      "box": [
+        0.4722792628326259,
+        0.2209302325610215,
+        0.15400410652160645,
+        0.014701951193029528
+      ],
+      "confidence": 1,
+      "text": "15th August, 1957-"
+    },
+    {
+      "box": [
+        0.2443531831520545,
+        0.26598837210397686,
+        0.041067762374877914,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Dear"
+    },
+    {
+      "box": [
+        0.2908805517808814,
+        0.25210196752951175,
+        0.09238200187683104,
+        0.03000894507720986
+      ],
+      "confidence": 0.5,
+      "text": "Chails."
+    },
+    {
+      "box": [
+        0.41067762527382967,
+        0.2906976746157348,
+        0.24845994949340822,
+        0.01168959336824682
+      ],
+      "confidence": 1,
+      "text": "I have received your letter of"
+    },
+    {
+      "box": [
+        0.24622005349716602,
+        0.30210573994744583,
+        0.4295631790161133,
+        0.01647175654808475
+      ],
+      "confidence": 1,
+      "text": "August 12 regarding the drawing of the passenger-car"
+    },
+    {
+      "box": [
+        0.24435318352659569,
+        0.3183139537363743,
+        0.053388090133666966,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "ferry."
+    },
+    {
+      "box": [
+        0.4106776256383061,
+        0.3253757736925782,
+        0.24845994949340822,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "It was arranged that a copy of"
+    },
+    {
+      "box": [
+        0.24845997875651107,
+        0.3372093021225526,
+        0.43737163543701174,
+        0.01469167073567701
+      ],
+      "confidence": 1,
+      "text": "this should be sent to you, but the young draughtsman"
+    },
+    {
+      "box": [
+        0.24628307886935155,
+        0.34877725079849164,
+        0.4417353820800781,
+        0.015507614580958728
+      ],
+      "confidence": 1,
+      "text": "who prepared it decided that he would improve it, and"
+    },
+    {
+      "box": [
+        0.24845996975492454,
+        0.36191860518726293,
+        0.3880903244018554,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "he is now making a number of minor alterations."
+    },
+    {
+      "box": [
+        0.2482464612928905,
+        0.37061631054247046,
+        0.4644668960571289,
+        0.016383478854421263
+      ],
+      "confidence": 1,
+      "text": "soon as he has completed his work I will have a coloured"
+    },
+    {
+      "box": [
+        0.24845996279365806,
+        0.3880813955013287,
+        0.09240245819091797,
+        0.010238675286978527
+      ],
+      "confidence": 1,
+      "text": "print made."
+    },
+    {
+      "box": [
+        0.41067762872120384,
+        0.40261627925720755,
+        0.2854209327697754,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Perhaps you would allow me to have"
+    },
+    {
+      "box": [
+        0.2482997246320487,
+        0.41231424299917185,
+        0.4397896194458008,
+        0.016032363122591042
+      ],
+      "confidence": 1,
+      "text": "it suitably framed and engraved, for we would all like"
+    },
+    {
+      "box": [
+        0.24825492672911195,
+        0.4238239224961253,
+        0.45624153137207024,
+        0.01608537931973486
+      ],
+      "confidence": 1,
+      "text": "you to accept it from the Australian Shipbuilding Board"
+    },
+    {
+      "box": [
+        0.2503416763217248,
+        0.4356542796498992,
+        0.47057292938232426,
+        0.016969217018781735
+      ],
+      "confidence": 1,
+      "text": "as an appreciation of your interest from the early stages"
+    },
+    {
+      "box": [
+        0.2505133515705962,
+        0.4491279071858094,
+        0.25667350769042974,
+        0.013294727585149158
+      ],
+      "confidence": 1,
+      "text": "in the building of this vessel."
+    },
+    {
+      "box": [
+        0.4147843982665492,
+        0.4723837215208384,
+        0.1498973274230957,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "With kind regards,"
+    },
+    {
+      "box": [
+        0.4969199219210719,
+        0.5000000001545594,
+        0.13347022056579594,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Tours sincerely,"
+    },
+    {
+      "box": [
+        0.5174538062333788,
+        0.5203359866579107,
+        0.17864475250244138,
+        0.02917771883289122
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Bet hamat"
+    },
+    {
+      "box": [
+        0.25256674266527235,
+        0.5610079577012721,
+        0.24229978561401366,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "C. H. Maladyen, Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.2505133507908502,
+        0.5755813958849373,
+        0.08624229431152347,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.2525667392176132,
+        0.5843023258994722,
+        0.3080082130432129,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.25462012610515616,
+        0.5972590628864547,
+        0.16221765518188475,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "497, Collins Street,"
+    },
+    {
+      "box": [
+        0.25051335111844103,
+        0.6074270559451518,
+        0.1868583106994629,
+        0.01902643249268865
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE. C.1. VIC."
+    },
+    {
+      "box": [
+        0.19435673053941735,
+        0.946944235805305,
+        0.4527756118774414,
+        0.027563882654056848
+      ],
+      "confidence": 1,
+      "text": "AN OBSERVATION BALLOON IN THE BiG ADVANCE 1918."
+    }
+  ],
+  "text": "AUSTRALIAN SHIPBUILDING BOARD\nSYDNEY\n15th August, 1957-\nDear\nChails.\nI have received your letter of\nAugust 12 regarding the drawing of the passenger-car\nferry.\nIt was arranged that a copy of\nthis should be sent to you, but the young draughtsman\nwho prepared it decided that he would improve it, and\nhe is now making a number of minor alterations.\nsoon as he has completed his work I will have a coloured\nprint made.\nPerhaps you would allow me to have\nit suitably framed and engraved, for we would all like\nyou to accept it from the Australian Shipbuilding Board\nas an appreciation of your interest from the early stages\nin the building of this vessel.\nWith kind regards,\nTours sincerely,\nBet hamat\nC. H. Maladyen, Esq., C.B.E.,\nSecretary,\nDepartment of Shipping and Transport,\n497, Collins Street,\nMELBOURNE. C.1. VIC.\nAN OBSERVATION BALLOON IN THE BiG ADVANCE 1918.",
+  "source_sha256": "900b114d79938b88a7e5cbc82f91878d963fce4e2538e261890fcdb0132a4a3d",
+  "status": "machine-draft"
+}

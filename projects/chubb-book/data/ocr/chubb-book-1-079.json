@@ -1,0 +1,202 @@
+{
+  "candidate_names": [
+    "ANA He",
+    "KAM",
+    "ROME ANA"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.4388929307460785,
+      0.305176317691803,
+      0.1970026046037674,
+      0.13934755325317383
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-079.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2833675576168358,
+        0.08284883721218428,
+        0.03490759611129762,
+        0.014534883642491891
+      ],
+      "confidence": 1,
+      "text": "GE,"
+    },
+    {
+      "box": [
+        0.32648871334518786,
+        0.08267020305049022,
+        0.3203285217285156,
+        0.016357206012378334
+      ],
+      "confidence": 1,
+      "text": "SATURDAY, NOVEMBER 3, 1956"
+    },
+    {
+      "box": [
+        0.34907598871600326,
+        0.117595048427233,
+        0.35112934112548827,
+        0.019032858621747306
+      ],
+      "confidence": 1,
+      "text": "Dutch Girl and Her Mascot"
+    },
+    {
+      "box": [
+        0.2956878944827934,
+        0.6074270558165348,
+        0.4579055404663086,
+        0.010305502054229643
+      ],
+      "confidence": 1,
+      "text": "DUTCH OLYMPIC SPRINT RUNNER Puck Van Duyne Brouwer hopes"
+    },
+    {
+      "box": [
+        0.2956878917812108,
+        0.6175950485326323,
+        0.20533880233764645,
+        0.014672393191714428
+      ],
+      "confidence": 1,
+      "text": "the mascot she holds will bring"
+    },
+    {
+      "box": [
+        0.503080087916522,
+        0.6175950487137338,
+        0.25051334381103507,
+        0.01031192776168166
+      ],
+      "confidence": 1,
+      "text": "her good fortune at the Games. Miss"
+    },
+    {
+      "box": [
+        0.3572895301015865,
+        0.6277630416654388,
+        0.34086242675781253,
+        0.010318353469133568
+      ],
+      "confidence": 1,
+      "text": "Brouwer is Holland's 100 and 200 metres champion."
+    },
+    {
+      "box": [
+        0.2279260888939956,
+        0.6569407600280014,
+        0.6098562240600586,
+        0.01602435596847196
+      ],
+      "confidence": 1,
+      "text": "OR MY RETURN FROM THE MARITIME CONFERENCE OF THE 1.2.0. IN LONDON 1956"
+    },
+    {
+      "box": [
+        0.22769153962650165,
+        0.6671341449020697,
+        0.6329385757446289,
+        0.021509767527289392
+      ],
+      "confidence": 1,
+      "text": "/ BOARDER THE KAM PRANE IN ROME ANA FOUNT THE BUTCH AND MALIAN ATHLETiC"
+    },
+    {
+      "box": [
+        0.22587270418685684,
+        0.6904069769316261,
+        0.556468162536621,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "TEAMS HERE PASSENGERS BOUTTA FOR THE OLYMOIC GAMES IN MEABOURNE-"
+    },
+    {
+      "box": [
+        0.22781022807097073,
+        0.7030313525792028,
+        0.5936838531494141,
+        0.017464921919251752
+      ],
+      "confidence": 1,
+      "text": "THE ABOYE CHARMING YOUNG LARY AND 1 HAG BIRTHRAYS TOGETHER BETWEEN"
+    },
+    {
+      "box": [
+        0.23203284962949466,
+        0.7192749779233587,
+        0.5379876708984375,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "BEyROUT ANa MARACHi ANA THe STAFF ON THe PARMe mARe qUITe AN"
+    },
+    {
+      "box": [
+        0.24010113271071404,
+        0.7362626028815514,
+        0.5505707550048828,
+        0.015472005680532752
+      ],
+      "confidence": 1,
+      "text": "OCCASION OF THe DUAL EVENT. HE HERE DINED AND HINED DELUXE AS"
+    },
+    {
+      "box": [
+        0.233940229280353,
+        0.7502162296437012,
+        0.5279972076416016,
+        0.01614114439245029
+      ],
+      "confidence": 1,
+      "text": "HERE ALL PASSENGERS OF COURSE ANA He HERE PRESENTER WITH A"
+    },
+    {
+      "box": [
+        0.23613965199141682,
+        0.7674418607961621,
+        0.5770020294189454,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "HArasome BOOK OF PRINTINGS BY RUTCH ARTISTS WHICH WeRe AUTOGRAPHeD"
+    },
+    {
+      "box": [
+        0.24017227658537948,
+        0.7818196717960041,
+        0.5052903747558595,
+        0.017664314054156915
+      ],
+      "confidence": 1,
+      "text": "BY ALL ON THe PLANe. AATOGETHER IT HAS A MEmORABLE EVENT."
+    },
+    {
+      "box": [
+        0.24011569247260367,
+        0.7959931864307219,
+        0.5670378494262696,
+        0.01868318647119871
+      ],
+      "confidence": 1,
+      "text": "I IS HISTORY, OF COURSE, THRT THE RUTCH GOYERNMENT HITHOREW THER"
+    },
+    {
+      "box": [
+        0.23802288206637726,
+        0.8104408769983039,
+        0.6203948211669922,
+        0.01763869301604548
+      ],
+      "confidence": 1,
+      "text": "ATHAETES FROM THe GAMES BECAUSe OF THe HUNGARIAN EPISORE ABOUT THAT Time."
+    }
+  ],
+  "text": "GE,\nSATURDAY, NOVEMBER 3, 1956\nDutch Girl and Her Mascot\nDUTCH OLYMPIC SPRINT RUNNER Puck Van Duyne Brouwer hopes\nthe mascot she holds will bring\nher good fortune at the Games. Miss\nBrouwer is Holland's 100 and 200 metres champion.\nOR MY RETURN FROM THE MARITIME CONFERENCE OF THE 1.2.0. IN LONDON 1956\n/ BOARDER THE KAM PRANE IN ROME ANA FOUNT THE BUTCH AND MALIAN ATHLETiC\nTEAMS HERE PASSENGERS BOUTTA FOR THE OLYMOIC GAMES IN MEABOURNE-\nTHE ABOYE CHARMING YOUNG LARY AND 1 HAG BIRTHRAYS TOGETHER BETWEEN\nBEyROUT ANa MARACHi ANA THe STAFF ON THe PARMe mARe qUITe AN\nOCCASION OF THe DUAL EVENT. HE HERE DINED AND HINED DELUXE AS\nHERE ALL PASSENGERS OF COURSE ANA He HERE PRESENTER WITH A\nHArasome BOOK OF PRINTINGS BY RUTCH ARTISTS WHICH WeRe AUTOGRAPHeD\nBY ALL ON THe PLANe. AATOGETHER IT HAS A MEmORABLE EVENT.\nI IS HISTORY, OF COURSE, THRT THE RUTCH GOYERNMENT HITHOREW THER\nATHAETES FROM THe GAMES BECAUSe OF THe HUNGARIAN EPISORE ABOUT THAT Time.",
+  "source_sha256": "efa45cc29deb11100997c191822a74a60e5e52d3165485620ad99331abb0fb19",
+  "status": "machine-draft"
+}

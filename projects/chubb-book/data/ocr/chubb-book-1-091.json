@@ -1,0 +1,103 @@
+{
+  "candidate_names": [
+    "Elizabeth"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-091.jpg",
+  "lines": [
+    {
+      "box": [
+        0.19287384250982056,
+        0.13339536886360204,
+        0.519596176147461,
+        0.031411214767833484
+      ],
+      "confidence": 1,
+      "text": "ROYAL MILITARY COLLEGE"
+    },
+    {
+      "box": [
+        0.30816654914624775,
+        0.20032052606811557,
+        0.2849291038513184,
+        0.028400441361821516
+      ],
+      "confidence": 1,
+      "text": "OF AUSTRALIA"
+    },
+    {
+      "box": [
+        0.4855967080294573,
+        0.37645348804093604,
+        0.059670782089233376,
+        0.017441860778593
+      ],
+      "confidence": 1,
+      "text": "COLLEGER"
+    },
+    {
+      "box": [
+        0.33329932896375686,
+        0.49113548419685504,
+        0.22023262023925788,
+        0.02644996171284053
+      ],
+      "confidence": 1,
+      "text": "DUNTROON"
+    },
+    {
+      "box": [
+        0.2959124220385735,
+        0.5787935639484361,
+        0.28887285232543947,
+        0.022767130140702196
+      ],
+      "confidence": 1,
+      "text": "CEREMONIAL PARADE"
+    },
+    {
+      "box": [
+        0.1950624950028694,
+        0.629158300793441,
+        0.49051731109619134,
+        0.02576718482027629
+      ],
+      "confidence": 1,
+      "text": "On the occasion of the presentation of"
+    },
+    {
+      "box": [
+        0.19547326275368163,
+        0.6554770316061972,
+        0.4876543045043946,
+        0.023409893992932806
+      ],
+      "confidence": 1,
+      "text": "New Colours by Her Majesty Queen"
+    },
+    {
+      "box": [
+        0.31015766608764983,
+        0.6802675366068097,
+        0.2562694549560547,
+        0.021938259947005156
+      ],
+      "confidence": 1,
+      "text": "Elizabeth the Second."
+    },
+    {
+      "box": [
+        0.301519608105321,
+        0.7979677632402824,
+        0.2752954292297363,
+        0.030908668841574283
+      ],
+      "confidence": 1,
+      "text": "17th FEBRUARY, 1954"
+    }
+  ],
+  "text": "ROYAL MILITARY COLLEGE\nOF AUSTRALIA\nCOLLEGER\nDUNTROON\nCEREMONIAL PARADE\nOn the occasion of the presentation of\nNew Colours by Her Majesty Queen\nElizabeth the Second.\n17th FEBRUARY, 1954",
+  "source_sha256": "15ec8506e58d21f815f2c995b1f930450e0a6023dbdd7061bac7043c6050bf94",
+  "status": "machine-draft"
+}

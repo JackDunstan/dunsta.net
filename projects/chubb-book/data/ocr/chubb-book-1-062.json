@@ -1,0 +1,365 @@
+{
+  "candidate_names": [
+    "BRiAN",
+    "McFadyen",
+    "OF COmmONweRATN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-062.jpg",
+  "lines": [
+    {
+      "box": [
+        0.256244611016639,
+        0.1325806277805961,
+        0.5205480575561523,
+        0.030906346706454535
+      ],
+      "confidence": 1,
+      "text": "Commontealth Callow prices Equalisation Mool"
+    },
+    {
+      "box": [
+        0.2135523639845271,
+        0.18749999994693523,
+        0.06981519222259525,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "SECRETARY:"
+    },
+    {
+      "box": [
+        0.17248460098638796,
+        0.19622093036336086,
+        0.1498973274230957,
+        0.008907274689746059
+      ],
+      "confidence": 1,
+      "text": "J. F. SMITH, F.C.A. (AUST.)"
+    },
+    {
+      "box": [
+        0.2135523639845271,
+        0.21366279064460958,
+        0.06981519222259525,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "TELEPHONE:"
+    },
+    {
+      "box": [
+        0.22587269063740856,
+        0.2223695844050948,
+        0.04722792625427247,
+        0.00728157829331888
+      ],
+      "confidence": 1,
+      "text": "B 7896"
+    },
+    {
+      "box": [
+        0.30380651481348325,
+        0.24392046833525383,
+        0.07205842971801757,
+        0.013612551145275265
+      ],
+      "confidence": 0.5,
+      "text": "JFS/ jko"
+    },
+    {
+      "box": [
+        0.4989733033597662,
+        0.18744473903420955,
+        0.19507186889648442,
+        0.01022967946518849
+      ],
+      "confidence": 1,
+      "text": "7TH FLOOR, STANTON HOUSE"
+    },
+    {
+      "box": [
+        0.5420944547294463,
+        0.20203359874596427,
+        0.11088295936584469,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "133 PITT STREET"
+    },
+    {
+      "box": [
+        0.6180698152042138,
+        0.21656976744693524,
+        0.053388090133666966,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "SYDNEY"
+    },
+    {
+      "box": [
+        0.5133470287859321,
+        0.23828470387345102,
+        0.1991786384582519,
+        0.014622272589267737
+      ],
+      "confidence": 1,
+      "text": "13th September, 1945"
+    },
+    {
+      "box": [
+        0.3059548279595575,
+        0.30087209342006327,
+        0.18275154113769532,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Mr C. H. McFadyen,"
+    },
+    {
+      "box": [
+        0.3100616087362489,
+        0.3152077807279041,
+        0.16016426086425778,
+        0.008920126104649984
+      ],
+      "confidence": 1,
+      "text": "Materials suppLy."
+    },
+    {
+      "box": [
+        0.308008219211808,
+        0.3226744186148006,
+        0.211498966217041,
+        0.01463769496172318
+      ],
+      "confidence": 1,
+      "text": "Ministry of Munitions"
+    },
+    {
+      "box": [
+        0.3059548295946532,
+        0.3355437667299267,
+        0.13963038444519044,
+        0.014746930723586682
+      ],
+      "confidence": 1,
+      "text": "Market Street,"
+    },
+    {
+      "box": [
+        0.30580125044225426,
+        0.34846629960699693,
+        0.06190879344940187,
+        0.013823214934844064
+      ],
+      "confidence": 1,
+      "text": "SYDNEY"
+    },
+    {
+      "box": [
+        0.30800821712918236,
+        0.38226744177510374,
+        0.1683778190612793,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Dear Mr McFadyen,"
+    },
+    {
+      "box": [
+        0.4638790144453798,
+        0.3992868127872673,
+        0.28995721817016606,
+        0.01583325009130987
+      ],
+      "confidence": 1,
+      "text": "I enclose herewith copy of a"
+    },
+    {
+      "box": [
+        0.3080082176368436,
+        0.4171511628656698,
+        0.1498973274230957,
+        0.010346626834886297
+      ],
+      "confidence": 1,
+      "text": "letter received"
+    },
+    {
+      "box": [
+        0.46406571498579763,
+        0.41423519008745424,
+        0.13552360534667973,
+        0.011636902651462111
+      ],
+      "confidence": 1,
+      "text": "from the Hon."
+    },
+    {
+      "box": [
+        0.6365503100089113,
+        0.41114058341940707,
+        0.1252566719055176,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Minister for"
+    },
+    {
+      "box": [
+        0.3080082192071494,
+        0.4257294431054899,
+        0.41478439331054684,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Munitions which may be of interest to you."
+    },
+    {
+      "box": [
+        0.5563945908536369,
+        0.4473766265347263,
+        0.08022930145263674,
+        0.010770002579288507
+      ],
+      "confidence": 1,
+      "text": "Yours fa"
+    },
+    {
+      "box": [
+        0.6221765911960001,
+        0.5043604651980689,
+        0.05338809013366708,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Secre"
+    },
+    {
+      "box": [
+        0.3080082148173082,
+        0.5566860464020418,
+        0.051334700584411586,
+        0.013081395446885247
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Encl•"
+    },
+    {
+      "box": [
+        0.19482678035930973,
+        0.8281565242687522,
+        0.7520649719238282,
+        0.022455678378239252
+      ],
+      "confidence": 1,
+      "text": "TNROUGHOUT THe 1939-45 WAR 1 HAS CHRIRMAN OF THE TALLOW RAVISORY COMMITTER WHICH"
+    },
+    {
+      "box": [
+        0.17413405404686316,
+        0.8409176973422162,
+        0.7439177703857422,
+        0.02967383184863015
+      ],
+      "confidence": 1,
+      "text": "COMPRISCR MEMBERS OF THe TRADE BALANCeR By NomineeS OF COmmONweRATN EPARTMENTS."
+    },
+    {
+      "box": [
+        0.17398066574218882,
+        0.8536968110933837,
+        0.7341873168945313,
+        0.03413191440356289
+      ],
+      "confidence": 1,
+      "text": "HE ENSUREA AREQUATE PROMUCTION DF GLYCERINE FOR MUNITIONS PURPOSES, FIRSTLY BY THe"
+    },
+    {
+      "box": [
+        0.17594862695857302,
+        0.8662073159170286,
+        0.7569757080078124,
+        0.03574644707663732
+      ],
+      "confidence": 1,
+      "text": "PROCESS OF SPLITTINO TALLOW AND LATER AS A BY PRODUCT OF SORP MARING. OUR SUPPLIES DIE"
+    },
+    {
+      "box": [
+        0.17819346440958356,
+        0.8853270427804598,
+        0.7319480133056642,
+        0.03099220269133185
+      ],
+      "confidence": 1,
+      "text": "ERIBLE TALLOW HERE MIRECTER TO THE UI FOR FOOD PRORUCTION ArA OUR QURNTITHES OF"
+    },
+    {
+      "box": [
+        0.18218684830257964,
+        0.9006879923556484,
+        0.7916019439697264,
+        0.03417825741013203
+      ],
+      "confidence": 1,
+      "text": "COLLAR WHITE MUTTON TALLON WERE DIVERTED TO INDIA FOR USE IN THe MAINFACTURe OF TEXTILES."
+    },
+    {
+      "box": [
+        0.18448149140227343,
+        0.9201359970412782,
+        0.7809595489501953,
+        0.026689965360255252
+      ],
+      "confidence": 1,
+      "text": "THIS HAS A MOST INTERESTING ASSIGNMENT RURING THE COURSE OF WHICH / MARE MANY FRIENDS."
+    },
+    {
+      "box": [
+        0.17832192853994777,
+        0.9382720956762374,
+        0.7829366302490234,
+        0.02431690745602444
+      ],
+      "confidence": 1,
+      "text": "BRiAN MOLANE OF THE LEVER GROUP WAS A NOMINCe OF IY.S.N ANImAL FATS ASSA. He HAS A GRAQUATe"
+    },
+    {
+      "box": [
+        0.18045786344437245,
+        0.9559993665423673,
+        0.7540716552734376,
+        0.021030713561148273
+      ],
+      "confidence": 1,
+      "text": "In EcoNomies ds.n. He AND HIS HIFe WERE ARTISTS OF GISTINCTION ArE AFTER THe WAR THEY"
+    },
+    {
+      "box": [
+        0.1824886971820267,
+        0.9691931369388237,
+        0.7849131774902343,
+        0.02205775334284854
+      ],
+      "confidence": 1,
+      "text": "INVADER ART CIRCLES IN honoN. I CALLER oN THem IN 1956 ANa FoUNTHem HADPY AND SOCCeSSFU"
+    },
+    {
+      "box": [
+        0.8809034904140768,
+        0.9796511626108598,
+        0.03696098566055295,
+        0.013081395446885247
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "hunt"
+    }
+  ],
+  "text": "Commontealth Callow prices Equalisation Mool\nSECRETARY:\nJ. F. SMITH, F.C.A. (AUST.)\nTELEPHONE:\nB 7896\nJFS/ jko\n7TH FLOOR, STANTON HOUSE\n133 PITT STREET\nSYDNEY\n13th September, 1945\nMr C. H. McFadyen,\nMaterials suppLy.\nMinistry of Munitions\nMarket Street,\nSYDNEY\nDear Mr McFadyen,\nI enclose herewith copy of a\nletter received\nfrom the Hon.\nMinister for\nMunitions which may be of interest to you.\nYours fa\nSecre\nEncl•\nTNROUGHOUT THe 1939-45 WAR 1 HAS CHRIRMAN OF THE TALLOW RAVISORY COMMITTER WHICH\nCOMPRISCR MEMBERS OF THe TRADE BALANCeR By NomineeS OF COmmONweRATN EPARTMENTS.\nHE ENSUREA AREQUATE PROMUCTION DF GLYCERINE FOR MUNITIONS PURPOSES, FIRSTLY BY THe\nPROCESS OF SPLITTINO TALLOW AND LATER AS A BY PRODUCT OF SORP MARING. OUR SUPPLIES DIE\nERIBLE TALLOW HERE MIRECTER TO THE UI FOR FOOD PRORUCTION ArA OUR QURNTITHES OF\nCOLLAR WHITE MUTTON TALLON WERE DIVERTED TO INDIA FOR USE IN THe MAINFACTURe OF TEXTILES.\nTHIS HAS A MOST INTERESTING ASSIGNMENT RURING THE COURSE OF WHICH / MARE MANY FRIENDS.\nBRiAN MOLANE OF THE LEVER GROUP WAS A NOMINCe OF IY.S.N ANImAL FATS ASSA. He HAS A GRAQUATe\nIn EcoNomies ds.n. He AND HIS HIFe WERE ARTISTS OF GISTINCTION ArE AFTER THe WAR THEY\nINVADER ART CIRCLES IN honoN. I CALLER oN THem IN 1956 ANa FoUNTHem HADPY AND SOCCeSSFU\nhunt",
+  "source_sha256": "2f170b93f8f50e09baedc36c918a22fe77f2587978e3a6633ac1cc47d68a027a",
+  "status": "machine-draft"
+}

@@ -1,0 +1,128 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.36368393898010254,
+      0.7423900738358498,
+      0.0824422612786293,
+      0.058314599096775055
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-112.jpg",
+  "lines": [
+    {
+      "box": [
+        0.6488706363918265,
+        0.14970930274141414,
+        0.05954825401306152,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "Sydney"
+    },
+    {
+      "box": [
+        0.15943549513813735,
+        0.2594157852327219,
+        0.5800322341918945,
+        0.08736015947174958
+      ],
+      "confidence": 1,
+      "text": "You my very since engrations"
+    },
+    {
+      "box": [
+        0.17228580349361822,
+        0.29503872126144226,
+        0.5962329864501953,
+        0.09221959809725733
+      ],
+      "confidence": 1,
+      "text": "upon the receipl. of the honour; corfered."
+    },
+    {
+      "box": [
+        0.1706524581861143,
+        0.3413428588247891,
+        0.5767813491821289,
+        0.07707051109361185
+      ],
+      "confidence": 1,
+      "text": "on you by the mapos to queen and"
+    },
+    {
+      "box": [
+        0.1618736351615464,
+        0.4830008560825113,
+        0.24298784255981443,
+        0.044172705221134034
+      ],
+      "confidence": 0.5,
+      "text": "interest. fau taking"
+    },
+    {
+      "box": [
+        0.4335403764048131,
+        0.47414269476262694,
+        0.3281184387207032,
+        0.04276490991459181
+      ],
+      "confidence": 1,
+      "text": "we pien in the hahonal"
+    },
+    {
+      "box": [
+        0.16632443365650112,
+        0.5406719715080606,
+        0.1047227954864502,
+        0.023430592396109673
+      ],
+      "confidence": 1,
+      "text": "nep ards."
+    },
+    {
+      "box": [
+        0.31330982121064577,
+        0.5051766189739669,
+        0.45765022277832035,
+        0.07976991365063413
+      ],
+      "confidence": 1,
+      "text": "Cond vary bash wickes and ware"
+    },
+    {
+      "box": [
+        0.6026257609610914,
+        0.7467251276902223,
+        0.2278523254394531,
+        0.02503678990506586
+      ],
+      "confidence": 1,
+      "text": "MARJORIE AMA DAViD"
+    },
+    {
+      "box": [
+        0.6427104746190138,
+        0.7732095489383817,
+        0.11498972892761228,
+        0.016034636425824478
+      ],
+      "confidence": 1,
+      "text": "FORIEST HILLS"
+    },
+    {
+      "box": [
+        0.683778236283417,
+        0.7906976744598917,
+        0.09650923728942873,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "NEW -ORK"
+    }
+  ],
+  "text": "Sydney\nYou my very since engrations\nupon the receipl. of the honour; corfered.\non you by the mapos to queen and\ninterest. fau taking\nwe pien in the hahonal\nnep ards.\nCond vary bash wickes and ware\nMARJORIE AMA DAViD\nFORIEST HILLS\nNEW -ORK",
+  "source_sha256": "bd191e7384099c6fb79c01a104e08bebf9ca76c8b80fde3a04079342808c538f",
+  "status": "machine-draft"
+}

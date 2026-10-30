@@ -1,0 +1,144 @@
+{
+  "candidate_names": [
+    "CROSE",
+    "Ker"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-028.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4536942864742582,
+        0.2932828318314493,
+        0.16858678817749023,
+        0.028259917342694507
+      ],
+      "confidence": 1,
+      "text": "State Banquet"
+    },
+    {
+      "box": [
+        0.48459959222872995,
+        0.36030061864620944,
+        0.10266940116882328,
+        0.02051333470433092
+      ],
+      "confidence": 1,
+      "text": "Sn honour of"
+    },
+    {
+      "box": [
+        0.32648870934764074,
+        0.3880813949891613,
+        0.422997932434082,
+        0.026162790893770493
+      ],
+      "confidence": 1,
+      "text": "Ker Majesty Queen Elizabeth the Second"
+    },
+    {
+      "box": [
+        0.31006161197974974,
+        0.44164456217583725,
+        0.4537987518310547,
+        0.02492520495076611
+      ],
+      "confidence": 1,
+      "text": "His Royal Kighness the Duke of Edinburgh"
+    },
+    {
+      "box": [
+        0.5236139633939031,
+        0.5029069771098559,
+        0.02258726835250857,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "al"
+    },
+    {
+      "box": [
+        0.42299794969310717,
+        0.5508399645989236,
+        0.2258726882934569,
+        0.016020499953751433
+      ],
+      "confidence": 1,
+      "text": "Larliament House, Canberra"
+    },
+    {
+      "box": [
+        0.5236139629483749,
+        0.5770348836496968,
+        0.02053388118743893,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "on"
+    },
+    {
+      "box": [
+        0.45146794216754854,
+        0.5936088595525169,
+        0.16884830474853513,
+        0.01933691292922124
+      ],
+      "confidence": 1,
+      "text": "16th Jebruary, 1954"
+    },
+    {
+      "box": [
+        0.7474332650748378,
+        0.7761627911611001,
+        0.1745379829406738,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "1 AM RUNNING A CROSE"
+    },
+    {
+      "box": [
+        0.7453798788056235,
+        0.7921511627572425,
+        0.18891170501708987,
+        0.014656971662472484
+      ],
+      "confidence": 1,
+      "text": "SECOND MITY my PARTNER."
+    },
+    {
+      "box": [
+        0.8932238195625481,
+        0.8095930233376039,
+        0.03901437282562259,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "curt"
+    },
+    {
+      "box": [
+        0.2874743346646349,
+        0.944739169054151,
+        0.37782341003417974,
+        0.020377109369063784
+      ],
+      "confidence": 1,
+      "text": "THE WHEELBARROW RACE. HM.A.T. 'BREmEri"
+    },
+    {
+      "box": [
+        0.3572895320159299,
+        0.9680232559113122,
+        0.197125244140625,
+        0.014735364365851766
+      ],
+      "confidence": 1,
+      "text": "RETURNING MOME 19I9"
+    }
+  ],
+  "text": "State Banquet\nSn honour of\nKer Majesty Queen Elizabeth the Second\nHis Royal Kighness the Duke of Edinburgh\nal\nLarliament House, Canberra\non\n16th Jebruary, 1954\n1 AM RUNNING A CROSE\nSECOND MITY my PARTNER.\ncurt\nTHE WHEELBARROW RACE. HM.A.T. 'BREmEri\nRETURNING MOME 19I9",
+  "source_sha256": "74e7e923dbad1da07c09ba886a7773aaa44b2fb8883005e0de721acddc6c646c",
+  "status": "machine-draft"
+}

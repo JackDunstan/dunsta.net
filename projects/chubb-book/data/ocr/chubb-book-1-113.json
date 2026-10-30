@@ -1,0 +1,274 @@
+{
+  "candidate_names": [
+    "LOYER",
+    "McFadyen",
+    "Mon",
+    "STAP",
+    "YORIS MARIE"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.392573744058609,
+      0.7496710382401943,
+      0.08293373882770538,
+      0.05866223946213722
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-113.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3244353212335913,
+        0.14970930244900305,
+        0.10882956504821778,
+        0.010326064655361344
+      ],
+      "confidence": 1,
+      "text": "WALTER SCOTT"
+    },
+    {
+      "box": [
+        0.6303901450286908,
+        0.1642441860090157,
+        0.11909650802612304,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "213 ELIZABETH STREET,"
+    },
+    {
+      "box": [
+        0.6303901444361766,
+        0.17587209303420948,
+        0.04722792625427252,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "SYDNEY"
+    },
+    {
+      "box": [
+        0.6755646820790531,
+        0.17587209317955832,
+        0.0759753561019898,
+        0.008920126104649984
+      ],
+      "confidence": 1,
+      "text": "- - N.S.W."
+    },
+    {
+      "box": [
+        0.6611909680773599,
+        0.1845930233152172,
+        0.06160163879394531,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIA"
+    },
+    {
+      "box": [
+        0.33059548409631245,
+        0.21927497808916385,
+        0.10677618026733399,
+        0.010376184414594647
+      ],
+      "confidence": 1,
+      "text": "16 June 1955"
+    },
+    {
+      "box": [
+        0.33059548926137183,
+        0.2572674420695302,
+        0.17248458862304683,
+        0.013289586934866371
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen"
+    },
+    {
+      "box": [
+        0.3285421037153215,
+        0.28470380181402266,
+        0.37371662139892575,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "May I, in company I have no doubt with many"
+    },
+    {
+      "box": [
+        0.3285421053812078,
+        0.29796511648813495,
+        0.3880903244018555,
+        0.013263884526665048
+      ],
+      "confidence": 1,
+      "text": "others, congratulate you upon your appearance"
+    },
+    {
+      "box": [
+        0.3285421045505029,
+        0.31250000017792756,
+        0.2279260635375977,
+        0.010223253757736472
+      ],
+      "confidence": 1,
+      "text": "in the recent Honours List."
+    },
+    {
+      "box": [
+        0.32854211164404135,
+        0.3386383731003634,
+        0.3880903244018554,
+        0.011652324180704166
+      ],
+      "confidence": 1,
+      "text": "I am sure that the work of national importance"
+    },
+    {
+      "box": [
+        0.3284473894186084,
+        0.35010018607011695,
+        0.3800851058959961,
+        0.013641015920462074
+      ],
+      "confidence": 1,
+      "text": "which you have done for such a long period of"
+    },
+    {
+      "box": [
+        0.32854210328547095,
+        0.3647214853370251,
+        0.34291580200195315,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "years has amply earned this recognition."
+    },
+    {
+      "box": [
+        0.32842955471545193,
+        0.39041614102929323,
+        0.402691650390625,
+        0.014402020198913013
+      ],
+      "confidence": 1,
+      "text": "I trust that you will live long to enjoy the honour"
+    },
+    {
+      "box": [
+        0.3285421025359043,
+        0.4053934569647589,
+        0.4188911437988281,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "thus bestowed upon you by Her Majesty the Queen."
+    },
+    {
+      "box": [
+        0.3305954835312705,
+        0.43313953527447224,
+        0.13347022056579588,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely"
+    },
+    {
+      "box": [
+        0.3347022601236029,
+        0.4447391687871334,
+        0.12731005668640133,
+        0.023430592396109673
+      ],
+      "confidence": 0.5,
+      "text": "wallo ok"
+    },
+    {
+      "box": [
+        0.3326488710572981,
+        0.4723837210692231,
+        0.10677618026733399,
+        0.011701159725981847
+      ],
+      "confidence": 1,
+      "text": "Walter Scott."
+    },
+    {
+      "box": [
+        0.3305954839269474,
+        0.5392441866371175,
+        0.2607802772521972,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "C. H. McFadyen, Esq., C. B.E."
+    },
+    {
+      "box": [
+        0.33059547904518555,
+        0.552166224456596,
+        0.18891170501708981,
+        0.01033377541998226
+      ],
+      "confidence": 1,
+      "text": "Commonwealth Offices"
+    },
+    {
+      "box": [
+        0.33251900066910633,
+        0.565008484851637,
+        0.07828848838806157,
+        0.013878378796429947
+      ],
+      "confidence": 1,
+      "text": "SYDNEY."
+    },
+    {
+      "box": [
+        0.29363450377872796,
+        0.8982558141743936,
+        0.4722792434692383,
+        0.014653115647751958
+      ],
+      "confidence": 1,
+      "text": "WRITiNG FROM NEW YORIS MARIE SAiD SHE LOYER THiS STAP."
+    },
+    {
+      "box": [
+        0.2833675600394433,
+        0.9111405835056349,
+        0.5112936401367187,
+        0.019091974624377395
+      ],
+      "confidence": 1,
+      "text": "\"HE'S SUCH A LiTTLE TOUGH GUY. EQHARD G. ROBINSON JUNiOR"
+    },
+    {
+      "box": [
+        0.4579055531027164,
+        0.9331395350555922,
+        0.18480491638183594,
+        0.010273373938576524
+      ],
+      "confidence": 1,
+      "text": "AND AT 83 MONTHS."
+    },
+    {
+      "box": [
+        0.41273101498978304,
+        0.9491279072368688,
+        0.34291580200195315,
+        0.029209846948544338
+      ],
+      "confidence": 1,
+      "text": "You sHouza SiER Him Mon 3/6/65 hut"
+    }
+  ],
+  "text": "WALTER SCOTT\n213 ELIZABETH STREET,\nSYDNEY\n- - N.S.W.\nAUSTRALIA\n16 June 1955\nDear Mr. McFadyen\nMay I, in company I have no doubt with many\nothers, congratulate you upon your appearance\nin the recent Honours List.\nI am sure that the work of national importance\nwhich you have done for such a long period of\nyears has amply earned this recognition.\nI trust that you will live long to enjoy the honour\nthus bestowed upon you by Her Majesty the Queen.\nYours sincerely\nwallo ok\nWalter Scott.\nC. H. McFadyen, Esq., C. B.E.\nCommonwealth Offices\nSYDNEY.\nWRITiNG FROM NEW YORIS MARIE SAiD SHE LOYER THiS STAP.\n\"HE'S SUCH A LiTTLE TOUGH GUY. EQHARD G. ROBINSON JUNiOR\nAND AT 83 MONTHS.\nYou sHouza SiER Him Mon 3/6/65 hut",
+  "source_sha256": "7b3c5241c1b341c577865b59160cec04676e89bfe2aee026aa03c4af5ad7efcc",
+  "status": "machine-draft"
+}

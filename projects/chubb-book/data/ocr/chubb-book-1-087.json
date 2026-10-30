@@ -1,0 +1,277 @@
+{
+  "candidate_names": [
+    "BATTERSBY",
+    "BISHOP",
+    "BoB",
+    "FREn",
+    "SmITH"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-087.jpg",
+  "lines": [
+    {
+      "box": [
+        0.29515940233965127,
+        0.3065762204920659,
+        0.48568759918212884,
+        0.027239062531030145
+      ],
+      "confidence": 1,
+      "text": "THE FAEMINGTON PRESBITERIANS AT BRUNSHICH SAY 19N1/5"
+    },
+    {
+      "box": [
+        0.23504842786864166,
+        0.319783501368619,
+        0.7393317413330079,
+        0.047704131702318464
+      ],
+      "confidence": 1,
+      "text": "LES STERLING, RUR ROBINSON, SMITH, BOB HUNTER, MUCK' CLONE, FRAMIE BARTON, C. VALENCE, L. TORO. I GRIEVES"
+    },
+    {
+      "box": [
+        0.8788501064890021,
+        0.3372093022194518,
+        0.08624229431152342,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "9.HAmILTON"
+    },
+    {
+      "box": [
+        0.19216692240242225,
+        0.35949688650825984,
+        0.580995979309082,
+        0.03858594447506092
+      ],
+      "confidence": 1,
+      "text": "JACIS VALLANCE, E. OLIVER, - CAMERON, A.THAN, E.OFPEN, CMORARYEN, A.SPENCE"
+    },
+    {
+      "box": [
+        0.880110628166051,
+        0.3498237740919643,
+        0.07557579040527351,
+        0.013308832015114236
+      ],
+      "confidence": 1,
+      "text": "BoB. CLOn/t"
+    },
+    {
+      "box": [
+        0.8788501032323804,
+        0.3619186045450332,
+        0.09445585250854494,
+        0.014739220380572293
+      ],
+      "confidence": 1,
+      "text": "gEO. WATSON"
+    },
+    {
+      "box": [
+        0.3335056940690271,
+        0.3784490743379415,
+        0.37032257080078124,
+        0.03638525034451667
+      ],
+      "confidence": 1,
+      "text": "FREn GLINE - BISHOP, CURLY BATTERSBY, - SmITH."
+    },
+    {
+      "box": [
+        0.8040901328527755,
+        0.4617633012312953,
+        0.13729823112487793,
+        0.019683499762065404
+      ],
+      "confidence": 1,
+      "text": "PARRE TUCKER"
+    },
+    {
+      "box": [
+        0.8039513810979565,
+        0.47612576472556034,
+        0.16821935653686526,
+        0.021038257791129555
+      ],
+      "confidence": 1,
+      "text": "HAE ACHIEYER FAME"
+    },
+    {
+      "box": [
+        0.8039963399958505,
+        0.4925273594600048,
+        0.16812763214111326,
+        0.020203488364249123
+      ],
+      "confidence": 1,
+      "text": "AS SUPERIOR OF THE"
+    },
+    {
+      "box": [
+        0.8022335833490124,
+        0.5125122745944398,
+        0.12868539810180657,
+        0.01735203082744896
+      ],
+      "confidence": 1,
+      "text": "BROTHERHOOR OF"
+    },
+    {
+      "box": [
+        0.8784104629861582,
+        0.5245366371388934,
+        0.09321004867553717,
+        0.012411820793657768
+      ],
+      "confidence": 1,
+      "text": "S. LAuRENCe"
+    },
+    {
+      "box": [
+        0.8182187595370733,
+        0.5419710844728548,
+        0.162266845703125,
+        0.021487188803000712
+      ],
+      "confidence": 1,
+      "text": "See LeTTeR OPPOSITe"
+    },
+    {
+      "box": [
+        0.2727131895645599,
+        0.6649252532376303,
+        0.622979736328125,
+        0.025816989092569687
+      ],
+      "confidence": 1,
+      "text": "OFFICERS OF 20° AUSTRAMAN CASURITY CHERRING STATION TROIS ARBRES"
+    },
+    {
+      "box": [
+        0.8377823474293293,
+        0.6772767460375114,
+        0.13552360534667973,
+        0.011676741953343006
+      ],
+      "confidence": 1,
+      "text": "STEENMERCI MORO"
+    },
+    {
+      "box": [
+        0.21482524893105548,
+        0.6877097778379544,
+        0.6112732696533203,
+        0.03512947291636448
+      ],
+      "confidence": 1,
+      "text": "CAPT. PEARCE, MAJOR CRAIG LIEUT AMPHLETE MAJOR BIRKETT MAJOR BARTON PAURE TUCKER"
+    },
+    {
+      "box": [
+        0.8726899397787398,
+        0.6887709990554978,
+        0.09650923728942873,
+        0.010356907713845454
+      ],
+      "confidence": 1,
+      "text": "FRANCE 101L"
+    },
+    {
+      "box": [
+        0.7453798808457112,
+        0.7049418606067066,
+        0.12731005668640127,
+        0.010354337599507213
+      ],
+      "confidence": 1,
+      "text": "AlEUT ARMSTRONG."
+    },
+    {
+      "box": [
+        0.3299853318822416,
+        0.7162867867111437,
+        0.11640991210937496,
+        0.01576970637529751
+      ],
+      "confidence": 1,
+      "text": "CAPT. AALESTER"
+    },
+    {
+      "box": [
+        0.5215605715992476,
+        0.7135278511566603,
+        0.22176591873168938,
+        0.01466982307737641
+      ],
+      "confidence": 1,
+      "text": "l-Cor H.S.STACY MAJOR PITCHER"
+    },
+    {
+      "box": [
+        0.35523613820308875,
+        0.7325375775099182,
+        0.10677618026733399,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "PARRE CLARK."
+    },
+    {
+      "box": [
+        0.23408624294138,
+        0.8212209301399295,
+        0.05338809013366699,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "ANor."
+    },
+    {
+      "box": [
+        0.6776180741423997,
+        0.8081343943879974,
+        0.12320327758789062,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "SERGERNT BASTER"
+    },
+    {
+      "box": [
+        0.6817248489101465,
+        0.8894783376564339,
+        0.1375769996643066,
+        0.01326259946949604
+      ],
+      "confidence": 0.5,
+      "text": "Q.M.S. SummERFEno"
+    },
+    {
+      "box": [
+        0.3344499279882413,
+        0.928557383293652,
+        0.41126949310302735,
+        0.01923563457188826
+      ],
+      "confidence": 1,
+      "text": "XMAS AT ISMAILIA. THEREE NO FUTURE FOR THE DUCK."
+    },
+    {
+      "box": [
+        0.4147843983019653,
+        0.9562334221555322,
+        0.19096508026123044,
+        0.014696810121139992
+      ],
+      "confidence": 1,
+      "text": "COL. HONGSON. SERG LAmBERT"
+    }
+  ],
+  "text": "THE FAEMINGTON PRESBITERIANS AT BRUNSHICH SAY 19N1/5\nLES STERLING, RUR ROBINSON, SMITH, BOB HUNTER, MUCK' CLONE, FRAMIE BARTON, C. VALENCE, L. TORO. I GRIEVES\n9.HAmILTON\nJACIS VALLANCE, E. OLIVER, - CAMERON, A.THAN, E.OFPEN, CMORARYEN, A.SPENCE\nBoB. CLOn/t\ngEO. WATSON\nFREn GLINE - BISHOP, CURLY BATTERSBY, - SmITH.\nPARRE TUCKER\nHAE ACHIEYER FAME\nAS SUPERIOR OF THE\nBROTHERHOOR OF\nS. LAuRENCe\nSee LeTTeR OPPOSITe\nOFFICERS OF 20° AUSTRAMAN CASURITY CHERRING STATION TROIS ARBRES\nSTEENMERCI MORO\nCAPT. PEARCE, MAJOR CRAIG LIEUT AMPHLETE MAJOR BIRKETT MAJOR BARTON PAURE TUCKER\nFRANCE 101L\nAlEUT ARMSTRONG.\nCAPT. AALESTER\nl-Cor H.S.STACY MAJOR PITCHER\nPARRE CLARK.\nANor.\nSERGERNT BASTER\nQ.M.S. SummERFEno\nXMAS AT ISMAILIA. THEREE NO FUTURE FOR THE DUCK.\nCOL. HONGSON. SERG LAmBERT",
+  "source_sha256": "da90ec2c036890617fba277bb03772db457089546dbb8e3fb2635bf47a1ac7de",
+  "status": "machine-draft"
+}

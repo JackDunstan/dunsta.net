@@ -1,0 +1,303 @@
+{
+  "candidate_names": [
+    "Ider Majesky hat"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-140.jpg",
+  "lines": [
+    {
+      "box": [
+        0.5195071867958706,
+        0.08575581396935195,
+        0.20123203277587887,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "DEPARTMENT OF NATIONAL DEVELOPMENT."
+    },
+    {
+      "box": [
+        0.5626283366298033,
+        0.09593023255637434,
+        0.03696098566055295,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "ACTON."
+    },
+    {
+      "box": [
+        0.5831622186787077,
+        0.1046511627977772,
+        0.08418890953063962,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "CANBERRA A.C.T."
+    },
+    {
+      "box": [
+        0.5521835476986383,
+        0.13459014919575318,
+        0.16873352050781254,
+        0.027331329467125798
+      ],
+      "confidence": 1,
+      "text": "'11 fame 1955"
+    },
+    {
+      "box": [
+        0.3162217659672575,
+        0.1962209303703899,
+        0.07186858177185063,
+        0.020348836424917804
+      ],
+      "confidence": 0.5,
+      "text": "Dear"
+    },
+    {
+      "box": [
+        0.38574796602867706,
+        0.19066403962268574,
+        0.11158905029296878,
+        0.024109834490572912
+      ],
+      "confidence": 0.5,
+      "text": "thales,"
+    },
+    {
+      "box": [
+        0.4484234444531712,
+        0.2136667716498728,
+        0.2432842063903809,
+        0.04299140208385144
+      ],
+      "confidence": 0.5,
+      "text": "hagustlation and"
+    },
+    {
+      "box": [
+        0.30185347943674756,
+        0.24121358153533046,
+        0.36969886779785155,
+        0.0521268498887012
+      ],
+      "confidence": 1,
+      "text": "Lust indes an you contin."
+    },
+    {
+      "box": [
+        0.31043346185427767,
+        0.2833471607556648,
+        0.42211639404296875,
+        0.04531962211737062
+      ],
+      "confidence": 1,
+      "text": "You have newis a crown to your"
+    },
+    {
+      "box": [
+        0.3040010377854718,
+        0.3086680890331859,
+        0.4413726806640625,
+        0.0578248608333678
+      ],
+      "confidence": 1,
+      "text": "long caver greenis to the comman."
+    },
+    {
+      "box": [
+        0.5318275147230003,
+        0.3604651164366359,
+        0.08213552474975583,
+        0.017441860033704848
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "шиль"
+    },
+    {
+      "box": [
+        0.43833430596540696,
+        0.3700911687666002,
+        0.09894197463989257,
+        0.021828788872001237
+      ],
+      "confidence": 0.5,
+      "text": "Joun a"
+    },
+    {
+      "box": [
+        0.49326429874454525,
+        0.38652004186033695,
+        0.19427192687988293,
+        0.03652462002242385
+      ],
+      "confidence": 0.5,
+      "text": "Bernard Hankill"
+    },
+    {
+      "box": [
+        0.35274070508602945,
+        0.4507494808269529,
+        0.3110612487792969,
+        0.02797195744872838
+      ],
+      "confidence": 1,
+      "text": "The Adelaide Seamship Ca. Lid."
+    },
+    {
+      "box": [
+        0.5478752604141073,
+        0.4798483642727617,
+        0.1361790943145752,
+        0.01615440813869007
+      ],
+      "confidence": 1,
+      "text": "505 Collins Street"
+    },
+    {
+      "box": [
+        0.5892793884488552,
+        0.5013584660548589,
+        0.057580852508544944,
+        0.013271439718420153
+      ],
+      "confidence": 1,
+      "text": "Melbourno"
+    },
+    {
+      "box": [
+        0.5543634912600066,
+        0.5129326483737651,
+        0.184907512664795,
+        0.032274237783686655
+      ],
+      "confidence": 1,
+      "text": "June q1L1955"
+    },
+    {
+      "box": [
+        0.28411642796327885,
+        0.5597346119478653,
+        0.4202909469604492,
+        0.09189224580449418
+      ],
+      "confidence": 1,
+      "text": "Dear bartes S was indeed"
+    },
+    {
+      "box": [
+        0.2866132704383418,
+        0.6348581410568391,
+        0.42686134338378906,
+        0.03952071394781209
+      ],
+      "confidence": 1,
+      "text": "pleasea to hearn from leaaris"
+    },
+    {
+      "box": [
+        0.2890461713564787,
+        0.6636866604818885,
+        0.424031982421875,
+        0.03635578172381848
+      ],
+      "confidence": 1,
+      "text": "press that Ider Majesky hat"
+    },
+    {
+      "box": [
+        0.2872965841307918,
+        0.6902025029248194,
+        0.41112796783447264,
+        0.029822746701835046
+      ],
+      "confidence": 1,
+      "text": "Seen fat to honor you par"
+    },
+    {
+      "box": [
+        0.28478511948118096,
+        0.7160731666370518,
+        0.4036762237548828,
+        0.0329711620624249
+      ],
+      "confidence": 1,
+      "text": "Your long a dishinguished"
+    },
+    {
+      "box": [
+        0.2895277222781704,
+        0.7484526968170844,
+        0.44558521270751944,
+        0.02044265150075253
+      ],
+      "confidence": 1,
+      "text": "Service lo the Commonwealth"
+    },
+    {
+      "box": [
+        0.37117910508547175,
+        0.7847348535813178,
+        0.37486682891845696,
+        0.025928419738823538
+      ],
+      "confidence": 1,
+      "text": "She hond is wall merited"
+    },
+    {
+      "box": [
+        0.29038192908779437,
+        0.8087073760572235,
+        0.40511779785156254,
+        0.0440278934441658
+      ],
+      "confidence": 1,
+      "text": "• d fein with your many"
+    },
+    {
+      "box": [
+        0.2871520088126164,
+        0.8457225121844906,
+        0.4440512466430664,
+        0.02899955459446313
+      ],
+      "confidence": 1,
+      "text": "rends in affoung my sincere"
+    },
+    {
+      "box": [
+        0.28699505416960863,
+        0.8747115983222405,
+        0.2392032814025879,
+        0.023639633421556394
+      ],
+      "confidence": 0.5,
+      "text": "Conguanulation."
+    },
+    {
+      "box": [
+        0.4551959216858731,
+        0.9057418384907733,
+        0.24087205886840823,
+        0.03353451291193066
+      ],
+      "confidence": 1,
+      "text": "Sencerely yours"
+    },
+    {
+      "box": [
+        0.48870636267504836,
+        0.9301503087101591,
+        0.19712526321411133,
+        0.032272325375773625
+      ],
+      "confidence": 1,
+      "text": "Perce Maddy"
+    }
+  ],
+  "text": "DEPARTMENT OF NATIONAL DEVELOPMENT.\nACTON.\nCANBERRA A.C.T.\n'11 fame 1955\nDear\nthales,\nhagustlation and\nLust indes an you contin.\nYou have newis a crown to your\nlong caver greenis to the comman.\nшиль\nJoun a\nBernard Hankill\nThe Adelaide Seamship Ca. Lid.\n505 Collins Street\nMelbourno\nJune q1L1955\nDear bartes S was indeed\npleasea to hearn from leaaris\npress that Ider Majesky hat\nSeen fat to honor you par\nYour long a dishinguished\nService lo the Commonwealth\nShe hond is wall merited\n• d fein with your many\nrends in affoung my sincere\nConguanulation.\nSencerely yours\nPerce Maddy",
+  "source_sha256": "aa334840e27851bd66fe9e16db7e374af2711a811e805b280f935eb452a5451c",
+  "status": "machine-draft"
+}

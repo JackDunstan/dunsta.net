@@ -1,0 +1,268 @@
+{
+  "candidate_names": [
+    "ANA",
+    "ANAY",
+    "Dr. Johnson",
+    "GREST",
+    "HAR",
+    "MAS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-071.jpg",
+  "lines": [
+    {
+      "box": [
+        0.33059548640762104,
+        0.12209302370614572,
+        0.09240245819091797,
+        0.020348836424917804
+      ],
+      "confidence": 1,
+      "text": "Christmas,"
+    },
+    {
+      "box": [
+        0.429158110204486,
+        0.12790697720761168,
+        0.04722792625427247,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "1939"
+    },
+    {
+      "box": [
+        0.40451745469425515,
+        0.15988372102395265,
+        0.018480491638183605,
+        0.0058139532040326625
+      ],
+      "confidence": 0.5,
+      "text": "-H-"
+    },
+    {
+      "box": [
+        0.2854209401223173,
+        0.18604651196195965,
+        0.23408624649047854,
+        0.02040795327076128
+      ],
+      "confidence": 1,
+      "text": "\"A Man, \" said Dr. Johnson, \"shoul"
+    },
+    {
+      "box": [
+        0.2854209484772292,
+        0.20058139580706336,
+        0.23203285217285152,
+        0.016041062554883134
+      ],
+      "confidence": 1,
+      "text": "feep his friendshit in constant repair"
+    },
+    {
+      "box": [
+        0.3367556450222348,
+        0.23828470416760084,
+        0.18275154113769526,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "Just to express the wish"
+    },
+    {
+      "box": [
+        0.28496929483465094,
+        0.2565803938093556,
+        0.23510509490966802,
+        0.02197142515848638
+      ],
+      "confidence": 1,
+      "text": "that this Christmas may be"
+    },
+    {
+      "box": [
+        0.28542094809848556,
+        0.27895667518311784,
+        0.2340862274169922,
+        0.017683465959327904
+      ],
+      "confidence": 1,
+      "text": "a peaceful one for you and"
+    },
+    {
+      "box": [
+        0.28336756276376496,
+        0.2992926613056801,
+        0.2361396217346191,
+        0.0190212922640125
+      ],
+      "confidence": 1,
+      "text": "yours, and the Coming Year"
+    },
+    {
+      "box": [
+        0.285420944804042,
+        0.32122093076709246,
+        0.2340862464904785,
+        0.016091182314116437
+      ],
+      "confidence": 1,
+      "text": "will bring peace and happiness"
+    },
+    {
+      "box": [
+        0.2833675586507997,
+        0.3415697677599373,
+        0.04928131103515626,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "to all."
+    },
+    {
+      "box": [
+        0.23613962863963586,
+        0.3793103448310525,
+        0.09445585250854491,
+        0.010224538814905593
+      ],
+      "confidence": 1,
+      "text": "99 Queen Street,"
+    },
+    {
+      "box": [
+        0.29363449629942406,
+        0.38953488381147117,
+        0.05954825401306152,
+        0.011627906408065547
+      ],
+      "confidence": 1,
+      "text": "Molbourne"
+    },
+    {
+      "box": [
+        0.16632445496191992,
+        0.4331395351291234,
+        0.4435317993164062,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "I MET MATTHEN COATES FIRST IN CANBERRA WHERE HE"
+    },
+    {
+      "box": [
+        0.16837783857573513,
+        0.45048629522391503,
+        0.4004106521606445,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "CAME TO TRARE AND CUSTOMS ON A BYLAN mATTER"
+    },
+    {
+      "box": [
+        0.168158329945382,
+        0.45928760980177163,
+        0.4441049194335937,
+        0.020660950165739322
+      ],
+      "confidence": 1,
+      "text": "CONCeRNING MACHINES OF UAL. ORIGIN. HE HAS PRESIDeNT"
+    },
+    {
+      "box": [
+        0.1660310722722727,
+        0.4728152321260215,
+        0.4441016387939453,
+        0.018840041021453202
+      ],
+      "confidence": 1,
+      "text": "RUSTRAMIAN ASSN. OF BRITISH MANUFACTURERS. I CAMe TO"
+    },
+    {
+      "box": [
+        0.16396531479193344,
+        0.48607097215697537,
+        0.28211078643798826,
+        0.02427836923236648
+      ],
+      "confidence": 1,
+      "text": "REGARIA Mom AS A GOOn FRIENA. HUt"
+    },
+    {
+      "box": [
+        0.36960985744217617,
+        0.7892441865246493,
+        0.1252566719055176,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Countryside"
+    },
+    {
+      "box": [
+        0.15995233505487874,
+        0.831471578158209,
+        0.6349014282226563,
+        0.02059296271529054
+      ],
+      "confidence": 1,
+      "text": "HARORA BREEN ANG I WERE CLOSELY ASSOCiATED IN THR DiViGION OF INGUSTRIAL"
+    },
+    {
+      "box": [
+        0.11478593374493463,
+        0.8482598221722325,
+        0.6719657135009767,
+        0.021425431012896512
+      ],
+      "confidence": 1,
+      "text": "DEVELOPMENT. REPT. OF POST HAR RECONSTRUCTION. HE MAS DIRECTOR ANA / NAS"
+    },
+    {
+      "box": [
+        0.11882160362853902,
+        0.8601982899220686,
+        0.6618569946289063,
+        0.02598748852150512
+      ],
+      "confidence": 1,
+      "text": "REPUTY DIRECTOR. He WAR ANAY OVERSERS A 1948 ARE / ACTEA FOR NIm ON"
+    },
+    {
+      "box": [
+        0.11889108689141253,
+        0.8774166337812777,
+        0.6617549133300782,
+        0.024518810680332126
+      ],
+      "confidence": 1,
+      "text": "THE HOME FRONT. WE HAD A GREST TEAM OF HORKERS MANY OF WHOM MOVE"
+    },
+    {
+      "box": [
+        0.12507337131430987,
+        0.8915676906267768,
+        0.74361083984375,
+        0.02055820124429686
+      ],
+      "confidence": 1,
+      "text": "RiSTiNGUISHER THEMSELTES SINCE BOTT IN GOVERNMENT CIRCHAS AND IN PRIVATE HAUSTRY."
+    },
+    {
+      "box": [
+        0.7556468163407459,
+        0.943313953414319,
+        0.06776180744171134,
+        0.01889534907252466
+      ],
+      "confidence": 1,
+      "text": "3015165"
+    }
+  ],
+  "text": "Christmas,\n1939\n-H-\n\"A Man, \" said Dr. Johnson, \"shoul\nfeep his friendshit in constant repair\nJust to express the wish\nthat this Christmas may be\na peaceful one for you and\nyours, and the Coming Year\nwill bring peace and happiness\nto all.\n99 Queen Street,\nMolbourne\nI MET MATTHEN COATES FIRST IN CANBERRA WHERE HE\nCAME TO TRARE AND CUSTOMS ON A BYLAN mATTER\nCONCeRNING MACHINES OF UAL. ORIGIN. HE HAS PRESIDeNT\nRUSTRAMIAN ASSN. OF BRITISH MANUFACTURERS. I CAMe TO\nREGARIA Mom AS A GOOn FRIENA. HUt\nCountryside\nHARORA BREEN ANG I WERE CLOSELY ASSOCiATED IN THR DiViGION OF INGUSTRIAL\nDEVELOPMENT. REPT. OF POST HAR RECONSTRUCTION. HE MAS DIRECTOR ANA / NAS\nREPUTY DIRECTOR. He WAR ANAY OVERSERS A 1948 ARE / ACTEA FOR NIm ON\nTHE HOME FRONT. WE HAD A GREST TEAM OF HORKERS MANY OF WHOM MOVE\nRiSTiNGUISHER THEMSELTES SINCE BOTT IN GOVERNMENT CIRCHAS AND IN PRIVATE HAUSTRY.\n3015165",
+  "source_sha256": "ea555afb5d447c43ceb4b709c01e70573fbcdf38bb799d4f8340493c4b016f9d",
+  "status": "machine-draft"
+}

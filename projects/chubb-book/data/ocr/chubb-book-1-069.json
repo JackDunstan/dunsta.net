@@ -1,0 +1,183 @@
+{
+  "candidate_names": [
+    "ERIN BURGH",
+    "JACK CLARKE"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.5615034103393555,
+      0.6004316806793213,
+      0.13874058425426483,
+      0.09813657402992249
+    ],
+    [
+      0.21127811074256897,
+      0.22262081503868103,
+      0.09325157105922699,
+      0.06596043705940247
+    ],
+    [
+      0.6119919419288635,
+      0.24291238002479076,
+      0.043549589812755585,
+      0.030804308131337166
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-069.jpg",
+  "lines": [
+    {
+      "box": [
+        0.06117501769623335,
+        0.47666017573197195,
+        0.2862572288513183,
+        0.020120814666613196
+      ],
+      "confidence": 1,
+      "text": "JACK CLARKE AT ERIN BURGH."
+    },
+    {
+      "box": [
+        0.059062981568450044,
+        0.49179539010710105,
+        0.32322822570800785,
+        0.01923328284981196
+      ],
+      "confidence": 1,
+      "text": "DESPITE THE LOSS OF HIS LeGS dACIS"
+    },
+    {
+      "box": [
+        0.06919803430074765,
+        0.5096010951808425,
+        0.2475759696960449,
+        0.020311900306654418
+      ],
+      "confidence": 1,
+      "text": "MANAGER TO GET AROUNA"
+    },
+    {
+      "box": [
+        0.48440886630603686,
+        0.4948788649381889,
+        0.09894407272338868,
+        0.014602735335588646
+      ],
+      "confidence": 1,
+      "text": "ERM. DRIVER"
+    },
+    {
+      "box": [
+        0.5564681711941676,
+        0.5101679930787604,
+        0.1108829593658448,
+        0.01018084391991092
+      ],
+      "confidence": 1,
+      "text": "JOE VALLANCE"
+    },
+    {
+      "box": [
+        0.6815906695510242,
+        0.49366620989818133,
+        0.10909791946411129,
+        0.015574557290047641
+      ],
+      "confidence": 1,
+      "text": "ATHOL SHARP"
+    },
+    {
+      "box": [
+        0.08418892345887855,
+        0.8894783378739254,
+        0.3264886856079101,
+        0.017683465959328126
+      ],
+      "confidence": 1,
+      "text": "THE 4.M1. STORE STAGE 8' FIELO AmBULANCE"
+    },
+    {
+      "box": [
+        0.28131416989501284,
+        0.9011627907241968,
+        0.03696098327636721,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "1917"
+    },
+    {
+      "box": [
+        0.14373717123715135,
+        0.9186046516988909,
+        0.2094455718994141,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "CORP. GAMBLE PTE HOODS"
+    },
+    {
+      "box": [
+        0.05133471045760334,
+        0.9301503091157628,
+        0.42505130767822263,
+        0.020431085986231
+      ],
+      "confidence": 1,
+      "text": "PInS. FRY. LIEUT. MOFARTEN. OMS. PRICE. SERGI NeONANO"
+    },
+    {
+      "box": [
+        0.18678809210675357,
+        0.9517231780529901,
+        0.1007564640045166,
+        0.012251318502383923
+      ],
+      "confidence": 1,
+      "text": "COL. MATSON"
+    },
+    {
+      "box": [
+        0.5215605758282107,
+        0.8662790701832747,
+        0.18891170501708976,
+        0.01612588138732096
+      ],
+      "confidence": 0.5,
+      "text": "KEN MFAAYEN."
+    },
+    {
+      "box": [
+        0.500795646571499,
+        0.8818397075660634,
+        0.3556980133056641,
+        0.019740363541796202
+      ],
+      "confidence": 1,
+      "text": "SERVED WITH THE BOMBER COMMAND"
+    },
+    {
+      "box": [
+        0.5047009802821896,
+        0.8986062557190332,
+        0.33340957641601565,
+        0.020318034683888597
+      ],
+      "confidence": 1,
+      "text": "IN BRITAIN AS WARRANT OFFICER"
+    },
+    {
+      "box": [
+        0.5112936335755197,
+        0.9171511631808219,
+        0.23819301605224608,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "WİRELESS AIR GUNNER."
+    }
+  ],
+  "text": "JACK CLARKE AT ERIN BURGH.\nDESPITE THE LOSS OF HIS LeGS dACIS\nMANAGER TO GET AROUNA\nERM. DRIVER\nJOE VALLANCE\nATHOL SHARP\nTHE 4.M1. STORE STAGE 8' FIELO AmBULANCE\n1917\nCORP. GAMBLE PTE HOODS\nPInS. FRY. LIEUT. MOFARTEN. OMS. PRICE. SERGI NeONANO\nCOL. MATSON\nKEN MFAAYEN.\nSERVED WITH THE BOMBER COMMAND\nIN BRITAIN AS WARRANT OFFICER\nWİRELESS AIR GUNNER.",
+  "source_sha256": "9b9d2d8d75c9b158babe4956ce34a3d381d0c7f72dff086a802c4f3c768d4eff",
+  "status": "machine-draft"
+}

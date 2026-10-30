@@ -1,0 +1,151 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-084.jpg",
+  "lines": [
+    {
+      "box": [
+        0.71663244513136,
+        0.11184792208085614,
+        0.11909650802612304,
+        0.011698589190036968
+      ],
+      "confidence": 0.5,
+      "text": "W.MUNSTAN derR."
+    },
+    {
+      "box": [
+        0.018480492935901916,
+        0.1277630413948827,
+        0.11704312324523926,
+        0.01326259946949604
+      ],
+      "confidence": 0.5,
+      "text": "WiRUNSTAN V.C."
+    },
+    {
+      "box": [
+        0.1950718685067179,
+        0.3850574712430349,
+        0.11293634414672851,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "MARY RANGRAh"
+    },
+    {
+      "box": [
+        0.23613963076277153,
+        0.3968023257861475,
+        0.02464065551757813,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "How"
+    },
+    {
+      "box": [
+        0.19881691509348773,
+        0.40729151221228865,
+        0.10753103256225585,
+        0.013073989503895822
+      ],
+      "confidence": 1,
+      "text": "MRS CHRISTIAN"
+    },
+    {
+      "box": [
+        0.38193018629740694,
+        0.3924418604605011,
+        0.030800819396972656,
+        0.007267441821245835
+      ],
+      "confidence": 0.5,
+      "text": "nON."
+    },
+    {
+      "box": [
+        0.3449692014412358,
+        0.40097259036706556,
+        0.13963038444519044,
+        0.014725083908499359
+      ],
+      "confidence": 1,
+      "text": "MRS P. MACKINTOSH"
+    },
+    {
+      "box": [
+        0.4928131445742774,
+        0.3764534885110835,
+        0.1252566719055176,
+        0.011698589190037079
+      ],
+      "confidence": 1,
+      "text": "MARIE MCFAR-EN"
+    },
+    {
+      "box": [
+        0.537987680506098,
+        0.3880813953476785,
+        0.024640655517578103,
+        0.008720930016852257
+      ],
+      "confidence": 0.5,
+      "text": "non"
+    },
+    {
+      "box": [
+        0.5051334745476975,
+        0.39825581430790247,
+        0.13347022056579583,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "MRS J.K. RUNSTAN,"
+    },
+    {
+      "box": [
+        0.3242885394993844,
+        0.7480860724288548,
+        0.10706974029541017,
+        0.018362738409472446
+      ],
+      "confidence": 1,
+      "text": "CAiRO 1915"
+    },
+    {
+      "box": [
+        0.2073922116073527,
+        0.7687886821872763,
+        0.381930160522461,
+        0.02210433244915999
+      ],
+      "confidence": 1,
+      "text": "M.ERLENBERO dACH MARRS HARRY ROTHBERO"
+    },
+    {
+      "box": [
+        0.204723600045687,
+        0.7912840502727174,
+        0.3666570281982422,
+        0.02655301148864042
+      ],
+      "confidence": 1,
+      "text": "- NATHAN CHAS. MPFADYEN M. BASTER."
+    },
+    {
+      "box": [
+        0.24401146699842813,
+        0.8185697653814797,
+        0.39282176971435545,
+        0.018919948979250423
+      ],
+      "confidence": 1,
+      "text": "ARCA MARKS WAS KILLER AT HOOGE TUNNEL. 1917"
+    }
+  ],
+  "text": "W.MUNSTAN derR.\nWiRUNSTAN V.C.\nMARY RANGRAh\nHow\nMRS CHRISTIAN\nnON.\nMRS P. MACKINTOSH\nMARIE MCFAR-EN\nnon\nMRS J.K. RUNSTAN,\nCAiRO 1915\nM.ERLENBERO dACH MARRS HARRY ROTHBERO\n- NATHAN CHAS. MPFADYEN M. BASTER.\nARCA MARKS WAS KILLER AT HOOGE TUNNEL. 1917",
+  "source_sha256": "f782f6b62b1d32cdfcbf86747d814079e55f7ac500ebfeef3c14c1545de314b8",
+  "status": "machine-draft"
+}

@@ -1,0 +1,506 @@
+{
+  "candidate_names": [
+    "Castlereagh Street",
+    "McFadyen",
+    "Mr. Roosevelt",
+    "SARS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-067.jpg",
+  "lines": [
+    {
+      "box": [
+        0.34907598120995387,
+        0.1322674419048796,
+        0.1909650802612305,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "HEADQUARTERS"
+    },
+    {
+      "box": [
+        0.3860369649928004,
+        0.14970930241612235,
+        0.12114989280700683,
+        0.011652324602310915
+      ],
+      "confidence": 1,
+      "text": "BASE SEOKON 7"
+    },
+    {
+      "box": [
+        0.3737166328072049,
+        0.16569767478427444,
+        0.14373716354370114,
+        0.010252811337444934
+      ],
+      "confidence": 1,
+      "text": "U.S.A. S.O.S. S.W.P.A."
+    },
+    {
+      "box": [
+        0.2956878895749574,
+        0.18168604671638,
+        0.301848030090332,
+        0.00885329891579223
+      ],
+      "confidence": 1,
+      "text": "OFFICE OF THE COMMANDING GENERAL"
+    },
+    {
+      "box": [
+        0.14774106834478443,
+        0.22212893036247539,
+        0.049487061500549295,
+        0.010683999453678705
+      ],
+      "confidence": 0.5,
+      "text": "AGCG :"
+    },
+    {
+      "box": [
+        0.6282823129500223,
+        0.20909514612219782,
+        0.07608424663543711,
+        0.010588777054736931
+      ],
+      "confidence": 1,
+      "text": "APO 927,"
+    },
+    {
+      "box": [
+        0.6282178105908374,
+        0.2189993570839437,
+        0.07826663494110109,
+        0.011129192922307185
+      ],
+      "confidence": 1,
+      "text": "17 April"
+    },
+    {
+      "box": [
+        0.6283129194559468,
+        0.2310344942463709,
+        0.05959592819213877,
+        0.010314732289335327
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "HBH: id"
+    },
+    {
+      "box": [
+        0.7104507405974768,
+        0.21942522198809344,
+        0.055484557151794345,
+        0.011730951297399095
+      ],
+      "confidence": 1,
+      "text": "1945."
+    },
+    {
+      "box": [
+        0.14784395041715703,
+        0.2789566755280093,
+        0.17864475250244144,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Mr. C.H. McFadyen,"
+    },
+    {
+      "box": [
+        0.1478439453011743,
+        0.29069767470294394,
+        0.18891170501708984,
+        0.011689593368247042
+      ],
+      "confidence": 1,
+      "text": "Deputy Comptroller,"
+    },
+    {
+      "box": [
+        0.2156057506257419,
+        0.302325581931449,
+        0.17043121337890627,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Materials Supply,"
+    },
+    {
+      "box": [
+        0.14989732746709464,
+        0.31388152080172294,
+        0.21355236053466795,
+        0.010246386051599554
+      ],
+      "confidence": 1,
+      "text": "Ministry of Munitions,"
+    },
+    {
+      "box": [
+        0.14781155976587365,
+        0.3223888110170656,
+        0.22593746185302735,
+        0.013652609682631267
+      ],
+      "confidence": 1,
+      "text": "113 Castlereagh Street,"
+    },
+    {
+      "box": [
+        0.1498973330499272,
+        0.3357558140440293,
+        0.11704311370849607,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "SYDNEY."
+    },
+    {
+      "box": [
+        0.14989733122026777,
+        0.35897435880997497,
+        0.17659137725830076,
+        0.01166517559560809
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen:"
+    },
+    {
+      "box": [
+        0.24633526377605577,
+        0.3803015173327863,
+        0.48271038055419924,
+        0.015290815992549223
+      ],
+      "confidence": 1,
+      "text": "Your graciousness in expressing the deep sympathy"
+    },
+    {
+      "box": [
+        0.14983419579376245,
+        0.39241558310162095,
+        0.5607110977172852,
+        0.01467948292969179
+      ],
+      "confidence": 1,
+      "text": "of yourself and organization for the people of the United"
+    },
+    {
+      "box": [
+        0.14922263046406187,
+        0.3994568910399301,
+        0.5803518295288086,
+        0.03771070755234229
+      ],
+      "confidence": 1,
+      "text": "States in its tragic loss ye laboured long and courageously"
+    },
+    {
+      "box": [
+        0.40657083451445786,
+        0.40406719697801563,
+        0.3531827545166015,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "through the death of Mr. Roosevelt,"
+    },
+    {
+      "box": [
+        0.149897337056505,
+        0.41860465141079284,
+        0.2176591300964355,
+        0.011627906408065547
+      ],
+      "confidence": 1,
+      "text": "is deeply appreciated."
+    },
+    {
+      "box": [
+        0.1498973495197521,
+        0.4273255817497629,
+        0.5708418655395507,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "for a better understanding among all peoples of the world,"
+    },
+    {
+      "box": [
+        0.1519507356011925,
+        0.4403183022151045,
+        0.3819301605224609,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "especially the English-speaking people."
+    },
+    {
+      "box": [
+        0.24845998075851022,
+        0.46220930260732107,
+        0.49281311035156244,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "I have been singularly struck by the deep sympathy"
+    },
+    {
+      "box": [
+        0.14989733757046395,
+        0.47656940780632495,
+        0.2751539993286133,
+        0.010349196527617677
+      ],
+      "confidence": 1,
+      "text": "extended by all classes and"
+    },
+    {
+      "box": [
+        0.4250513449828787,
+        0.47524314774950716,
+        0.30390142440795903,
+        0.010221968278960714
+      ],
+      "confidence": 1,
+      "text": "shades of opinion in Australia."
+    },
+    {
+      "box": [
+        0.1518391384333944,
+        0.48524413073742223,
+        0.5977865219116212,
+        0.015308418914767863
+      ],
+      "confidence": 1,
+      "text": "I hope and believe this indicates more than sympathy extended"
+    },
+    {
+      "box": [
+        0.1498973322500448,
+        0.498546511718448,
+        0.33470226287841803,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "for the death of a very great man."
+    },
+    {
+      "box": [
+        0.52361397231518,
+        0.49690539331580963,
+        0.20944557189941404,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "I am sure he would be"
+    },
+    {
+      "box": [
+        0.15195073174030704,
+        0.5101679933095755,
+        0.531827507019043,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "greatly pleased if it indicates, as I believe it does,"
+    },
+    {
+      "box": [
+        0.15184176401279756,
+        0.5193596601568818,
+        0.581334991455078,
+        0.015755908874997337
+      ],
+      "confidence": 1,
+      "text": "deep affection on the part of Australians for the people of"
+    },
+    {
+      "box": [
+        0.1519507272737621,
+        0.5348837214083704,
+        0.17864475250244147,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "the United States."
+    },
+    {
+      "box": [
+        0.3675564774319539,
+        0.5318302385905571,
+        0.37371662139892586,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "If this war results in a better under-"
+    },
+    {
+      "box": [
+        0.15195072443972968,
+        0.5436046514445303,
+        0.5605749511718751,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "standing and closer co-operation among the peoples of the"
+    },
+    {
+      "box": [
+        0.21971251705040287,
+        0.5552325586029605,
+        0.5420944595336914,
+        0.01329087199203538
+      ],
+      "confidence": 1,
+      "text": "then Mr. Roosevelt will have triumphed, and his labours"
+    },
+    {
+      "box": [
+        0.1519507208441974,
+        0.56831395396651,
+        0.26694044113159177,
+        0.011703729418713227
+      ],
+      "confidence": 1,
+      "text": "will not have been in vain."
+    },
+    {
+      "box": [
+        0.250354233074113,
+        0.587113196040616,
+        0.503397216796875,
+        0.017575944450236802
+      ],
+      "confidence": 1,
+      "text": "Again my deep appreciation for your sympathy in our"
+    },
+    {
+      "box": [
+        0.15400410881743798,
+        0.6030061892499875,
+        0.10882956504821778,
+        0.013272879926848447
+      ],
+      "confidence": 1,
+      "text": "great loss."
+    },
+    {
+      "box": [
+        0.43737166509999675,
+        0.625000000342479,
+        0.15811087608337399,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Cordially yours,"
+    },
+    {
+      "box": [
+        0.45995893801919135,
+        0.6816860467319489,
+        0.2505133438110351,
+        0.0101795588627418
+      ],
+      "confidence": 1,
+      "text": "Brigadier General, U.S.A.,"
+    },
+    {
+      "box": [
+        0.523613965332522,
+        0.6933139536602434,
+        0.11293634414672848,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Commanding."
+    },
+    {
+      "box": [
+        0.2895277263986663,
+        0.8212209304587581,
+        0.211498966217041,
+        0.011670316245890988
+      ],
+      "confidence": 1,
+      "text": "C & D COY'S 29™H BATT"
+    },
+    {
+      "box": [
+        0.4291581147404075,
+        0.837209302478073,
+        0.1683778190612793,
+        0.010270803824238395
+      ],
+      "confidence": 1,
+      "text": "8TH F. AMBULANCE"
+    },
+    {
+      "box": [
+        0.34702258856499557,
+        0.8561046511581756,
+        0.05954825401306152,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "REQUEST"
+    },
+    {
+      "box": [
+        0.32016430489803255,
+        0.8553997466346285,
+        0.2816426467895508,
+        0.03484004161507548
+      ],
+      "confidence": 0.5,
+      "text": "варт. CA. IN Fadyeu"
+    },
+    {
+      "box": [
+        0.3100435959493206,
+        0.8909200774701219,
+        0.06574442863464353,
+        0.008857519198686714
+      ],
+      "confidence": 1,
+      "text": "AT THEIR"
+    },
+    {
+      "box": [
+        0.2874743411129967,
+        0.9111405839350408,
+        0.3100615882873535,
+        0.014731509194344516
+      ],
+      "confidence": 1,
+      "text": "PLAIN & FANCY DRESS BALL"
+    },
+    {
+      "box": [
+        0.28747433457543636,
+        0.9314765693764664,
+        0.10677618026733399,
+        0.008930407405215779
+      ],
+      "confidence": 1,
+      "text": "SARS POTERIES"
+    },
+    {
+      "box": [
+        0.5585215621605844,
+        0.9331395348462249,
+        0.03696098327636721,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "1-2-19"
+    }
+  ],
+  "text": "HEADQUARTERS\nBASE SEOKON 7\nU.S.A. S.O.S. S.W.P.A.\nOFFICE OF THE COMMANDING GENERAL\nAGCG :\nAPO 927,\n17 April\nHBH: id\n1945.\nMr. C.H. McFadyen,\nDeputy Comptroller,\nMaterials Supply,\nMinistry of Munitions,\n113 Castlereagh Street,\nSYDNEY.\nDear Mr. McFadyen:\nYour graciousness in expressing the deep sympathy\nof yourself and organization for the people of the United\nStates in its tragic loss ye laboured long and courageously\nthrough the death of Mr. Roosevelt,\nis deeply appreciated.\nfor a better understanding among all peoples of the world,\nespecially the English-speaking people.\nI have been singularly struck by the deep sympathy\nextended by all classes and\nshades of opinion in Australia.\nI hope and believe this indicates more than sympathy extended\nfor the death of a very great man.\nI am sure he would be\ngreatly pleased if it indicates, as I believe it does,\ndeep affection on the part of Australians for the people of\nthe United States.\nIf this war results in a better under-\nstanding and closer co-operation among the peoples of the\nthen Mr. Roosevelt will have triumphed, and his labours\nwill not have been in vain.\nAgain my deep appreciation for your sympathy in our\ngreat loss.\nCordially yours,\nBrigadier General, U.S.A.,\nCommanding.\nC & D COY'S 29™H BATT\n8TH F. AMBULANCE\nREQUEST\nварт. CA. IN Fadyeu\nAT THEIR\nPLAIN & FANCY DRESS BALL\nSARS POTERIES\n1-2-19",
+  "source_sha256": "96e46c543ddf1ce9f50111c56f32a9caf93ed51bc01079f8bcc1aacacf27280b",
+  "status": "machine-draft"
+}

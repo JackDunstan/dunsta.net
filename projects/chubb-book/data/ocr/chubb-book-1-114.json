@@ -1,0 +1,282 @@
+{
+  "candidate_names": [
+    "Charles"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.3076700270175934,
+      0.7242374680936337,
+      0.07380060851573944,
+      0.0522020198404789
+    ],
+    [
+      0.4773161709308624,
+      0.717534676194191,
+      0.07547338306903839,
+      0.05338524281978607
+    ],
+    [
+      0.3769654929637909,
+      0.708605770021677,
+      0.05514029413461685,
+      0.03900286182761192
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-114.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3059548322253029,
+        0.12334217491634891,
+        0.2546201133728027,
+        0.010378754950539415
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIAN STEVEDORING INDUSTRY BOARD"
+    },
+    {
+      "box": [
+        0.46593711853278436,
+        0.13870434243497332,
+        0.15231467247009273,
+        0.019102943143836204
+      ],
+      "confidence": 1,
+      "text": "G.P.O. Box 556,"
+    },
+    {
+      "box": [
+        0.46611909706118704,
+        0.1540697677625371,
+        0.06981519222259525,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Sydney."
+    },
+    {
+      "box": [
+        0.4681724860094896,
+        0.16569767432597593,
+        0.1478439426422119,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955."
+    },
+    {
+      "box": [
+        0.25001131649013714,
+        0.21509259705993977,
+        0.1304281044006348,
+        0.014813250297998293
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.3305954838214336,
+        0.24127906999364168,
+        0.25872690200805665,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "I was delighted to read in"
+    },
+    {
+      "box": [
+        0.2525667517554687,
+        0.2528735630462273,
+        0.37576999664306643,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "this morning's paper of the decoration"
+    },
+    {
+      "box": [
+        0.25256674007342766,
+        0.2643678160279257,
+        0.3552361297607422,
+        0.014701951193029528
+      ],
+      "confidence": 1,
+      "text": "which had been conferred upon you in"
+    },
+    {
+      "box": [
+        0.2525667374819765,
+        0.276162790692255,
+        0.2546201133728027,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "the Birthday Honours list."
+    },
+    {
+      "box": [
+        0.3305954852350256,
+        0.2992926611525617,
+        0.26694044113159177,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "I join with all the friends"
+    },
+    {
+      "box": [
+        0.25667351476579525,
+        0.31250000017532775,
+        0.36550308227539063,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "ho will be congratulating you on this"
+    },
+    {
+      "box": [
+        0.2505133511334967,
+        0.3240495137591295,
+        0.2505133438110352,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "very well merited honour."
+    },
+    {
+      "box": [
+        0.5112936337017898,
+        0.3226744187436418,
+        0.11293634414672848,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "I hope that"
+    },
+    {
+      "box": [
+        0.2525667423059294,
+        0.3342175065364159,
+        0.24229978561401372,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "when next you are over I"
+    },
+    {
+      "box": [
+        0.4928131465512598,
+        0.3342175066454276,
+        0.145790548324585,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "shall have the"
+    },
+    {
+      "box": [
+        0.2505133628466345,
+        0.3457117597024001,
+        0.35728950500488277,
+        0.013299867813825417
+      ],
+      "confidence": 1,
+      "text": "pleasure of celebrating it with you."
+    },
+    {
+      "box": [
+        0.3285420970642467,
+        0.37046861166682055,
+        0.17248458862304689,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "With best wishes,"
+    },
+    {
+      "box": [
+        0.40862423663152614,
+        0.39389534902177736,
+        0.16016426086425783,
+        0.01459271458795286
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.41067762140896946,
+        0.415697674177512,
+        0.1745379829406738,
+        0.04796511635750833
+      ],
+      "confidence": 0.5,
+      "text": "grubbertt"
+    },
+    {
+      "box": [
+        0.2505133487577376,
+        0.4809902739829832,
+        0.2895277214050293,
+        0.01610274951506452
+      ],
+      "confidence": 1,
+      "text": "c. H. McFadyen, Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.256673514082115,
+        0.49418604661948096,
+        0.09034907341003418,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "secretary."
+    },
+    {
+      "box": [
+        0.2546201264026179,
+        0.5043604652942065,
+        0.3593429183959961,
+        0.010228393986412732
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping and Transport."
+    },
+    {
+      "box": [
+        0.25236972064882174,
+        0.5144650572776215,
+        0.189305419921875,
+        0.014692045122411401
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.24841830057711312,
+        0.5274508942620215,
+        0.10275272369384769,
+        0.013412165283418931
+      ],
+      "confidence": 1,
+      "text": "Melbourne."
+    },
+    {
+      "box": [
+        0.25233306619014334,
+        0.9547295955689811,
+        0.2736816596984863,
+        0.0199094193894499
+      ],
+      "confidence": 1,
+      "text": "KEITH, BİLL SUNR. ANA MARiE"
+    }
+  ],
+  "text": "AUSTRALIAN STEVEDORING INDUSTRY BOARD\nG.P.O. Box 556,\nSydney.\n9th June, 1955.\nDear Charles,\nI was delighted to read in\nthis morning's paper of the decoration\nwhich had been conferred upon you in\nthe Birthday Honours list.\nI join with all the friends\nho will be congratulating you on this\nvery well merited honour.\nI hope that\nwhen next you are over I\nshall have the\npleasure of celebrating it with you.\nWith best wishes,\nYours sincerely,\ngrubbertt\nc. H. McFadyen, Esq., C.B.E.,\nsecretary.\nDepartment of Shipping and Transport.\n497 Collins Street,\nMelbourne.\nKEITH, BİLL SUNR. ANA MARiE",
+  "source_sha256": "e3aca3e8ab6376521a28687c48a4aeb50c322943f8d7dc501ccc3c8e406b0ee7",
+  "status": "machine-draft"
+}

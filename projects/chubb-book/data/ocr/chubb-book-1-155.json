@@ -1,0 +1,669 @@
+{
+  "candidate_names": [
+    "ANA",
+    "Freda Frog -",
+    "GROS",
+    "HARDY",
+    "Kelvin Club",
+    "NEN",
+    "Ulrich"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-155.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4804928151049437,
+        0.1277630416991763,
+        0.20739219665527342,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "News from the Cactus!"
+    },
+    {
+      "box": [
+        0.4414784399374378,
+        0.1758720936138617,
+        0.4045174407958984,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Having heard that you are laid low in the"
+    },
+    {
+      "box": [
+        0.371663251359862,
+        0.18744473910168447,
+        0.22997945785522456,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "middle of your holiday,"
+    },
+    {
+      "box": [
+        0.6036960972746362,
+        0.18744473910428416,
+        0.2628336715698242,
+        0.011683167660795024
+      ],
+      "confidence": 1,
+      "text": "the Cheer-up Society feels"
+    },
+    {
+      "box": [
+        0.37166324058895556,
+        0.19893899180712493,
+        0.4640657043457031,
+        0.014723798851330239
+      ],
+      "confidence": 1,
+      "text": "that it should go into action and issue a braw,"
+    },
+    {
+      "box": [
+        0.37166325144672113,
+        0.21075581423782774,
+        0.16016426086425778,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "bricht bulletin."
+    },
+    {
+      "box": [
+        0.4435318416542798,
+        0.23546511640249146,
+        0.42299793243408196,
+        0.010335060477151492
+      ],
+      "confidence": 1,
+      "text": "You will probably be delighted to know that"
+    },
+    {
+      "box": [
+        0.37371665483071304,
+        0.2470930233152172,
+        0.46201229095458973,
+        0.00887514657409294
+      ],
+      "confidence": 1,
+      "text": "your brother Scot - young Campbell - misses you"
+    },
+    {
+      "box": [
+        0.4579055490364381,
+        0.2572674420150245,
+        0.39014373779296874,
+        0.01328958735647301
+      ],
+      "confidence": 1,
+      "text": "When we told him the other morning that"
+    },
+    {
+      "box": [
+        0.3737166373682082,
+        0.2703488376874401,
+        0.43326488494873044,
+        0.011702444361544329
+      ],
+      "confidence": 1,
+      "text": "we considered he looked depressed, he stated"
+    },
+    {
+      "box": [
+        0.3737166407220753,
+        0.2819767443094683,
+        0.43326488494873044,
+        0.010242530458485666
+      ],
+      "confidence": 1,
+      "text": "said looks did not belie - he definitely was"
+    },
+    {
+      "box": [
+        0.3716632456304656,
+        0.2936046513407182,
+        0.10061601638793943,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "depressed."
+    },
+    {
+      "box": [
+        0.5092402392619612,
+        0.2921511629452571,
+        0.3593429183959961,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "He gave your absence as the reason -"
+    },
+    {
+      "box": [
+        0.4599589369347875,
+        0.3037135279356613,
+        0.3593429183959961,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "telephone drove him mad he could not"
+    },
+    {
+      "box": [
+        0.3716632508407517,
+        0.31686046535216883,
+        0.3963039016723633,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "visit you for a little light diversion."
+    },
+    {
+      "box": [
+        0.37166324561650754,
+        0.32847038015125807,
+        0.48665298461914064,
+        0.010192410277645836
+      ],
+      "confidence": 1,
+      "text": "pressure could not make him divulge what he meant"
+    },
+    {
+      "box": [
+        0.37371663981146724,
+        0.3386383732733935,
+        0.2176591300964355,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "by \"light diversion\"."
+    },
+    {
+      "box": [
+        0.6036961002951182,
+        0.33996463294754165,
+        0.25462011337280266,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Much study has been given"
+    },
+    {
+      "box": [
+        0.37166324836921866,
+        0.35174418652464956,
+        0.14989732742309575,
+        0.011651039123535156
+      ],
+      "confidence": 1,
+      "text": "to the subject."
+    },
+    {
+      "box": [
+        0.4414784459126203,
+        0.3748894785251944,
+        0.3963039016723633,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "However, things are looking brighter for"
+    },
+    {
+      "box": [
+        0.37166324754217767,
+        0.3866279071001659,
+        0.1314168357849121,
+        0.010365903535635379
+      ],
+      "confidence": 1,
+      "text": "him. He has"
+    },
+    {
+      "box": [
+        0.5010266923141409,
+        0.3866279073579828,
+        0.30595481872558594,
+        0.01169216348258506
+      ],
+      "confidence": 1,
+      "text": "just accused us of telling Miss"
+    },
+    {
+      "box": [
+        0.3716632453925226,
+        0.3982558143831766,
+        0.4948665237426758,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Edmonds that he was a member of the Hawaiian Club!"
+    },
+    {
+      "box": [
+        0.3737166534513186,
+        0.409814323417095,
+        0.4743326187133789,
+        0.011697304132867958
+      ],
+      "confidence": 1,
+      "text": "It appears she desires to learn the steel guitar"
+    },
+    {
+      "box": [
+        0.3716632499452645,
+        0.42130857651040476,
+        0.3778234100341797,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "and was looking to him for assistance."
+    },
+    {
+      "box": [
+        0.37166324561650754,
+        0.43313953500714264,
+        0.48665298461914064,
+        0.010273373938576524
+      ],
+      "confidence": 1,
+      "text": "he was a member of the Kelvin Club if that was of"
+    },
+    {
+      "box": [
+        0.4804928178591312,
+        0.4433139536974373,
+        0.3162217521667481,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "We decided that she had mixed up"
+    },
+    {
+      "box": [
+        0.3737166404198303,
+        0.4562334217706173,
+        0.26694044113159177,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "sporrans with straw skirts."
+    },
+    {
+      "box": [
+        0.6694045149794771,
+        0.4562334215418702,
+        0.18891170501708987,
+        0.010336345534320501
+      ],
+      "confidence": 1,
+      "text": "That made him think"
+    },
+    {
+      "box": [
+        0.37166324639227094,
+        0.4680232561709673,
+        0.4353182601928712,
+        0.011640757822969361
+      ],
+      "confidence": 1,
+      "text": "of a box of matches and that he might change"
+    },
+    {
+      "box": [
+        0.45790553733212647,
+        0.47965116312348677,
+        0.39014373779296874,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "We think he's lapsing in the absence of"
+    },
+    {
+      "box": [
+        0.3716632574869957,
+        0.49115826715298816,
+        0.27104721069335935,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "your restraining influence."
+    },
+    {
+      "box": [
+        0.43737165642863557,
+        0.5145348840537192,
+        0.3901437377929688,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "The cactus garden is still flourishing."
+    },
+    {
+      "box": [
+        0.3716632492386938,
+        0.5274093723407705,
+        0.23203285217285158,
+        0.010381325064877545
+      ],
+      "confidence": 1,
+      "text": "H.C. - not to be outdone"
+    },
+    {
+      "box": [
+        0.6016427141985571,
+        0.5274093721285311,
+        0.24640655517578125,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "by Ulrich's presentation"
+    },
+    {
+      "box": [
+        0.3716632445784449,
+        0.5392441863793007,
+        0.4353182601928711,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "of Freddie and Freda Frog - has added to the"
+    },
+    {
+      "box": [
+        0.37577002542104354,
+        0.550839964422437,
+        0.19301847457885746,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "collection a bridge,"
+    },
+    {
+      "box": [
+        0.5749486662487848,
+        0.5508399645096463,
+        0.2731006050109863,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "a pagoda, Clarence the Crab"
+    },
+    {
+      "box": [
+        0.3737166304425939,
+        0.5623342174420385,
+        0.22587268829345702,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "and Tilly the Tortoise."
+    },
+    {
+      "box": [
+        0.37371663453103454,
+        0.5726744186951921,
+        0.11088294982910152,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "vigorously."
+    },
+    {
+      "box": [
+        0.6324435317178511,
+        0.562500000068916,
+        0.032854208946228036,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "The"
+    },
+    {
+      "box": [
+        0.6714579086335796,
+        0.563953488622695,
+        0.16016426086425783,
+        0.010317068411964558
+      ],
+      "confidence": 1,
+      "text": "aspidistra grows"
+    },
+    {
+      "box": [
+        0.5133470264677137,
+        0.5741279070361474,
+        0.08008213043212886,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Since we"
+    },
+    {
+      "box": [
+        0.5995893208114493,
+        0.5741279072164449,
+        0.21971252441406253,
+        0.010310642704512651
+      ],
+      "confidence": 1,
+      "text": "didn't care whether it"
+    },
+    {
+      "box": [
+        0.3655030850921567,
+        0.5843023257930603,
+        0.25667350769042974,
+        0.011630476944010204
+      ],
+      "confidence": 1,
+      "text": "• lived or died - it would!"
+    },
+    {
+      "box": [
+        0.6940451753846578,
+        0.6220930230759761,
+        0.04517453670501714,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "OVER"
+    },
+    {
+      "box": [
+        0.13916027853008336,
+        0.6740584255386121,
+        0.7463439178466796,
+        0.02897449429323995
+      ],
+      "confidence": 1,
+      "text": "WE NAD A GREAT TRAM OF WORKERS IN MATERIAAS SUPPLY MINISTRY OF MINITIONS"
+    },
+    {
+      "box": [
+        0.10617531806288177,
+        0.6870934265234935,
+        0.7403264617919922,
+        0.035353315709229616
+      ],
+      "confidence": 1,
+      "text": "IGNO MHERE / MAS ATTACHER AS LiAiSON OFFICER BETWeEN THe DEPT. OF"
+    },
+    {
+      "box": [
+        0.10214996143437091,
+        0.7026910669615366,
+        0.7341632080078124,
+        0.03750988448435599
+      ],
+      "confidence": 1,
+      "text": "TRAME ATTA CUSTOMS ArE MUNITIONS. / HAS CONCeRTeR VITY FACILiTATING"
+    },
+    {
+      "box": [
+        0.10419393662523455,
+        0.7218908071008111,
+        0.7544181060791014,
+        0.034186989727745365
+      ],
+      "confidence": 1,
+      "text": "THe PROCUREmEnT FROm OVeRSeAS SOURCeS OF GODS ReQUIRE FOR THe WAR EFFORT."
+    },
+    {
+      "box": [
+        0.11008419062981219,
+        0.7363958729927462,
+        0.7220528411865234,
+        0.035694348295635114
+      ],
+      "confidence": 1,
+      "text": "ANA MA RESTRICTING THe EXPORT OF ESSENTIAL GROS IN SHORT SUPPLY iN"
+    },
+    {
+      "box": [
+        0.11088295798274363,
+        0.7732095489859746,
+        0.13963038444519044,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "THIS COUNTRY."
+    },
+    {
+      "box": [
+        0.18596972098799228,
+        0.7653399378929004,
+        0.6257134628295898,
+        0.03960780945633702
+      ],
+      "confidence": 1,
+      "text": "Key meN FROM OUR MANOR INDUSTRIES WERe ON LOAN FROM THeiR"
+    },
+    {
+      "box": [
+        0.11425176378705175,
+        0.782851848748299,
+        0.7139121246337891,
+        0.038956030821188814
+      ],
+      "confidence": 1,
+      "text": "COmPANieS AS TECHNICAL ARTISeRS TO THe CONTROLLeR OF MATeRIALS. H.C.GReEN."
+    },
+    {
+      "box": [
+        0.11424709645929561,
+        0.7984867650525115,
+        0.7428266143798828,
+        0.04494894214903322
+      ],
+      "confidence": 1,
+      "text": "CAMBRELL GLeN, WHO IS NAMER IN THe ABOYE LETTER, HAS ON LOAN FROM C'HEARTH"
+    },
+    {
+      "box": [
+        0.10976460495966571,
+        0.8141798265825642,
+        0.7082773590087891,
+        0.04625207106693985
+      ],
+      "confidence": 1,
+      "text": "STEEL CO AS CONTRONLTER TOOL STEeL. CAMAME / BECAME FIRM FRIeNTIS"
+    },
+    {
+      "box": [
+        0.11397812462679063,
+        0.8329411867599577,
+        0.7268296051025391,
+        0.04579291103373162
+      ],
+      "confidence": 1,
+      "text": "AAR MANY A HARDY HOUR / SPENT WITH HIM AT THe KELiNChUB OF WHICH"
+    },
+    {
+      "box": [
+        0.12013366290408385,
+        0.8674837111448037,
+        0.27258432388305665,
+        0.02395710915616922
+      ],
+      "confidence": 1,
+      "text": "He WAS A CommITTEE MAN."
+    },
+    {
+      "box": [
+        0.4286707458833061,
+        0.8535619078672924,
+        0.4076661300659179,
+        0.02479726418681527
+      ],
+      "confidence": 1,
+      "text": "ULRICH ELLIS WAS CHIEF CHERIS AOR KePT"
+    },
+    {
+      "box": [
+        0.11406380184260456,
+        0.8691838165377276,
+        0.7265956115722656,
+        0.03911906106613261
+      ],
+      "confidence": 1,
+      "text": "A RemARKABLe COLLECTION OF ORDiTIES, He WAS CLOSeLY ASSOCIATeD MITH"
+    },
+    {
+      "box": [
+        0.11407472271295468,
+        0.8804158257908052,
+        0.7203980255126952,
+        0.05035903957646892
+      ],
+      "confidence": 1,
+      "text": "SIR EARLe PAGE, BOTH MS A COUNTRY PARTY HORNER ARE AS ONE OF THe CHIEN"
+    },
+    {
+      "box": [
+        0.11630005838561892,
+        0.9052099762521979,
+        0.6852790069580077,
+        0.04007068974691408
+      ],
+      "confidence": 1,
+      "text": "SPONSORS OF THE MeN ENGARNE MOreMeNT IN NEN FOR THe CReATION OF A"
+    },
+    {
+      "box": [
+        0.11293634988011035,
+        0.9460654289362254,
+        0.11088294982910156,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "ren. STATe."
+    },
+    {
+      "box": [
+        0.2355472291341571,
+        0.9248574352678857,
+        0.6152824783325195,
+        0.03472062911110363
+      ],
+      "confidence": 1,
+      "text": "ULRICH MARRIER THE RAVENTER OF BRINE GANNERA FC. MHR FOR"
+    },
+    {
+      "box": [
+        0.116892207689197,
+        0.9631902227561252,
+        0.08859751701354981,
+        0.015480019580358717
+      ],
+      "confidence": 0.5,
+      "text": "FAMINER."
+    }
+  ],
+  "text": "News from the Cactus!\nHaving heard that you are laid low in the\nmiddle of your holiday,\nthe Cheer-up Society feels\nthat it should go into action and issue a braw,\nbricht bulletin.\nYou will probably be delighted to know that\nyour brother Scot - young Campbell - misses you\nWhen we told him the other morning that\nwe considered he looked depressed, he stated\nsaid looks did not belie - he definitely was\ndepressed.\nHe gave your absence as the reason -\ntelephone drove him mad he could not\nvisit you for a little light diversion.\npressure could not make him divulge what he meant\nby \"light diversion\".\nMuch study has been given\nto the subject.\nHowever, things are looking brighter for\nhim. He has\njust accused us of telling Miss\nEdmonds that he was a member of the Hawaiian Club!\nIt appears she desires to learn the steel guitar\nand was looking to him for assistance.\nhe was a member of the Kelvin Club if that was of\nWe decided that she had mixed up\nsporrans with straw skirts.\nThat made him think\nof a box of matches and that he might change\nWe think he's lapsing in the absence of\nyour restraining influence.\nThe cactus garden is still flourishing.\nH.C. - not to be outdone\nby Ulrich's presentation\nof Freddie and Freda Frog - has added to the\ncollection a bridge,\na pagoda, Clarence the Crab\nand Tilly the Tortoise.\nvigorously.\nThe\naspidistra grows\nSince we\ndidn't care whether it\n• lived or died - it would!\nOVER\nWE NAD A GREAT TRAM OF WORKERS IN MATERIAAS SUPPLY MINISTRY OF MINITIONS\nIGNO MHERE / MAS ATTACHER AS LiAiSON OFFICER BETWeEN THe DEPT. OF\nTRAME ATTA CUSTOMS ArE MUNITIONS. / HAS CONCeRTeR VITY FACILiTATING\nTHe PROCUREmEnT FROm OVeRSeAS SOURCeS OF GODS ReQUIRE FOR THe WAR EFFORT.\nANA MA RESTRICTING THe EXPORT OF ESSENTIAL GROS IN SHORT SUPPLY iN\nTHIS COUNTRY.\nKey meN FROM OUR MANOR INDUSTRIES WERe ON LOAN FROM THeiR\nCOmPANieS AS TECHNICAL ARTISeRS TO THe CONTROLLeR OF MATeRIALS. H.C.GReEN.\nCAMBRELL GLeN, WHO IS NAMER IN THe ABOYE LETTER, HAS ON LOAN FROM C'HEARTH\nSTEEL CO AS CONTRONLTER TOOL STEeL. CAMAME / BECAME FIRM FRIeNTIS\nAAR MANY A HARDY HOUR / SPENT WITH HIM AT THe KELiNChUB OF WHICH\nHe WAS A CommITTEE MAN.\nULRICH ELLIS WAS CHIEF CHERIS AOR KePT\nA RemARKABLe COLLECTION OF ORDiTIES, He WAS CLOSeLY ASSOCIATeD MITH\nSIR EARLe PAGE, BOTH MS A COUNTRY PARTY HORNER ARE AS ONE OF THe CHIEN\nSPONSORS OF THE MeN ENGARNE MOreMeNT IN NEN FOR THe CReATION OF A\nren. STATe.\nULRICH MARRIER THE RAVENTER OF BRINE GANNERA FC. MHR FOR\nFAMINER.",
+  "source_sha256": "8b53fec9da06796e264a369d1d7800bd46a4ab784a60f062c417783f3ad353ea",
+  "status": "machine-draft"
+}

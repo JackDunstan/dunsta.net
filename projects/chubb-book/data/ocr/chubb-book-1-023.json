@@ -1,0 +1,473 @@
+{
+  "candidate_names": [
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-023.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2196898545317932,
+        0.13948134333197637,
+        0.061646986007690446,
+        0.013188475955386414
+      ],
+      "confidence": 1,
+      "text": "JMR. CO"
+    },
+    {
+      "box": [
+        0.11498973386756434,
+        0.1540697674043645,
+        0.030800819396972656,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "379B."
+    },
+    {
+      "box": [
+        0.6981519528144539,
+        0.16133720926742945,
+        0.11909650802612304,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "IN REPLY PLEASE QUOTE"
+    },
+    {
+      "box": [
+        0.16218675840516028,
+        0.17722389740271538,
+        0.04728972911834717,
+        0.007470809707169401
+      ],
+      "confidence": 1,
+      "text": "PATRONS"
+    },
+    {
+      "box": [
+        0.11088296096333228,
+        0.18604651179977827,
+        0.1498973274230957,
+        0.010239960344147647
+      ],
+      "confidence": 1,
+      "text": "The Hon. the Premier of N.S.W."
+    },
+    {
+      "box": [
+        0.11088295696607027,
+        0.19622093047225886,
+        0.1498973274230957,
+        0.01023353463669574
+      ],
+      "confidence": 1,
+      "text": "The Rt. Hon. the Lord Mayor of"
+    },
+    {
+      "box": [
+        0.16632443594566312,
+        0.2049418604276203,
+        0.03696098327636718,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Sydney."
+    },
+    {
+      "box": [
+        0.15811088395438483,
+        0.21802325576088866,
+        0.05338809013366699,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "PRESIDENT"
+    },
+    {
+      "box": [
+        0.12114989829162028,
+        0.22674418611802727,
+        0.12936345100402835,
+        0.008887997988996865
+      ],
+      "confidence": 1,
+      "text": "The Hon. the Minister for"
+    },
+    {
+      "box": [
+        0.16193220352003126,
+        0.23596780797999073,
+        0.047810187339782734,
+        0.0075629712415943295
+      ],
+      "confidence": 1,
+      "text": "Transport."
+    },
+    {
+      "box": [
+        0.12114989935533764,
+        0.24709302321831794,
+        0.12936344146728512,
+        0.00887514657409294
+      ],
+      "confidence": 1,
+      "text": "EXECUTIVE VICE-PRESIDENT"
+    },
+    {
+      "box": [
+        0.12731006727306193,
+        0.2572674419198684,
+        0.1170431137084961,
+        0.008868720866640922
+      ],
+      "confidence": 1,
+      "text": "Superintendent of Motor"
+    },
+    {
+      "box": [
+        0.16221765833076934,
+        0.26453488368343425,
+        0.04722792625427244,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Transport."
+    },
+    {
+      "box": [
+        0.15811088373193447,
+        0.2776162790348713,
+        0.05338809013366699,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "SECRETARY"
+    },
+    {
+      "box": [
+        0.13957748699019845,
+        0.2861137452692264,
+        0.08429471969604493,
+        0.010621346592586955
+      ],
+      "confidence": 1,
+      "text": "J. P.M. Reid Esq."
+    },
+    {
+      "box": [
+        0.1745379901473779,
+        0.31520778111721437,
+        0.2710472297668457,
+        0.014734079308682646
+      ],
+      "confidence": 1,
+      "text": "C.H. McFadyen, Esq. C.B.E.,"
+    },
+    {
+      "box": [
+        0.17864476486482403,
+        0.3270348840052696,
+        0.09445585250854491,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.17837672416314782,
+        0.33717773439305165,
+        0.2551288223266602,
+        0.014016192745677558
+      ],
+      "confidence": 1,
+      "text": "Commonwealth Department of"
+    },
+    {
+      "box": [
+        0.1868583263164167,
+        0.3501326264064968,
+        0.2279260635375977,
+        0.014692954949632853
+      ],
+      "confidence": 1,
+      "text": "Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.18685832054007,
+        0.3619186046661571,
+        0.1868583106994629,
+        0.014739220380572293
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.17453798870541426,
+        0.3735465115643479,
+        0.10061601638793943,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.2854209525104015,
+        0.2107558139304152,
+        0.3675564575195313,
+        0.014708377322088184
+      ],
+      "confidence": 1,
+      "text": "ROAD SAFETY COUNCIL OF NEW SOUTH WALES"
+    },
+    {
+      "box": [
+        0.39425051291914043,
+        0.23110465169889083,
+        0.14784394264221196,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "99 Macquarie Street"
+    },
+    {
+      "box": [
+        0.435318276047884,
+        0.24563953510462622,
+        0.05954825401306152,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "Sydney"
+    },
+    {
+      "box": [
+        0.7022587313768202,
+        0.21075581390042353,
+        0.09240245819091797,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "TELEPHONE: B 0543"
+    },
+    {
+      "box": [
+        0.7022587270488566,
+        0.21794871795275872,
+        0.11498972892761228,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "TELEGRAMS: \" ROSAFE \""
+    },
+    {
+      "box": [
+        0.698151955629597,
+        0.2499999999651038,
+        0.11088294982910163,
+        0.007294429708222805
+      ],
+      "confidence": 1,
+      "text": "ADDRESS ALL MAIL TO"
+    },
+    {
+      "box": [
+        0.691991789432596,
+        0.2586206895086747,
+        0.06160163879394531,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "The Secretary,"
+    },
+    {
+      "box": [
+        0.6919917910270935,
+        0.2659883722008761,
+        0.12731005668640138,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Road Safety Council of N.S.W."
+    },
+    {
+      "box": [
+        0.689938399288859,
+        0.27453580915987563,
+        0.06160163879394531,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "Box 28 G.P.O."
+    },
+    {
+      "box": [
+        0.6898987562056726,
+        0.2818573738421112,
+        0.04320043563842768,
+        0.007506182507853176
+      ],
+      "confidence": 1,
+      "text": "SYDNEY."
+    },
+    {
+      "box": [
+        0.6857415671509287,
+        0.3107217495519443,
+        0.10284951210021975,
+        0.015184406681887141
+      ],
+      "confidence": 1,
+      "text": "9 - JUN 1955"
+    },
+    {
+      "box": [
+        0.1741943316135294,
+        0.44701834824653486,
+        0.17947525024414065,
+        0.016863132345265264
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.2914035401714976,
+        0.47230008874870066,
+        0.5342756652832031,
+        0.01712503441659663
+      ],
+      "confidence": 1,
+      "text": "It was with considerable delight that I read your name"
+    },
+    {
+      "box": [
+        0.17421991523833769,
+        0.48185610059691464,
+        0.3250846862792969,
+        0.017005860542007367
+      ],
+      "confidence": 1,
+      "text": "in the honours list this morning."
+    },
+    {
+      "box": [
+        0.5194149218526216,
+        0.48663186842209094,
+        0.06178617477416992,
+        0.010747890995204346
+      ],
+      "confidence": 1,
+      "text": "Please"
+    },
+    {
+      "box": [
+        0.5831622204107767,
+        0.48837209350139366,
+        0.19301847457885735,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "accept my heartiest"
+    },
+    {
+      "box": [
+        0.17437060929302534,
+        0.49368824489651186,
+        0.6410699462890626,
+        0.019515051871248246
+      ],
+      "confidence": 1,
+      "text": "congratulations. I am certain that the honour was well deserved."
+    },
+    {
+      "box": [
+        0.2915811124526506,
+        0.5203359859633976,
+        0.20739219665527342,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "With every best wish."
+    },
+    {
+      "box": [
+        0.4981368832490898,
+        0.5409814500024174,
+        0.1558745002746582,
+        0.020416010174468813
+      ],
+      "confidence": 1,
+      "text": "Your sincerely,"
+    },
+    {
+      "box": [
+        0.09240249392735528,
+        0.7921511630168975,
+        0.7145790100097658,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "PREVENT ROAD ACCIDENTS-USE CARE, COURTESY AND COMMONSENSE ON THE ROADS"
+    },
+    {
+      "box": [
+        0.7741273112204048,
+        0.8124999999287665,
+        0.030800819396972656,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "St. 857"
+    },
+    {
+      "box": [
+        0.6550308017640113,
+        0.8603006188841572,
+        0.20123203277587887,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "THE MFARYER FAMILY"
+    },
+    {
+      "box": [
+        0.6939068211964542,
+        0.8802343215120523,
+        0.12964015960693354,
+        0.017147635064432842
+      ],
+      "confidence": 1,
+      "text": "TELOPER PARI"
+    },
+    {
+      "box": [
+        0.7268993817962293,
+        0.9026162790934179,
+        0.10472279548645025,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "CANBERRA"
+    },
+    {
+      "box": [
+        0.7638603700192246,
+        0.9200581401202901,
+        0.0513347005844117,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "1929"
+    }
+  ],
+  "text": "JMR. CO\n379B.\nIN REPLY PLEASE QUOTE\nPATRONS\nThe Hon. the Premier of N.S.W.\nThe Rt. Hon. the Lord Mayor of\nSydney.\nPRESIDENT\nThe Hon. the Minister for\nTransport.\nEXECUTIVE VICE-PRESIDENT\nSuperintendent of Motor\nTransport.\nSECRETARY\nJ. P.M. Reid Esq.\nC.H. McFadyen, Esq. C.B.E.,\nSecretary,\nCommonwealth Department of\nShipping and Transport,\n497 Collins Street,\nMELBOURNE.\nROAD SAFETY COUNCIL OF NEW SOUTH WALES\n99 Macquarie Street\nSydney\nTELEPHONE: B 0543\nTELEGRAMS: \" ROSAFE \"\nADDRESS ALL MAIL TO\nThe Secretary,\nRoad Safety Council of N.S.W.\nBox 28 G.P.O.\nSYDNEY.\n9 - JUN 1955\nDear Mr. McFadyen,\nIt was with considerable delight that I read your name\nin the honours list this morning.\nPlease\naccept my heartiest\ncongratulations. I am certain that the honour was well deserved.\nWith every best wish.\nYour sincerely,\nPREVENT ROAD ACCIDENTS-USE CARE, COURTESY AND COMMONSENSE ON THE ROADS\nSt. 857\nTHE MFARYER FAMILY\nTELOPER PARI\nCANBERRA\n1929",
+  "source_sha256": "d521ef0c4c5cd0d182b574cbc5b5203b7d29ccd254e97c06161d2e7c0e7fc769",
+  "status": "machine-draft"
+}

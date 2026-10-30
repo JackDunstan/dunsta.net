@@ -1,0 +1,303 @@
+{
+  "candidate_names": [
+    "Euston"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-049.jpg",
+  "lines": [
+    {
+      "box": [
+        0.1868583198037149,
+        0.4796511628656698,
+        0.07392196655273439,
+        0.010180844341517559
+      ],
+      "confidence": 1,
+      "text": "CHA RAES"
+    },
+    {
+      "box": [
+        0.2648870744813076,
+        0.4752431478559189,
+        0.316221752166748,
+        0.011675456474567358
+      ],
+      "confidence": 0.5,
+      "text": "MOPACTER AMA STENART STRAWBRIRGE."
+    },
+    {
+      "box": [
+        0.5872689946370844,
+        0.4752906976213538,
+        0.032854208946228036,
+        0.007267441821245946
+      ],
+      "confidence": 0.5,
+      "text": "cor"
+    },
+    {
+      "box": [
+        0.628336755685142,
+        0.47529069774853394,
+        0.02258726835250846,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "ER"
+    },
+    {
+      "box": [
+        0.6570841922971763,
+        0.4723837209411862,
+        0.10266940116882328,
+        0.008720930016852368
+      ],
+      "confidence": 0.5,
+      "text": "RHER P.C.T."
+    },
+    {
+      "box": [
+        0.5110884383241625,
+        0.5564645878536001,
+        0.2920354652404785,
+        0.01867165215557176
+      ],
+      "confidence": 1,
+      "text": "NOVEMENTS & QUATERING BRANCH"
+    },
+    {
+      "box": [
+        0.5749486627549732,
+        0.5813439434590607,
+        0.18891170501708987,
+        0.01458885941644572
+      ],
+      "confidence": 1,
+      "text": "20, Belerove Snuare"
+    },
+    {
+      "box": [
+        0.6303404656150202,
+        0.5928813735601888,
+        0.06580777645111091,
+        0.011911671315538053
+      ],
+      "confidence": 1,
+      "text": "TONDON"
+    },
+    {
+      "box": [
+        0.7104722794508743,
+        0.5930232560401534,
+        0.0616016435623169,
+        0.011627906408065436
+      ],
+      "confidence": 0.5,
+      "text": "8.W.I."
+    },
+    {
+      "box": [
+        0.5708418887279653,
+        0.6090116283075951,
+        0.12936345100402835,
+        0.011678027010512126
+      ],
+      "confidence": 1,
+      "text": "23rd May 1919"
+    },
+    {
+      "box": [
+        0.23819302336765547,
+        0.6220159150372289,
+        0.1930184745788574,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "8th Fla Amb. A.I.F"
+    },
+    {
+      "box": [
+        0.13515001435529014,
+        0.6827614005747241,
+        0.35591590881347657,
+        0.02238899959493379
+      ],
+      "confidence": 1,
+      "text": "proctoy the train leaving Euston"
+    },
+    {
+      "box": [
+        0.135523621515375,
+        0.7033598586150338,
+        0.24229978561401366,
+        0.01902386237835063
+      ],
+      "confidence": 0.5,
+      "text": "caveyda the Drensport"
+    },
+    {
+      "box": [
+        0.32848811477210815,
+        0.7018547106398616,
+        0.08635025978088379,
+        0.013441741835428123
+      ],
+      "confidence": 1,
+      "text": "Liver pool"
+    },
+    {
+      "box": [
+        0.6468172496826767,
+        0.6728558799609321,
+        0.14579054832458493,
+        0.010283654817535681
+      ],
+      "confidence": 1,
+      "text": "are renuired to"
+    },
+    {
+      "box": [
+        0.5770020583680597,
+        0.6845930234917037,
+        0.16837781906127935,
+        0.011693448539754181
+      ],
+      "confidence": 1,
+      "text": "statin et 11.45"
+    },
+    {
+      "box": [
+        0.5459442928972945,
+        0.6933903509626916,
+        0.24696765899658202,
+        0.015685643062035015
+      ],
+      "confidence": 1,
+      "text": "where you will be met and"
+    },
+    {
+      "box": [
+        0.2914826091606393,
+        0.7276715252915711,
+        0.37596206665039056,
+        0.016721260853302722
+      ],
+      "confidence": 1,
+      "text": "You must not under apy circumstances,"
+    },
+    {
+      "box": [
+        0.6694045202485072,
+        0.7281167107173059,
+        0.18480491638183594,
+        0.011708870490602874
+      ],
+      "confidence": 1,
+      "text": "without permission"
+    },
+    {
+      "box": [
+        0.12936345415635622,
+        0.744031830342539,
+        0.2443531799316406,
+        0.014689099778125603
+      ],
+      "confidence": 0.5,
+      "text": "frog these Hondarerters,"
+    },
+    {
+      "box": [
+        0.3839835780576564,
+        0.7412790703580477,
+        0.3901437377929688,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "travel to the Poru of pharkemon on any"
+    },
+    {
+      "box": [
+        0.12934587558256994,
+        0.7525327781677232,
+        0.6037312316894531,
+        0.015283281037914875
+      ],
+      "confidence": 1,
+      "text": "othon trein then that on higi you ene instructed to proceed."
+    },
+    {
+      "box": [
+        0.30595482414569586,
+        0.7745358088668902,
+        0.4579055404663086,
+        0.014708377322088184
+      ],
+      "confidence": 1,
+      "text": "Immediatoly after receipt of theca instruotions"
+    },
+    {
+      "box": [
+        0.13963039671612043,
+        0.7891246680347395,
+        0.5790554428100587,
+        0.014654401548134355
+      ],
+      "confidence": 0.5,
+      "text": "on t to than Hat ture sat tor too purpose"
+    },
+    {
+      "box": [
+        0.13963039960587204,
+        0.8008720932686582,
+        0.28542093276977537,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "having your Pay Beok endied."
+    },
+    {
+      "box": [
+        0.30390144803817276,
+        0.8212209304840167,
+        0.4825461959838867,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "The necesary Railway Warrant for gour journey is"
+    },
+    {
+      "box": [
+        0.1457905578746944,
+        0.8372093024671717,
+        0.14989732742309572,
+        0.010270803824238395
+      ],
+      "confidence": 1,
+      "text": "stached hereto."
+    },
+    {
+      "box": [
+        0.5133470248845956,
+        0.9127906978497462,
+        0.06981519222259513,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Dest. 01"
+    },
+    {
+      "box": [
+        0.6016427121701959,
+        0.8982558146333716,
+        0.22381929397583,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "ond tunetoring Branch."
+    }
+  ],
+  "text": "CHA RAES\nMOPACTER AMA STENART STRAWBRIRGE.\ncor\nER\nRHER P.C.T.\nNOVEMENTS & QUATERING BRANCH\n20, Belerove Snuare\nTONDON\n8.W.I.\n23rd May 1919\n8th Fla Amb. A.I.F\nproctoy the train leaving Euston\ncaveyda the Drensport\nLiver pool\nare renuired to\nstatin et 11.45\nwhere you will be met and\nYou must not under apy circumstances,\nwithout permission\nfrog these Hondarerters,\ntravel to the Poru of pharkemon on any\nothon trein then that on higi you ene instructed to proceed.\nImmediatoly after receipt of theca instruotions\non t to than Hat ture sat tor too purpose\nhaving your Pay Beok endied.\nThe necesary Railway Warrant for gour journey is\nstached hereto.\nDest. 01\nond tunetoring Branch.",
+  "source_sha256": "ca0f480e9e9fed179c8226522fcf15aeea0ebfca7ddc64d4b34b8f564530770b",
+  "status": "machine-draft"
+}

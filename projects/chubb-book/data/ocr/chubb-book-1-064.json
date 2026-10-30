@@ -1,0 +1,295 @@
+{
+  "candidate_names": [
+    "Angel",
+    "Cupid",
+    "Pat"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-064.jpg",
+  "lines": [
+    {
+      "box": [
+        0.40246406938660784,
+        0.12936046497381226,
+        0.23819301605224608,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "Why Call us \"Gentlemen\"."
+    },
+    {
+      "box": [
+        0.22587269421935754,
+        0.15406976767775027,
+        0.12114989280700686,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "\"Gentlemen\":"
+    },
+    {
+      "box": [
+        0.34907597016922426,
+        0.15406976772879954,
+        0.3901437377929687,
+        0.010386465715160442
+      ],
+      "confidence": 1,
+      "text": "Is it suffice to call each other thus?"
+    },
+    {
+      "box": [
+        0.22581662306866476,
+        0.17581272366041323,
+        0.47239185333251954,
+        0.014726294762892111
+      ],
+      "confidence": 1,
+      "text": "Men, who for many years did love and also cuss',"
+    },
+    {
+      "box": [
+        0.22787445287844058,
+        0.19887256323693048,
+        0.5791576766967774,
+        0.014875290564580035
+      ],
+      "confidence": 1,
+      "text": "We, for our country's sake, sharld danger, work and ration,"
+    },
+    {
+      "box": [
+        0.22587271013269627,
+        0.22236958461271894,
+        0.6016426849365234,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Some just for passion's mood did berth with dames of fashion,"
+    },
+    {
+      "box": [
+        0.22582080663753787,
+        0.24531321603632406,
+        0.5812298202514649,
+        0.016011357834442408
+      ],
+      "confidence": 1,
+      "text": "Boys, food for sergeant's whim, endured fatigue and curses,"
+    },
+    {
+      "box": [
+        0.225779674826708,
+        0.26779645698400323,
+        0.5812903594970703,
+        0.01635405323760475
+      ],
+      "confidence": 1,
+      "text": "Few, struck by Cupid's dart, did woo, and win their nurses,"
+    },
+    {
+      "box": [
+        0.22587271947045268,
+        0.2906976742155758,
+        0.6221765518188476,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "Most lured by city lights, broke camp and crawled back \"tight\","
+    },
+    {
+      "box": [
+        0.22785782419701492,
+        0.3153263963231614,
+        0.5607193756103516,
+        0.015602197824169495
+      ],
+      "confidence": 1,
+      "text": "Some, caught and fined in francs, repeated it next night,"
+    },
+    {
+      "box": [
+        0.22792607664712208,
+        0.3372093025464866,
+        0.5605749511718751,
+        0.014691669892463732
+      ],
+      "confidence": 1,
+      "text": "Ten rushed to church parade, the rest to Angel's \"chips\","
+    },
+    {
+      "box": [
+        0.227801342808648,
+        0.3603189068165482,
+        0.6306302261352539,
+        0.018527159113255753
+      ],
+      "confidence": 1,
+      "text": "Few pulled the strings right hard, result \"Sambrown\" and \"Pips\","
+    },
+    {
+      "box": [
+        0.22792610321196946,
+        0.3850574711617045,
+        0.6509239959716797,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "Scores witnessed \"fight de luxe\" twixt two with Non-com's stripes,"
+    },
+    {
+      "box": [
+        0.2278152344415531,
+        0.4068364398222365,
+        0.5915785598754884,
+        0.017931749291592802
+      ],
+      "confidence": 1,
+      "text": "All swore at bully beef, tho! Pat's worst word was \"cripes\","
+    },
+    {
+      "box": [
+        0.22792608296416028,
+        0.4331395352017977,
+        0.5420944595336915,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "None will forget the few, whom death from us did sever,"
+    },
+    {
+      "box": [
+        0.22792607939926868,
+        0.45623342175711645,
+        0.5236139678955078,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Lads, whom we loved and lost, we honor now, and ever."
+    },
+    {
+      "box": [
+        0.22782941649789948,
+        0.4779408775666616,
+        0.5525372314453125,
+        0.016345530880119474
+      ],
+      "confidence": 1,
+      "text": "Years pass and still we meet, our friendshir never dies,"
+    },
+    {
+      "box": [
+        0.22997947685208459,
+        0.5013262598563888,
+        0.5503079986572266,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Cur love was sown in grief, was tended well and thrives,"
+    },
+    {
+      "box": [
+        0.22997948567568544,
+        0.5247093022329526,
+        0.6201231765747071,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Don't lotis say - \"Gentleman\". That term I fain would smother,"
+    },
+    {
+      "box": [
+        0.22792607616570898,
+        0.5477453580535663,
+        0.5626283264160157,
+        0.013301153292601064
+      ],
+      "confidence": 1,
+      "text": "The family was the C.C.S., Can we say aught, but brother?"
+    },
+    {
+      "box": [
+        0.20944558878784414,
+        0.6030061893662665,
+        0.6940451812744142,
+        0.013272880348455085
+      ],
+      "confidence": 1,
+      "text": "THE ABOVE HAS BEEN ATTRIBUTRA TO NORMAN HELSINSOr, AN ON WESLEY COLLEGIAN"
+    },
+    {
+      "box": [
+        0.180535880502902,
+        0.6190480195697265,
+        0.4049118423461914,
+        0.016471282662173237
+      ],
+      "confidence": 1,
+      "text": "WHO LEFT THE COS. IN FRANCE FOR AT OFFICERS"
+    },
+    {
+      "box": [
+        0.5852156107128479,
+        0.6175950487993773,
+        0.3367556381225586,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "SCHOOL IN ENGARNA ANTA MAYING GRARVATED"
+    },
+    {
+      "box": [
+        0.18234610054485728,
+        0.6243936313644187,
+        0.7850246429443359,
+        0.028025823604944655
+      ],
+      "confidence": 1,
+      "text": "WAS APPOINT TO GIN MACHINE qUR CO AND SAM DISTINGUISHeR SERVICE MEAR MORTBRENAIN DO 1918."
+    },
+    {
+      "box": [
+        0.19659671096637638,
+        0.6362989927380371,
+        0.7154313659667968,
+        0.02963340651346036
+      ],
+      "confidence": 1,
+      "text": "See PAGElOSS VOL. YI. THe ALF IN FRANCE BY CEMBERN. / HAS ONE OF THE PRINCIPRAS IN THE"
+    },
+    {
+      "box": [
+        0.18455266417261115,
+        0.655167213819365,
+        0.5466300582885741,
+        0.023968557464032925
+      ],
+      "confidence": 1,
+      "text": "FIGHT DE LUNE MENTIONeD IN MNe 11 BUT THAT IS ANOTHER STORY. HiZ"
+    },
+    {
+      "box": [
+        0.39835730845199036,
+        0.9358974360026892,
+        0.5708418655395509,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "THE SRNITARY SQUAD 2 ARCS. TROIS ARBReS STeerweRCK FRAnce 19%"
+    },
+    {
+      "box": [
+        0.28503724134327885,
+        0.9485534480075302,
+        0.5325539779663087,
+        0.022890079137395714
+      ],
+      "confidence": 1,
+      "text": "JOCK DEVILLE, JACI PIKE, GOOFA HODGSON, WANNO WALTON, JACK FaDY."
+    }
+  ],
+  "text": "Why Call us \"Gentlemen\".\n\"Gentlemen\":\nIs it suffice to call each other thus?\nMen, who for many years did love and also cuss',\nWe, for our country's sake, sharld danger, work and ration,\nSome just for passion's mood did berth with dames of fashion,\nBoys, food for sergeant's whim, endured fatigue and curses,\nFew, struck by Cupid's dart, did woo, and win their nurses,\nMost lured by city lights, broke camp and crawled back \"tight\",\nSome, caught and fined in francs, repeated it next night,\nTen rushed to church parade, the rest to Angel's \"chips\",\nFew pulled the strings right hard, result \"Sambrown\" and \"Pips\",\nScores witnessed \"fight de luxe\" twixt two with Non-com's stripes,\nAll swore at bully beef, tho! Pat's worst word was \"cripes\",\nNone will forget the few, whom death from us did sever,\nLads, whom we loved and lost, we honor now, and ever.\nYears pass and still we meet, our friendshir never dies,\nCur love was sown in grief, was tended well and thrives,\nDon't lotis say - \"Gentleman\". That term I fain would smother,\nThe family was the C.C.S., Can we say aught, but brother?\nTHE ABOVE HAS BEEN ATTRIBUTRA TO NORMAN HELSINSOr, AN ON WESLEY COLLEGIAN\nWHO LEFT THE COS. IN FRANCE FOR AT OFFICERS\nSCHOOL IN ENGARNA ANTA MAYING GRARVATED\nWAS APPOINT TO GIN MACHINE qUR CO AND SAM DISTINGUISHeR SERVICE MEAR MORTBRENAIN DO 1918.\nSee PAGElOSS VOL. YI. THe ALF IN FRANCE BY CEMBERN. / HAS ONE OF THE PRINCIPRAS IN THE\nFIGHT DE LUNE MENTIONeD IN MNe 11 BUT THAT IS ANOTHER STORY. HiZ\nTHE SRNITARY SQUAD 2 ARCS. TROIS ARBReS STeerweRCK FRAnce 19%\nJOCK DEVILLE, JACI PIKE, GOOFA HODGSON, WANNO WALTON, JACK FaDY.",
+  "source_sha256": "bc5abbad6e13d08002947d38e754fa77b0bc03c41d46e8f75fa91395f51548c1",
+  "status": "machine-draft"
+}

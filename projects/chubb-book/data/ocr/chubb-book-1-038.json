@@ -1,0 +1,94 @@
+{
+  "candidate_names": [
+    "CISSY HOWARD",
+    "DORIS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-038.jpg",
+  "lines": [
+    {
+      "box": [
+        0.48442287869769646,
+        0.19134603453196586,
+        0.09070249557495119,
+        0.01701723296066815
+      ],
+      "confidence": 1,
+      "text": "ShADYS -"
+    },
+    {
+      "box": [
+        0.13552361462611023,
+        0.6845930237555768,
+        0.19917863845825196,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "MAURE ON THE SANAS"
+    },
+    {
+      "box": [
+        0.16766503078578146,
+        0.6957084617718811,
+        0.16964675903320312,
+        0.021841286980505026
+      ],
+      "confidence": 1,
+      "text": "BLACK ROCK 16-12-11"
+    },
+    {
+      "box": [
+        0.3921971261517177,
+        0.7165697676680604,
+        0.13552361488342285,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "MALUE PISE ANG"
+    },
+    {
+      "box": [
+        0.7142468827820184,
+        0.7095690209271487,
+        0.16902521133422854,
+        0.013605450867130942
+      ],
+      "confidence": 1,
+      "text": "MAUDE AND A FRIEN"
+    },
+    {
+      "box": [
+        0.15780060666468232,
+        0.922488193490427,
+        0.2552849769592285,
+        0.01827526851421324
+      ],
+      "confidence": 1,
+      "text": "CISSY HOWARA, DORIS. CHAS. + Rose"
+    },
+    {
+      "box": [
+        0.1823276820184476,
+        0.940154673259301,
+        0.210936450958252,
+        0.024056604117234204
+      ],
+      "confidence": 1,
+      "text": "ON THe BANK OF THe HARRA'"
+    },
+    {
+      "box": [
+        0.6193340626422984,
+        0.9230341287060334,
+        0.2744574165344239,
+        0.024981244067825314
+      ],
+      "confidence": 1,
+      "text": "DORIS MOF AND CISSY HOWARD"
+    }
+  ],
+  "text": "ShADYS -\nMAURE ON THE SANAS\nBLACK ROCK 16-12-11\nMALUE PISE ANG\nMAUDE AND A FRIEN\nCISSY HOWARA, DORIS. CHAS. + Rose\nON THe BANK OF THe HARRA'\nDORIS MOF AND CISSY HOWARD",
+  "source_sha256": "90733e53e59f27011283003b04d4da45b33c94589c167d3409983eaa41269b5e",
+  "status": "machine-draft"
+}

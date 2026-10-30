@@ -1,0 +1,358 @@
+{
+  "candidate_names": [
+    "Das",
+    "ED",
+    "SAM",
+    "TER",
+    "VERS RISO",
+    "VICTORIAN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-083.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4156256180878809,
+        0.07763187822123141,
+        0.22421228408813476,
+        0.039004537513253945
+      ],
+      "confidence": 1,
+      "text": "Drumbaner"
+    },
+    {
+      "box": [
+        0.5189925202575014,
+        0.11952594455814258,
+        0.14090528488159182,
+        0.02601943618949798
+      ],
+      "confidence": 1,
+      "text": "2: 64951"
+    },
+    {
+      "box": [
+        0.11942556231511837,
+        0.1335018504669141,
+        0.3793801498413086,
+        0.04946509849487635
+      ],
+      "confidence": 1,
+      "text": "Dear dul diC. Fadyen •"
+    },
+    {
+      "box": [
+        0.1954114107291302,
+        0.15861308062651602,
+        0.4877295303344727,
+        0.05300875662914106
+      ],
+      "confidence": 0.5,
+      "text": "9 have been wantiq louike"
+    },
+    {
+      "box": [
+        0.7117205648100594,
+        0.1753846013842486,
+        0.23393270492553708,
+        0.023526516348571613
+      ],
+      "confidence": 1,
+      "text": "THIS LETTER WAS FROM THE"
+    },
+    {
+      "box": [
+        0.6972975556254707,
+        0.19146854608063735,
+        0.28928457260131835,
+        0.025352946853974934
+      ],
+      "confidence": 1,
+      "text": "WiROW OF CAPTAIN TER. WODQWARA 4"
+    },
+    {
+      "box": [
+        0.12065858737556276,
+        0.2362662823793542,
+        0.5481521606445313,
+        0.05864593141591201
+      ],
+      "confidence": 1,
+      "text": "Ce you of his de all on COclaha"
+    },
+    {
+      "box": [
+        0.6911028046473686,
+        0.21134410612927512,
+        0.25240705490112303,
+        0.02503459080460857
+      ],
+      "confidence": 1,
+      "text": "TER = / WERE FRIENES IN THE"
+    },
+    {
+      "box": [
+        0.6993285361377594,
+        0.22769144772461147,
+        0.26468269348144524,
+        0.02580804259876146
+      ],
+      "confidence": 1,
+      "text": "8 FIELA AmBULANCE. / HAGI SENT"
+    },
+    {
+      "box": [
+        0.14153663678023043,
+        0.273804629711794,
+        0.166748046875,
+        0.021037114393805956
+      ],
+      "confidence": 0.5,
+      "text": "Sl Caso ."
+    },
+    {
+      "box": [
+        0.11354819144329803,
+        0.28058339438116386,
+        0.5717636108398438,
+        0.058365084026684055
+      ],
+      "confidence": 1,
+      "text": "No had a long luess 4 dye"
+    },
+    {
+      "box": [
+        0.6944692612316068,
+        0.2396625953674073,
+        0.2720335960388184,
+        0.036586876151627146
+      ],
+      "confidence": 1,
+      "text": "HOM A CARE AT CHRiSTmAS BUT"
+    },
+    {
+      "box": [
+        0.6904615504147358,
+        0.26049099644557405,
+        0.2964011573791504,
+        0.0316509243453319
+      ],
+      "confidence": 1,
+      "text": "HE HAG PASSER ON UNKNONN TO MIE."
+    },
+    {
+      "box": [
+        0.11794932629837306,
+        0.3157762650018454,
+        0.5439235305786133,
+        0.04144885116293828
+      ],
+      "confidence": 1,
+      "text": "havia to fire up his general"
+    },
+    {
+      "box": [
+        0.6928527607460083,
+        0.28429230161193364,
+        0.23498413085937497,
+        0.03070368880618468
+      ],
+      "confidence": 1,
+      "text": "ED WAS THE ROYEN OF THE"
+    },
+    {
+      "box": [
+        0.11674924751342715,
+        0.3392709997957164,
+        0.5388314819335938,
+        0.0402447627140925
+      ],
+      "confidence": 1,
+      "text": "practice - Inh camid a vil-le"
+    },
+    {
+      "box": [
+        0.6888866651118439,
+        0.29543724496616575,
+        0.2884389114379883,
+        0.03936106498846437
+      ],
+      "confidence": 1,
+      "text": "MEDICAL FRATERNITY IN GRAFTON."
+    },
+    {
+      "box": [
+        0.6883415275683268,
+        0.31483826132168735,
+        0.27648036956787114,
+        0.03187921593191356
+      ],
+      "confidence": 1,
+      "text": "HE VERS RISO CHAIRMAN OF THIS"
+    },
+    {
+      "box": [
+        0.6883024820580316,
+        0.32906943502489794,
+        0.28074548721313475,
+        0.037028207281434744
+      ],
+      "confidence": 1,
+      "text": "GRAFTON dOCKEY CLUB. HIS SON"
+    },
+    {
+      "box": [
+        0.6882940235832646,
+        0.34950219311113906,
+        0.2576065635681152,
+        0.03291496189161269
+      ],
+      "confidence": 1,
+      "text": "WAS A MAN. RHORES SCHOLAR."
+    },
+    {
+      "box": [
+        0.6864538188296675,
+        0.3681245565975577,
+        0.25228214263916016,
+        0.03713711671972564
+      ],
+      "confidence": 1,
+      "text": "TED IN HIS DAy WAS A FINe"
+    },
+    {
+      "box": [
+        0.6944861323975453,
+        0.3877744608034579,
+        0.19577251434326182,
+        0.02738767972991696
+      ],
+      "confidence": 1,
+      "text": "OARSMAN. I SAM HIM"
+    },
+    {
+      "box": [
+        0.8926284405797795,
+        0.38626516501432506,
+        0.06497390270233161,
+        0.014529844599419417
+      ],
+      "confidence": 0.5,
+      "text": "SEYERRI"
+    },
+    {
+      "box": [
+        0.6866689518454979,
+        0.40122755808337884,
+        0.28230146408081047,
+        0.037070728845031375
+      ],
+      "confidence": 1,
+      "text": "TimES iN StarRy oN AndAc DAY."
+    },
+    {
+      "box": [
+        0.24939314080706879,
+        0.455791947968338,
+        0.3229937744140625,
+        0.03242188275756297
+      ],
+      "confidence": 1,
+      "text": "he had tremendon"
+    },
+    {
+      "box": [
+        0.11563901194421504,
+        0.47278580970350137,
+        0.5532808685302735,
+        0.046235227036750204
+      ],
+      "confidence": 1,
+      "text": "disabilities to Cutend hirel. do"
+    },
+    {
+      "box": [
+        0.12098123701850455,
+        0.49867891355916294,
+        0.5358731460571289,
+        0.05500669673309189
+      ],
+      "confidence": 1,
+      "text": "neva became an invalid. O"
+    },
+    {
+      "box": [
+        0.1227643237374194,
+        0.5278341409641963,
+        0.5574760055541992,
+        0.05752474433231092
+      ],
+      "confidence": 1,
+      "text": "was just as alant mentally"
+    },
+    {
+      "box": [
+        0.13206589410743036,
+        0.5619334161064701,
+        0.49742935180664066,
+        0.04379722062303992
+      ],
+      "confidence": 1,
+      "text": "Das full of good cheer"
+    },
+    {
+      "box": [
+        0.13493437314633397,
+        0.5901106217433254,
+        0.3441785049438476,
+        0.02706949738250386
+      ],
+      "confidence": 1,
+      "text": "As de euer das."
+    },
+    {
+      "box": [
+        0.344688708244748,
+        0.8973846496632668,
+        0.48717453002929695,
+        0.019125490669230305
+      ],
+      "confidence": 1,
+      "text": "IM CAMP WITH THE VICTORIAN SCOTTISH REGIMENT 1912"
+    },
+    {
+      "box": [
+        0.3568682420281576,
+        0.9154724050632547,
+        0.33952697753906247,
+        0.02040981930193908
+      ],
+      "confidence": 1,
+      "text": "BATAMASTER RILEY IN FRONT CENTRE."
+    },
+    {
+      "box": [
+        0.35523614136848847,
+        0.9331395347438229,
+        0.4579055404663086,
+        0.011627907251278824
+      ],
+      "confidence": 1,
+      "text": "I JUST MADE THE PICTURE AT EMS OF ToP RON WITHOUT"
+    },
+    {
+      "box": [
+        0.3500668386411681,
+        0.9352817709120879,
+        0.28031829833984373,
+        0.03989947358661794
+      ],
+      "confidence": 1,
+      "text": "JACKET OR GLENGRARY. ANZ"
+    }
+  ],
+  "text": "Drumbaner\n2: 64951\nDear dul diC. Fadyen •\n9 have been wantiq louike\nTHIS LETTER WAS FROM THE\nWiROW OF CAPTAIN TER. WODQWARA 4\nCe you of his de all on COclaha\nTER = / WERE FRIENES IN THE\n8 FIELA AmBULANCE. / HAGI SENT\nSl Caso .\nNo had a long luess 4 dye\nHOM A CARE AT CHRiSTmAS BUT\nHE HAG PASSER ON UNKNONN TO MIE.\nhavia to fire up his general\nED WAS THE ROYEN OF THE\npractice - Inh camid a vil-le\nMEDICAL FRATERNITY IN GRAFTON.\nHE VERS RISO CHAIRMAN OF THIS\nGRAFTON dOCKEY CLUB. HIS SON\nWAS A MAN. RHORES SCHOLAR.\nTED IN HIS DAy WAS A FINe\nOARSMAN. I SAM HIM\nSEYERRI\nTimES iN StarRy oN AndAc DAY.\nhe had tremendon\ndisabilities to Cutend hirel. do\nneva became an invalid. O\nwas just as alant mentally\nDas full of good cheer\nAs de euer das.\nIM CAMP WITH THE VICTORIAN SCOTTISH REGIMENT 1912\nBATAMASTER RILEY IN FRONT CENTRE.\nI JUST MADE THE PICTURE AT EMS OF ToP RON WITHOUT\nJACKET OR GLENGRARY. ANZ",
+  "source_sha256": "c440b8525ab9369490dda7daa4db49949dca7f366d8aa97b28e318c6ac7bc408",
+  "status": "machine-draft"
+}

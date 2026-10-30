@@ -1,0 +1,755 @@
+{
+  "candidate_names": [
+    "Archdeaoon Robertson",
+    "Archdondon Robertson esdr",
+    "Rega"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-057.jpg",
+  "lines": [
+    {
+      "box": [
+        0.49885282183165786,
+        0.08844751095634962,
+        0.051575670242309524,
+        0.014965443564768366
+      ],
+      "confidence": 1,
+      "text": "(368)"
+    },
+    {
+      "box": [
+        0.6751193784596364,
+        0.09787297886687252,
+        0.07275918960571293,
+        0.01937032104276326
+      ],
+      "confidence": 1,
+      "text": "5/1/38."
+    },
+    {
+      "box": [
+        0.32032856255658587,
+        0.15406976744474243,
+        0.4620122909545898,
+        0.014534883642491891
+      ],
+      "confidence": 1,
+      "text": "In nocordance with the toma of Cootion 21 (1)"
+    },
+    {
+      "box": [
+        0.2422997938180562,
+        0.16424418643569705,
+        0.5071868515014648,
+        0.016127166444490082
+      ],
+      "confidence": 1,
+      "text": "the Canberra Community Hoopital Board Ordinance To."
+    },
+    {
+      "box": [
+        0.7535934296670038,
+        0.16860465137445568,
+        0.02258726835250857,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "20"
+    },
+    {
+      "box": [
+        0.24010739613686952,
+        0.1756114415777943,
+        0.5136625289916993,
+        0.017764621872906172
+      ],
+      "confidence": 1,
+      "text": "1938, the noting finlater for lenith (The Ion. A G."
+    },
+    {
+      "box": [
+        0.24024641785591627,
+        0.18877099925885799,
+        0.3983572769165039,
+        0.014717372722271582
+      ],
+      "confidence": 1,
+      "text": "Ganeron) aniled a moating of lenbers of"
+    },
+    {
+      "box": [
+        0.6344969194461431,
+        0.19040697656434813,
+        0.11293634414672848,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "the Board -"
+    },
+    {
+      "box": [
+        0.24229981138607187,
+        0.20058139535898667,
+        0.5523613739013671,
+        0.014714802607933453
+      ],
+      "confidence": 1,
+      "text": "alcated i1 goosedango with thie Ordinnes - at bis soone"
+    },
+    {
+      "box": [
+        0.2402464173971187,
+        0.2122015916702542,
+        0.31622175216674797,
+        0.015996082181112703
+      ],
+      "confidence": 1,
+      "text": "at Feelinent House on Zueeday,"
+    },
+    {
+      "box": [
+        0.5523614009380491,
+        0.21352785137468344,
+        0.2402463912963867,
+        0.01466982307737641
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Sth аиду, 1930 et 7 р.л."
+    },
+    {
+      "box": [
+        0.3182751542335056,
+        0.24127907001544402,
+        0.041067762374877914,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "The"
+    },
+    {
+      "box": [
+        0.3552361398097091,
+        0.24127906997650705,
+        0.04517453670501709,
+        0.013081394603671859
+      ],
+      "confidence": 0.5,
+      "text": "Hon."
+    },
+    {
+      "box": [
+        0.45790554593020844,
+        0.24270557025803974,
+        0.09240245819091791,
+        0.01326259946949604
+      ],
+      "confidence": 0.5,
+      "text": "\" Canopony"
+    },
+    {
+      "box": [
+        0.5482546206751501,
+        0.24418604686864176,
+        0.06981519222259525,
+        0.011627906408065436
+      ],
+      "confidence": 0.5,
+      "text": "-Acting"
+    },
+    {
+      "box": [
+        0.626283375753096,
+        0.2440318305605622,
+        0.19712524414062504,
+        0.014689099778125492
+      ],
+      "confidence": 1,
+      "text": "(Enseter for Mealth,"
+    },
+    {
+      "box": [
+        0.3203285468487989,
+        0.2659883720076621,
+        0.15811087608337404,
+        0.013081395446885136
+      ],
+      "confidence": 1,
+      "text": "Colonel Goodwin,"
+    },
+    {
+      "box": [
+        0.4887063678004067,
+        0.2674418607131184,
+        0.06981519222259519,
+        0.011627906408065547
+      ],
+      "confidence": 0.5,
+      "text": "Losers,"
+    },
+    {
+      "box": [
+        0.5564681746237972,
+        0.26598837258758656,
+        0.08418890953063962,
+        0.015988370994884926
+      ],
+      "confidence": 0.5,
+      "text": "Sunder,"
+    },
+    {
+      "box": [
+        0.23997841365109834,
+        0.27461440896180056,
+        0.2777400779724121,
+        0.01632108781107955
+      ],
+      "confidence": 0.5,
+      "text": "Archdondon Robertson esdr."
+    },
+    {
+      "box": [
+        0.6365503153232456,
+        0.2674418606860216,
+        0.1663244247436524,
+        0.014609421174363924
+      ],
+      "confidence": 0.5,
+      "text": "anots, HePndyen,"
+    },
+    {
+      "box": [
+        0.5297741297655172,
+        0.27761627942418143,
+        0.05544147491455076,
+        0.01308139460367197
+      ],
+      "confidence": 0.5,
+      "text": "catte."
+    },
+    {
+      "box": [
+        0.31827515475257573,
+        0.3110465116380564,
+        0.47433265686035153,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "In a briet address, the Coting intater concent-"
+    },
+    {
+      "box": [
+        0.2381930240239214,
+        0.3226744186729402,
+        0.5462012100219726,
+        0.014637694118509792
+      ],
+      "confidence": 1,
+      "text": "ulated the flenberg of the hosza on their auogesa of the"
+    },
+    {
+      "box": [
+        0.23819302147113844,
+        0.3342175067466484,
+        0.5667351150512696,
+        0.014619702474929719
+      ],
+      "confidence": 1,
+      "text": "pocent alestion and lobed then a happy and plepunnt on"
+    },
+    {
+      "box": [
+        0.2627025561670667,
+        0.34329593228401645,
+        0.493125648498535,
+        0.01793065227100432
+      ],
+      "confidence": 1,
+      "text": "bertee and heationed that the ladster for Health"
+    },
+    {
+      "box": [
+        0.29363449742214504,
+        0.3575581397465487,
+        0.04722792625427247,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Carte"
+    },
+    {
+      "box": [
+        0.34702259570551885,
+        0.35755813961044014,
+        0.43737163543701174,
+        0.014678818477559807
+      ],
+      "confidence": 1,
+      "text": "Rega) had requested that nto congratiniations"
+    },
+    {
+      "box": [
+        0.23819301598060824,
+        0.3677325584887494,
+        0.47638603210449226,
+        0.015998653138664
+      ],
+      "confidence": 1,
+      "text": "and beat wishes be cosvered to the seabors aleo,"
+    },
+    {
+      "box": [
+        0.42505134886079815,
+        0.3924418604461959,
+        0.3388090133666993,
+        0.0147199436798231
+      ],
+      "confidence": 1,
+      "text": "Mintater thon pointed out that the"
+    },
+    {
+      "box": [
+        0.2422997954622199,
+        0.4011627909491331,
+        0.08213552474975583,
+        0.013081394603671859
+      ],
+      "confidence": 0.5,
+      "text": "Herbore!"
+    },
+    {
+      "box": [
+        0.37577003829641215,
+        0.4009725906183029,
+        0.4250513076782227,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "duty won to eloct & Chatmann and Indented"
+    },
+    {
+      "box": [
+        0.2402464094850951,
+        0.4142351900147798,
+        0.13757699966430667,
+        0.011636902651462222
+      ],
+      "confidence": 1,
+      "text": "that he would"
+    },
+    {
+      "box": [
+        0.4064269591431723,
+        0.41584080026851855,
+        0.3083477973937988,
+        0.014533745304448398
+      ],
+      "confidence": 1,
+      "text": "pleased so roceive noninstiond."
+    },
+    {
+      "box": [
+        0.3162217782623628,
+        0.44473916854950046,
+        0.44763858795166017,
+        0.016016644782244294
+      ],
+      "confidence": 1,
+      "text": "Archdeaoon Robertson une montanted by Colonel"
+    },
+    {
+      "box": [
+        0.2381930236642324,
+        0.45490716170998846,
+        0.11704311370849613,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "Goodila and"
+    },
+    {
+      "box": [
+        0.3572895305445087,
+        0.4562334215254973,
+        0.21971252441406247,
+        0.014696810964353269
+      ],
+      "confidence": 1,
+      "text": "seconded by lin, tott."
+    },
+    {
+      "box": [
+        0.41273100149521724,
+        0.48099027436825703,
+        0.25256673812866215,
+        0.014649260476244708
+      ],
+      "confidence": 1,
+      "text": "readyen was nontnated by"
+    },
+    {
+      "box": [
+        0.7125256680445498,
+        0.48110465098295263,
+        0.051334700584411586,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "white"
+    },
+    {
+      "box": [
+        0.2402464125407569,
+        0.49115826692805187,
+        0.12320327758789062,
+        0.010295221175270597
+      ],
+      "confidence": 1,
+      "text": "and seconded"
+    },
+    {
+      "box": [
+        0.4332648876818365,
+        0.4912790696249749,
+        0.07186858177185057,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "Hurley."
+    },
+    {
+      "box": [
+        0.23819302066664613,
+        0.5450581396873752,
+        0.09034907341003415,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Sobertion"
+    },
+    {
+      "box": [
+        0.2361396326314042,
+        0.5784883722610836,
+        0.12114989280700683,
+        0.011697304132867958
+      ],
+      "confidence": 1,
+      "text": "Only elected"
+    },
+    {
+      "box": [
+        0.6201232069205095,
+        0.5232558141625536,
+        0.17248458862304683,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "the noalsion upre"
+    },
+    {
+      "box": [
+        0.4537987707690544,
+        0.534883721357321,
+        0.31006158828735353,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "ative supportera bat Anchdesson"
+    },
+    {
+      "box": [
+        0.45585215558180414,
+        0.5450581393550458,
+        0.18891170501708976,
+        0.013297298121094037
+      ],
+      "confidence": 1,
+      "text": "operatoston of his"
+    },
+    {
+      "box": [
+        0.6509240243252031,
+        0.5477453579326196,
+        0.13141683578491214,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "supportors to"
+    },
+    {
+      "box": [
+        0.48870636818793445,
+        0.5566860468660421,
+        0.09650923728942873,
+        0.013081394603671859
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Порадуел."
+    },
+    {
+      "box": [
+        0.6468172496826767,
+        0.5581395353108094,
+        0.14579054832458493,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "who eventually"
+    },
+    {
+      "box": [
+        0.48254620269528486,
+        0.5683139538064489,
+        0.17659137725830082,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Mindster Coolated"
+    },
+    {
+      "box": [
+        0.6570841912881903,
+        0.5697674419360216,
+        0.12320327758789062,
+        0.014671108134545419
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "1. Nobodyen"
+    },
+    {
+      "box": [
+        0.41273101652764344,
+        0.6090116279098587,
+        0.23408622741699225,
+        0.01453488364249178
+      ],
+      "confidence": 0.5,
+      "text": "bone daly ennesitated,"
+    },
+    {
+      "box": [
+        0.31416837712878276,
+        0.6206395351524915,
+        0.041067762374877914,
+        0.010174418212458902
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "ma65"
+    },
+    {
+      "box": [
+        0.4599589327451106,
+        0.6206395347620225,
+        0.1642710494995117,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "hite seconded by"
+    },
+    {
+      "box": [
+        0.6344969209761634,
+        0.6233421752131028,
+        0.10266940116882317,
+        0.010378754950539415
+      ],
+      "confidence": 0.5,
+      "text": "1, Hurley"
+    },
+    {
+      "box": [
+        0.3347022598720652,
+        0.6424418605469063,
+        0.051334700584411586,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "\"Chat"
+    },
+    {
+      "box": [
+        0.39425051616833195,
+        0.6436781609962454,
+        0.3080082130432129,
+        0.013298583178263046
+      ],
+      "confidence": 1,
+      "text": "the ore atal banking soomant be"
+    },
+    {
+      "box": [
+        0.33264887971672663,
+        0.6540697673357309,
+        0.3696098327636719,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "operated upon by the signature of any"
+    },
+    {
+      "box": [
+        0.3326488854662133,
+        0.6656976744093741,
+        0.369609832763672,
+        0.014673678248883548
+      ],
+      "confidence": 1,
+      "text": "two Members or the Board and that the"
+    },
+    {
+      "box": [
+        0.3305954841099922,
+        0.6772767459256277,
+        0.4106776046752929,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "Secretary De @gonered to endors chogues"
+    },
+    {
+      "box": [
+        0.33264887506642427,
+        0.6874447390745876,
+        0.12320327758789062,
+        0.016043632669221153
+      ],
+      "confidence": 0.5,
+      "text": "For lodgaent"
+    },
+    {
+      "box": [
+        0.4537987694738274,
+        0.6887709991861837,
+        0.1416837787628174,
+        0.014717372722271582
+      ],
+      "confidence": 1,
+      "text": "at the bant.\""
+    },
+    {
+      "box": [
+        0.31622178367628906,
+        0.7252906975527202,
+        0.42505130767822263,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "-wes resolved ton the notion of in, inite"
+    },
+    {
+      "box": [
+        0.2360602672552303,
+        0.7347406481338976,
+        0.2260314178466797,
+        0.014530331976744693
+      ],
+      "confidence": 0.5,
+      "text": "seconded by in unles"
+    },
+    {
+      "box": [
+        0.3324256499218457,
+        0.7563106339742892,
+        0.3905534362792969,
+        0.01708915568789371
+      ],
+      "confidence": 1,
+      "text": "\"that apoltention be made to the Acting"
+    },
+    {
+      "box": [
+        0.33059549411248623,
+        0.7687886822122101,
+        0.381930160522461,
+        0.016095038328836964
+      ],
+      "confidence": 1,
+      "text": "Mandater 2o2 01,000 Top. the purpose of"
+    },
+    {
+      "box": [
+        0.33264887773008867,
+        0.7805232561320303,
+        0.16016426086425778,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "changing on the"
+    },
+    {
+      "box": [
+        0.48870637014116286,
+        0.7805232561995052,
+        0.10472278594970702,
+        0.015988370994884926
+      ],
+      "confidence": 0.5,
+      "text": "lospital,\""
+    },
+    {
+      "box": [
+        0.31187402905476647,
+        0.8016804801899351,
+        0.458404541015625,
+        0.019424390413400716
+      ],
+      "confidence": 1,
+      "text": "Te sne agrend tant the neit cooting tate place"
+    },
+    {
+      "box": [
+        0.26283367594486995,
+        0.81520778053469,
+        0.1232032871246338,
+        0.013280591534682862
+      ],
+      "confidence": 1,
+      "text": "the Hospital"
+    },
+    {
+      "box": [
+        0.38809035312497175,
+        0.8152077810808772,
+        0.12731005668640138,
+        0.014734079308682646
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "08 7.30 D.л."
+    },
+    {
+      "box": [
+        0.5154004064879684,
+        0.8168604651918355,
+        0.27720739364624014,
+        0.014704521307367657
+      ],
+      "confidence": 1,
+      "text": "on wednesday, 20th July, 19."
+    },
+    {
+      "box": [
+        0.35728953595446566,
+        0.8386383729642548,
+        0.2731006050109863,
+        0.01458885941644572
+      ],
+      "confidence": 1,
+      "text": "Meeting olosed at 8.10 p.л."
+    },
+    {
+      "box": [
+        0.40862422714675817,
+        0.8619186050782512,
+        0.18275154113769532,
+        0.013081394603671859
+      ],
+      "confidence": 0.5,
+      "text": "Minateo coultened:"
+    }
+  ],
+  "text": "(368)\n5/1/38.\nIn nocordance with the toma of Cootion 21 (1)\nthe Canberra Community Hoopital Board Ordinance To.\n20\n1938, the noting finlater for lenith (The Ion. A G.\nGaneron) aniled a moating of lenbers of\nthe Board -\nalcated i1 goosedango with thie Ordinnes - at bis soone\nat Feelinent House on Zueeday,\nSth аиду, 1930 et 7 р.л.\nThe\nHon.\n\" Canopony\n-Acting\n(Enseter for Mealth,\nColonel Goodwin,\nLosers,\nSunder,\nArchdondon Robertson esdr.\nanots, HePndyen,\ncatte.\nIn a briet address, the Coting intater concent-\nulated the flenberg of the hosza on their auogesa of the\npocent alestion and lobed then a happy and plepunnt on\nbertee and heationed that the ladster for Health\nCarte\nRega) had requested that nto congratiniations\nand beat wishes be cosvered to the seabors aleo,\nMintater thon pointed out that the\nHerbore!\nduty won to eloct & Chatmann and Indented\nthat he would\npleased so roceive noninstiond.\nArchdeaoon Robertson une montanted by Colonel\nGoodila and\nseconded by lin, tott.\nreadyen was nontnated by\nwhite\nand seconded\nHurley.\nSobertion\nOnly elected\nthe noalsion upre\native supportera bat Anchdesson\noperatoston of his\nsupportors to\nПорадуел.\nwho eventually\nMindster Coolated\n1. Nobodyen\nbone daly ennesitated,\nma65\nhite seconded by\n1, Hurley\n\"Chat\nthe ore atal banking soomant be\noperated upon by the signature of any\ntwo Members or the Board and that the\nSecretary De @gonered to endors chogues\nFor lodgaent\nat the bant.\"\n-wes resolved ton the notion of in, inite\nseconded by in unles\n\"that apoltention be made to the Acting\nMandater 2o2 01,000 Top. the purpose of\nchanging on the\nlospital,\"\nTe sne agrend tant the neit cooting tate place\nthe Hospital\n08 7.30 D.л.\non wednesday, 20th July, 19.\nMeeting olosed at 8.10 p.л.\nMinateo coultened:",
+  "source_sha256": "cfa993a9cf2830204307393a6fd56e37d86f8d77120300e1682f1bfe23a50c30",
+  "status": "machine-draft"
+}

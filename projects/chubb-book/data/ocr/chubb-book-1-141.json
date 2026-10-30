@@ -1,0 +1,414 @@
+{
+  "candidate_names": [
+    "Charles",
+    "Ms. CS Metadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-141.jpg",
+  "lines": [
+    {
+      "box": [
+        0.1067761897081316,
+        0.12334217501324818,
+        0.21560573577880857,
+        0.010378754950539415
+      ],
+      "confidence": 1,
+      "text": "HAROLD J. LAWRENCE"
+    },
+    {
+      "box": [
+        0.16632443637406424,
+        0.13517441856715517,
+        0.09445585250854494,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "F.A.S.A.; M.INST.T."
+    },
+    {
+      "box": [
+        0.1273100661528663,
+        0.14534883724448078,
+        0.17453798294067382,
+        0.008939403227005926
+      ],
+      "confidence": 1,
+      "text": "TRANSPORT CONSULTANT"
+    },
+    {
+      "box": [
+        0.5646817271278848,
+        0.1074270556244793,
+        0.22381927490234366,
+        0.005945037045803514
+      ],
+      "confidence": 1,
+      "text": "TELEPHONE: MU 3552: RESIDENCE. WF 2969"
+    },
+    {
+      "box": [
+        0.6262833750188619,
+        0.13517441860003598,
+        0.15400409698486328,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "405 COLLINS STREET."
+    },
+    {
+      "box": [
+        0.6796714630892836,
+        0.14367816075574058,
+        0.11704311370849607,
+        0.008938118169836806
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE. C.1."
+    },
+    {
+      "box": [
+        0.7125256683486353,
+        0.15406976738879563,
+        0.053388090133666966,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "VICTORIA"
+    },
+    {
+      "box": [
+        0.6036961008579952,
+        0.184593023791914,
+        0.15605749130249025,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "10th June, 1955."
+    },
+    {
+      "box": [
+        0.1806981548714515,
+        0.20778072496875732,
+        0.3162217521667481,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Chas. E. McFadyen, Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.180457565804099,
+        0.21971503236482293,
+        0.10116492271423339,
+        0.011549915074248185
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.1806981680504643,
+        0.2294429706140627,
+        0.3449691772460937,
+        0.01328958693486626
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.18069815696857994,
+        0.24270557008622096,
+        0.15811087608337404,
+        0.011654894716648934
+      ],
+      "confidence": 1,
+      "text": "Rialto Building,"
+    },
+    {
+      "box": [
+        0.1827515418205778,
+        0.2541998230995888,
+        0.1478439426422119,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Collins Street,"
+    },
+    {
+      "box": [
+        0.17864476681805244,
+        0.26598837234102546,
+        0.10266940116882325,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE•"
+    },
+    {
+      "box": [
+        0.18069815815068316,
+        0.28779069826502446,
+        0.12936344146728515,
+        0.013270309812510428
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.22997946892698934,
+        0.30946065413239754,
+        0.5236139678955078,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Permit me to congratulate you very warmly on the high"
+    },
+    {
+      "box": [
+        0.1827515444060589,
+        0.3297966399387311,
+        0.5790554428100586,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "honour which has been bestowed on you in the Queen's Birth-"
+    },
+    {
+      "box": [
+        0.18275154213683578,
+        0.35610465141079284,
+        0.11909650802612307,
+        0.011711440604941004
+      ],
+      "confidence": 1,
+      "text": "day Honours."
+    },
+    {
+      "box": [
+        0.3182751537635842,
+        0.35455349250298773,
+        0.40451744079589846,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Those of us who have worked with you and"
+    },
+    {
+      "box": [
+        0.18275156720418095,
+        0.3779069769316262,
+        0.5605749130249024,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "seen your worth over the years believe that the honour is"
+    },
+    {
+      "box": [
+        0.18275154513794817,
+        0.40097259067966906,
+        0.1868583106994629,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "very well deserved."
+    },
+    {
+      "box": [
+        0.42710472781046904,
+        0.4229651165343393,
+        0.15811087608337404,
+        0.011627906408065547
+      ],
+      "confidence": 1,
+      "text": "Sincerely yours,"
+    },
+    {
+      "box": [
+        0.5133470230051468,
+        0.45930232569241247,
+        0.1252566719055176,
+        0.03924418549744246
+      ],
+      "confidence": 0.5,
+      "text": "Stands"
+    },
+    {
+      "box": [
+        0.09240246623541537,
+        0.5348837212676368,
+        0.22997943878173827,
+        0.004461990427275242
+      ],
+      "confidence": 1,
+      "text": "TRANSPORT ACCOUNIING ••• LAXATION"
+    },
+    {
+      "box": [
+        0.35318275267718235,
+        0.5348837208907247,
+        0.06365502834320069,
+        0.002906976812819706
+      ],
+      "confidence": 0.5,
+      "text": "•ADVOGACY"
+    },
+    {
+      "box": [
+        0.4496919999712996,
+        0.5318302387801375,
+        0.18480491638183594,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "SURVEYS AND INVESTIGATIONS"
+    },
+    {
+      "box": [
+        0.6714579076867576,
+        0.5318302389073177,
+        0.14168376922607429,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "INDUSTRY SECRETARIAT"
+    },
+    {
+      "box": [
+        0.3963039002507951,
+        0.6423519010233798,
+        0.11704312324523924,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "CITIUS • ALTIUS • FORTIUS"
+    },
+    {
+      "box": [
+        0.32001054652798805,
+        0.6575300638560233,
+        0.26550292968750006,
+        0.022975914885152382
+      ],
+      "confidence": 1,
+      "text": "The Chairman and Members of"
+    },
+    {
+      "box": [
+        0.2751540099255083,
+        0.681686046552915,
+        0.25462011337280277,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "The Oxecutive of the Organising"
+    },
+    {
+      "box": [
+        0.23922704336876266,
+        0.6927992264516664,
+        0.4122837066650391,
+        0.03703908473384998
+      ],
+      "confidence": 1,
+      "text": "for the Olympic Games, Melbourne, 1956"
+    },
+    {
+      "box": [
+        0.33880903331733736,
+        0.7236958441721113,
+        0.22587268829345697,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "request the honour of the company of"
+    },
+    {
+      "box": [
+        0.20328542968123345,
+        0.7514534892116103,
+        0.5133470153808594,
+        0.036344919449243784
+      ],
+      "confidence": 0.5,
+      "text": "Ms. CS Metadyen, C.%, and thas Shetadyew"
+    },
+    {
+      "box": [
+        0.24229979834054974,
+        0.7789566761930029,
+        0.4086242294311524,
+        0.030636346413960625
+      ],
+      "confidence": 1,
+      "text": "at The Solemn Opening of the Congross"
+    },
+    {
+      "box": [
+        0.24640658715451835,
+        0.8094606544554966,
+        0.4065708160400391,
+        0.023430592396109673
+      ],
+      "confidence": 1,
+      "text": "f the International Olympic Committee"
+    },
+    {
+      "box": [
+        0.3244353221286355,
+        0.8355437668244035,
+        0.24435317993164057,
+        0.014746930723586571
+      ],
+      "confidence": 1,
+      "text": "in the Melbourne Sown Halt"
+    },
+    {
+      "box": [
+        0.2710472291743159,
+        0.8531976745791776,
+        0.3490759658813476,
+        0.021802325463737726
+      ],
+      "confidence": 1,
+      "text": "on Monduy, 191 November, 1956, at 11a.m."
+    },
+    {
+      "box": [
+        0.13347022986271376,
+        0.9111405834678566,
+        0.213552360534668,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "R. I.% I. by 17 t Soptember,"
+    },
+    {
+      "box": [
+        0.13141683951842126,
+        0.9244031830884657,
+        0.18275154113769532,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "to The Chief Executive Officer"
+    },
+    {
+      "box": [
+        0.13347023015790951,
+        0.9358974357445998,
+        0.28336753845214846,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Olympic Games Committee, G. P.O.. Melbourne"
+    }
+  ],
+  "text": "HAROLD J. LAWRENCE\nF.A.S.A.; M.INST.T.\nTRANSPORT CONSULTANT\nTELEPHONE: MU 3552: RESIDENCE. WF 2969\n405 COLLINS STREET.\nMELBOURNE. C.1.\nVICTORIA\n10th June, 1955.\nChas. E. McFadyen, Esq., C.B.E.,\nSecretary,\nDepartment of Shipping & Transport,\nRialto Building,\nCollins Street,\nMELBOURNE•\nDear Charles,\nPermit me to congratulate you very warmly on the high\nhonour which has been bestowed on you in the Queen's Birth-\nday Honours.\nThose of us who have worked with you and\nseen your worth over the years believe that the honour is\nvery well deserved.\nSincerely yours,\nStands\nTRANSPORT ACCOUNIING ••• LAXATION\n•ADVOGACY\nSURVEYS AND INVESTIGATIONS\nINDUSTRY SECRETARIAT\nCITIUS • ALTIUS • FORTIUS\nThe Chairman and Members of\nThe Oxecutive of the Organising\nfor the Olympic Games, Melbourne, 1956\nrequest the honour of the company of\nMs. CS Metadyen, C.%, and thas Shetadyew\nat The Solemn Opening of the Congross\nf the International Olympic Committee\nin the Melbourne Sown Halt\non Monduy, 191 November, 1956, at 11a.m.\nR. I.% I. by 17 t Soptember,\nto The Chief Executive Officer\nOlympic Games Committee, G. P.O.. Melbourne",
+  "source_sha256": "573eaae9f35537de6c9649e4ee10ecc8c791cc59ec30027678413b12e8363826",
+  "status": "machine-draft"
+}

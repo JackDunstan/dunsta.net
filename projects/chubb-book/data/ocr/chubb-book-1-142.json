@@ -1,0 +1,383 @@
+{
+  "candidate_names": [
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-142.jpg",
+  "lines": [
+    {
+      "box": [
+        0.6509240256257263,
+        0.10610079575020415,
+        0.13347022056579594,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "23 MONTALTO AVENUE"
+    },
+    {
+      "box": [
+        0.7084188928678964,
+        0.11759504858915337,
+        0.07597535610198969,
+        0.008858439566075127
+      ],
+      "confidence": 1,
+      "text": "TOORAK SE.2"
+    },
+    {
+      "box": [
+        0.7433264885250866,
+        0.13218390812297443,
+        0.04106776237487797,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "BJ 5678"
+    },
+    {
+      "box": [
+        0.6139630393501602,
+        0.1715116283037842,
+        0.12731005668640138,
+        0.013280591113076223
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955."
+    },
+    {
+      "box": [
+        0.29568788651694855,
+        0.21927497781030636,
+        0.14168377876281735,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.37782342587190526,
+        0.24127906999364168,
+        0.4127309799194336,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "I was very pleased to read in this morning's paper"
+    },
+    {
+      "box": [
+        0.295687893885802,
+        0.2541998230234579,
+        0.44558521270751955,
+        0.010335060477151381
+      ],
+      "confidence": 1,
+      "text": "that you have been honoured by the Queen with the CBE."
+    },
+    {
+      "box": [
+        0.3778234274294622,
+        0.2776162791931892,
+        0.3880903244018554,
+        0.010182129398686679
+      ],
+      "confidence": 1,
+      "text": "All your friends know of the fine work you have"
+    },
+    {
+      "box": [
+        0.29568789890344,
+        0.28912466826429073,
+        0.48459957122802727,
+        0.010293936118101477
+      ],
+      "confidence": 1,
+      "text": "done for so many years in your Department and will all feel"
+    },
+    {
+      "box": [
+        0.29568788476974434,
+        0.2992926613708573,
+        0.4045174407958984,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "that you have been justly rewarded for your work."
+    },
+    {
+      "box": [
+        0.3778234114400611,
+        0.3226744188599209,
+        0.37166324615478513,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Congratulations and kindest personal regards."
+    },
+    {
+      "box": [
+        0.5749486666184537,
+        0.35901162794215513,
+        0.06570841789245607,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Sincerel"
+    },
+    {
+      "box": [
+        0.6529774141252465,
+        0.3590116279179303,
+        0.04517453670501703,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "yours"
+    },
+    {
+      "box": [
+        0.2936345022896266,
+        0.5203359857272057,
+        0.1930184745788574,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Mr. Charles I. McFadyen,"
+    },
+    {
+      "box": [
+        0.2956878938940362,
+        0.5318302387296724,
+        0.3798767852783203,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Secretary, Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.29568789002812823,
+        0.5450581397901534,
+        0.15811087608337399,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.29363449765154387,
+        0.5566860467596302,
+        0.08829568862915038,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE•"
+    },
+    {
+      "box": [
+        0.5503080084632309,
+        0.6497093023653849,
+        0.032854208946228036,
+        0.01889534907252466
+      ],
+      "confidence": 0.5,
+      "text": "BP"
+    },
+    {
+      "box": [
+        0.2706518097674173,
+        0.6816587091397548,
+        0.17532882690429685,
+        0.02767095304399758
+      ],
+      "confidence": 1,
+      "text": "The Chairman."
+    },
+    {
+      "box": [
+        0.4537987695872702,
+        0.6845930239906057,
+        0.04312114715576176,
+        0.02325581281613076
+      ],
+      "confidence": 0.5,
+      "text": "Mr."
+    },
+    {
+      "box": [
+        0.5092402466974442,
+        0.6845930235753317,
+        0.03696098566055306,
+        0.020348836424917804
+      ],
+      "confidence": 0.5,
+      "text": "D."
+    },
+    {
+      "box": [
+        0.5605749547665186,
+        0.6830238726319939,
+        0.2977412605285644,
+        0.024824964589086007
+      ],
+      "confidence": 1,
+      "text": "W. Brisbane, and Directors"
+    },
+    {
+      "box": [
+        0.4147844019225761,
+        0.7091069846045528,
+        0.2977412605285645,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "of Australasian Potroleum Refinery Limited"
+    },
+    {
+      "box": [
+        0.35318276853028846,
+        0.7252906981217436,
+        0.40657081604003914,
+        0.016088612199778307
+      ],
+      "confidence": 1,
+      "text": "in association with The Commonwealth Oil Refineries Limited"
+    },
+    {
+      "box": [
+        0.4517453779946831,
+        0.7456395352407348,
+        0.23203285217285158,
+        0.011654894295042295
+      ],
+      "confidence": 1,
+      "text": "request the pleasure of the company of"
+    },
+    {
+      "box": [
+        0.470225880599092,
+        0.7630415556351544,
+        0.19712524414062493,
+        0.03492484526967288
+      ],
+      "confidence": 0.5,
+      "text": "Yl. M°Jadyen."
+    },
+    {
+      "box": [
+        0.48870636985283566,
+        0.7948717946249515,
+        0.1519507122039795,
+        0.014721228736992109
+      ],
+      "confidence": 1,
+      "text": "at the Official Opening of"
+    },
+    {
+      "box": [
+        0.40644713062844784,
+        0.8034413241684323,
+        0.18915912628173825,
+        0.03555921154882291
+      ],
+      "confidence": 1,
+      "text": "To Krinana"
+    },
+    {
+      "box": [
+        0.5951490092540918,
+        0.810489944051651,
+        0.11565680503845222,
+        0.03599685614979653
+      ],
+      "confidence": 1,
+      "text": "Refinery"
+    },
+    {
+      "box": [
+        0.5154004122277293,
+        0.8415697675834508,
+        0.10677618026733404,
+        0.010331204884037493
+      ],
+      "confidence": 1,
+      "text": "Western Australia"
+    },
+    {
+      "box": [
+        0.3737166344372956,
+        0.8633720931766692,
+        0.3778234100341797,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "by His Exollenoy, The Govornor - General of Australia"
+    },
+    {
+      "box": [
+        0.3716632470438973,
+        0.8806366048846962,
+        0.3839835739135742,
+        0.024886650706054336
+      ],
+      "confidence": 1,
+      "text": "Field. Marshall Sir William Slim"
+    },
+    {
+      "box": [
+        0.4640657051041893,
+        0.9026162792260698,
+        0.20123203277587887,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "G.C.B.. G.C.M.G., G.C.V.O., G.B.E., D.S.O., M.C."
+    },
+    {
+      "box": [
+        0.37166325361265207,
+        0.9213085762412894,
+        0.3737166213989258,
+        0.02210433244915999
+      ],
+      "confidence": 1,
+      "text": "on Tuesduy, 2514 Ootober, 1955 at 3 p.m."
+    },
+    {
+      "box": [
+        0.25256673320584516,
+        0.9447391688321165,
+        0.10472278594970708,
+        0.004420866489831976
+      ],
+      "confidence": 1,
+      "text": "R.S.V.P BY 15/8/55 ON"
+    },
+    {
+      "box": [
+        0.7782340864792435,
+        0.9476744187453848,
+        0.10266940116882328,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "DRESS INFORMAL"
+    },
+    {
+      "box": [
+        0.25256675146950214,
+        0.9534883722850788,
+        0.14168375968933106,
+        0.004513396086890942
+      ],
+      "confidence": 1,
+      "text": "ENCLOSED ACCEPTANCE CARD"
+    }
+  ],
+  "text": "23 MONTALTO AVENUE\nTOORAK SE.2\nBJ 5678\n9th June, 1955.\nDear Mr. McFadyen,\nI was very pleased to read in this morning's paper\nthat you have been honoured by the Queen with the CBE.\nAll your friends know of the fine work you have\ndone for so many years in your Department and will all feel\nthat you have been justly rewarded for your work.\nCongratulations and kindest personal regards.\nSincerel\nyours\nMr. Charles I. McFadyen,\nSecretary, Department of Shipping & Transport,\n497 Collins Street,\nMELBOURNE•\nBP\nThe Chairman.\nMr.\nD.\nW. Brisbane, and Directors\nof Australasian Potroleum Refinery Limited\nin association with The Commonwealth Oil Refineries Limited\nrequest the pleasure of the company of\nYl. M°Jadyen.\nat the Official Opening of\nTo Krinana\nRefinery\nWestern Australia\nby His Exollenoy, The Govornor - General of Australia\nField. Marshall Sir William Slim\nG.C.B.. G.C.M.G., G.C.V.O., G.B.E., D.S.O., M.C.\non Tuesduy, 2514 Ootober, 1955 at 3 p.m.\nR.S.V.P BY 15/8/55 ON\nDRESS INFORMAL\nENCLOSED ACCEPTANCE CARD",
+  "source_sha256": "60a160d4450f09c12ef2dfb06d186dcc0dc37aed77107ed2ff8dffa542c7ab50",
+  "status": "machine-draft"
+}

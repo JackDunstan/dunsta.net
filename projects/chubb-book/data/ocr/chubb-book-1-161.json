@@ -1,0 +1,223 @@
+{
+  "candidate_names": [
+    "COUTARD"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-161.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2279260846980601,
+        0.3355437668534732,
+        0.6160164260864258,
+        0.014746930723586682
+      ],
+      "confidence": 0.5,
+      "text": "2N° RUSTRALIAN CASURATY CLEARING STATION TROIS ARBRES STEENWERCIS FRANCE"
+    },
+    {
+      "box": [
+        0.8151950723134607,
+        0.34883720933750406,
+        0.03696098566055295,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "1917"
+    },
+    {
+      "box": [
+        0.26078028875161546,
+        0.508720930197662,
+        0.10061601638793949,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Le Port de PORT SAID"
+    },
+    {
+      "box": [
+        0.22792608418320412,
+        0.5232558138764285,
+        0.6036960983276367,
+        0.01453488364249178
+      ],
+      "confidence": 0.5,
+      "text": "THE CERAMIC MITH 3000 TROOPS ANCHORCA HERe RECEMBeR 1915 EN Roure"
+    },
+    {
+      "box": [
+        0.7350493707160912,
+        0.533165322606383,
+        0.1192236423492431,
+        0.015064702426090815
+      ],
+      "confidence": 0.5,
+      "text": "TO PLEXANARiA."
+    },
+    {
+      "box": [
+        0.32854210115704846,
+        0.5667550840933427,
+        0.27515399932861323,
+        0.019009725906277697
+      ],
+      "confidence": 1,
+      "text": "8! AUISTRALIAN FIELD AMBULANCE"
+    },
+    {
+      "box": [
+        0.4270846815808075,
+        0.6016810198788094,
+        0.08217560768127441,
+        0.013207727359734633
+      ],
+      "confidence": 1,
+      "text": "BON VOYAGE"
+    },
+    {
+      "box": [
+        0.38193018598944817,
+        0.6277630417562818,
+        0.12731005668640138,
+        0.010318353469133679
+      ],
+      "confidence": 0.5,
+      "text": "DINNER TO 1915"
+    },
+    {
+      "box": [
+        0.5133470229877836,
+        0.6264534884955147,
+        0.04106776237487786,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "MEN"
+    },
+    {
+      "box": [
+        0.42501903416742126,
+        0.6903259876247879,
+        0.09452045440673829,
+        0.019057326987188095
+      ],
+      "confidence": 0.5,
+      "text": "MENU"
+    },
+    {
+      "box": [
+        0.3591000808038939,
+        0.7285017045981801,
+        0.226385612487793,
+        0.013351392366525605
+      ],
+      "confidence": 1,
+      "text": "HORS D'ŒUVRES MARIE-LOUISE"
+    },
+    {
+      "box": [
+        0.3858261108486875,
+        0.7557068225504544,
+        0.17086277008056644,
+        0.012218869544045274
+      ],
+      "confidence": 1,
+      "text": "POTAGE SARS-POTERIES"
+    },
+    {
+      "box": [
+        0.3901437445326912,
+        0.7833775419466078,
+        0.1663244247436524,
+        0.010227108929243611
+      ],
+      "confidence": 1,
+      "text": "DINDONNEAU FRANÇAIS"
+    },
+    {
+      "box": [
+        0.3778234063826255,
+        0.8094606543068161,
+        0.18891170501708981,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "BŒUF ROTI A L'ANGLAISE"
+    },
+    {
+      "box": [
+        0.3798768059679473,
+        0.8372093024005535,
+        0.19096508026123044,
+        0.010270803824238395
+      ],
+      "confidence": 1,
+      "text": "LÉGUMES DES AMIENOISES"
+    },
+    {
+      "box": [
+        0.3921971253256232,
+        0.863372093310195,
+        0.1683778190612793,
+        0.010191125220476605
+      ],
+      "confidence": 1,
+      "text": "FRUITS AVEC COUTARD"
+    },
+    {
+      "box": [
+        0.34496920176178647,
+        0.8909883721195457,
+        0.09034907341003418,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "CHOCOLATES"
+    },
+    {
+      "box": [
+        0.5277207396785102,
+        0.8908045974995715,
+        0.08213552474975583,
+        0.0075154730327143815
+      ],
+      "confidence": 0.5,
+      "text": "BEER - - -"
+    },
+    {
+      "box": [
+        0.3305954815809121,
+        0.9111405834678564,
+        0.10677618026733399,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "CIGARETTES -"
+    },
+    {
+      "box": [
+        0.5256673549660725,
+        0.9098143236535592,
+        0.08624229431152353,
+        0.010243815515654786
+      ],
+      "confidence": 1,
+      "text": "SI POSSIBLE"
+    },
+    {
+      "box": [
+        0.45379877338028424,
+        0.9375000001415903,
+        0.15811087608337399,
+        0.01033377541998226
+      ],
+      "confidence": 1,
+      "text": "SARS-POTERIES 8/2/1919."
+    }
+  ],
+  "text": "2N° RUSTRALIAN CASURATY CLEARING STATION TROIS ARBRES STEENWERCIS FRANCE\n1917\nLe Port de PORT SAID\nTHE CERAMIC MITH 3000 TROOPS ANCHORCA HERe RECEMBeR 1915 EN Roure\nTO PLEXANARiA.\n8! AUISTRALIAN FIELD AMBULANCE\nBON VOYAGE\nDINNER TO 1915\nMEN\nMENU\nHORS D'ŒUVRES MARIE-LOUISE\nPOTAGE SARS-POTERIES\nDINDONNEAU FRANÇAIS\nBŒUF ROTI A L'ANGLAISE\nLÉGUMES DES AMIENOISES\nFRUITS AVEC COUTARD\nCHOCOLATES\nBEER - - -\nCIGARETTES -\nSI POSSIBLE\nSARS-POTERIES 8/2/1919.",
+  "source_sha256": "df97eb555ad05472f7ca34b5c09197c90391e90f2215f395f8d8a2e44f088c69",
+  "status": "machine-draft"
+}

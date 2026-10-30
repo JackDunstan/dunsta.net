@@ -1,0 +1,375 @@
+{
+  "candidate_names": [
+    "ASSOCIATION",
+    "Charles",
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-105.jpg",
+  "lines": [
+    {
+      "box": [
+        0.10472279698519416,
+        0.11184792233208496,
+        0.33059547424316404,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIAN INDUSTEIES"
+    },
+    {
+      "box": [
+        0.4496919911765431,
+        0.11046511634942668,
+        0.3716632461547852,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "DEVELOPMENT ASSOCIATION"
+    },
+    {
+      "box": [
+        0.10266941514829916,
+        0.15116279128828025,
+        0.5893223571777343,
+        0.01329344210637351
+      ],
+      "confidence": 1,
+      "text": "90 Queen Street. Melbourne, C.I., Victoria - - Telephone MW 2085"
+    },
+    {
+      "box": [
+        0.10472279480685223,
+        0.1802325580864701,
+        0.1765913772583008,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "TELECRAMS: \"AIDIND.\" MELBOURNE."
+    },
+    {
+      "box": [
+        0.34907598143127666,
+        0.17860300639049886,
+        0.15811087608337399,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "CABLES: \"AIDIND. MELBOURNE."
+    },
+    {
+      "box": [
+        0.570841895086958,
+        0.17860300634204918,
+        0.12320327758789062,
+        0.0075154730327144925
+      ],
+      "confidence": 1,
+      "text": "DIRECTOR: C. P. PUZEY."
+    },
+    {
+      "box": [
+        0.6940451752572312,
+        0.20335985852886362,
+        0.1129363441467286,
+        0.0030946065428822944
+      ],
+      "confidence": 1,
+      "text": "SINCOBRARATING AUSTRALIAN"
+    },
+    {
+      "box": [
+        0.6878850151448911,
+        0.2077807249102107,
+        0.13347022056579594,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "INDUSTRIES PROTECTION LEAGUE"
+    },
+    {
+      "box": [
+        0.6119096520726879,
+        0.23546511649073476,
+        0.03490759611129757,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "9th"
+    },
+    {
+      "box": [
+        0.6487428489244579,
+        0.2335463715443291,
+        0.10292497634887698,
+        0.015465396574173784
+      ],
+      "confidence": 1,
+      "text": "June, 1955"
+    },
+    {
+      "box": [
+        0.1724846017842004,
+        0.28337754219576883,
+        0.2648870658874512,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Mr. C. E. Ncladyen, C.B.Eo,"
+    },
+    {
+      "box": [
+        0.17031032965428536,
+        0.29493970751894527,
+        0.36571735382080073,
+        0.015538308390677269
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.17043121429501418,
+        0.30813439451777747,
+        0.18891170501708987,
+        0.011633047058348223
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.16624248878579223,
+        0.31943808895795767,
+        0.10283329963684085,
+        0.013740101079831146
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE•"
+    },
+    {
+      "box": [
+        0.16837783132064782,
+        0.34438549947255215,
+        0.17864475250244144,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.27912801139244864,
+        0.3641899070790344,
+        0.44174198150634764,
+        0.01421649470780395
+      ],
+      "confidence": 1,
+      "text": "The President and Executive of the Australian"
+    },
+    {
+      "box": [
+        0.17043120682586554,
+        0.3779069772378928,
+        0.531827507019043,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Industries Development Association congratulate you on"
+    },
+    {
+      "box": [
+        0.17026018704998463,
+        0.38890975761618396,
+        0.36173519134521487,
+        0.01562366940930926
+      ],
+      "confidence": 1,
+      "text": "being rewarded for years of national"
+    },
+    {
+      "box": [
+        0.529774130197927,
+        0.38947833779227026,
+        0.19096508026123038,
+        0.011684452717964033
+      ],
+      "confidence": 1,
+      "text": "work by Her Majesty"
+    },
+    {
+      "box": [
+        0.17043120423726116,
+        0.40097259048438705,
+        0.5420944595336914,
+        0.013271595712892825
+      ],
+      "confidence": 1,
+      "text": "in the bestowal of the well merited honour, Commander of"
+    },
+    {
+      "box": [
+        0.17043122364284075,
+        0.41423519003900466,
+        0.316221752166748,
+        0.011636902651462222
+      ],
+      "confidence": 1,
+      "text": "the Order of the British Empire."
+    },
+    {
+      "box": [
+        0.2792607759291256,
+        0.4358974357627683,
+        0.43326488494873044,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "I assure you it was a real pleasure to us to"
+    },
+    {
+      "box": [
+        0.17043121360699218,
+        0.4491279072948211,
+        0.334702262878418,
+        0.013294727585149158
+      ],
+      "confidence": 1,
+      "text": "see your name in the Honours list."
+    },
+    {
+      "box": [
+        0.3675564724870163,
+        0.4723837215208384,
+        0.15605749130249025,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5071868590636425,
+        0.5203359859749256,
+        0.12114989280700683,
+        0.008841732979664063
+      ],
+      "confidence": 0.5,
+      "text": "C. P. Fuzey"
+    },
+    {
+      "box": [
+        0.5215605771348186,
+        0.5290697673783015,
+        0.09034907341003418,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "Director."
+    },
+    {
+      "box": [
+        0.17248460578928687,
+        0.6277630416565106,
+        0.12936344146728512,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.28118361827075816,
+        0.6477351855273693,
+        0.35547256469726557,
+        0.01517865175066746
+      ],
+      "confidence": 1,
+      "text": "My own very sincere congratulations."
+    },
+    {
+      "box": [
+        0.5179869810398497,
+        0.6630519990841168,
+        0.09822302818298345,
+        0.03513685609259298
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "весів"
+    },
+    {
+      "box": [
+        0.03285420749980874,
+        0.8501326263396064,
+        0.2012320327758789,
+        0.016357206012378334
+      ],
+      "confidence": 1,
+      "text": "FROM THE LITTLE GIRL ON"
+    },
+    {
+      "box": [
+        0.04312115328280255,
+        0.869142351852523,
+        0.10266940116882323,
+        0.011671601303060108
+      ],
+      "confidence": 1,
+      "text": "THE LEFT-"
+    },
+    {
+      "box": [
+        0.08414525945076769,
+        0.8820928830958855,
+        0.1150770378112793,
+        0.014884000958645949
+      ],
+      "confidence": 1,
+      "text": "HOEL BORd"
+    },
+    {
+      "box": [
+        0.08418891187916153,
+        0.9026162789359568,
+        0.1232032871246338,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "FRANK YEEND"
+    },
+    {
+      "box": [
+        0.08829569029267842,
+        0.9199823164025372,
+        0.10266940116882325,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "KEN mEF"
+    },
+    {
+      "box": [
+        0.08418891291636879,
+        0.9389534881922552,
+        0.11293634414672851,
+        0.013301153714207814
+      ],
+      "confidence": 1,
+      "text": "MARIE Mer."
+    },
+    {
+      "box": [
+        0.06160164268501797,
+        0.9578488371273975,
+        0.17659137725830076,
+        0.014741790494910312
+      ],
+      "confidence": 1,
+      "text": "BARTON CAMBERRA"
+    }
+  ],
+  "text": "AUSTRALIAN INDUSTEIES\nDEVELOPMENT ASSOCIATION\n90 Queen Street. Melbourne, C.I., Victoria - - Telephone MW 2085\nTELECRAMS: \"AIDIND.\" MELBOURNE.\nCABLES: \"AIDIND. MELBOURNE.\nDIRECTOR: C. P. PUZEY.\nSINCOBRARATING AUSTRALIAN\nINDUSTRIES PROTECTION LEAGUE\n9th\nJune, 1955\nMr. C. E. Ncladyen, C.B.Eo,\nDepartment of Shipping and Transport,\n497 Collins Street,\nMELBOURNE•\nDear Mr. McFadyen,\nThe President and Executive of the Australian\nIndustries Development Association congratulate you on\nbeing rewarded for years of national\nwork by Her Majesty\nin the bestowal of the well merited honour, Commander of\nthe Order of the British Empire.\nI assure you it was a real pleasure to us to\nsee your name in the Honours list.\nYours sincerely,\nC. P. Fuzey\nDirector.\nDear Charles,\nMy own very sincere congratulations.\nвесів\nFROM THE LITTLE GIRL ON\nTHE LEFT-\nHOEL BORd\nFRANK YEEND\nKEN mEF\nMARIE Mer.\nBARTON CAMBERRA",
+  "source_sha256": "050817e3a5f6551903131e817026676cbe1380b2640e4dac89baf64c8ea4eb1f",
+  "status": "machine-draft"
+}

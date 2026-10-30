@@ -1,0 +1,415 @@
+{
+  "candidate_names": [
+    "HAR",
+    "Shane Paltridge",
+    "TOKEN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-068.jpg",
+  "lines": [
+    {
+      "box": [
+        0.6509240292061221,
+        0.23546511626983935,
+        0.19301847457885746,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "28th October, 1957."
+    },
+    {
+      "box": [
+        0.34496919640014156,
+        0.3008720931206146,
+        0.16427104949951166,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "My dear Senatar,"
+    },
+    {
+      "box": [
+        0.44558522396724015,
+        0.3342175066546679,
+        0.36960983276367193,
+        0.01607319067053614
+      ],
+      "confidence": 1,
+      "text": "No message is more welcome to me than"
+    },
+    {
+      "box": [
+        0.3470225937007244,
+        0.3473837208376038,
+        0.22997945785522456,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "your telegram of today."
+    },
+    {
+      "box": [
+        0.6036961033230616,
+        0.34438549955352793,
+        0.1519507122039795,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Since I had the"
+    },
+    {
+      "box": [
+        0.3490759877033669,
+        0.3561046511051107,
+        0.4661190795898438,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "pleasure of knowing you first I have recognised"
+    },
+    {
+      "box": [
+        0.3489716989633058,
+        0.36758546053042007,
+        0.42732578277587885,
+        0.01569960751858157
+      ],
+      "confidence": 1,
+      "text": "the splendid qualities that are inherent in"
+    },
+    {
+      "box": [
+        0.3490759746133824,
+        0.38372093030147414,
+        0.041067762374877914,
+        0.010174418212458791
+      ],
+      "confidence": 1,
+      "text": "you•"
+    },
+    {
+      "box": [
+        0.41683778413863803,
+        0.38063660491873574,
+        0.28131416320800784,
+        0.014712232493595323
+      ],
+      "confidence": 1,
+      "text": "It is doubly pleasing to me,"
+    },
+    {
+      "box": [
+        0.6939117769918576,
+        0.3802870953348032,
+        0.11114974975585945,
+        0.015588600165437172
+      ],
+      "confidence": 1,
+      "text": "therefore,"
+    },
+    {
+      "box": [
+        0.3511293798669582,
+        0.3924418606525564,
+        0.33880901336669916,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "to have you acknowledge my service"
+    },
+    {
+      "box": [
+        0.69199178961891,
+        0.39080459762500874,
+        0.07392196655273431,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "in such"
+    },
+    {
+      "box": [
+        0.3470225904848591,
+        0.40539345693672313,
+        0.11498972892761233,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "kind terms."
+    },
+    {
+      "box": [
+        0.4496920066351354,
+        0.4257294429927494,
+        0.35728950500488277,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "What I have done during the past ten"
+    },
+    {
+      "box": [
+        0.348935530987063,
+        0.4364601890322335,
+        0.42735599517822265,
+        0.014183852231997918
+      ],
+      "confidence": 1,
+      "text": "years is what I have been bound to do in my"
+    },
+    {
+      "box": [
+        0.35318275612705646,
+        0.4520348838287831,
+        0.22587268829345702,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "service to our country."
+    },
+    {
+      "box": [
+        0.6036961009720361,
+        0.44912790745488196,
+        0.19301847457885735,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "It has remained for"
+    },
+    {
+      "box": [
+        0.3531827576910104,
+        0.46065428840082845,
+        0.4702258682250976,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "you to produce results by a kindly understanding"
+    },
+    {
+      "box": [
+        0.35112937259916277,
+        0.47238372139365814,
+        0.47433261871337895,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "and a tenacity of purpose which may I say augurs"
+    },
+    {
+      "box": [
+        0.3511293822748516,
+        0.4840116282250535,
+        0.42505130767822263,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "well for your future career as a Statesman."
+    },
+    {
+      "box": [
+        0.3490759834393951,
+        0.4955791334077968,
+        0.41889114379882814,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "May nothing occur which may deter you from"
+    },
+    {
+      "box": [
+        0.35101408792684735,
+        0.5055499451324106,
+        0.45608745574951176,
+        0.015432848538264654
+      ],
+      "confidence": 1,
+      "text": "reaching the high places in our political life"
+    },
+    {
+      "box": [
+        0.3511293804399393,
+        0.5188953490634092,
+        0.40657081604003903,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "which I feel you are destined to achieve."
+    },
+    {
+      "box": [
+        0.44763860105181996,
+        0.5419982317805219,
+        0.1704312133789062,
+        0.014687814720956482
+      ],
+      "confidence": 1,
+      "text": "With best wishes,"
+    },
+    {
+      "box": [
+        0.5790554499845846,
+        0.5755813955579024,
+        0.20944557189941404,
+        0.013278020998738094
+      ],
+      "confidence": 1,
+      "text": "Yours very sincerely,"
+    },
+    {
+      "box": [
+        0.3511293644635272,
+        0.6467727674874516,
+        0.32854209899902337,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Senator the Hon. Shane Paltridge,"
+    },
+    {
+      "box": [
+        0.3531827638879459,
+        0.6582670203180995,
+        0.3860369491577148,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Minister for Shipping and Transport and"
+    },
+    {
+      "box": [
+        0.37987679892236614,
+        0.6700581398555604,
+        0.2792607688903809,
+        0.01163947276580024
+      ],
+      "confidence": 1,
+      "text": "Minister for Civil Aviation,"
+    },
+    {
+      "box": [
+        0.35318275539749167,
+        0.6816860467668976,
+        0.16837781906127924,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Parliament House,"
+    },
+    {
+      "box": [
+        0.351129365861718,
+        0.6933139537363742,
+        0.09034907341003418,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "CANBERRA."
+    },
+    {
+      "box": [
+        0.2624398224849098,
+        0.799341107076441,
+        0.6557551574707031,
+        0.025464664192773157
+      ],
+      "confidence": 1,
+      "text": "THE MINISTER WAS VERY KiNG TO ME iM HAS MESSAGE OF FAREHELL. I FRAT"
+    },
+    {
+      "box": [
+        0.2274306052975791,
+        0.8130426123813723,
+        0.7113937377929688,
+        0.038486755600447786
+      ],
+      "confidence": 1,
+      "text": "IMPELLED TO REPLY IN THE ABOVE TERMS FOR I RELIEYED THEN AND STILL BRUPe"
+    },
+    {
+      "box": [
+        0.23153431831224566,
+        0.8350402289534877,
+        0.7092546844482421,
+        0.028234960756715055
+      ],
+      "confidence": 1,
+      "text": "THAT NO OTHER MiNISTER WOULD HAVE POSSESSED THE UNDERSTRNEING AND COURAGE"
+    },
+    {
+      "box": [
+        0.23157270248038914,
+        0.852621582594871,
+        0.6845505523681641,
+        0.02664720348084948
+      ],
+      "confidence": 1,
+      "text": "THAT ENABLER SHAME PALTRIABE TO LATALICE HIS GOVERNMENT TO CREATE AN"
+    },
+    {
+      "box": [
+        0.23558364710608848,
+        0.8679458429899157,
+        0.734005126953125,
+        0.030746419486695986
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIAN NATIONAL SHIPPING LINE. HE MUST HAVE ENCOUNTERER STRONG OBPOSSTION"
+    },
+    {
+      "box": [
+        0.2417360942748698,
+        0.8862028970247987,
+        0.6949385833740234,
+        0.03028819204746991
+      ],
+      "confidence": 1,
+      "text": "BOTH INSIDE ANTA OUTSIRE CABINET BUT He MAR EFFECTIVE ANSWERS FROM HIS"
+    },
+    {
+      "box": [
+        0.24398072902998963,
+        0.9079242614464847,
+        0.668115997314453,
+        0.024875863477469062
+      ],
+      "confidence": 1,
+      "text": "OWN MERA OBSERVATIONS. PARTICULARLY IN HESTERN AUSTRALIA, TASMANIA ANO"
+    },
+    {
+      "box": [
+        0.2500239584085233,
+        0.9219404295641395,
+        0.7419937896728516,
+        0.027350708196692275
+      ],
+      "confidence": 1,
+      "text": "QUEENSLANE NHERE THE LACK OF AN FEFICIENT CONSTRA SHIPPING SERVICE HAS FERTiSO \"Penin"
+    },
+    {
+      "box": [
+        0.23778605436695124,
+        0.9393944331706934,
+        0.7234420776367189,
+        0.02750939420637677
+      ],
+      "confidence": 1,
+      "text": "By THE SAME TOKEN, OF COURSE, He MUST HAVE HAR STRONG SUOPORT IN CABINET AND"
+    },
+    {
+      "box": [
+        0.2523137995462951,
+        0.9583846153280514,
+        0.6410709381103517,
+        0.024244396165869708
+      ],
+      "confidence": 1,
+      "text": "I LOSE TO THINK THe PRIME MiNiSTER WAS WiTH HIm AlL THE WAY. hid"
+    }
+  ],
+  "text": "28th October, 1957.\nMy dear Senatar,\nNo message is more welcome to me than\nyour telegram of today.\nSince I had the\npleasure of knowing you first I have recognised\nthe splendid qualities that are inherent in\nyou•\nIt is doubly pleasing to me,\ntherefore,\nto have you acknowledge my service\nin such\nkind terms.\nWhat I have done during the past ten\nyears is what I have been bound to do in my\nservice to our country.\nIt has remained for\nyou to produce results by a kindly understanding\nand a tenacity of purpose which may I say augurs\nwell for your future career as a Statesman.\nMay nothing occur which may deter you from\nreaching the high places in our political life\nwhich I feel you are destined to achieve.\nWith best wishes,\nYours very sincerely,\nSenator the Hon. Shane Paltridge,\nMinister for Shipping and Transport and\nMinister for Civil Aviation,\nParliament House,\nCANBERRA.\nTHE MINISTER WAS VERY KiNG TO ME iM HAS MESSAGE OF FAREHELL. I FRAT\nIMPELLED TO REPLY IN THE ABOVE TERMS FOR I RELIEYED THEN AND STILL BRUPe\nTHAT NO OTHER MiNISTER WOULD HAVE POSSESSED THE UNDERSTRNEING AND COURAGE\nTHAT ENABLER SHAME PALTRIABE TO LATALICE HIS GOVERNMENT TO CREATE AN\nAUSTRALIAN NATIONAL SHIPPING LINE. HE MUST HAVE ENCOUNTERER STRONG OBPOSSTION\nBOTH INSIDE ANTA OUTSIRE CABINET BUT He MAR EFFECTIVE ANSWERS FROM HIS\nOWN MERA OBSERVATIONS. PARTICULARLY IN HESTERN AUSTRALIA, TASMANIA ANO\nQUEENSLANE NHERE THE LACK OF AN FEFICIENT CONSTRA SHIPPING SERVICE HAS FERTiSO \"Penin\nBy THE SAME TOKEN, OF COURSE, He MUST HAVE HAR STRONG SUOPORT IN CABINET AND\nI LOSE TO THINK THe PRIME MiNiSTER WAS WiTH HIm AlL THE WAY. hid",
+  "source_sha256": "2d5effe99930ee2d6be91d5fb99033601090d86dda03d758b052d784fe676b17",
+  "status": "machine-draft"
+}

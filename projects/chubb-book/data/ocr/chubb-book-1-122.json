@@ -1,0 +1,256 @@
+{
+  "candidate_names": [
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.5403384566307068,
+      0.6479929834604263,
+      0.09459373354911804,
+      0.0669098049402237
+    ],
+    [
+      0.4571872055530548,
+      0.6918187998235226,
+      0.07372906059026718,
+      0.05215141549706459
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-122.jpg",
+  "lines": [
+    {
+      "box": [
+        0.43326489960047654,
+        0.15251989409991562,
+        0.25872688293457025,
+        0.010270803402631645
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH OF AUSTRALIA."
+    },
+    {
+      "box": [
+        0.615851064155513,
+        0.18292935570497448,
+        0.13797661781311044,
+        0.011931835076747777
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIA HOUSE,"
+    },
+    {
+      "box": [
+        0.6755646837071694,
+        0.19761273207415786,
+        0.10266940116882328,
+        0.011689593368246931
+      ],
+      "confidence": 1,
+      "text": "LONDON, W.C.2"
+    },
+    {
+      "box": [
+        0.6139630437687168,
+        0.22529069791030842,
+        0.15811087608337404,
+        0.011667746131552859
+      ],
+      "confidence": 1,
+      "text": "15th June, 1955."
+    },
+    {
+      "box": [
+        0.3675564761487831,
+        0.24563953479109224,
+        0.2669404411315918,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "C.H. McFadyen Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.3737166354151502,
+        0.2601744185671552,
+        0.09240245819091797,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.37371664744909383,
+        0.27034883735089266,
+        0.3388090133666992,
+        0.010376184836201285
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.36960986128069495,
+        0.28197674444131615,
+        0.15811087608337404,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Rialto Building,"
+    },
+    {
+      "box": [
+        0.36960985779946326,
+        0.29354553499382363,
+        0.18891170501708981,
+        0.011687022832302052
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.3673198290173847,
+        0.3041023500947293,
+        0.10108929634094238,
+        0.013888322811649534
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.3675564653397767,
+        0.33996463302021607,
+        0.18275154113769532,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.4106776237123524,
+        0.36337209312850893,
+        0.199178638458252,
+        0.010191125220476716
+      ],
+      "confidence": 1,
+      "text": "I read with pleasure"
+    },
+    {
+      "box": [
+        0.3716632508256309,
+        0.37488947846117593,
+        0.199178638458252,
+        0.01028493987470469
+      ],
+      "confidence": 1,
+      "text": "bestowed upon you by"
+    },
+    {
+      "box": [
+        0.5687885003940696,
+        0.3735465119451271,
+        0.16837781906127924,
+        0.010184699513024698
+      ],
+      "confidence": 1,
+      "text": "• the Queen in her"
+    },
+    {
+      "box": [
+        0.3716632531671732,
+        0.3850574712707162,
+        0.37576999664306643,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Birthday Honours List, may I offer you"
+    },
+    {
+      "box": [
+        0.37139818387121565,
+        0.39319445049238144,
+        0.35787158966064453,
+        0.01881457597781444
+      ],
+      "confidence": 1,
+      "text": "congratulations on this well merited"
+    },
+    {
+      "box": [
+        0.37166326017722995,
+        0.40843023273346735,
+        0.35728950500488277,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "award for the great service you have"
+    },
+    {
+      "box": [
+        0.3735233669491329,
+        0.4184522679925251,
+        0.363763313293457,
+        0.014789252445615464
+      ],
+      "confidence": 1,
+      "text": "given to the Commonwealth Government."
+    },
+    {
+      "box": [
+        0.5092402498964131,
+        0.44331395383085104,
+        0.16016426086425772,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5215605791942426,
+        0.5232558138027201,
+        0.13963038444519038,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "D.K. BARKER)"
+    },
+    {
+      "box": [
+        0.4330980149891655,
+        0.5331881938125701,
+        0.3453490829467774,
+        0.01795787457129694
+      ],
+      "confidence": 1,
+      "text": "PUBLIC SERVICE BOARD REPRESENTATIVE"
+    },
+    {
+      "box": [
+        0.7595590399686235,
+        0.7348494718999933,
+        0.10716528892517085,
+        0.018673148859295607
+      ],
+      "confidence": 1,
+      "text": "N.G. DUFFY"
+    },
+    {
+      "box": [
+        0.7823408646928454,
+        0.758620689942174,
+        0.1991786384582519,
+        0.019009725906277586
+      ],
+      "confidence": 1,
+      "text": "AND fOUNG BILL (SMTHS)"
+    }
+  ],
+  "text": "COMMONWEALTH OF AUSTRALIA.\nAUSTRALIA HOUSE,\nLONDON, W.C.2\n15th June, 1955.\nC.H. McFadyen Esq., C.B.E.,\nSecretary,\nDepartment of Shipping & Transport,\nRialto Building,\n497 Collins Street,\nMELBOURNE.\nDear Mr. McFadyen,\nI read with pleasure\nbestowed upon you by\n• the Queen in her\nBirthday Honours List, may I offer you\ncongratulations on this well merited\naward for the great service you have\ngiven to the Commonwealth Government.\nYours sincerely,\nD.K. BARKER)\nPUBLIC SERVICE BOARD REPRESENTATIVE\nN.G. DUFFY\nAND fOUNG BILL (SMTHS)",
+  "source_sha256": "a8eae9013ffbfcf3d96fed276dff77e8cf47c022ddd0074fc3e22ef18523c888",
+  "status": "machine-draft"
+}

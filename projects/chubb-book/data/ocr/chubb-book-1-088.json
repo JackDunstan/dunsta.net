@@ -1,0 +1,475 @@
+{
+  "candidate_names": [
+    "McFadyen",
+    "SMITH",
+    "Wor"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-088.jpg",
+  "lines": [
+    {
+      "box": [
+        0.1293634521895369,
+        0.10742705570406663,
+        0.1827515411376953,
+        0.008852013858623109
+      ],
+      "confidence": 1,
+      "text": "Telephones: MF 4848 - MF 4849"
+    },
+    {
+      "box": [
+        0.1868583324317909,
+        0.13081395361686854,
+        0.5400410461425782,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "Commonuealth Public Seruire Clerical Angoriation"
+    },
+    {
+      "box": [
+        0.27104722226066214,
+        0.1497093025061087,
+        0.36550308227539063,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "(Registered as an Organisation under the Conciliation and Arbitration Act)"
+    },
+    {
+      "box": [
+        0.1314168390916094,
+        0.16710875343446308,
+        0.10266940116882323,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "GENERAL SECRETARY"
+    },
+    {
+      "box": [
+        0.14579056068319518,
+        0.17285587973339633,
+        0.12936344146728512,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "G. W. F. SMITH, LL.B."
+    },
+    {
+      "box": [
+        0.3798767972366794,
+        0.17441860485591487,
+        0.13963038444519044,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "CENTRAL EXECUTIVE"
+    },
+    {
+      "box": [
+        0.1314168446477431,
+        0.1918604650632143,
+        0.1416837692260742,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "TELEGRAPHIC CODE ADDRESS"
+    },
+    {
+      "box": [
+        0.14373717179937753,
+        0.1989389921364476,
+        0.14579054832458496,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "\"CLERICAL,\" MELBOURNE."
+    },
+    {
+      "box": [
+        0.2276941446282882,
+        0.20709401803951077,
+        0.06206551074981692,
+        0.011684056829288969
+      ],
+      "confidence": 1,
+      "text": "GWS: EM"
+    },
+    {
+      "box": [
+        0.1314168403743443,
+        0.2223695844050948,
+        0.11909650802612304,
+        0.00728157829331888
+      ],
+      "confidence": 1,
+      "text": "PLEASE QUOTE IN REPLY"
+    },
+    {
+      "box": [
+        0.22381930128840266,
+        0.23110465127468438,
+        0.05338809013366702,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "12/3."
+    },
+    {
+      "box": [
+        0.5667351152492277,
+        0.1976127322185678,
+        0.13141683578491214,
+        0.010236104751033759
+      ],
+      "confidence": 1,
+      "text": "V.C.A. BUILDING,"
+    },
+    {
+      "box": [
+        0.5893223851172664,
+        0.2122015914236931,
+        0.14373716354370114,
+        0.011635617594293102
+      ],
+      "confidence": 1,
+      "text": "1 COLLINS PLACE,"
+    },
+    {
+      "box": [
+        0.622176593538071,
+        0.228116710701737,
+        0.13141683578491203,
+        0.01025538229499634
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE, C.1."
+    },
+    {
+      "box": [
+        0.5604225769446878,
+        0.2521178148704686,
+        0.1522448539733886,
+        0.017236524930999586
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955•"
+    },
+    {
+      "box": [
+        0.2299794688596314,
+        0.3008720930261378,
+        0.27720739364624025,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "c.E. McFadyen, Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.22987959978767036,
+        0.3149774647611887,
+        0.09670897483825686,
+        0.012486930867405044
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.22997947996011525,
+        0.324049513766397,
+        0.34496917724609377,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.22997947074883116,
+        0.3372093022620225,
+        0.18685831069946288,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.22587269148850958,
+        0.35029069799249546,
+        0.10677618026733399,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE•"
+    },
+    {
+      "box": [
+        0.22997947397978544,
+        0.38372093045346345,
+        0.1786447525024414,
+        0.014599139873798128
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.31006161192333054,
+        0.406976744363974,
+        0.30390142440795903,
+        0.010353052120731565
+      ],
+      "confidence": 1,
+      "text": "I should like to extend to you,"
+    },
+    {
+      "box": [
+        0.6201232033125484,
+        0.40406719696244675,
+        0.1622176551818847,
+        0.011630477365616954
+      ],
+      "confidence": 1,
+      "text": "on behalf of the"
+    },
+    {
+      "box": [
+        0.229979481043884,
+        0.4186046514142493,
+        0.30800819396972656,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Association and myself, sincere"
+    },
+    {
+      "box": [
+        0.5420944592252068,
+        0.4171511628959508,
+        0.21971252441406253,
+        0.010346626834886297
+      ],
+      "confidence": 1,
+      "text": "congratulations on the"
+    },
+    {
+      "box": [
+        0.22997947589342174,
+        0.4301503096476349,
+        0.3860369491577149,
+        0.011710155126165245
+      ],
+      "confidence": 1,
+      "text": "honour which has been conferred on you."
+    },
+    {
+      "box": [
+        0.30787965559833863,
+        0.4492776741264519,
+        0.48488201141357423,
+        0.017086192636127207
+      ],
+      "confidence": 1,
+      "text": "The award to you of the C.B.E. will no doubt give"
+    },
+    {
+      "box": [
+        0.23203286164516107,
+        0.46640141458154627,
+        0.2156057357788086,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "satisfaction, not only"
+    },
+    {
+      "box": [
+        0.44969199437845103,
+        0.4650751548341392,
+        0.1190965080261231,
+        0.010215542571508807
+      ],
+      "confidence": 1,
+      "text": "to officers"
+    },
+    {
+      "box": [
+        0.5993577447060247,
+        0.4620779855165307,
+        0.19354206085205083,
+        0.013772495650907879
+      ],
+      "confidence": 1,
+      "text": "your own Department"
+    },
+    {
+      "box": [
+        0.22997946801965014,
+        0.4781976746060448,
+        0.17043121337890627,
+        0.011634332537123981
+      ],
+      "confidence": 1,
+      "text": "with whom you are"
+    },
+    {
+      "box": [
+        0.40041067616650694,
+        0.47524314732242845,
+        0.3244353103637695,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "directly associated, but also to"
+    },
+    {
+      "box": [
+        0.2320328562183544,
+        0.489825581643351,
+        0.18891170501708987,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "officers generally."
+    },
+    {
+      "box": [
+        0.30989957791510747,
+        0.5089856458679977,
+        0.43563537597656254,
+        0.015081474783144366
+      ],
+      "confidence": 1,
+      "text": "I am sure it will afford no small measure of"
+    },
+    {
+      "box": [
+        0.23192204824953622,
+        0.5211435859034302,
+        0.5608055877685547,
+        0.015287653942428592
+      ],
+      "confidence": 1,
+      "text": "satisfaction to yourself that your services have received"
+    },
+    {
+      "box": [
+        0.22997946382912104,
+        0.5362511053723505,
+        0.26899383544921873,
+        0.011714010719279022
+      ],
+      "confidence": 1,
+      "text": "recognition in this manner."
+    },
+    {
+      "box": [
+        0.4394250559778201,
+        0.558139535092786,
+        0.15811087608337404,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5585215649382355,
+        0.6264367818895006,
+        0.16632442474365228,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "(GEO. W.F. SMITH)"
+    },
+    {
+      "box": [
+        0.5954825536666436,
+        0.6497093022329526,
+        0.1786447525024415,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "GENERAL SECRETARY•"
+    },
+    {
+      "box": [
+        0.1968488680831449,
+        0.8099815857116511,
+        0.5631267166137695,
+        0.0224985836039171
+      ],
+      "confidence": 1,
+      "text": "I WAS FiRST PRESIDENT ANT EXECUTIVE COUNCiLLOR OF THE"
+    },
+    {
+      "box": [
+        0.15178092056896175,
+        0.8323169309129073,
+        0.5876378250122071,
+        0.018802993599025597
+      ],
+      "confidence": 1,
+      "text": "FEDERMA CAPITRA TERRITORY BRANCH OF THE CP.SCA. HATING"
+    },
+    {
+      "box": [
+        0.15180261454772156,
+        0.8515284310265907,
+        0.5815190124511719,
+        0.020936388341227463
+      ],
+      "confidence": 1,
+      "text": "Wor AuToNomy FOR THE TERRITORY AT THE AMMURL MEETING"
+    },
+    {
+      "box": [
+        0.15195072607670007,
+        0.8662790699416109,
+        0.597535934448242,
+        0.02054674787715305
+      ],
+      "confidence": 1,
+      "text": "OR THE FERERAL EZECUTIVE IN MERBOURNE IN 1924. PRIOR TO THAT"
+    },
+    {
+      "box": [
+        0.155757193065362,
+        0.8829940085078933,
+        0.5426445770263673,
+        0.02300149291938225
+      ],
+      "confidence": 1,
+      "text": "DATE WE WERE A SECTIONAL COMMITTER OF THE MSH. BOnY."
+    },
+    {
+      "box": [
+        0.1577975091319597,
+        0.897906567545156,
+        0.5900899124145508,
+        0.025596583237382342
+      ],
+      "confidence": 1,
+      "text": "F.C.MEERe WAS THe FIRST SECRETARY. He HAS LATER KNIGHTER AS"
+    },
+    {
+      "box": [
+        0.15571801149730427,
+        0.917676314762456,
+        0.4052584838867188,
+        0.019701717386827466
+      ],
+      "confidence": 1,
+      "text": "COmPTROLLER GENERAL REDS. CUSTOMS • EXCISE"
+    }
+  ],
+  "text": "Telephones: MF 4848 - MF 4849\nCommonuealth Public Seruire Clerical Angoriation\n(Registered as an Organisation under the Conciliation and Arbitration Act)\nGENERAL SECRETARY\nG. W. F. SMITH, LL.B.\nCENTRAL EXECUTIVE\nTELEGRAPHIC CODE ADDRESS\n\"CLERICAL,\" MELBOURNE.\nGWS: EM\nPLEASE QUOTE IN REPLY\n12/3.\nV.C.A. BUILDING,\n1 COLLINS PLACE,\nMELBOURNE, C.1.\n9th June, 1955•\nc.E. McFadyen, Esq., C.B.E.,\nSecretary,\nDepartment of Shipping & Transport,\n497 Collins Street,\nMELBOURNE•\nDear Mr. McFadyen,\nI should like to extend to you,\non behalf of the\nAssociation and myself, sincere\ncongratulations on the\nhonour which has been conferred on you.\nThe award to you of the C.B.E. will no doubt give\nsatisfaction, not only\nto officers\nyour own Department\nwith whom you are\ndirectly associated, but also to\nofficers generally.\nI am sure it will afford no small measure of\nsatisfaction to yourself that your services have received\nrecognition in this manner.\nYours sincerely,\n(GEO. W.F. SMITH)\nGENERAL SECRETARY•\nI WAS FiRST PRESIDENT ANT EXECUTIVE COUNCiLLOR OF THE\nFEDERMA CAPITRA TERRITORY BRANCH OF THE CP.SCA. HATING\nWor AuToNomy FOR THE TERRITORY AT THE AMMURL MEETING\nOR THE FERERAL EZECUTIVE IN MERBOURNE IN 1924. PRIOR TO THAT\nDATE WE WERE A SECTIONAL COMMITTER OF THE MSH. BOnY.\nF.C.MEERe WAS THe FIRST SECRETARY. He HAS LATER KNIGHTER AS\nCOmPTROLLER GENERAL REDS. CUSTOMS • EXCISE",
+  "source_sha256": "ea600c14e26414e654e6f78f3769effb8780eb277955d722969b17dee89c5a3d",
+  "status": "machine-draft"
+}

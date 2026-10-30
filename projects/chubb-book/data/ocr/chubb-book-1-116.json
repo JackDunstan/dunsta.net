@@ -1,0 +1,146 @@
+{
+  "candidate_names": [
+    "KEITH ANG MARiE"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.2881682515144348,
+      0.7048340514302254,
+      0.1135498434305191,
+      0.08031819015741348
+    ],
+    [
+      0.48714300990104675,
+      0.7296733558177948,
+      0.1085672676563263,
+      0.07679381966590881
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-116.jpg",
+  "lines": [
+    {
+      "box": [
+        0.21355236433304847,
+        0.17441860461366687,
+        0.12731005668640133,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "OFFICE OF THE CHAIRMAN"
+    },
+    {
+      "box": [
+        0.295687885737613,
+        0.1264367819079576,
+        0.28747432708740234,
+        0.01458885941644572
+      ],
+      "confidence": 1,
+      "text": "Australian Broadcasting Control Board"
+    },
+    {
+      "box": [
+        0.5338809044514484,
+        0.16843501310937603,
+        0.13141683578491203,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "497-503 COLLINS STREET"
+    },
+    {
+      "box": [
+        0.5564681741303622,
+        0.17860300616556268,
+        0.08418889999389645,
+        0.0045365283807540235
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE, C."
+    },
+    {
+      "box": [
+        0.24024641042432335,
+        0.27034883716939384,
+        0.24435317993164066,
+        0.026291304199596466
+      ],
+      "confidence": 0.5,
+      "text": "dea M. Antadyer,"
+    },
+    {
+      "box": [
+        0.4229979483795793,
+        0.30946065456478056,
+        0.24845994949340816,
+        0.02210433244915999
+      ],
+      "confidence": 1,
+      "text": "dead ant fear pleasure"
+    },
+    {
+      "box": [
+        0.26283367805466645,
+        0.3604651163869226,
+        0.08418890953063957,
+        0.00872093001685248
+      ],
+      "confidence": 0.5,
+      "text": "amou"
+    },
+    {
+      "box": [
+        0.45485545012066875,
+        0.3492919096579957,
+        0.1774369812011718,
+        0.024622084923701215
+      ],
+      "confidence": 1,
+      "text": "f you bbt."
+    },
+    {
+      "box": [
+        0.44661567176987677,
+        0.39469009932426347,
+        0.24434169769287112,
+        0.033244830333058695
+      ],
+      "confidence": 0.5,
+      "text": "sper my atlako,"
+    },
+    {
+      "box": [
+        0.23408623844060564,
+        0.4389534890445923,
+        0.3593429183959961,
+        0.02346914579760817
+      ],
+      "confidence": 1,
+      "text": "a las vell came distritori."
+    },
+    {
+      "box": [
+        0.4763376621949944,
+        0.5434904503177201,
+        0.14383391380310062,
+        0.03075165752812259
+      ],
+      "confidence": 0.5,
+      "text": "Poston"
+    },
+    {
+      "box": [
+        0.3177314864920331,
+        0.9225531793032136,
+        0.1920503616333008,
+        0.019673127394456147
+      ],
+      "confidence": 1,
+      "text": "KEITH ANG MARiE"
+    }
+  ],
+  "text": "OFFICE OF THE CHAIRMAN\nAustralian Broadcasting Control Board\n497-503 COLLINS STREET\nMELBOURNE, C.\ndea M. Antadyer,\ndead ant fear pleasure\namou\nf you bbt.\nsper my atlako,\na las vell came distritori.\nPoston\nKEITH ANG MARiE",
+  "source_sha256": "0827f0f73e0592dd56c8168c15026ab9fde98d835c61b013262fb84018e118b4",
+  "status": "machine-draft"
+}

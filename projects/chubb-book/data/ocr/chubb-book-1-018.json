@@ -1,0 +1,53 @@
+{
+  "candidate_names": [
+    "CHARLES DiCKENS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-018.jpg",
+  "lines": [
+    {
+      "box": [
+        0.19908829567988717,
+        0.4357893758306237,
+        0.5792075347900391,
+        0.017737554723872728
+      ],
+      "confidence": 1,
+      "text": "A BERUTIFUL HOOD CARVING IN THE CATHEDRAL AT BRUSSELS-"
+    },
+    {
+      "box": [
+        0.42094455981567214,
+        0.5436046511097259,
+        0.03490759611129762,
+        0.007267441821245946
+      ],
+      "confidence": 0.5,
+      "text": "bhotell"
+    },
+    {
+      "box": [
+        0.1661738935848701,
+        0.9498514320511804,
+        0.772359161376953,
+        0.018642374944307427
+      ],
+      "confidence": 1,
+      "text": "THIS CITY HALL ANO OTHER BEAUTIFUL BUILDINOS IN THE CITY SPURRE WERE RN INSPIRATION TO"
+    },
+    {
+      "box": [
+        0.19276601161574433,
+        0.9684961955137827,
+        0.4173934555053711,
+        0.019987905689512697
+      ],
+      "confidence": 1,
+      "text": "CHARLES DiCKENS WHO WAS A FREQUENT VISITOR."
+    }
+  ],
+  "text": "A BERUTIFUL HOOD CARVING IN THE CATHEDRAL AT BRUSSELS-\nbhotell\nTHIS CITY HALL ANO OTHER BEAUTIFUL BUILDINOS IN THE CITY SPURRE WERE RN INSPIRATION TO\nCHARLES DiCKENS WHO WAS A FREQUENT VISITOR.",
+  "source_sha256": "10298f2b6ce24957966d4bdc02a225edd988181eb3dec19285e8c24096da49e7",
+  "status": "machine-draft"
+}

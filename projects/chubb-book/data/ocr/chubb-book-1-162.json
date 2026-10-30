@@ -1,0 +1,195 @@
+{
+  "candidate_names": [
+    "PROUT",
+    "SAM CAMERON",
+    "SIsSONS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-162.jpg",
+  "lines": [
+    {
+      "box": [
+        0.26481688425269007,
+        0.5404507979241455,
+        0.1212902545928955,
+        0.017935613738447098
+      ],
+      "confidence": 1,
+      "text": "W. Edmenda,"
+    },
+    {
+      "box": [
+        0.28747433292889923,
+        0.5595930233366961,
+        0.1314168357849121,
+        0.024709301854950683
+      ],
+      "confidence": 1,
+      "text": "Photographer."
+    },
+    {
+      "box": [
+        0.5893223832135246,
+        0.5450581392822593,
+        0.15605749130249025,
+        0.019044424979482222
+      ],
+      "confidence": 0.5,
+      "text": "846 Cárard St"
+    },
+    {
+      "box": [
+        0.2731006152037321,
+        0.6148255819989238,
+        0.2874743270874024,
+        0.016032066311486348
+      ],
+      "confidence": 1,
+      "text": "ARTHUR SPENCE ERiC JONES"
+    },
+    {
+      "box": [
+        0.5933655705789627,
+        0.6160683325853129,
+        0.104849967956543,
+        0.016409846136361317
+      ],
+      "confidence": 1,
+      "text": "ALICIS PROUT"
+    },
+    {
+      "box": [
+        0.2546201267623055,
+        0.640988372660261,
+        0.2956878852844238,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "CHARLES MOFARTEN BILL. CAMERON"
+    },
+    {
+      "box": [
+        0.5974515010091973,
+        0.6422054600262285,
+        0.09667810440063473,
+        0.017914661572740576
+      ],
+      "confidence": 1,
+      "text": "foy Sissons"
+    },
+    {
+      "box": [
+        0.19712526383740925,
+        0.6715116281584355,
+        0.14784393310546873,
+        0.013280591113076112
+      ],
+      "confidence": 0.5,
+      "text": "Ne PeRTEa In A"
+    },
+    {
+      "box": [
+        0.34291581210915195,
+        0.6642441858873172,
+        0.33675563812255865,
+        0.021874293724485017
+      ],
+      "confidence": 1,
+      "text": "'CANTATA AT MORELANO STATE SCHOOL."
+    },
+    {
+      "box": [
+        0.20123204592488209,
+        0.6931918651924158,
+        0.6776180267333984,
+        0.016110459858078907
+      ],
+      "confidence": 1,
+      "text": "/ WAS CHEERY TOmmY, CAMERON HAS TOm TiCKLETOOTH AND SISSOrS WiS THe ARCHER"
+    },
+    {
+      "box": [
+        0.2032854451227142,
+        0.7165697678698056,
+        0.49897327423095705,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "ALICK PROUT TiER RECENTLy AT HeIMERBeRG MATARY HOSPITAL."
+    },
+    {
+      "box": [
+        0.7063654991291461,
+        0.7165697675549043,
+        0.17248460769653318,
+        0.008894423274842023
+      ],
+      "confidence": 1,
+      "text": "ERIC JONeS HAS ON mY"
+    },
+    {
+      "box": [
+        0.20510411049054653,
+        0.7290412960866339,
+        0.6944850158691406,
+        0.021879148103830404
+      ],
+      "confidence": 1,
+      "text": "STAFF 19T LNMUSTRIAL DEYSROPMENT PUR. I SAM CAMERON SEVERAL TIMES FURING"
+    },
+    {
+      "box": [
+        0.2010636842461936,
+        0.7489188206291184,
+        0.6635860443115235,
+        0.018448253736150333
+      ],
+      "confidence": 1,
+      "text": "THE LAST HAR. He MAS AN ENGIVEER HOLDING TAr SMORTANT POSITiON WITH A"
+    },
+    {
+      "box": [
+        0.20301046490235636,
+        0.7638530454520587,
+        0.6740997314453125,
+        0.024789745253234963
+      ],
+      "confidence": 1,
+      "text": "COMPANy WHOSE NAME I HAVE FORGOTTEN. I AM UNAHARE IF SPENCE \" SIsSONS"
+    },
+    {
+      "box": [
+        0.2092127396324908,
+        0.7787121705922331,
+        0.6801611328125,
+        0.021956041573845675
+      ],
+      "confidence": 1,
+      "text": "ARE STILL HITH US. MORELAND HAS ONE OF OUR LEADING STATE SCrOOLS. HITH"
+    },
+    {
+      "box": [
+        0.207081477900678,
+        0.7914241250487359,
+        0.7150584411621094,
+        0.025612939047033434
+      ],
+      "confidence": 1,
+      "text": "QUITe A FEW OTHERS 1 WON A SOrT SCHOLARSHIP TO SCOTCy COLLeGe IN THE 1906 ExAMS."
+    },
+    {
+      "box": [
+        0.8507385337975449,
+        0.8212680701235245,
+        0.0759911584854126,
+        0.029030483660710593
+      ],
+      "confidence": 1,
+      "text": "27-5.65"
+    }
+  ],
+  "text": "W. Edmenda,\nPhotographer.\n846 Cárard St\nARTHUR SPENCE ERiC JONES\nALICIS PROUT\nCHARLES MOFARTEN BILL. CAMERON\nfoy Sissons\nNe PeRTEa In A\n'CANTATA AT MORELANO STATE SCHOOL.\n/ WAS CHEERY TOmmY, CAMERON HAS TOm TiCKLETOOTH AND SISSOrS WiS THe ARCHER\nALICK PROUT TiER RECENTLy AT HeIMERBeRG MATARY HOSPITAL.\nERIC JONeS HAS ON mY\nSTAFF 19T LNMUSTRIAL DEYSROPMENT PUR. I SAM CAMERON SEVERAL TIMES FURING\nTHE LAST HAR. He MAS AN ENGIVEER HOLDING TAr SMORTANT POSITiON WITH A\nCOMPANy WHOSE NAME I HAVE FORGOTTEN. I AM UNAHARE IF SPENCE \" SIsSONS\nARE STILL HITH US. MORELAND HAS ONE OF OUR LEADING STATE SCrOOLS. HITH\nQUITe A FEW OTHERS 1 WON A SOrT SCHOLARSHIP TO SCOTCy COLLeGe IN THE 1906 ExAMS.\n27-5.65",
+  "source_sha256": "cf77f1e322d4353ec68bbba2d400b483ce36c1eb4cc628361a054d4e2b2a038b",
+  "status": "machine-draft"
+}

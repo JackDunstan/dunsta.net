@@ -1,0 +1,215 @@
+{
+  "candidate_names": [
+    "CHAMBeRS",
+    "CHARLES",
+    "COLIN FRASER",
+    "DUA",
+    "HAR",
+    "ViAR"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.40152743458747864,
+      0.20258574187755585,
+      0.09425271302461624,
+      0.06666858494281769
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-036.jpg",
+  "lines": [
+    {
+      "box": [
+        0.17237401184800497,
+        0.5112678155980799,
+        0.11759693145751951,
+        0.015064801082054546
+      ],
+      "confidence": 1,
+      "text": "CECIL PUZE-"
+    },
+    {
+      "box": [
+        0.38398357116340903,
+        0.5114942530442856,
+        0.12320328712463374,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "HAROLE GREEN"
+    },
+    {
+      "box": [
+        0.6344969205328311,
+        0.5087209300900913,
+        0.15400410652160645,
+        0.014709662379257304
+      ],
+      "confidence": 1,
+      "text": "CHARLES N/FAN YEN."
+    },
+    {
+      "box": [
+        0.2029199148601073,
+        0.5418936151759626,
+        0.7563479614257812,
+        0.025726910295157612
+      ],
+      "confidence": 1,
+      "text": "H.C.GREEN HAS ChOSELY ASSOCIATER WITH SIR GEORGe INIBBS COmMONWCALTH STATISTICIAN."
+    },
+    {
+      "box": [
+        0.18215437795066436,
+        0.5588589001058157,
+        0.7652472686767579,
+        0.03865310979247838
+      ],
+      "confidence": 1,
+      "text": "He WAS ONe OF THe NATIONAL INSURANCE COmmISSIONERS WITH PROFESSOR BRISTEN BUT"
+    },
+    {
+      "box": [
+        0.1822896779775202,
+        0.5782876539654247,
+        0.7588034057617188,
+        0.037092347149296656
+      ],
+      "confidence": 1,
+      "text": "THe Seeme FAIr NOT ReACH FRUITION. AT THe OUTBReAK OF ViAR IN 1939 He BecAme"
+    },
+    {
+      "box": [
+        0.19031163919509808,
+        0.5971259900308759,
+        0.7324739074707032,
+        0.03935806652173657
+      ],
+      "confidence": 1,
+      "text": "CONTROLER, MATERIARS SUPPLY DePARTMENT OF MUNITIONS. / DOINeR HIM IN 1940"
+    },
+    {
+      "box": [
+        0.19225082259545587,
+        0.6137374266179337,
+        0.7200965118408202,
+        0.04106951307976381
+      ],
+      "confidence": 1,
+      "text": "AS LIAISON OFFICER BETWEEN HIS ORGANISATION AND THe DePT. OF TRADE A CUSTOmS."
+    },
+    {
+      "box": [
+        0.18998018556715018,
+        0.6288926897824826,
+        0.7678106689453124,
+        0.04351681170476218
+      ],
+      "confidence": 1,
+      "text": "I TRANSFERRER TO MUNITIONS IN IGHA. HAROMA GREEN BECAMe HIReCTOR OF MATeRIRAS"
+    },
+    {
+      "box": [
+        0.19185605188083513,
+        0.6447399897667706,
+        0.7373040008544922,
+        0.05044126131174109
+      ],
+      "confidence": 1,
+      "text": "SUpeRy ON THe RETIReMENT OF SIR COLIN FRASER. AFTeR THe HAR Ne LeFT THe SoiT."
+    },
+    {
+      "box": [
+        0.1982334712843418,
+        0.660917029981633,
+        0.7581576538085938,
+        0.050562726197044605
+      ],
+      "confidence": 1,
+      "text": "SeRrIce AND Lorder Sianey Core Co. He as non MANAGING FIReCTOR ARE ONe DE DUA"
+    },
+    {
+      "box": [
+        0.1959984136401,
+        0.7010479769415735,
+        0.22970760345458985,
+        0.025807613403158403
+      ],
+      "confidence": 1,
+      "text": "ToP Business ExeCUTIvES."
+    },
+    {
+      "box": [
+        0.20012115498202462,
+        0.6935098506798405,
+        0.7782415771484374,
+        0.05151280842451367
+      ],
+      "confidence": 1,
+      "text": "CEcIL Posey WAS WITH me IN The divIsION OF INgUSTRIAL HereroPmenT. TeRr. DE PosT HAR"
+    },
+    {
+      "box": [
+        0.19790304672309225,
+        0.7134702427575415,
+        0.7638970947265624,
+        0.04848591191488272
+      ],
+      "confidence": 1,
+      "text": "RECONSTRUCTiON. He NAS BEEN DIRECTOR OF AUSTRALIAN INEUSTRIES MereLOPmeNT ASSN."
+    },
+    {
+      "box": [
+        0.20213621363031892,
+        0.7279246836236328,
+        0.7311886596679686,
+        0.055158777009270854
+      ],
+      "confidence": 1,
+      "text": "FOR mANy YeARS NOW AND HAS BUNT THAT ORGANiSATiON TO THe ExTeNT THAT IT IS"
+    },
+    {
+      "box": [
+        0.20611972406963772,
+        0.7466975715653468,
+        0.6755679321289062,
+        0.04943105628488342
+      ],
+      "confidence": 1,
+      "text": "TORAY THe PRINCIDAL MANUFACTUReRS BODY IN AUSTRAMA. H HAS ECLiPSEn"
+    },
+    {
+      "box": [
+        0.21225690892935106,
+        0.7552154567186619,
+        0.7601082611083985,
+        0.05917246419702549
+      ],
+      "confidence": 1,
+      "text": "ASSOCIATER CHAMBeRS OF MANUFACTUReS IN ITS EFFECTIVe PReSenTATION TO PoVeRNmeNTS"
+    },
+    {
+      "box": [
+        0.20821079313757593,
+        0.7714815548007251,
+        0.7416326141357422,
+        0.05975341122304301
+      ],
+      "confidence": 1,
+      "text": "EveRYWHeRe THe VIeWPOINTS OF AUSTRALIAN MANUFACTUReRS ArE THe ECONOmICS OF THe"
+    },
+    {
+      "box": [
+        0.20291520232162738,
+        0.8145472490306173,
+        0.4134842681884765,
+        0.0286475855307069
+      ],
+      "confidence": 1,
+      "text": "VARIED INAUSTRIES IN THIS COUNTRY MI26/8165"
+    }
+  ],
+  "text": "CECIL PUZE-\nHAROLE GREEN\nCHARLES N/FAN YEN.\nH.C.GREEN HAS ChOSELY ASSOCIATER WITH SIR GEORGe INIBBS COmMONWCALTH STATISTICIAN.\nHe WAS ONe OF THe NATIONAL INSURANCE COmmISSIONERS WITH PROFESSOR BRISTEN BUT\nTHe Seeme FAIr NOT ReACH FRUITION. AT THe OUTBReAK OF ViAR IN 1939 He BecAme\nCONTROLER, MATERIARS SUPPLY DePARTMENT OF MUNITIONS. / DOINeR HIM IN 1940\nAS LIAISON OFFICER BETWEEN HIS ORGANISATION AND THe DePT. OF TRADE A CUSTOmS.\nI TRANSFERRER TO MUNITIONS IN IGHA. HAROMA GREEN BECAMe HIReCTOR OF MATeRIRAS\nSUpeRy ON THe RETIReMENT OF SIR COLIN FRASER. AFTeR THe HAR Ne LeFT THe SoiT.\nSeRrIce AND Lorder Sianey Core Co. He as non MANAGING FIReCTOR ARE ONe DE DUA\nToP Business ExeCUTIvES.\nCEcIL Posey WAS WITH me IN The divIsION OF INgUSTRIAL HereroPmenT. TeRr. DE PosT HAR\nRECONSTRUCTiON. He NAS BEEN DIRECTOR OF AUSTRALIAN INEUSTRIES MereLOPmeNT ASSN.\nFOR mANy YeARS NOW AND HAS BUNT THAT ORGANiSATiON TO THe ExTeNT THAT IT IS\nTORAY THe PRINCIDAL MANUFACTUReRS BODY IN AUSTRAMA. H HAS ECLiPSEn\nASSOCIATER CHAMBeRS OF MANUFACTUReS IN ITS EFFECTIVe PReSenTATION TO PoVeRNmeNTS\nEveRYWHeRe THe VIeWPOINTS OF AUSTRALIAN MANUFACTUReRS ArE THe ECONOmICS OF THe\nVARIED INAUSTRIES IN THIS COUNTRY MI26/8165",
+  "source_sha256": "fb2035088ef7673dfd93b423be000542de0efc753c06e5bd4844f22826f36665",
+  "status": "machine-draft"
+}

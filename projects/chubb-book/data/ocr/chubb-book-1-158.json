@@ -1,0 +1,381 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-158.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4104684954637227,
+        0.12344841466366063,
+        0.2509663772583008,
+        0.013278005820897443
+      ],
+      "confidence": 1,
+      "text": "BRITISH PAINTS LIMITED."
+    },
+    {
+      "box": [
+        0.28542094426063,
+        0.19476744205108443,
+        0.032854208946228036,
+        0.0058139532040327735
+      ],
+      "confidence": 1,
+      "text": "FROM"
+    },
+    {
+      "box": [
+        0.2546201246246844,
+        0.20335985854207717,
+        0.0965092277526855,
+        0.0030946065428824054
+      ],
+      "confidence": 1,
+      "text": "DIRECTORS GREECE"
+    },
+    {
+      "box": [
+        0.26694045232712665,
+        0.225290697689413,
+        0.073921971321106,
+        0.01453488364249178
+      ],
+      "confidence": 0.5,
+      "text": "FRM/VI."
+    },
+    {
+      "box": [
+        0.6550308061942787,
+        0.15988372103808546,
+        0.11088294982910152,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "31, WAPPING,"
+    },
+    {
+      "box": [
+        0.696098568299756,
+        0.17727674607039212,
+        0.11704311370849607,
+        0.010223253757736583
+      ],
+      "confidence": 1,
+      "text": "LIVERPOOL, I."
+    },
+    {
+      "box": [
+        0.6509240300537954,
+        0.19761273203118013,
+        0.15811087608337404,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "TELEPHONE: LIVERPOOL ROYAL 7368"
+    },
+    {
+      "box": [
+        0.65913758078804,
+        0.20494186041205142,
+        0.14373716354370114,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "TELEGRAMS: APEXIOR, LIVERPOOL"
+    },
+    {
+      "box": [
+        0.6652977440615812,
+        0.23253757757567972,
+        0.09034907341003418,
+        0.010194980391983854
+      ],
+      "confidence": 1,
+      "text": "20th June"
+    },
+    {
+      "box": [
+        0.7659137580145036,
+        0.2325581396467774,
+        0.05749486446380614,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "1955"
+    },
+    {
+      "box": [
+        0.6630132822536555,
+        0.2388367861927041,
+        0.13615671157836917,
+        0.018092237248239385
+      ],
+      "confidence": 1,
+      "text": "(Dict'd 13th)."
+    },
+    {
+      "box": [
+        0.2669148452990443,
+        0.3080577600934784,
+        0.09245368003845211,
+        0.014698433306868486
+      ],
+      "confidence": 1,
+      "text": "Dear Sir,"
+    },
+    {
+      "box": [
+        0.4147844027376986,
+        0.33284883774383656,
+        0.3552361297607422,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "We were very pleased to see that you"
+    },
+    {
+      "box": [
+        0.26667979460504865,
+        0.3474924893335154,
+        0.5035945129394531,
+        0.01900314715559981
+      ],
+      "confidence": 1,
+      "text": "had been awarded a K.B.E. in Her Majesty's Birthday"
+    },
+    {
+      "box": [
+        0.2645435967133888,
+        0.3646959365802871,
+        0.4154357147216797,
+        0.018753672362849416
+      ],
+      "confidence": 1,
+      "text": "Honours and we would like to offer you our"
+    },
+    {
+      "box": [
+        0.26463831782444475,
+        0.383084078007377,
+        0.2572196388244629,
+        0.015299195846975921
+      ],
+      "confidence": 1,
+      "text": "heartiest congratulations."
+    },
+    {
+      "box": [
+        0.49897330645357846,
+        0.4273255815672201,
+        0.02669404506683354,
+        0.010174418212459013
+      ],
+      "confidence": 1,
+      "text": "We"
+    },
+    {
+      "box": [
+        0.5790554416317386,
+        0.42877906980666114,
+        0.09034907341003418,
+        0.014633838947002653
+      ],
+      "confidence": 1,
+      "text": "Dear Sir,"
+    },
+    {
+      "box": [
+        0.5092402480993069,
+        0.4389534885439643,
+        0.051334700584411586,
+        0.010174418212459013
+      ],
+      "confidence": 1,
+      "text": "Yours"
+    },
+    {
+      "box": [
+        0.5215605730320767,
+        0.43015030988110214,
+        0.147843942642212,
+        0.023430592396109673
+      ],
+      "confidence": 0.5,
+      "text": "ars falth ully"
+    },
+    {
+      "box": [
+        0.4963691905472266,
+        0.44122981971180697,
+        0.23166938781738278,
+        0.027080804030522154
+      ],
+      "confidence": 1,
+      "text": "BRITISH PAINTS LIMITED."
+    },
+    {
+      "box": [
+        0.5325138172171334,
+        0.4627591437618449,
+        0.2512785339355469,
+        0.04244976903778808
+      ],
+      "confidence": 0.5,
+      "text": "Xed Meals"
+    },
+    {
+      "box": [
+        0.5646817221085604,
+        0.4970930231496844,
+        0.16427104949951177,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "Fred.R.Marshall."
+    },
+    {
+      "box": [
+        0.5871794196598528,
+        0.5098249041441671,
+        0.11106210708618158,
+        0.01523391258179041
+      ],
+      "confidence": 1,
+      "text": "(Director)."
+    },
+    {
+      "box": [
+        0.2607802960656963,
+        0.5537790704554065,
+        0.36755645751953125,
+        0.02761627824616375
+      ],
+      "confidence": 1,
+      "text": "Charles H. McFadyen, Esq: Shipping &"
+    },
+    {
+      "box": [
+        0.291581115302017,
+        0.565406977092544,
+        0.19917863845825196,
+        0.013284446284583251
+      ],
+      "confidence": 1,
+      "text": "Secretary Department"
+    },
+    {
+      "box": [
+        0.45498047810059916,
+        0.5765047889224498,
+        0.10472681045532228,
+        0.018519151115923393
+      ],
+      "confidence": 1,
+      "text": "Transport,"
+    },
+    {
+      "box": [
+        0.3469386917199552,
+        0.5898203525786547,
+        0.10078380584716795,
+        0.015126736790178952
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIA•"
+    },
+    {
+      "box": [
+        0.3572895398242988,
+        0.6250000003180769,
+        0.41683776855468757,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "MR MARSHALA HAS PROMOTER DIE BUT / SHALL"
+    },
+    {
+      "box": [
+        0.3551735254924698,
+        0.6436202939147828,
+        0.29170633316040046,
+        0.033980341741829956
+      ],
+      "confidence": 1,
+      "text": "NOT BRamA dIm FOR THAT Hu"
+    },
+    {
+      "box": [
+        0.8234086273276766,
+        0.7906976748344374,
+        0.16837781906127924,
+        0.016110459858078907
+      ],
+      "confidence": 1,
+      "text": "THE SERGEANTS MESS"
+    },
+    {
+      "box": [
+        0.8541837355511243,
+        0.80948082972542,
+        0.10066743850708004,
+        0.011852293495157928
+      ],
+      "confidence": 1,
+      "text": "2m A.C.C.S."
+    },
+    {
+      "box": [
+        0.8329804552008173,
+        0.8232961023492311,
+        0.15314268112182616,
+        0.01765877161270535
+      ],
+      "confidence": 1,
+      "text": "STEENMERCK MORA"
+    },
+    {
+      "box": [
+        0.8911160390492918,
+        0.8429028283586363,
+        0.05760365009307866,
+        0.0133222500693998
+      ],
+      "confidence": 1,
+      "text": "FRance"
+    },
+    {
+      "box": [
+        0.9322381934383182,
+        0.85755813985816,
+        0.03901437282562259,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "1916"
+    },
+    {
+      "box": [
+        0.26673097948086577,
+        0.9373760329545501,
+        0.478906135559082,
+        0.018230143950957345
+      ],
+      "confidence": 1,
+      "text": "SERGERNTS. BASTER. GAMBERT, BurN, JOHNson, BOya"
+    },
+    {
+      "box": [
+        0.2339985230001128,
+        0.9563606577050218,
+        0.6798216247558593,
+        0.02274473107672703
+      ],
+      "confidence": 1,
+      "text": "STAFF SEROT. ABBOTSON, 4.M.S. SUMMERFIELD, WD. MOFADYEN STAFFSERETS, WILSON a BENNETT"
+    }
+  ],
+  "text": "BRITISH PAINTS LIMITED.\nFROM\nDIRECTORS GREECE\nFRM/VI.\n31, WAPPING,\nLIVERPOOL, I.\nTELEPHONE: LIVERPOOL ROYAL 7368\nTELEGRAMS: APEXIOR, LIVERPOOL\n20th June\n1955\n(Dict'd 13th).\nDear Sir,\nWe were very pleased to see that you\nhad been awarded a K.B.E. in Her Majesty's Birthday\nHonours and we would like to offer you our\nheartiest congratulations.\nWe\nDear Sir,\nYours\nars falth ully\nBRITISH PAINTS LIMITED.\nXed Meals\nFred.R.Marshall.\n(Director).\nCharles H. McFadyen, Esq: Shipping &\nSecretary Department\nTransport,\nAUSTRALIA•\nMR MARSHALA HAS PROMOTER DIE BUT / SHALL\nNOT BRamA dIm FOR THAT Hu\nTHE SERGEANTS MESS\n2m A.C.C.S.\nSTEENMERCK MORA\nFRance\n1916\nSERGERNTS. BASTER. GAMBERT, BurN, JOHNson, BOya\nSTAFF SEROT. ABBOTSON, 4.M.S. SUMMERFIELD, WD. MOFADYEN STAFFSERETS, WILSON a BENNETT",
+  "source_sha256": "32fb7140a8a224eb80082deeba7622abb16bf92321f448ddb8815c385aa2d0fe",
+  "status": "machine-draft"
+}

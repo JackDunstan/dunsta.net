@@ -1,0 +1,61 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-024.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3921971289408387,
+        0.20778072364654943,
+        0.24845994949340822,
+        0.06111462405042034
+      ],
+      "confidence": 0.5,
+      "text": "Seen Creatinge,"
+    },
+    {
+      "box": [
+        0.601642713814874,
+        0.316860465302915,
+        0.15605749130249025,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "Christmas 1961"
+    },
+    {
+      "box": [
+        0.4086242333033317,
+        0.8748894779881013,
+        0.2546201133728027,
+        0.02785145888594165
+      ],
+      "confidence": 1,
+      "text": "Season's Greetings"
+    },
+    {
+      "box": [
+        0.2505133429978679,
+        0.9375000003437428,
+        0.6919918060302734,
+        0.020501768346595894
+      ],
+      "confidence": 1,
+      "text": "A MEMORY OF My DEAR FRIEND ART. HEARiN SOVERE IRRETOR EVANS REARIN + CO. LOO"
+    },
+    {
+      "box": [
+        0.8415429965605032,
+        0.9675960522829944,
+        0.11374124526977547,
+        0.019608390531531517
+      ],
+      "confidence": 1,
+      "text": "BRIsBANe 9."
+    }
+  ],
+  "text": "Seen Creatinge,\nChristmas 1961\nSeason's Greetings\nA MEMORY OF My DEAR FRIEND ART. HEARiN SOVERE IRRETOR EVANS REARIN + CO. LOO\nBRIsBANe 9.",
+  "source_sha256": "fd935876228aa92a8ded646bc43639caf41980f9bd191d350f720005b6cb1ec0",
+  "status": "machine-draft"
+}

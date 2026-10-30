@@ -1,0 +1,733 @@
+{
+  "candidate_names": [
+    "Charles"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-066.jpg",
+  "lines": [
+    {
+      "box": [
+        0.28542094510921345,
+        0.11046511648813495,
+        0.06570841789245607,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "FAM/KK"
+    },
+    {
+      "box": [
+        0.1930184862662511,
+        0.19622093017949327,
+        0.15195071220397946,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "CABLE AND TELEGRAPHIC ADDRESS :"
+    },
+    {
+      "box": [
+        0.20739220669811276,
+        0.2063953490292647,
+        0.11704311370849607,
+        0.004479982492462065
+      ],
+      "confidence": 1,
+      "text": "TRACUSTOMS,\" CANBERRA"
+    },
+    {
+      "box": [
+        0.7351129374298228,
+        0.11918604668811439,
+        0.1149897193908691,
+        0.0029069763912130675
+      ],
+      "confidence": 1,
+      "text": "PLEASE ADDRESS REPLY G"
+    },
+    {
+      "box": [
+        0.7268993847318808,
+        0.12643678155613058,
+        0.13347021102905277,
+        0.004420866489831976
+      ],
+      "confidence": 1,
+      "text": "THE COMPTROLLER-GENERAL.\""
+    },
+    {
+      "box": [
+        0.4147844006822439,
+        0.137931034537202,
+        0.2299794578552245,
+        0.010324779176585586
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH OF AUSTRALIA."
+    },
+    {
+      "box": [
+        0.7125256784234515,
+        0.13953488389741675,
+        0.09650922775268544,
+        0.0029069763912129565
+      ],
+      "confidence": 1,
+      "text": "FOR ATTENTON MR...."
+    },
+    {
+      "box": [
+        0.7125256801928912,
+        0.14970930266298554,
+        0.13757699012756341,
+        0.004578937796973048
+      ],
+      "confidence": 1,
+      "text": "TELEPHONE U 0414 ExTENSION.."
+    },
+    {
+      "box": [
+        0.7720739225099145,
+        0.1598837208893089,
+        0.04517453670501714,
+        0.002906976812819817
+      ],
+      "confidence": 0.5,
+      "text": "AND OBOTS"
+    },
+    {
+      "box": [
+        0.7145790566354614,
+        0.1700581395302685,
+        0.024640655517578103,
+        0.007267441821245946
+      ],
+      "confidence": 0.5,
+      "text": "CG."
+    },
+    {
+      "box": [
+        0.4928131435873839,
+        0.19040697699738773,
+        0.2546201133728027,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "DEPARTMENT OF CUSTOMS AND EXCISE,"
+    },
+    {
+      "box": [
+        0.5667351181286403,
+        0.20335985839211312,
+        0.11704311370849618,
+        0.010302931939891513
+      ],
+      "confidence": 1,
+      "text": "CANBERRA, A.C.T."
+    },
+    {
+      "box": [
+        0.5852156093576607,
+        0.22369584480250093,
+        0.1868583106994629,
+        0.014676248363221678
+      ],
+      "confidence": 1,
+      "text": "25th October, 1957."
+    },
+    {
+      "box": [
+        0.27926078785309516,
+        0.2558139532853433,
+        0.26694044113159177,
+        0.014743075552079432
+      ],
+      "confidence": 1,
+      "text": "C.H. McFadyen Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.27867984461754,
+        0.2685930638995393,
+        0.09967467308044436,
+        0.013078875082135677
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.27926077694012347,
+        0.27895667548543845,
+        0.34702259063720703,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.277207400603471,
+        0.29215116301160293,
+        0.19096508026123044,
+        0.014656971662472484
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.2765031692883882,
+        0.301961493249876,
+        0.10223989486694335,
+        0.016649829719469267
+      ],
+      "confidence": 1,
+      "text": "MEL BOURNE•"
+    },
+    {
+      "box": [
+        0.4065708419474002,
+        0.30377906968208057,
+        0.041067762374877914,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "VIC."
+    },
+    {
+      "box": [
+        0.2792607864874388,
+        0.3284703801968356,
+        0.12936344146728518,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.4454371743871859,
+        0.34976994083869106,
+        0.37602115631103517,
+        0.013656996500165386
+      ],
+      "confidence": 1,
+      "text": "you are finishing your official career"
+    },
+    {
+      "box": [
+        0.2811888260597023,
+        0.35882026489888985,
+        0.5300563430786133,
+        0.017079622317583087
+      ],
+      "confidence": 1,
+      "text": "from the close of business on Monday next, I am taking"
+    },
+    {
+      "box": [
+        0.2792607916716588,
+        0.3735465119096466,
+        0.5441478347778321,
+        0.013279306055907103
+      ],
+      "confidence": 1,
+      "text": "this opportunity to express the wish that you will have"
+    },
+    {
+      "box": [
+        0.27926079539214627,
+        0.3850574711677608,
+        0.4845995712280274,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "very many happy years of life in your retirement."
+    },
+    {
+      "box": [
+        0.418891188918923,
+        0.40843023271269896,
+        0.39425048828125003,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "Although I am fast approaching the magic"
+    },
+    {
+      "box": [
+        0.27926078412035676,
+        0.4213085766557536,
+        0.11088294982910157,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "date myself"
+    },
+    {
+      "box": [
+        0.4004106889369631,
+        0.4199823167213659,
+        0.422997932434082,
+        0.011703729418713227
+      ],
+      "confidence": 1,
+      "text": "I feel it must be a very difficult task of"
+    },
+    {
+      "box": [
+        0.2791637160303655,
+        0.4260124789562503,
+        0.5340404510498047,
+        0.018844182885504823
+      ],
+      "confidence": 1,
+      "text": "adjustment to sever connection with an interesting and"
+    },
+    {
+      "box": [
+        0.2792607842277512,
+        0.44331395395179785,
+        0.5338808822631835,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "very active career and face the future of an easy life"
+    },
+    {
+      "box": [
+        0.27922799474241744,
+        0.4562849084852204,
+        0.5627138519287109,
+        0.012465010271148214
+      ],
+      "confidence": 1,
+      "text": "while the brain is still particularly active and physical"
+    },
+    {
+      "box": [
+        0.28131417483884585,
+        0.4680232560619557,
+        0.2176591300964355,
+        0.011640758244576
+      ],
+      "confidence": 1,
+      "text": "condition really good."
+    },
+    {
+      "box": [
+        0.5236139748843861,
+        0.46802325593737526,
+        0.31006158828735353,
+        0.010314498297626318
+      ],
+      "confidence": 1,
+      "text": "I trust that you may go through"
+    },
+    {
+      "box": [
+        0.2813141703410833,
+        0.47965116300236277,
+        0.20739219665527342,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "the adjustment period"
+    },
+    {
+      "box": [
+        0.4948665311714815,
+        0.4809902740793024,
+        0.09240245819091797,
+        0.010288795467818468
+      ],
+      "confidence": 1,
+      "text": "in a very"
+    },
+    {
+      "box": [
+        0.5913757725750994,
+        0.4796511630386999,
+        0.20123203277587898,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "satisfactory manner."
+    },
+    {
+      "box": [
+        0.4168377909972392,
+        0.5029069769316261,
+        0.17864475250244144,
+        0.011681882603626015
+      ],
+      "confidence": 1,
+      "text": "Looking back over"
+    },
+    {
+      "box": [
+        0.5934291688567299,
+        0.5029069769316261,
+        0.22176589965820315,
+        0.011681882603626015
+      ],
+      "confidence": 1,
+      "text": "your career I feel you"
+    },
+    {
+      "box": [
+        0.32238192854034,
+        0.5145348839715321,
+        0.24435317993164063,
+        0.010221968278960825
+      ],
+      "confidence": 1,
+      "text": "leave the Service with a"
+    },
+    {
+      "box": [
+        0.5687884991093465,
+        0.5145348840537192,
+        0.29363449096679684,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "big degree of satisfaction at"
+    },
+    {
+      "box": [
+        0.279260807773794,
+        0.5247093024801408,
+        0.5728952407836914,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "the work you performed on behalf of the Government and, of"
+    },
+    {
+      "box": [
+        0.28131417557047184,
+        0.5375773650110182,
+        0.305954818725586,
+        0.013294727585149158
+      ],
+      "confidence": 1,
+      "text": "course, on behalf of Australia."
+    },
+    {
+      "box": [
+        0.6139630414364544,
+        0.5375773649772807,
+        0.16016426086425772,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Despite the many"
+    },
+    {
+      "box": [
+        0.2813141761951485,
+        0.5477453581262407,
+        0.5934291458129883,
+        0.013301153292601176
+      ],
+      "confidence": 1,
+      "text": "that are said about bureaucrats in my mind there is no doubt"
+    },
+    {
+      "box": [
+        0.281212793196959,
+        0.5608383286885319,
+        0.041270513534545916,
+        0.010590784324153502
+      ],
+      "confidence": 1,
+      "text": "that"
+    },
+    {
+      "box": [
+        0.3244353094205572,
+        0.561007957740209,
+        0.5297741317749024,
+        0.01166646065277721
+      ],
+      "confidence": 1,
+      "text": "many people have given their best to the Commonwealth"
+    },
+    {
+      "box": [
+        0.28131416725470343,
+        0.572502210430353,
+        0.13141683578491214,
+        0.010346626413279547
+      ],
+      "confidence": 1,
+      "text": "Government at"
+    },
+    {
+      "box": [
+        0.4147843997254556,
+        0.5725022105272521,
+        0.145790548324585,
+        0.010346626413279547
+      ],
+      "confidence": 1,
+      "text": "salaries which"
+    },
+    {
+      "box": [
+        0.5626283379861613,
+        0.5725022103150128,
+        0.29158109664916987,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "are not really in accord with"
+    },
+    {
+      "box": [
+        0.28131417839786577,
+        0.5843023258293976,
+        0.5133470153808594,
+        0.011630476944010204
+      ],
+      "confidence": 1,
+      "text": "their capabilities and the actual work they perform."
+    },
+    {
+      "box": [
+        0.28126812006032476,
+        0.5957487271715165,
+        0.09044116973876953,
+        0.011990917350843233
+      ],
+      "confidence": 1,
+      "text": "they were"
+    },
+    {
+      "box": [
+        0.37166325789507054,
+        0.5959302327455797,
+        0.41067760467529296,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "in outside industry working only for the"
+    },
+    {
+      "box": [
+        0.2813141732451402,
+        0.6074270558902432,
+        0.572895278930664,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "interests of their particular employers they would receive"
+    },
+    {
+      "box": [
+        0.28131416487112193,
+        0.6191860471022338,
+        0.1704312133789062,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "greater financial"
+    },
+    {
+      "box": [
+        0.4557788913572736,
+        0.617696945603605,
+        0.4087853622436523,
+        0.01338440164014576
+      ],
+      "confidence": 1,
+      "text": "recompense and be acclaimed as members of"
+    },
+    {
+      "box": [
+        0.281314187202983,
+        0.6308139537363742,
+        0.4250513076782227,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "that great class of successful businessmen."
+    },
+    {
+      "box": [
+        0.41889117557152156,
+        0.6511627910520885,
+        0.1519507122039795,
+        0.013293442527980037
+      ],
+      "confidence": 1,
+      "text": "Again, Charles,"
+    },
+    {
+      "box": [
+        0.5708418924004964,
+        0.6511627909335641,
+        0.06776180267333975,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "please"
+    },
+    {
+      "box": [
+        0.6427104728235077,
+        0.6511627910546883,
+        0.19301847457885735,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "accept my very best"
+    },
+    {
+      "box": [
+        0.2792238563081884,
+        0.662674008876932,
+        0.06372888088226314,
+        0.010407796062061325
+      ],
+      "confidence": 1,
+      "text": "wishes"
+    },
+    {
+      "box": [
+        0.34907598681176055,
+        0.6626878870126837,
+        0.36755645751953125,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "for a happy and contented retirement."
+    },
+    {
+      "box": [
+        0.5174538037858284,
+        0.6816860467668976,
+        0.15811087608337404,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Kindest regards,"
+    },
+    {
+      "box": [
+        0.27515400647159766,
+        0.7033598588072282,
+        0.10882956504821778,
+        0.05536107064136675
+      ],
+      "confidence": 0.5,
+      "text": "got wit"
+    },
+    {
+      "box": [
+        0.5462012383050374,
+        0.6976127323452161,
+        0.16016426086425783,
+        0.014596569759459999
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.6221765934113415,
+        0.7180232561092466,
+        0.09034907341003429,
+        0.020348836424917804
+      ],
+      "confidence": 0.5,
+      "text": "kant"
+    },
+    {
+      "box": [
+        0.5934291573927548,
+        0.7456395352552696,
+        0.11293634414672848,
+        0.011654894295042295
+      ],
+      "confidence": 1,
+      "text": "F. A: Meere"
+    },
+    {
+      "box": [
+        0.5667351154474655,
+        0.7558139538375866,
+        0.1991786384582519,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "Comptroller-General."
+    },
+    {
+      "box": [
+        0.2381930283551293,
+        0.7906976745547232,
+        0.6529773712158202,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "/ INAUCer FRANK MeRe TO ACCEDE THe POSITION OF FIRST SeCReTARY OF THe"
+    },
+    {
+      "box": [
+        0.1722159451745214,
+        0.8009076332596835,
+        0.7355357360839843,
+        0.02231840408554553
+      ],
+      "confidence": 1,
+      "text": "F.C.T. BRANCH. COmMONNeARTH PUBLIC SERVICe CLeRICAL ASSA. 1 HAS FIRST PResIDenT."
+    },
+    {
+      "box": [
+        0.1742493646644474,
+        0.8170173002497041,
+        0.7706031799316405,
+        0.023188060622211126
+      ],
+      "confidence": 1,
+      "text": "MAYING WON AUTONOmY FOR CANBeRRA AT THe FeReRAL CONFeReNCe IN MeABOURNe IN 1928"
+    },
+    {
+      "box": [
+        0.17213653960871503,
+        0.8286005273964202,
+        0.7582899475097657,
+        0.02487181099403446
+      ],
+      "confidence": 1,
+      "text": "Be WERe IN THe TARIFF BRANCH CENTRAA CUSTOMS FOR ABOUT 12 YEARS. i LeFT FOR SeRVICe"
+    },
+    {
+      "box": [
+        0.1721816897515508,
+        0.8444703927179774,
+        0.7520436859130859,
+        0.023190703252898626
+      ],
+      "confidence": 1,
+      "text": "IN THe WAR RePT. IN. dAN. 1940. FRAMES HerET Pr TO BE COMPTROLLeR SeNERAL AND"
+    },
+    {
+      "box": [
+        0.1783475687418327,
+        0.8595633038095618,
+        0.7335340118408203,
+        0.023032443065963748
+      ],
+      "confidence": 1,
+      "text": "WAS KNIGNTER FOR HIS MISTINGUISHER SERVICE BeFORE He ReTIREd SEVERAL YeRRS AGO."
+    }
+  ],
+  "text": "FAM/KK\nCABLE AND TELEGRAPHIC ADDRESS :\nTRACUSTOMS,\" CANBERRA\nPLEASE ADDRESS REPLY G\nTHE COMPTROLLER-GENERAL.\"\nCOMMONWEALTH OF AUSTRALIA.\nFOR ATTENTON MR....\nTELEPHONE U 0414 ExTENSION..\nAND OBOTS\nCG.\nDEPARTMENT OF CUSTOMS AND EXCISE,\nCANBERRA, A.C.T.\n25th October, 1957.\nC.H. McFadyen Esq., C.B.E.,\nSecretary,\nDepartment of Shipping & Transport,\n497 Collins Street,\nMEL BOURNE•\nVIC.\nDear Charles,\nyou are finishing your official career\nfrom the close of business on Monday next, I am taking\nthis opportunity to express the wish that you will have\nvery many happy years of life in your retirement.\nAlthough I am fast approaching the magic\ndate myself\nI feel it must be a very difficult task of\nadjustment to sever connection with an interesting and\nvery active career and face the future of an easy life\nwhile the brain is still particularly active and physical\ncondition really good.\nI trust that you may go through\nthe adjustment period\nin a very\nsatisfactory manner.\nLooking back over\nyour career I feel you\nleave the Service with a\nbig degree of satisfaction at\nthe work you performed on behalf of the Government and, of\ncourse, on behalf of Australia.\nDespite the many\nthat are said about bureaucrats in my mind there is no doubt\nthat\nmany people have given their best to the Commonwealth\nGovernment at\nsalaries which\nare not really in accord with\ntheir capabilities and the actual work they perform.\nthey were\nin outside industry working only for the\ninterests of their particular employers they would receive\ngreater financial\nrecompense and be acclaimed as members of\nthat great class of successful businessmen.\nAgain, Charles,\nplease\naccept my very best\nwishes\nfor a happy and contented retirement.\nKindest regards,\ngot wit\nYours sincerely,\nkant\nF. A: Meere\nComptroller-General.\n/ INAUCer FRANK MeRe TO ACCEDE THe POSITION OF FIRST SeCReTARY OF THe\nF.C.T. BRANCH. COmMONNeARTH PUBLIC SERVICe CLeRICAL ASSA. 1 HAS FIRST PResIDenT.\nMAYING WON AUTONOmY FOR CANBeRRA AT THe FeReRAL CONFeReNCe IN MeABOURNe IN 1928\nBe WERe IN THe TARIFF BRANCH CENTRAA CUSTOMS FOR ABOUT 12 YEARS. i LeFT FOR SeRVICe\nIN THe WAR RePT. IN. dAN. 1940. FRAMES HerET Pr TO BE COMPTROLLeR SeNERAL AND\nWAS KNIGNTER FOR HIS MISTINGUISHER SERVICE BeFORE He ReTIREd SEVERAL YeRRS AGO.",
+  "source_sha256": "4556c1c21d8faae7a36f9f3193c223f50c660e77ae76873cd072583467c3a872",
+  "status": "machine-draft"
+}

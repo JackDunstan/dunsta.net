@@ -1,0 +1,200 @@
+{
+  "candidate_names": [
+    "CULLINANE"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [
+    [
+      0.8824571967124939,
+      0.2894112579524517,
+      0.055630162358284,
+      0.03934936597943306
+    ]
+  ],
+  "file": "images/book-1/medium/chubb-book-1-077.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2665950127550117,
+        0.5220086376671937,
+        0.5611393737792969,
+        0.022728699904221772
+      ],
+      "confidence": 1,
+      "text": "VICTORiAN REGIONAL COmmITTEE AUSTRALIAN RORa FERERATION ITa."
+    },
+    {
+      "box": [
+        0.24845995960140968,
+        0.5537790699791069,
+        0.13552361488342288,
+        0.011649754066366036
+      ],
+      "confidence": 1,
+      "text": "LEFT TO RIGHT. -"
+    },
+    {
+      "box": [
+        0.3880903495612343,
+        0.5477453581963153,
+        0.2422997856140136,
+        0.014754641909814348
+      ],
+      "confidence": 1,
+      "text": "H.F. CURTIS RHODES MOTORS"
+    },
+    {
+      "box": [
+        0.39186613413555366,
+        0.5662982957529796,
+        0.10734060287475583,
+        0.01565593412552757
+      ],
+      "confidence": 0.5,
+      "text": "B.F. muscANy"
+    },
+    {
+      "box": [
+        0.4989733087850739,
+        0.5623342177880986,
+        0.15195071220397954,
+        0.014700666135860518
+      ],
+      "confidence": 1,
+      "text": "9000 yeAR TyRECo."
+    },
+    {
+      "box": [
+        0.38954110543399684,
+        0.568926749528869,
+        0.4037162017822265,
+        0.02852190120572229
+      ],
+      "confidence": 1,
+      "text": "C.M. MCPRDYEN PORT PHILLIP R.S•S. STEVERORING LO bra."
+    },
+    {
+      "box": [
+        0.38951043937353264,
+        0.5847444942536171,
+        0.36056686401367183,
+        0.02312296202075259
+      ],
+      "confidence": 1,
+      "text": "H.N. LAWRENCE SECY TRANSPORT CONSULTANT"
+    },
+    {
+      "box": [
+        0.3502880927572194,
+        0.6017935249772793,
+        0.35883014678955083,
+        0.02813400282046108
+      ],
+      "confidence": 1,
+      "text": "MAN. SEN. E.L. SHEEHRN CHAIRMAN, CALTEX. OIL."
+    },
+    {
+      "box": [
+        0.39005342462310366,
+        0.6261120318108386,
+        0.09668986320495604,
+        0.013764308892342036
+      ],
+      "confidence": 0.5,
+      "text": "G. UMACKE"
+    },
+    {
+      "box": [
+        0.51048504466621,
+        0.6189933947265173,
+        0.13333047866821301,
+        0.01941654094018097
+      ],
+      "confidence": 1,
+      "text": "mAYNE NICKLeSS"
+    },
+    {
+      "box": [
+        0.3921971272262125,
+        0.6395348836148006,
+        0.07597535610198974,
+        0.01453488364249178
+      ],
+      "confidence": 0.5,
+      "text": "C.S.WEiR"
+    },
+    {
+      "box": [
+        0.5041653643198906,
+        0.6340375085470865,
+        0.0756949567794799,
+        0.015364458875040565
+      ],
+      "confidence": 1,
+      "text": "SHELL CO."
+    },
+    {
+      "box": [
+        0.39630390166027596,
+        0.6540697676264284,
+        0.07186858177185057,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "KE RIGG"
+    },
+    {
+      "box": [
+        0.5001829781354538,
+        0.6438477451330736,
+        0.2070869636535646,
+        0.021246351044753475
+      ],
+      "confidence": 1,
+      "text": "INTERMATIONAL HARVESTER"
+    },
+    {
+      "box": [
+        0.37987679853751866,
+        0.6684350133243103,
+        0.11293634414672848,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "M. IT. COLLETT."
+    },
+    {
+      "box": [
+        0.4989733083313114,
+        0.6642441861947425,
+        0.12320327758789068,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "ROOTES MOTORS."
+    },
+    {
+      "box": [
+        0.39396941032899846,
+        0.6756217892879053,
+        0.25123649597167974,
+        0.015432524744332321
+      ],
+      "confidence": 1,
+      "text": "1. CULLINANE LEYLANA MOTORS"
+    },
+    {
+      "box": [
+        0.2585522394042093,
+        0.9417376672597695,
+        0.5568540573120118,
+        0.018770209463374155
+      ],
+      "confidence": 1,
+      "text": "A LARGE GERMAN BOMBER HANDED OVER AFTER THE ARMISTICE 1-I)-18"
+    }
+  ],
+  "text": "VICTORiAN REGIONAL COmmITTEE AUSTRALIAN RORa FERERATION ITa.\nLEFT TO RIGHT. -\nH.F. CURTIS RHODES MOTORS\nB.F. muscANy\n9000 yeAR TyRECo.\nC.M. MCPRDYEN PORT PHILLIP R.S•S. STEVERORING LO bra.\nH.N. LAWRENCE SECY TRANSPORT CONSULTANT\nMAN. SEN. E.L. SHEEHRN CHAIRMAN, CALTEX. OIL.\nG. UMACKE\nmAYNE NICKLeSS\nC.S.WEiR\nSHELL CO.\nKE RIGG\nINTERMATIONAL HARVESTER\nM. IT. COLLETT.\nROOTES MOTORS.\n1. CULLINANE LEYLANA MOTORS\nA LARGE GERMAN BOMBER HANDED OVER AFTER THE ARMISTICE 1-I)-18",
+  "source_sha256": "dab2b6a0c82ba3fa8520934d7c9b9d09db30caea9841abed5eb1aa6ede33863b",
+  "status": "machine-draft"
+}

@@ -1,0 +1,43 @@
+{
+  "candidate_names": [
+    "VICTORIAN"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-019.jpg",
+  "lines": [
+    {
+      "box": [
+        0.21355236328929714,
+        0.8720930232027491,
+        0.0718685817718506,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "VIMORE CAL"
+    },
+    {
+      "box": [
+        0.21144488620735138,
+        0.916615789546946,
+        0.5093690490722655,
+        0.01663843622047434
+      ],
+      "confidence": 1,
+      "text": "VICTORIAN SCOTTISH REGIMENtS ON THE MARCH. KILmORE 1912."
+    },
+    {
+      "box": [
+        0.2525667409414427,
+        0.9403183023552536,
+        0.2751539993286133,
+        0.01607704584204339
+      ],
+      "confidence": 1,
+      "text": "WE WERE ON AN EIGHT DAy CAmP."
+    }
+  ],
+  "text": "VIMORE CAL\nVICTORIAN SCOTTISH REGIMENtS ON THE MARCH. KILmORE 1912.\nWE WERE ON AN EIGHT DAy CAmP.",
+  "source_sha256": "3e172265b2c72c4fd5d0a3917ef595dc2e75da002ecbf66a276968adf339b5e2",
+  "status": "machine-draft"
+}

@@ -1,0 +1,394 @@
+{
+  "candidate_names": [
+    "ATTENA",
+    "PERCY SPENDER"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-051.jpg",
+  "lines": [
+    {
+      "box": [
+        0.24845996098582446,
+        0.1409883721166736,
+        0.3860369491577148,
+        0.013299868235432166
+      ],
+      "confidence": 1,
+      "text": "CANBERRA COMMUNITY HOSPITAL•"
+    },
+    {
+      "box": [
+        0.09856263048822932,
+        0.18877099932174368,
+        0.1683778190612793,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "ALL COMMUNICATIONS SHOULD BE"
+    },
+    {
+      "box": [
+        0.13141683956823377,
+        0.1933139534508761,
+        0.05749486446380617,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "ADDRESSED"
+    },
+    {
+      "box": [
+        0.15395910249192515,
+        0.1932245333312499,
+        0.05758487701416015,
+        0.014713724138038953
+      ],
+      "confidence": 1,
+      "text": "SECRETARY."
+    },
+    {
+      "box": [
+        0.13757700653082433,
+        0.22674418614023173,
+        0.09240245819091797,
+        0.0058139532040326625
+      ],
+      "confidence": 1,
+      "text": "TELEPHONE NO. 566."
+    },
+    {
+      "box": [
+        0.5236139726440179,
+        0.21352785154425713,
+        0.29568786621093746,
+        0.01466982307737641
+      ],
+      "confidence": 1,
+      "text": "CANBERRA, A.C.T. 2nd February, 1943"
+    },
+    {
+      "box": [
+        0.17453798751867247,
+        0.30959302350641593,
+        0.03285420894622801,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Mr."
+    },
+    {
+      "box": [
+        0.21149897325016603,
+        0.30813953521650994,
+        0.022587268352508544,
+        0.011627906408065325
+      ],
+      "confidence": 0.5,
+      "text": "C."
+    },
+    {
+      "box": [
+        0.2464065734338925,
+        0.30813439451777747,
+        0.11909650802612304,
+        0.011633047058348223
+      ],
+      "confidence": 1,
+      "text": "H. McFadyen."
+    },
+    {
+      "box": [
+        0.20533881305094354,
+        0.3196286474230725,
+        0.1498973274230957,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "155 North Road,"
+    },
+    {
+      "box": [
+        0.25256673665353513,
+        0.329796640029574,
+        0.11293634414672848,
+        0.01326259946949615
+      ],
+      "confidence": 1,
+      "text": "GARDEN VALE"
+    },
+    {
+      "box": [
+        0.40846690097210286,
+        0.3293483904761365,
+        0.09477050781250002,
+        0.014268335465516424
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE"
+    },
+    {
+      "box": [
+        0.17659137640763675,
+        0.3662790697038829,
+        0.12936345100402832,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "Dear Charlie,"
+    },
+    {
+      "box": [
+        0.3449692017370479,
+        0.38947833795606,
+        0.36550308227539063,
+        0.010230964100750861
+      ],
+      "confidence": 1,
+      "text": "Further to my previous communications"
+    },
+    {
+      "box": [
+        0.24229980368889414,
+        0.3996463308843968,
+        0.2731006050109863,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "subject of the New Hospital"
+    },
+    {
+      "box": [
+        0.5154004136586404,
+        0.40097259070043756,
+        0.19712524414062504,
+        0.010364618478466259
+      ],
+      "confidence": 1,
+      "text": "opening on Saturday"
+    },
+    {
+      "box": [
+        0.1765913837144042,
+        0.41279069826502446,
+        0.5338808822631836,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "20th February at 3.15 p.m. I would inform you that the"
+    },
+    {
+      "box": [
+        0.1765913874113548,
+        0.4244031828237358,
+        0.24024639129638672,
+        0.010189840163307595
+      ],
+      "confidence": 1,
+      "text": "Board has dispensed with"
+    },
+    {
+      "box": [
+        0.4168377903298338,
+        0.4244031831784518,
+        0.23408622741699214,
+        0.011643328358914129
+      ],
+      "confidence": 1,
+      "text": "the formality of having"
+    },
+    {
+      "box": [
+        0.17864477182529653,
+        0.435897435844371,
+        0.2299794578552246,
+        0.010323494119416576
+      ],
+      "confidence": 1,
+      "text": "invitations printed and"
+    },
+    {
+      "box": [
+        0.5154004103244644,
+        0.43457117597875183,
+        0.1868583106994629,
+        0.011649754066366147
+      ],
+      "confidence": 1,
+      "text": "proposes to invite"
+    },
+    {
+      "box": [
+        0.1786447653811225,
+        0.4476744188017814,
+        0.4928131484985352,
+        0.011653609659479924
+      ],
+      "confidence": 1,
+      "text": "the people of Canberra as a whole by an invitation"
+    },
+    {
+      "box": [
+        0.17864477054952815,
+        0.45930232583666497,
+        0.2361396217346191,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "through the local press."
+    },
+    {
+      "box": [
+        0.344969217983877,
+        0.4809902741588896,
+        0.38809032440185537,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "The Chairman, when approached, concern-"
+    },
+    {
+      "box": [
+        0.17852644547289728,
+        0.49246983415717827,
+        0.24664226531982422,
+        0.013537636275422149
+      ],
+      "confidence": 1,
+      "text": "ing yourself requested me"
+    },
+    {
+      "box": [
+        0.4599589330029228,
+        0.49273255840830543,
+        0.2607802772521973,
+        0.010362047942521602
+      ],
+      "confidence": 1,
+      "text": "forward this communication"
+    },
+    {
+      "box": [
+        0.2402464135576129,
+        0.5043604654975177,
+        0.46201229095458984,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "state that the Board members will be delighted"
+    },
+    {
+      "box": [
+        0.1765913762643929,
+        0.5159151191658581,
+        0.35523612976074215,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "to have you present at the function."
+    },
+    {
+      "box": [
+        0.34496920629255423,
+        0.5392441863889905,
+        0.3264886856079101,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "With Best wishes and kind regards"
+    },
+    {
+      "box": [
+        0.17831119966846892,
+        0.5487774996880012,
+        0.18754209518432619,
+        0.015310338068387885
+      ],
+      "confidence": 1,
+      "text": "to self and family."
+    },
+    {
+      "box": [
+        0.5092402536145546,
+        0.5725022108355867,
+        0.17248458862304694,
+        0.014707091421705787
+      ],
+      "confidence": 1,
+      "text": "Yours faithfully,"
+    },
+    {
+      "box": [
+        0.5721100649947675,
+        0.6084101844491858,
+        0.04086802482604979,
+        0.019145950398331335
+      ],
+      "confidence": 0.5,
+      "text": "c -"
+    },
+    {
+      "box": [
+        0.5214338606042469,
+        0.6419896292398732,
+        0.09060250282287596,
+        0.01398585814485287
+      ],
+      "confidence": 1,
+      "text": "SEBRE TARY"
+    },
+    {
+      "box": [
+        0.1355236290770064,
+        0.8125000008155421,
+        0.7002053070068359,
+        0.015988370994884815
+      ],
+      "confidence": 1,
+      "text": "I DID NOT ATTENA THE CEREMONY PE OPENING THE MEN HOSPITAL. IM FACT."
+    },
+    {
+      "box": [
+        0.1088295687383944,
+        0.8328488371758471,
+        0.7166324615478515,
+        0.014631268832664523
+      ],
+      "confidence": 1,
+      "text": "I THOUGHT THIS A POOR SORT OR INVITATION TO ONE MHO INDUCEA THE MiNISTER"
+    },
+    {
+      "box": [
+        0.10677618592865187,
+        0.8531976740647551,
+        0.7227925872802734,
+        0.019039284750805963
+      ],
+      "confidence": 1,
+      "text": "FOR HEARTH, SIR FREDERICS STEMART AMA THe RETINO FRAGRAs TREASURER. THe MAN."
+    },
+    {
+      "box": [
+        0.11484324820556381,
+        0.8694513286680544,
+        0.6922893524169922,
+        0.02175296038046659
+      ],
+      "confidence": 1,
+      "text": "PERCY SPENDER TO HAVE PLACER ON THE ESTiMATEE AN AmOUNT TO ENTERE"
+    },
+    {
+      "box": [
+        0.1108829534710958,
+        0.8908045977527732,
+        0.4825461959838867,
+        0.016357206012378334
+      ],
+      "confidence": 1,
+      "text": "THE BUILDING OF A NEW HOSPITAL AT A LATER TATE."
+    }
+  ],
+  "text": "CANBERRA COMMUNITY HOSPITAL•\nALL COMMUNICATIONS SHOULD BE\nADDRESSED\nSECRETARY.\nTELEPHONE NO. 566.\nCANBERRA, A.C.T. 2nd February, 1943\nMr.\nC.\nH. McFadyen.\n155 North Road,\nGARDEN VALE\nMELBOURNE\nDear Charlie,\nFurther to my previous communications\nsubject of the New Hospital\nopening on Saturday\n20th February at 3.15 p.m. I would inform you that the\nBoard has dispensed with\nthe formality of having\ninvitations printed and\nproposes to invite\nthe people of Canberra as a whole by an invitation\nthrough the local press.\nThe Chairman, when approached, concern-\ning yourself requested me\nforward this communication\nstate that the Board members will be delighted\nto have you present at the function.\nWith Best wishes and kind regards\nto self and family.\nYours faithfully,\nc -\nSEBRE TARY\nI DID NOT ATTENA THE CEREMONY PE OPENING THE MEN HOSPITAL. IM FACT.\nI THOUGHT THIS A POOR SORT OR INVITATION TO ONE MHO INDUCEA THE MiNISTER\nFOR HEARTH, SIR FREDERICS STEMART AMA THe RETINO FRAGRAs TREASURER. THe MAN.\nPERCY SPENDER TO HAVE PLACER ON THE ESTiMATEE AN AmOUNT TO ENTERE\nTHE BUILDING OF A NEW HOSPITAL AT A LATER TATE.",
+  "source_sha256": "b73040ff64f7970ad141b887b21ded4af1c4850c6442490228cee03d0032c277",
+  "status": "machine-draft"
+}

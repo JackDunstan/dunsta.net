@@ -1,0 +1,344 @@
+{
+  "candidate_names": [
+    "Dume Pattie",
+    "Goud"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-133.jpg",
+  "lines": [
+    {
+      "box": [
+        0.37577002703570916,
+        0.1786030062503594,
+        0.1909650802612305,
+        0.022104332449160102
+      ],
+      "confidence": 1,
+      "text": "The Time Minister"
+    },
+    {
+      "box": [
+        0.18275155278939423,
+        0.21220159124604776,
+        0.5749486541748047,
+        0.017449571219932514
+      ],
+      "confidence": 1,
+      "text": "The Right Homourable R. E. Menzics, B.I. C.C..1.9. and Dume Pattie Mengies, G.98."
+    },
+    {
+      "box": [
+        0.44763860455671206,
+        0.2369186050168326,
+        0.05338809013366702,
+        0.01020783180688778
+      ],
+      "confidence": 1,
+      "text": "one lehalf of"
+    },
+    {
+      "box": [
+        0.3429158154566332,
+        0.25726744170969695,
+        0.25667350769042974,
+        0.013289587356472898
+      ],
+      "confidence": 1,
+      "text": "The Government of the Commonwealth of Australia"
+    },
+    {
+      "box": [
+        0.39219712147618696,
+        0.27761627949945566,
+        0.17043121337890627,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "request the ploasuse of the company of"
+    },
+    {
+      "box": [
+        0.29949348042220436,
+        0.2908586693348152,
+        0.3394113922119141,
+        0.04328266147171678
+      ],
+      "confidence": 1,
+      "text": "lon and bars. b. A B Baagen"
+    },
+    {
+      "box": [
+        0.3737166307183285,
+        0.3297966397446668,
+        0.17659137725830076,
+        0.02652519893899208
+      ],
+      "confidence": 1,
+      "text": "At a Sate Ba"
+    },
+    {
+      "box": [
+        0.4455852166536335,
+        0.36337209312850893,
+        0.05954825401306152,
+        0.010191125220476716
+      ],
+      "confidence": 1,
+      "text": "in honour of"
+    },
+    {
+      "box": [
+        0.2464065695156394,
+        0.3806366049971601,
+        0.455852165222168,
+        0.02785145888594165
+      ],
+      "confidence": 1,
+      "text": "Her Majesty Queen Elizalith The Queen Mother"
+    },
+    {
+      "box": [
+        0.29774127812618645,
+        0.41556145012592927,
+        0.35523612976074215,
+        0.01031064270451254
+      ],
+      "confidence": 1,
+      "text": "Al Parliament House. Canberra, on Wednesday, 26t Foruary, 1958"
+    },
+    {
+      "box": [
+        0.4496919920418119,
+        0.4301503094479575,
+        0.05133470058441164,
+        0.010256666930558822
+      ],
+      "confidence": 1,
+      "text": "at 9p.m."
+    },
+    {
+      "box": [
+        0.19712525492300345,
+        0.45348837218530735,
+        0.09445585250854491,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "in andiver is sequeated"
+    },
+    {
+      "box": [
+        0.19917864489779738,
+        0.46065428813663534,
+        0.2012320327758789,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "a Government Ceremonial and Hospitality Offo"
+    },
+    {
+      "box": [
+        0.18891170521068532,
+        0.46640141450308803,
+        0.1765913772583008,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Prime Ministers Department Cankera"
+    },
+    {
+      "box": [
+        0.18891170705081387,
+        0.4765694078002689,
+        0.10472278594970705,
+        0.010349196527617677
+      ],
+      "confidence": 1,
+      "text": "by 29% Junuary, 1958"
+    },
+    {
+      "box": [
+        0.6509240263371733,
+        0.44606542867755183,
+        0.10061601638793949,
+        0.00887643163126195
+      ],
+      "confidence": 1,
+      "text": "Dress: Evening Dress"
+    },
+    {
+      "box": [
+        0.6878850105279907,
+        0.45490716196982084,
+        0.06981519222259513,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "Dinner Jacket"
+    },
+    {
+      "box": [
+        0.6878850114156038,
+        0.46366279066277816,
+        0.03490759611129757,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "Uniform"
+    },
+    {
+      "box": [
+        0.6529774134300164,
+        0.4767441859934467,
+        0.04722792625427241,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "Decorations"
+    },
+    {
+      "box": [
+        0.23510257055449735,
+        0.5922965098914957,
+        0.06162237644195556,
+        0.04360465430032878
+      ],
+      "confidence": 1,
+      "text": "WX 1736"
+    },
+    {
+      "box": [
+        0.49897330645357846,
+        0.6031976743655398,
+        0.02669404506683354,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "572"
+    },
+    {
+      "box": [
+        0.525667351092522,
+        0.6016799291767442,
+        0.10266940116882328,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "Whitehorse Road"
+    },
+    {
+      "box": [
+        0.5420944581456638,
+        0.6131741820035809,
+        0.11293634414672848,
+        0.008918841047480863
+      ],
+      "confidence": 1,
+      "text": "Mont Albert, E.10"
+    },
+    {
+      "box": [
+        0.5626283390755167,
+        0.6249999998938703,
+        0.08008213043212886,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "12.6.55"
+    },
+    {
+      "box": [
+        0.22176591315684335,
+        0.6467727673788044,
+        0.1047227954864502,
+        0.02785145888594165
+      ],
+      "confidence": 1,
+      "text": "Lear Hac,"
+    },
+    {
+      "box": [
+        0.2806073754809448,
+        0.667159793384757,
+        0.36109302520751957,
+        0.037414377079296735
+      ],
+      "confidence": 1,
+      "text": "May offer compatulations on your"
+    },
+    {
+      "box": [
+        0.2217659307479475,
+        0.6976127316668365,
+        0.4065708160400391,
+        0.032038429793164735
+      ],
+      "confidence": 1,
+      "text": "honour, which has teen so full lawned."
+    },
+    {
+      "box": [
+        0.22880015495864242,
+        0.7171878440176807,
+        0.4130673217773438,
+        0.03857733189374546
+      ],
+      "confidence": 1,
+      "text": "Goud work, old han! Sti good to see it"
+    },
+    {
+      "box": [
+        0.23203285549261637,
+        0.7616279068756894,
+        0.10677618026733399,
+        0.021802325463737615
+      ],
+      "confidence": 1,
+      "text": "recognized"
+    },
+    {
+      "box": [
+        0.25256673631677046,
+        0.819767441837392,
+        0.05133470058441164,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "OBE"
+    },
+    {
+      "box": [
+        0.3785709000791671,
+        0.7755554854837343,
+        0.1626850318908692,
+        0.026970929956141032
+      ],
+      "confidence": 1,
+      "text": "Koument regards,"
+    },
+    {
+      "box": [
+        0.5092402505254188,
+        0.8023255813212958,
+        0.09856262207031252,
+        0.01889534907252466
+      ],
+      "confidence": 0.5,
+      "text": "Anocaly,"
+    },
+    {
+      "box": [
+        0.4537987684843726,
+        0.8226744191110376,
+        0.17659137725830076,
+        0.02325581281613076
+      ],
+      "confidence": 0.5,
+      "text": "as your"
+    }
+  ],
+  "text": "The Time Minister\nThe Right Homourable R. E. Menzics, B.I. C.C..1.9. and Dume Pattie Mengies, G.98.\none lehalf of\nThe Government of the Commonwealth of Australia\nrequest the ploasuse of the company of\nlon and bars. b. A B Baagen\nAt a Sate Ba\nin honour of\nHer Majesty Queen Elizalith The Queen Mother\nAl Parliament House. Canberra, on Wednesday, 26t Foruary, 1958\nat 9p.m.\nin andiver is sequeated\na Government Ceremonial and Hospitality Offo\nPrime Ministers Department Cankera\nby 29% Junuary, 1958\nDress: Evening Dress\nDinner Jacket\nUniform\nDecorations\nWX 1736\n572\nWhitehorse Road\nMont Albert, E.10\n12.6.55\nLear Hac,\nMay offer compatulations on your\nhonour, which has teen so full lawned.\nGoud work, old han! Sti good to see it\nrecognized\nOBE\nKoument regards,\nAnocaly,\nas your",
+  "source_sha256": "8f182942e9e50f0084df897034d5bfafc1f047195892037ba503f175cfbb51d6",
+  "status": "machine-draft"
+}

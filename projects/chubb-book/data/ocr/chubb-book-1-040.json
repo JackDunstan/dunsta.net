@@ -1,0 +1,64 @@
+{
+  "candidate_names": [
+    "ANA",
+    "MAS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-040.jpg",
+  "lines": [
+    {
+      "box": [
+        0.14579055218550543,
+        0.4302325564280818,
+        0.032854213714599595,
+        0.021802328836591167
+      ],
+      "confidence": 1,
+      "text": "N"
+    },
+    {
+      "box": [
+        0.8417777819614178,
+        0.35596967593187334,
+        0.027901345491409324,
+        0.36507606674990334
+      ],
+      "confidence": 1,
+      "text": "MAS RENSHAN WiRE OF THE NSA. MINiSTER LAUNCHES 1A. SHIP."
+    },
+    {
+      "box": [
+        0.8687026850319729,
+        0.33980948991716375,
+        0.03869918823242191,
+        0.3290637865412246
+      ],
+      "confidence": 1,
+      "text": "MIR FROM MOLARTY ANTA MRS MOLARTY BRE ON THE RIGHT"
+    },
+    {
+      "box": [
+        0.9036385911953846,
+        0.3181610069030294,
+        0.033064626455307056,
+        0.3463063530959881
+      ],
+      "confidence": 1,
+      "text": "M. RENSHAN IS BENiNA THE FARG ANA 1 AM NEXT TO HAM."
+    },
+    {
+      "box": [
+        0.941815272065455,
+        0.27751031511141167,
+        0.028516576290130602,
+        0.35343195125131244
+      ],
+      "confidence": 1,
+      "text": "DION MOLARTY NAS DIRECTOR STATE DOCKYARD dENCASTLE"
+    }
+  ],
+  "text": "N\nMAS RENSHAN WiRE OF THE NSA. MINiSTER LAUNCHES 1A. SHIP.\nMIR FROM MOLARTY ANTA MRS MOLARTY BRE ON THE RIGHT\nM. RENSHAN IS BENiNA THE FARG ANA 1 AM NEXT TO HAM.\nDION MOLARTY NAS DIRECTOR STATE DOCKYARD dENCASTLE",
+  "source_sha256": "67a1808071461e6a15b43d8280efd58373f9473651d5b7b210e549fd1d09bb09",
+  "status": "machine-draft"
+}

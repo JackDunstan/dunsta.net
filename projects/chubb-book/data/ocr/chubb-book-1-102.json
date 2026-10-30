@@ -1,0 +1,264 @@
+{
+  "candidate_names": [
+    "Merewether",
+    "Serer"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-102.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2915811162791037,
+        0.5057471262515242,
+        0.48254619598388676,
+        0.014601710831349646
+      ],
+      "confidence": 1,
+      "text": "'WANGARA LAUNCHING NEWCASTLE STATE MOCKYARD"
+    },
+    {
+      "box": [
+        0.7823408632303633,
+        0.5043604653371843,
+        0.06570841789245607,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "16/\"1/53"
+    },
+    {
+      "box": [
+        0.47433264953795984,
+        0.5725022104367083,
+        0.15605749130249025,
+        0.0205210450473452
+      ],
+      "confidence": 1,
+      "text": "The Director of"
+    },
+    {
+      "box": [
+        0.3470225915828158,
+        0.5944767448252071,
+        0.3983572769165039,
+        0.030633776299622495
+      ],
+      "confidence": 1,
+      "text": "The Fate Dockeyard. Newcastle"
+    },
+    {
+      "box": [
+        0.3713447940407801,
+        0.6238935941584107,
+        0.3599627304077148,
+        0.024578900594399267
+      ],
+      "confidence": 1,
+      "text": "requests the pleasure of the Company of"
+    },
+    {
+      "box": [
+        0.3488662074716775,
+        0.6518243246685967,
+        0.4934104919433594,
+        0.034476972490575464
+      ],
+      "confidence": 1,
+      "text": "Mr. a Mos. b. I. McFadyen C. B.E."
+    },
+    {
+      "box": [
+        0.5051334707758596,
+        0.6802325584756554,
+        0.15605749130249025,
+        0.023255812816130872
+      ],
+      "confidence": 1,
+      "text": "Launching of the"
+    },
+    {
+      "box": [
+        0.29568789859009614,
+        0.6976127319236194,
+        0.49691989898681643,
+        0.032038429793164847
+      ],
+      "confidence": 1,
+      "text": "Twin Serer Vehicular-Passenger Ferry"
+    },
+    {
+      "box": [
+        0.4229979462745662,
+        0.7281167105315889,
+        0.2566735076904296,
+        0.023430592396109673
+      ],
+      "confidence": 1,
+      "text": "Princess of Jasmania"
+    },
+    {
+      "box": [
+        0.45585215667442147,
+        0.7558139540192726,
+        0.06776180744171145,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "Dame"
+    },
+    {
+      "box": [
+        0.5209161274644982,
+        0.754336278805416,
+        0.15506397247314452,
+        0.017068888211440036
+      ],
+      "confidence": 1,
+      "text": "Pattie Menzies"
+    },
+    {
+      "box": [
+        0.4131203429379756,
+        0.758656124732999,
+        0.3068391609191894,
+        0.05265672854044923
+      ],
+      "confidence": 0.5,
+      "text": "Laterdug 730 Recordan 1958"
+    },
+    {
+      "box": [
+        0.33263959118090386,
+        0.8400913128799506,
+        0.03903293132781982,
+        0.007317374387111997
+      ],
+      "confidence": 1,
+      "text": "R.S.V.P."
+    },
+    {
+      "box": [
+        0.2772073917813661,
+        0.8473837208287182,
+        0.020533881187438985,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "PO."
+    },
+    {
+      "box": [
+        0.3039014368874578,
+        0.8473837210225166,
+        0.020533881187438985,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Box"
+    },
+    {
+      "box": [
+        0.3285420939716467,
+        0.8473837210225166,
+        0.02053388118743893,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "431,"
+    },
+    {
+      "box": [
+        0.35318275323277704,
+        0.8473837208771678,
+        0.05133470058441164,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "Newcastle,"
+    },
+    {
+      "box": [
+        0.27926078030107065,
+        0.8561046512203508,
+        0.1478439426422119,
+        0.004360465008426129
+      ],
+      "confidence": 1,
+      "text": "not later than 5/12/58 to bermit"
+    },
+    {
+      "box": [
+        0.28747434297145974,
+        0.8633720932153112,
+        0.10677617073059081,
+        0.004443998783695169
+      ],
+      "confidence": 1,
+      "text": "Card of Entree being"
+    },
+    {
+      "box": [
+        0.3963039022346204,
+        0.8619186047448828,
+        0.032854208946228036,
+        0.0058139532040326625
+      ],
+      "confidence": 1,
+      "text": "issued."
+    },
+    {
+      "box": [
+        0.6776180685627125,
+        0.8457117594745869,
+        0.15605748176574707,
+        0.004578938007776312
+      ],
+      "confidence": 1,
+      "text": "Guests are invited to use perts"
+    },
+    {
+      "box": [
+        0.677618070857645,
+        0.850132625908175,
+        0.1252566719055176,
+        0.00887900174560008
+      ],
+      "confidence": 1,
+      "text": "Service from Merewether"
+    },
+    {
+      "box": [
+        0.8069815208713288,
+        0.8502906976395225,
+        0.030800819396972656,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "Street"
+    },
+    {
+      "box": [
+        0.6776180721087027,
+        0.8589743590879758,
+        0.11293634414672848,
+        0.0075154730327144925
+      ],
+      "confidence": 1,
+      "text": "Wharf commencing at"
+    },
+    {
+      "box": [
+        0.790554420068638,
+        0.860300618913955,
+        0.04517453193664556,
+        0.0030946065428824054
+      ],
+      "confidence": 1,
+      "text": "8.30 8.11."
+    }
+  ],
+  "text": "'WANGARA LAUNCHING NEWCASTLE STATE MOCKYARD\n16/\"1/53\nThe Director of\nThe Fate Dockeyard. Newcastle\nrequests the pleasure of the Company of\nMr. a Mos. b. I. McFadyen C. B.E.\nLaunching of the\nTwin Serer Vehicular-Passenger Ferry\nPrincess of Jasmania\nDame\nPattie Menzies\nLaterdug 730 Recordan 1958\nR.S.V.P.\nPO.\nBox\n431,\nNewcastle,\nnot later than 5/12/58 to bermit\nCard of Entree being\nissued.\nGuests are invited to use perts\nService from Merewether\nStreet\nWharf commencing at\n8.30 8.11.",
+  "source_sha256": "224139f45b660e8cddcadd50ec1abbc54450be8b50166968ce905824d070251c",
+  "status": "machine-draft"
+}

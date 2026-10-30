@@ -1,0 +1,363 @@
+{
+  "candidate_names": [
+    "Thomas White"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-094.jpg",
+  "lines": [
+    {
+      "box": [
+        0.5071868607716774,
+        0.1061007956048553,
+        0.05544147491455087,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "= 2-"
+    },
+    {
+      "box": [
+        0.3692908639180467,
+        0.13640205008822903,
+        0.4277848052978516,
+        0.019661339271606182
+      ],
+      "confidence": 1,
+      "text": "You will remember the Transport Officer who"
+    },
+    {
+      "box": [
+        0.270683273150329,
+        0.14595656912571364,
+        0.505880661010742,
+        0.023033732339199586
+      ],
+      "confidence": 1,
+      "text": "so kindly arranged my bookings was to have given me"
+    },
+    {
+      "box": [
+        0.270636151124926,
+        0.15826881265488302,
+        0.526371955871582,
+        0.021509621651377153
+      ],
+      "confidence": 1,
+      "text": "before I left some intimate particulars about himself"
+    },
+    {
+      "box": [
+        0.26856644946922725,
+        0.16901108849266955,
+        0.42805366516113286,
+        0.02310690470863297
+      ],
+      "confidence": 1,
+      "text": "and his desire to emigrate to this country."
+    },
+    {
+      "box": [
+        0.26858510815026165,
+        0.18148871466392857,
+        0.41961242675781246,
+        0.02032862628697296
+      ],
+      "confidence": 1,
+      "text": "his sickness prevented him from doing this"
+    },
+    {
+      "box": [
+        0.6940451752854082,
+        0.19040697706486265,
+        0.12114989280700683,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "but if he is"
+    },
+    {
+      "box": [
+        0.2687046877985354,
+        0.19362916606536884,
+        0.536544303894043,
+        0.021653187158991005
+      ],
+      "confidence": 1,
+      "text": "still interested perhaps you could ask him to forward"
+    },
+    {
+      "box": [
+        0.26862234390986856,
+        0.204294859750496,
+        0.5674372863769532,
+        0.024140431330754164
+      ],
+      "confidence": 1,
+      "text": "me the story by air mail as there could be an opportunity"
+    },
+    {
+      "box": [
+        0.2685564787177803,
+        0.21466918493566334,
+        0.5245838165283203,
+        0.02510460871284137
+      ],
+      "confidence": 1,
+      "text": "for him in the Australian Shipping Cornission set up•"
+    },
+    {
+      "box": [
+        0.2686319017489292,
+        0.227859106714575,
+        0.555108871459961,
+        0.02183711307434577
+      ],
+      "confidence": 1,
+      "text": "Sir Thomas White wrote to me about the officer concerned"
+    },
+    {
+      "box": [
+        0.2686308978210862,
+        0.23866473063201943,
+        0.5839737319946289,
+        0.02501896015845173
+      ],
+      "confidence": 1,
+      "text": "and I have not yet been in touch with the latter gentleman."
+    },
+    {
+      "box": [
+        0.3651188560832624,
+        0.2642976549356373,
+        0.5161949920654296,
+        0.02309579115647531
+      ],
+      "confidence": 1,
+      "text": "I hope I conveyed my thanks to you in an appropriate"
+    },
+    {
+      "box": [
+        0.2993597993327488,
+        0.27270733515744383,
+        0.5326335144042968,
+        0.027046691833819914
+      ],
+      "confidence": 1,
+      "text": "before I left for the splendid assistance you gave me"
+    },
+    {
+      "box": [
+        0.26452260208935113,
+        0.2842153032545085,
+        0.3396556854248047,
+        0.020806175117256576
+      ],
+      "confidence": 1,
+      "text": "while I was in the United Kingdom."
+    },
+    {
+      "box": [
+        0.6422426532244491,
+        0.29126971834497584,
+        0.17969036102294922,
+        0.017206875019427637
+      ],
+      "confidence": 1,
+      "text": "If I did not I say"
+    },
+    {
+      "box": [
+        0.26454719104542507,
+        0.296119586178629,
+        0.5859688186645509,
+        0.02523069103453457
+      ],
+      "confidence": 1,
+      "text": "now how much I was indebted to you for your many kindnesses"
+    },
+    {
+      "box": [
+        0.26454519782790425,
+        0.3087232884626716,
+        0.577784538269043,
+        0.023652552293529583
+      ],
+      "confidence": 1,
+      "text": "and I do hope success may accompany you in the approaching"
+    },
+    {
+      "box": [
+        0.3630172332987358,
+        0.3457310088600317,
+        0.4484184265136719,
+        0.021477379701919652
+      ],
+      "confidence": 1,
+      "text": "I found all my people much as I left them and"
+    },
+    {
+      "box": [
+        0.26488707148019514,
+        0.35755813988929774,
+        0.24845994949340816,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "am already settling in to"
+    },
+    {
+      "box": [
+        0.5192098416390788,
+        0.36084548082724166,
+        0.31064756393432613,
+        0.01696537533868847
+      ],
+      "confidence": 1,
+      "text": "the old routine although I have"
+    },
+    {
+      "box": [
+        0.2625011156639752,
+        0.3677560357553513,
+        0.5653796005249023,
+        0.022276599253309604
+      ],
+      "confidence": 1,
+      "text": "not yet quite recovered from the strenuous trip from Rome"
+    },
+    {
+      "box": [
+        0.2850194973757577,
+        0.37877339729129333,
+        0.4731442642211914,
+        0.02302325625634627
+      ],
+      "confidence": 1,
+      "text": "Melbourne without a sleep overnight on the way."
+    },
+    {
+      "box": [
+        0.36097605107710684,
+        0.40378848282339286,
+        0.45655967712402334,
+        0.021393287719402743
+      ],
+      "confidence": 1,
+      "text": "Please convey my kindest regards to our mutual"
+    },
+    {
+      "box": [
+        0.2604333177537815,
+        0.41247141930402487,
+        0.5264769744873048,
+        0.024230263066650215
+      ],
+      "confidence": 1,
+      "text": "friends at Australia House and with my best wishes to"
+    },
+    {
+      "box": [
+        0.2606751105947701,
+        0.426892367705602,
+        0.09261281967163087,
+        0.012494334280754416
+      ],
+      "confidence": 1,
+      "text": "yourself."
+    },
+    {
+      "box": [
+        0.520726617434906,
+        0.4609915962227269,
+        0.1686132049560547,
+        0.023723197552506403
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.574948668958098,
+        0.5043604654288839,
+        0.29158109664917,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "Mritten on my return m 2956"
+    },
+    {
+      "box": [
+        0.25603386839984027,
+        0.5645481784781295,
+        0.1306751728057861,
+        0.015689819497834434
+      ],
+      "confidence": 1,
+      "text": "Mr. Ae Kenny,"
+    },
+    {
+      "box": [
+        0.256135873758623,
+        0.5750290436117175,
+        0.20035884857177733,
+        0.01831024163176176
+      ],
+      "confidence": 1,
+      "text": "Assistant Secretary,"
+    },
+    {
+      "box": [
+        0.2563495164104275,
+        0.587802874776711,
+        0.24091066360473634,
+        0.01578844847877292
+      ],
+      "confidence": 1,
+      "text": "Office of the Australian"
+    },
+    {
+      "box": [
+        0.31379662816220166,
+        0.6014647719628089,
+        0.18140598297119143,
+        0.01640695728737096
+      ],
+      "confidence": 1,
+      "text": "High Cormissioner,"
+    },
+    {
+      "box": [
+        0.25607462378787477,
+        0.6102258055145147,
+        0.1593904972076416,
+        0.01652996862598688
+      ],
+      "confidence": 1,
+      "text": "Australia House,"
+    },
+    {
+      "box": [
+        0.2546201250962786,
+        0.6235465120247143,
+        0.07186858177185057,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Strand,"
+    },
+    {
+      "box": [
+        0.25256673670647717,
+        0.6351744186075332,
+        0.07186858177185057,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "LONDON."
+    }
+  ],
+  "text": "= 2-\nYou will remember the Transport Officer who\nso kindly arranged my bookings was to have given me\nbefore I left some intimate particulars about himself\nand his desire to emigrate to this country.\nhis sickness prevented him from doing this\nbut if he is\nstill interested perhaps you could ask him to forward\nme the story by air mail as there could be an opportunity\nfor him in the Australian Shipping Cornission set up•\nSir Thomas White wrote to me about the officer concerned\nand I have not yet been in touch with the latter gentleman.\nI hope I conveyed my thanks to you in an appropriate\nbefore I left for the splendid assistance you gave me\nwhile I was in the United Kingdom.\nIf I did not I say\nnow how much I was indebted to you for your many kindnesses\nand I do hope success may accompany you in the approaching\nI found all my people much as I left them and\nam already settling in to\nthe old routine although I have\nnot yet quite recovered from the strenuous trip from Rome\nMelbourne without a sleep overnight on the way.\nPlease convey my kindest regards to our mutual\nfriends at Australia House and with my best wishes to\nyourself.\nYours sincerely,\nMritten on my return m 2956\nMr. Ae Kenny,\nAssistant Secretary,\nOffice of the Australian\nHigh Cormissioner,\nAustralia House,\nStrand,\nLONDON.",
+  "source_sha256": "bc7f4d7c69a07b74c856d2d8bd4750b5dd70ffa8f2ec54a93914ffe0f1a9efce",
+  "status": "machine-draft"
+}

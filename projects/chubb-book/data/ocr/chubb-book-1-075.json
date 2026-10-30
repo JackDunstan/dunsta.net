@@ -1,0 +1,635 @@
+{
+  "candidate_names": [
+    "Cormissioner",
+    "Engineer",
+    "Mary"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-075.jpg",
+  "lines": [
+    {
+      "box": [
+        0.1929313090803128,
+        0.11164571249059807,
+        0.09873697280883786,
+        0.016534155180346843
+      ],
+      "confidence": 1,
+      "text": "C.B. No. 67."
+    },
+    {
+      "box": [
+        0.32411046915023006,
+        0.16803551293717112,
+        0.40520359039306647,
+        0.0196976092513107
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH OF AUSTRALIA."
+    },
+    {
+      "box": [
+        0.48049281750693823,
+        0.19186046518779476,
+        0.09856262207031247,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "VICTORIA."
+    },
+    {
+      "box": [
+        0.21560575286302416,
+        0.23828470403264257,
+        0.16837781906127927,
+        0.014622272589267737
+      ],
+      "confidence": 1,
+      "text": "REGISTERED NO. A11/2801"
+    },
+    {
+      "box": [
+        0.21149897582119237,
+        0.26162790713304673,
+        0.16632442474365233,
+        0.00892912192644002
+      ],
+      "confidence": 1,
+      "text": "If any further correspondence on"
+    },
+    {
+      "box": [
+        0.2114989744999378,
+        0.2688953488966126,
+        0.02464065551757813,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "this"
+    },
+    {
+      "box": [
+        0.2361396325327535,
+        0.2687886825512228,
+        0.14168376922607423,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "subject the above number"
+    },
+    {
+      "box": [
+        0.21149897451614486,
+        0.2776162790786896,
+        0.09034907341003418,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "should be quoted."
+    },
+    {
+      "box": [
+        0.19866640268050476,
+        0.2638309089671983,
+        0.2869634437561035,
+        0.13670292457155586
+      ],
+      "confidence": 1,
+      "text": "URGENT"
+    },
+    {
+      "box": [
+        0.4986660865595411,
+        0.23476326878119036,
+        0.30655586242675786,
+        0.018513601085551556
+      ],
+      "confidence": 1,
+      "text": "POSTMASTER-GENERAL'S DEPARTMENT,"
+    },
+    {
+      "box": [
+        0.5749486704380513,
+        0.2500000001415903,
+        0.1519507122039795,
+        0.01038903625110521
+      ],
+      "confidence": 1,
+      "text": "GENERAL POST OFFICE,"
+    },
+    {
+      "box": [
+        0.531827520497291,
+        0.2687886822766783,
+        0.1868583106994629,
+        0.01464155013323043
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE, 18th"
+    },
+    {
+      "box": [
+        0.7330595486906125,
+        0.26744186063317654,
+        0.04517453670501714,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "...May."
+    },
+    {
+      "box": [
+        0.8172484629438896,
+        0.2659883722648946,
+        0.06160163879394531,
+        0.010315783354795438
+      ],
+      "confidence": 1,
+      "text": "191. 1."
+    },
+    {
+      "box": [
+        0.33059548623016893,
+        0.3880813955207085,
+        0.10882956504821778,
+        0.010238675286978527
+      ],
+      "confidence": 1,
+      "text": "Memor and um."
+    },
+    {
+      "box": [
+        0.3880903497175608,
+        0.40981432353440805,
+        0.053388090133666966,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "c. H."
+    },
+    {
+      "box": [
+        0.44140250126465586,
+        0.4095884030774716,
+        0.08844756126403808,
+        0.012218542798866139
+      ],
+      "confidence": 0.5,
+      "text": "McFadyen"
+    },
+    {
+      "box": [
+        0.4168377885413072,
+        0.41556144993751465,
+        0.427104721069336,
+        0.026299014542610744
+      ],
+      "confidence": 1,
+      "text": "Messenger (In training branch (Telephones)."
+    },
+    {
+      "box": [
+        0.4266322701921944,
+        0.428305151686985,
+        0.21062158584594726,
+        0.02480520725671853
+      ],
+      "confidence": 1,
+      "text": "Electrical, Engineer's"
+    },
+    {
+      "box": [
+        0.47819536814038444,
+        0.458026186240335,
+        0.4336321258544922,
+        0.023151569720604837
+      ],
+      "confidence": 1,
+      "text": "with teterence tony previous communiestion,"
+    },
+    {
+      "box": [
+        0.33231933067657493,
+        0.48789770545749844,
+        0.48118995666503905,
+        0.020998134326344564
+      ],
+      "confidence": 1,
+      "text": "advising you that the Commonwealth Public Service"
+    },
+    {
+      "box": [
+        0.3321244618347878,
+        0.5032028587854014,
+        0.5614650344848633,
+        0.027265422224049818
+      ],
+      "confidence": 1,
+      "text": "Cormissioner had recormendea to the Governor General that"
+    },
+    {
+      "box": [
+        0.3317736192838104,
+        0.5209431316864594,
+        0.5618343734741211,
+        0.0360076492808753
+      ],
+      "confidence": 1,
+      "text": "you be transferred to the Department of Trade and Customs"
+    },
+    {
+      "box": [
+        0.5272759266973541,
+        0.5484279212853392,
+        0.16717466354370125,
+        0.014356243831725624
+      ],
+      "confidence": 1,
+      "text": "is 5th Class Clerl"
+    },
+    {
+      "box": [
+        0.34262239383960774,
+        0.5567275095666938,
+        0.5057266235351563,
+        0.018973796584772717
+      ],
+      "confidence": 1,
+      "text": "Statistical Branch I have to request that vou wil"
+    },
+    {
+      "box": [
+        0.33637487140720007,
+        0.5787009703800171,
+        0.530583610534668,
+        0.022727509286949554
+      ],
+      "confidence": 1,
+      "text": "report for duty to the Collector of Customs on the 1st"
+    },
+    {
+      "box": [
+        0.3367556476182774,
+        0.6119186048870525,
+        0.08213552474975588,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "proximo."
+    },
+    {
+      "box": [
+        0.5481770126404814,
+        0.6248951914557185,
+        0.2252070617675782,
+        0.052738714175978973
+      ],
+      "confidence": 0.5,
+      "text": "Char aust"
+    },
+    {
+      "box": [
+        0.7802874735217162,
+        0.6480990275666872,
+        0.0616016435623169,
+        0.030680041730562047
+      ],
+      "confidence": 0.5,
+      "text": "- H!"
+    },
+    {
+      "box": [
+        0.5539080051947332,
+        0.6714229356842866,
+        0.25145236968994145,
+        0.01918956476644962
+      ],
+      "confidence": 1,
+      "text": "Deputy Postmaster General."
+    },
+    {
+      "box": [
+        0.2032854233635149,
+        0.6656976745235655,
+        0.1498973274230957,
+        0.03924418549744246
+      ],
+      "confidence": 1,
+      "text": "Entered."
+    },
+    {
+      "box": [
+        0.26283367758880943,
+        0.6887709995922346,
+        0.12731005668640133,
+        0.03669319186560571
+      ],
+      "confidence": 1,
+      "text": "in Mary"
+    },
+    {
+      "box": [
+        0.31445963809477123,
+        0.7024634527636703,
+        0.17958780288696286,
+        0.04856262746687812
+      ],
+      "confidence": 0.5,
+      "text": "19/5/a cân"
+    },
+    {
+      "box": [
+        0.7084188933476647,
+        0.7805232557130193,
+        0.1375769996643067,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "VICE-REGAL"
+    },
+    {
+      "box": [
+        0.7022587329713177,
+        0.7948717949213933,
+        0.15811087608337404,
+        0.008907274689746059
+      ],
+      "confidence": 1,
+      "text": "Yesterday the Governor-Gene-"
+    },
+    {
+      "box": [
+        0.6919917865165882,
+        0.8037135277799432,
+        0.16837781906127935,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "ral, his Excellency Field-Marshal"
+    },
+    {
+      "box": [
+        0.6919917873431258,
+        0.8095930233152172,
+        0.01848049163818355,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Sir"
+    },
+    {
+      "box": [
+        0.7145790556708772,
+        0.8095930233273297,
+        0.04106776237487797,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "William"
+    },
+    {
+      "box": [
+        0.7618069828136188,
+        0.8110465116873102,
+        0.03490759611129768,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Slim,"
+    },
+    {
+      "box": [
+        0.7946611933530583,
+        0.8124999999469352,
+        0.04928131103515632,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "received"
+    },
+    {
+      "box": [
+        0.8459958936224435,
+        0.8124999999469352,
+        0.016427104473114018,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "at"
+    },
+    {
+      "box": [
+        0.691826343507541,
+        0.8176638549699883,
+        0.06398591518402097,
+        0.010021127081887071
+      ],
+      "confidence": 1,
+      "text": "Government"
+    },
+    {
+      "box": [
+        0.7638603714008307,
+        0.8183139535477753,
+        0.03696098327636721,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "House,"
+    },
+    {
+      "box": [
+        0.8090349090763774,
+        0.8183139535598878,
+        0.0513347005844117,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Canberra,"
+    },
+    {
+      "box": [
+        0.691991788962876,
+        0.8253757737739085,
+        0.1663244247436524,
+        0.010380040007708424
+      ],
+      "confidence": 1,
+      "text": "Mr. C. H. McFadyen, secretary"
+    },
+    {
+      "box": [
+        0.6919917865334482,
+        0.8328488372081436,
+        0.08418890953063962,
+        0.008884142395882977
+      ],
+      "confidence": 1,
+      "text": "Department of"
+    },
+    {
+      "box": [
+        0.782340864810964,
+        0.8343023256407986,
+        0.049281311035156206,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Shipping"
+    },
+    {
+      "box": [
+        0.8377823411488654,
+        0.835755814094222,
+        0.02258726835250857,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "and"
+    },
+    {
+      "box": [
+        0.69199178792648,
+        0.8415697675133762,
+        0.051334700584411586,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Transport."
+    },
+    {
+      "box": [
+        0.7002053385795896,
+        0.8502906976369227,
+        0.032854208946228036,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Later"
+    },
+    {
+      "box": [
+        0.7392197132227875,
+        0.8502906976853724,
+        0.02258726835250857,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "the"
+    },
+    {
+      "box": [
+        0.7638603694798579,
+        0.850290697830721,
+        0.09650923728942862,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Governor-General"
+    },
+    {
+      "box": [
+        0.689938394576803,
+        0.858974358811718,
+        0.1704312133789062,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "received the Right Honourable"
+    },
+    {
+      "box": [
+        0.6878850153413683,
+        0.8662790697628268,
+        0.10472278594970708,
+        0.007284148829263648
+      ],
+      "confidence": 1,
+      "text": "the Prime Minister."
+    },
+    {
+      "box": [
+        0.700205343826896,
+        0.8837209302822715,
+        0.15811087608337404,
+        0.008852013858623109
+      ],
+      "confidence": 1,
+      "text": "His Excellency the Governor"
+    },
+    {
+      "box": [
+        0.6919917884721368,
+        0.89244186043022,
+        0.06365502834320069,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "presided at"
+    },
+    {
+      "box": [
+        0.7679671480416279,
+        0.8924418607183181,
+        0.049281311035156206,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "meeting"
+    },
+    {
+      "box": [
+        0.6899384013422469,
+        0.8997093022725167,
+        0.06160163879394531,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "Executive"
+    },
+    {
+      "box": [
+        0.751540042462002,
+        0.8997093024005535,
+        0.04517453670501714,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Council"
+    },
+    {
+      "box": [
+        0.8151950725206818,
+        0.8924418605574003,
+        0.04312114715576176,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "of the"
+    },
+    {
+      "box": [
+        0.685831622921847,
+        0.9084302326504234,
+        0.049281311035156206,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "(botning."
+    },
+    {
+      "box": [
+        0.8090349099855019,
+        0.9011627906446096,
+        0.049281311035156206,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "yesterday"
+    }
+  ],
+  "text": "C.B. No. 67.\nCOMMONWEALTH OF AUSTRALIA.\nVICTORIA.\nREGISTERED NO. A11/2801\nIf any further correspondence on\nthis\nsubject the above number\nshould be quoted.\nURGENT\nPOSTMASTER-GENERAL'S DEPARTMENT,\nGENERAL POST OFFICE,\nMELBOURNE, 18th\n...May.\n191. 1.\nMemor and um.\nc. H.\nMcFadyen\nMessenger (In training branch (Telephones).\nElectrical, Engineer's\nwith teterence tony previous communiestion,\nadvising you that the Commonwealth Public Service\nCormissioner had recormendea to the Governor General that\nyou be transferred to the Department of Trade and Customs\nis 5th Class Clerl\nStatistical Branch I have to request that vou wil\nreport for duty to the Collector of Customs on the 1st\nproximo.\nChar aust\n- H!\nDeputy Postmaster General.\nEntered.\nin Mary\n19/5/a cân\nVICE-REGAL\nYesterday the Governor-Gene-\nral, his Excellency Field-Marshal\nSir\nWilliam\nSlim,\nreceived\nat\nGovernment\nHouse,\nCanberra,\nMr. C. H. McFadyen, secretary\nDepartment of\nShipping\nand\nTransport.\nLater\nthe\nGovernor-General\nreceived the Right Honourable\nthe Prime Minister.\nHis Excellency the Governor\npresided at\nmeeting\nExecutive\nCouncil\nof the\n(botning.\nyesterday",
+  "source_sha256": "5385b39c46cfb6d5b3f30dbe3fb42d50b972a9a3962585ceeaa4c03109cc0c0d",
+  "status": "machine-draft"
+}

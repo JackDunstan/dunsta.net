@@ -1,0 +1,356 @@
+{
+  "candidate_names": [
+    "FRROR TO",
+    "Mann",
+    "RAMIT",
+    "TRONG"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-124.jpg",
+  "lines": [
+    {
+      "box": [
+        0.585215604163758,
+        0.14534883765052853,
+        0.11088295936584469,
+        0.024709301854950683
+      ],
+      "confidence": 1,
+      "text": "baubena"
+    },
+    {
+      "box": [
+        0.4558521568931435,
+        0.17005813943176085,
+        0.03901437282562259,
+        0.01889534907252477
+      ],
+      "confidence": 1,
+      "text": "THE"
+    },
+    {
+      "box": [
+        0.5007440713053863,
+        0.16966530570709337,
+        0.08325573921203622,
+        0.024945001914161713
+      ],
+      "confidence": 1,
+      "text": "SENATE•"
+    },
+    {
+      "box": [
+        0.5934291592255516,
+        0.17151162711883372,
+        0.15605749130249025,
+        0.03197674536262329
+      ],
+      "confidence": 0.5,
+      "text": "4. Jame 1q55\""
+    },
+    {
+      "box": [
+        0.2982366092755862,
+        0.20006099452306803,
+        0.26284543991088866,
+        0.048257853055189925
+      ],
+      "confidence": 0.5,
+      "text": "Дели S. 8i- Fadyen,"
+    },
+    {
+      "box": [
+        0.3482258653134652,
+        0.23452770171103898,
+        0.42315433502197275,
+        0.04182798856133174
+      ],
+      "confidence": 1,
+      "text": "Say I add my congratuldi"
+    },
+    {
+      "box": [
+        0.2895277148837825,
+        0.26744186083425237,
+        0.455852165222168,
+        0.02919828143402292
+      ],
+      "confidence": 1,
+      "text": "to the man you and recowe."
+    },
+    {
+      "box": [
+        0.32148884731552385,
+        0.28339678176081984,
+        0.42793903350830076,
+        0.05729695867374862
+      ],
+      "confidence": 0.5,
+      "text": "He trajetie recognition"
+    },
+    {
+      "box": [
+        0.2823312477255385,
+        0.3254172003035143,
+        0.39430549621582034,
+        0.038735279248521826
+      ],
+      "confidence": 1,
+      "text": "must go a long may."
+    },
+    {
+      "box": [
+        0.2820963661097721,
+        0.34585873193670547,
+        0.4562516784667969,
+        0.04055228094207197
+      ],
+      "confidence": 1,
+      "text": "secompane Senior officino po"
+    },
+    {
+      "box": [
+        0.2818731999523837,
+        0.37256739764761315,
+        0.43226997375488285,
+        0.04270153905731933
+      ],
+      "confidence": 0.5,
+      "text": "the undoubted deppeltes"
+    },
+    {
+      "box": [
+        0.28645395163586795,
+        0.4061282952422607,
+        0.36724960327148437,
+        0.03277525830121286
+      ],
+      "confidence": 1,
+      "text": "Such the Head of any"
+    },
+    {
+      "box": [
+        0.6591375760386776,
+        0.3996463305245208,
+        0.09445585250854494,
+        0.02186529748108834
+      ],
+      "confidence": 1,
+      "text": "- Дерт."
+    },
+    {
+      "box": [
+        0.2904846168397205,
+        0.43246498609866246,
+        0.32636169433593754,
+        0.028286813319414517
+      ],
+      "confidence": 1,
+      "text": "must + does encouns"
+    },
+    {
+      "box": [
+        0.4009763401290569,
+        0.45076010066770844,
+        0.22918474197387695,
+        0.05022874793365506
+      ],
+      "confidence": 0.5,
+      "text": "Mann Sincere,"
+    },
+    {
+      "box": [
+        0.2479045222695683,
+        0.6478644527396528,
+        0.6007801818847657,
+        0.03277411490388926
+      ],
+      "confidence": 1,
+      "text": "SENATOR KENDALL WAS A MASTER MARiNER HAO TORN A SPECIAL"
+    },
+    {
+      "box": [
+        0.25197132696002084,
+        0.6691697271905631,
+        0.5803896713256835,
+        0.03042716541509516
+      ],
+      "confidence": 1,
+      "text": "INTEREST IN THE REDARTMENT DF SHIPPING. AT ONE TIME HE HAS"
+    },
+    {
+      "box": [
+        0.2520449223717754,
+        0.6871426241489069,
+        0.5433797454833984,
+        0.03176625569661462
+      ],
+      "confidence": 1,
+      "text": "MOST UNFRIR IN MAKING A STATEmENT IN ThE SEnATe On my"
+    },
+    {
+      "box": [
+        0.25384033808775397,
+        0.7001391511520523,
+        0.5581489181518555,
+        0.03453393492626988
+      ],
+      "confidence": 1,
+      "text": "RAMINISTRATION. ME HAS PROVER TRONG IN CORRESPONR ENCTE"
+    },
+    {
+      "box": [
+        0.257764727175561,
+        0.7183112757813858,
+        0.5025312423706054,
+        0.033102900659373935
+      ],
+      "confidence": 1,
+      "text": "BUT MAGE NO MOrE TO RAMIT HIS FRROR TO THE SENATE."
+    },
+    {
+      "box": [
+        0.258726906028264,
+        0.7541998233126949,
+        0.544147834777832,
+        0.030683896902069185
+      ],
+      "confidence": 1,
+      "text": "GEORGE MOLERY ON THE SENATE CORRIOR. ME HERY SPIEG NE"
+    },
+    {
+      "box": [
+        0.2600695826069884,
+        0.7336013825987148,
+        0.547928009033203,
+        0.036569978155782
+      ],
+      "confidence": 1,
+      "text": "ONE DRY 1 PASSED KENDALL IN CONVERSATION HITH MY MINISTER"
+    },
+    {
+      "box": [
+        0.2535301969606569,
+        0.7668469809219302,
+        0.4252058029174805,
+        0.042155130050753664
+      ],
+      "confidence": 1,
+      "text": "SAYING \" YOU INOW SENATOR NENDALL\". / SAIR"
+    },
+    {
+      "box": [
+        0.25369934870458727,
+        0.7813480946274433,
+        0.5831167221069338,
+        0.043744961631498325
+      ],
+      "confidence": 1,
+      "text": "HANT TO KNOW HIM. ANY MAN WHO KNOWINGLY IS NOT PREDARED"
+    },
+    {
+      "box": [
+        0.25379203300463105,
+        0.7982851154033993,
+        0.5770083999633789,
+        0.04034391617374433
+      ],
+      "confidence": 1,
+      "text": "TO CORRECT A STATEO ERROR IN THE PLACE MHERE HE MADE IT"
+    },
+    {
+      "box": [
+        0.25976603572238943,
+        0.8315006006322765,
+        0.22965009689331056,
+        0.023741982659863492
+      ],
+      "confidence": 1,
+      "text": "15 NOT WORTH INORING."
+    },
+    {
+      "box": [
+        0.4738989685324043,
+        0.8166287613403083,
+        0.35853855133056634,
+        0.0263701741617407
+      ],
+      "confidence": 1,
+      "text": "\" KENDALL SAID \"HAT DO YOU WANT MIE"
+    },
+    {
+      "box": [
+        0.2587268993975799,
+        0.8473837212663532,
+        0.1478439426422119,
+        0.02325581281613076
+      ],
+      "confidence": 1,
+      "text": "To tO ?\" I SAIA"
+    },
+    {
+      "box": [
+        0.4039219202935483,
+        0.8351480891622803,
+        0.4186091613769532,
+        0.03282493368700268
+      ],
+      "confidence": 1,
+      "text": "\"CORRECT YOUR ERROR BY A STATEMENT IN THE"
+    },
+    {
+      "box": [
+        0.2635623580152071,
+        0.845316152967265,
+        0.5404621124267578,
+        0.045943998004565834
+      ],
+      "confidence": 1,
+      "text": "SENATE\" TO HiS CREDIT ME INTiTER ME TO HIS OFFICe TO"
+    },
+    {
+      "box": [
+        0.26576380476100525,
+        0.8689291876099199,
+        0.5093576431274414,
+        0.03605642580121737
+      ],
+      "confidence": 1,
+      "text": "ASSIST HIM IN PREPARING THE STATEMENT WHICH WAS"
+    },
+    {
+      "box": [
+        0.2640681248717587,
+        0.8829913857761363,
+        0.5627194595336914,
+        0.042050524373480336
+      ],
+      "confidence": 1,
+      "text": "ANDRESSED TO THE SENATE THAT AFTERNOON TO MY COmPLETE"
+    },
+    {
+      "box": [
+        0.2661059014830707,
+        0.9052302658794875,
+        0.5334854888916015,
+        0.032408622384176744
+      ],
+      "confidence": 1,
+      "text": "SATISFACTION. FROM THAT TIME DUR MEETINES HERE qUITE"
+    },
+    {
+      "box": [
+        0.27099108303505703,
+        0.9416502654068812,
+        0.09662153244018551,
+        0.01350179464810719
+      ],
+      "confidence": 1,
+      "text": "FRIENDLY."
+    }
+  ],
+  "text": "baubena\nTHE\nSENATE•\n4. Jame 1q55\"\nДели S. 8i- Fadyen,\nSay I add my congratuldi\nto the man you and recowe.\nHe trajetie recognition\nmust go a long may.\nsecompane Senior officino po\nthe undoubted deppeltes\nSuch the Head of any\n- Дерт.\nmust + does encouns\nMann Sincere,\nSENATOR KENDALL WAS A MASTER MARiNER HAO TORN A SPECIAL\nINTEREST IN THE REDARTMENT DF SHIPPING. AT ONE TIME HE HAS\nMOST UNFRIR IN MAKING A STATEmENT IN ThE SEnATe On my\nRAMINISTRATION. ME HAS PROVER TRONG IN CORRESPONR ENCTE\nBUT MAGE NO MOrE TO RAMIT HIS FRROR TO THE SENATE.\nGEORGE MOLERY ON THE SENATE CORRIOR. ME HERY SPIEG NE\nONE DRY 1 PASSED KENDALL IN CONVERSATION HITH MY MINISTER\nSAYING \" YOU INOW SENATOR NENDALL\". / SAIR\nHANT TO KNOW HIM. ANY MAN WHO KNOWINGLY IS NOT PREDARED\nTO CORRECT A STATEO ERROR IN THE PLACE MHERE HE MADE IT\n15 NOT WORTH INORING.\n\" KENDALL SAID \"HAT DO YOU WANT MIE\nTo tO ?\" I SAIA\n\"CORRECT YOUR ERROR BY A STATEMENT IN THE\nSENATE\" TO HiS CREDIT ME INTiTER ME TO HIS OFFICe TO\nASSIST HIM IN PREPARING THE STATEMENT WHICH WAS\nANDRESSED TO THE SENATE THAT AFTERNOON TO MY COmPLETE\nSATISFACTION. FROM THAT TIME DUR MEETINES HERE qUITE\nFRIENDLY.",
+  "source_sha256": "25b621841f3945d8aa3a2d9373a0fef08c19437c46c53d3d1f74f3db29474e64",
+  "status": "machine-draft"
+}

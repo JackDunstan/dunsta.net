@@ -1,0 +1,343 @@
+{
+  "candidate_names": [
+    "Charles"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-025.jpg",
+  "lines": [
+    {
+      "box": [
+        0.10882956958952995,
+        0.20058139529577246,
+        0.08213552474975587,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "TELEGRAMS"
+    },
+    {
+      "box": [
+        0.10882956719391061,
+        0.20910698516082704,
+        0.08213552474975584,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "\"PASSENGER \""
+    },
+    {
+      "box": [
+        0.10882956685167926,
+        0.2180232559062375,
+        0.08213552474975587,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE"
+    },
+    {
+      "box": [
+        0.41889116838259427,
+        0.13218390811237613,
+        0.13347023010253906,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "TELEPHONES: MU 3526"
+    },
+    {
+      "box": [
+        0.23389169437542948,
+        0.14672922125428867,
+        0.5465966033935548,
+        0.020935451531178262
+      ],
+      "confidence": 1,
+      "text": "ROAD PASSENGER SERVICE OPERATORS ASSOCIATION"
+    },
+    {
+      "box": [
+        0.31622176558007825,
+        0.17441860485591487,
+        0.39835727691650386,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Constituent Member of the Australian Road Transport Federation (Passenger Section)"
+    },
+    {
+      "box": [
+        0.5934291631853107,
+        0.19622093017949327,
+        0.10472278594970696,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "\"EMPTOR HOUSE,\""
+    },
+    {
+      "box": [
+        0.5975359342357923,
+        0.2063953489294934,
+        0.02258726835250857,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "140"
+    },
+    {
+      "box": [
+        0.6283367564110978,
+        0.20639534897794287,
+        0.03696098327636721,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "QUEEN"
+    },
+    {
+      "box": [
+        0.6734890384664814,
+        0.2063255965080355,
+        0.04521904945373534,
+        0.0074069464132915375
+      ],
+      "confidence": 1,
+      "text": "STREET."
+    },
+    {
+      "box": [
+        0.6344969204698111,
+        0.21511627914388287,
+        0.06981519222259525,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE,"
+    },
+    {
+      "box": [
+        0.7125256675513866,
+        0.21511627901670272,
+        0.02053388118743893,
+        0.007267441821245835
+      ],
+      "confidence": 0.5,
+      "text": "C.1"
+    },
+    {
+      "box": [
+        0.634496922181676,
+        0.24563953496551083,
+        0.1498973274230957,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "4th December, 1957"
+    },
+    {
+      "box": [
+        0.21560575594767542,
+        0.31520778058919585,
+        0.21765913009643553,
+        0.013280591113076112
+      ],
+      "confidence": 1,
+      "text": "C. MeFadyen, Esq., C.B.E.,"
+    },
+    {
+      "box": [
+        0.21560575133334658,
+        0.327034883635569,
+        0.1252566719055176,
+        0.013081395446885358
+      ],
+      "confidence": 1,
+      "text": "3 Newton Court,"
+    },
+    {
+      "box": [
+        0.21348902861655591,
+        0.3384681045709108,
+        0.0884223556518555,
+        0.014924255964716027
+      ],
+      "confidence": 1,
+      "text": "ST. KILDA."
+    },
+    {
+      "box": [
+        0.21556986827227206,
+        0.37484917776065574,
+        0.10890132904052732,
+        0.013383039850560441
+      ],
+      "confidence": 1,
+      "text": "Dear Charles,"
+    },
+    {
+      "box": [
+        0.33059548609589073,
+        0.3982558143831766,
+        0.40451744079589846,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Confirming the verbal invitation already extended"
+    },
+    {
+      "box": [
+        0.21355237206281344,
+        0.42130857647752396,
+        0.4825461959838867,
+        0.013284446284583251
+      ],
+      "confidence": 1,
+      "text": "you by the President, members of Committees would like the"
+    },
+    {
+      "box": [
+        0.21560576636040465,
+        0.44473916903081256,
+        0.5523613739013672,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "pleasure of your company at their usual seasonal celebration, which"
+    },
+    {
+      "box": [
+        0.21560576252210353,
+        0.4680232562920914,
+        0.544147834777832,
+        0.01164075782296925
+      ],
+      "confidence": 1,
+      "text": "will be in the form of a dinner at the Victorian Club on the night"
+    },
+    {
+      "box": [
+        0.2156057536455033,
+        0.491158266810112,
+        0.21560573577880862,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "of Tuesday, 17th December."
+    },
+    {
+      "box": [
+        0.5420944536979191,
+        0.5145348841116815,
+        0.1355236148834228,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5523613991912246,
+        0.595930232436441,
+        0.11498972892761217,
+        0.013265170005440807
+      ],
+      "confidence": 1,
+      "text": "(L.C. FREEMAN)"
+    },
+    {
+      "box": [
+        0.5318275161532268,
+        0.6177325582744913,
+        0.1478439426422119,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "SECRETARI"
+    },
+    {
+      "box": [
+        0.28952771933240334,
+        0.835543766737726,
+        0.2566735076904297,
+        0.010386465715160442
+      ],
+      "confidence": 1,
+      "text": "THE NAVAL AND MILITARY CLUB"
+    },
+    {
+      "box": [
+        0.37782341029285954,
+        0.8488063662063454,
+        0.08418890953063962,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "OF VICTORIA."
+    },
+    {
+      "box": [
+        0.28647301092298905,
+        0.8698098193915229,
+        0.2768423271179199,
+        0.03165312175936241
+      ],
+      "confidence": 0.5,
+      "text": "Caph. Cst. Izadyen"
+    },
+    {
+      "box": [
+        0.26694045475587314,
+        0.8968023255790778,
+        0.30184804916381835,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "is an Honorary Member for one month from"
+    },
+    {
+      "box": [
+        0.2648870650055355,
+        0.9460654290499045,
+        0.051334700584411586,
+        0.014690384835294723
+      ],
+      "confidence": 1,
+      "text": "AUG 2"
+    },
+    {
+      "box": [
+        0.33056142180879505,
+        0.947623512865758,
+        0.03908249616622922,
+        0.013183206715065232
+      ],
+      "confidence": 1,
+      "text": "1919"
+    },
+    {
+      "box": [
+        0.4127310048754411,
+        0.9375000002047521,
+        0.1252566719055176,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "R. H. HARPER, Major,"
+    },
+    {
+      "box": [
+        0.4887063659618777,
+        0.9491279070482598,
+        0.08213552474975588,
+        0.008873861095317181
+      ],
+      "confidence": 1,
+      "text": "Hon. Secretary."
+    }
+  ],
+  "text": "TELEGRAMS\n\"PASSENGER \"\nMELBOURNE\nTELEPHONES: MU 3526\nROAD PASSENGER SERVICE OPERATORS ASSOCIATION\nConstituent Member of the Australian Road Transport Federation (Passenger Section)\n\"EMPTOR HOUSE,\"\n140\nQUEEN\nSTREET.\nMELBOURNE,\nC.1\n4th December, 1957\nC. MeFadyen, Esq., C.B.E.,\n3 Newton Court,\nST. KILDA.\nDear Charles,\nConfirming the verbal invitation already extended\nyou by the President, members of Committees would like the\npleasure of your company at their usual seasonal celebration, which\nwill be in the form of a dinner at the Victorian Club on the night\nof Tuesday, 17th December.\nYours sincerely,\n(L.C. FREEMAN)\nSECRETARI\nTHE NAVAL AND MILITARY CLUB\nOF VICTORIA.\nCaph. Cst. Izadyen\nis an Honorary Member for one month from\nAUG 2\n1919\nR. H. HARPER, Major,\nHon. Secretary.",
+  "source_sha256": "e9da2a9b8edd330fbc33947418ad8ac7ea77d5bbf4250d55f11db4b5ba9c8832",
+  "status": "machine-draft"
+}

@@ -1,0 +1,9 @@
+[
+ {"id":"canberra","name":"Canberra & its beginnings","keywords":["Canberra","Federal Capital","Telopea","Barton"]},
+ {"id":"family","name":"Family & friendships","keywords":["family","mother","father","married","wedding","daughter","son"]},
+ {"id":"war-service","name":"War & remembrance","keywords":["war","A.I.F","brigade","soldier","casualty","France","battalion"]},
+ {"id":"public-service","name":"A life in public service","keywords":["department","secretary","minister","shipping","transport","public service"]},
+ {"id":"sport","name":"Sport & community","keywords":["football","cricket","golf","Essendon","boxing","club"]},
+ {"id":"faith","name":"Faith & local life","keywords":["church","parish","bishop","chaplain","pastor","rector"]},
+ {"id":"travel","name":"Places & journeys","keywords":["Brussels","London","Paris","voyage","travel","ship"]}
+]

@@ -1,0 +1,627 @@
+{
+  "candidate_names": [
+    "ANA",
+    "Association",
+    "HELA",
+    "Hon",
+    "MRS"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-078.jpg",
+  "lines": [
+    {
+      "box": [
+        0.11693863967407836,
+        0.1973185593595338,
+        0.047436890602111814,
+        0.007979160278482222
+      ],
+      "confidence": 1,
+      "text": "President:"
+    },
+    {
+      "box": [
+        0.08829569127048222,
+        0.2077807249102107,
+        0.10266940116882327,
+        0.0075154730327143815
+      ],
+      "confidence": 1,
+      "text": "L. V. TOWNSEND"
+    },
+    {
+      "box": [
+        0.11498973310957382,
+        0.2209302325206436,
+        0.05133470058441163,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Hon. Sec.:"
+    },
+    {
+      "box": [
+        0.09650924406600417,
+        0.2311046511979692,
+        0.08624229431152344,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "L. ATHERTON"
+    },
+    {
+      "box": [
+        0.0985626305282446,
+        0.24563953494312418,
+        0.07802874565124512,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "Hon. Treasurer:"
+    },
+    {
+      "box": [
+        0.09445585168131805,
+        0.2558139534995312,
+        0.0882956886291504,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "E. T. HERFORD"
+    },
+    {
+      "box": [
+        0.19689413451168136,
+        0.1218949983440305,
+        0.4603995132446289,
+        0.027131310824690225
+      ],
+      "confidence": 1,
+      "text": "8th Field Ambulance (A.I.F.) Association"
+    },
+    {
+      "box": [
+        0.3696098561839702,
+        0.1686046513287831,
+        0.032854208946228036,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "1915"
+    },
+    {
+      "box": [
+        0.44558521588172284,
+        0.17005813960899918,
+        0.03490759611129762,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "1918"
+    },
+    {
+      "box": [
+        0.28932500853575377,
+        0.19757714275611882,
+        0.25913520812988283,
+        0.013153838858364075
+      ],
+      "confidence": 1,
+      "text": "\"The friends thau bast and their adoption tried."
+    },
+    {
+      "box": [
+        0.29774127062432676,
+        0.21220159171726283,
+        0.25667350769042974,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "Crapple them to thy saul with hoops of steel.\""
+    },
+    {
+      "box": [
+        0.4681724849537964,
+        0.22383720950707764,
+        0.07597535610198969,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "-SHAKESPEARE"
+    },
+    {
+      "box": [
+        0.6468172467778973,
+        0.20058139537535968,
+        0.09445585250854494,
+        0.010293936118101477
+      ],
+      "confidence": 1,
+      "text": "Secretary's Address:"
+    },
+    {
+      "box": [
+        0.6201232064725025,
+        0.21352785129796825,
+        0.14373716354370114,
+        0.008855869451736997
+      ],
+      "confidence": 1,
+      "text": "c/o The Wholesale Drug Co."
+    },
+    {
+      "box": [
+        0.6427104733050035,
+        0.22369584420970234,
+        0.10061601638793949,
+        0.008862295159188904
+      ],
+      "confidence": 1,
+      "text": "17-21 Parker St., City"
+    },
+    {
+      "box": [
+        0.6550308033915101,
+        0.23386383751397333,
+        0.0759753561019898,
+        0.008868720445034284
+      ],
+      "confidence": 1,
+      "text": "Tel.: MA 9121"
+    },
+    {
+      "box": [
+        0.609856267813645,
+        0.24563953500714264,
+        0.16837781906127935,
+        0.010328634769699474
+      ],
+      "confidence": 1,
+      "text": "Private: 13 Leonard Av., Kingsford"
+    },
+    {
+      "box": [
+        0.6714579074539466,
+        0.2558139534534759,
+        0.04312114715576176,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "FX 4901"
+    },
+    {
+      "box": [
+        0.08829569676630847,
+        0.3094606544246312,
+        0.2792607688903809,
+        0.01902771754985788
+      ],
+      "confidence": 1,
+      "text": "SILDA MAROMET!"
+    },
+    {
+      "box": [
+        0.14989733110437542,
+        0.34156976757739455,
+        0.022587268352508544,
+        0.010174418212458902
+      ],
+      "confidence": 0.5,
+      "text": "219"
+    },
+    {
+      "box": [
+        0.5215605774907272,
+        0.3066860463316864,
+        0.15811087608337404,
+        0.016037207383375884
+      ],
+      "confidence": 1,
+      "text": "COME TO THE RETINION"
+    },
+    {
+      "box": [
+        0.4332648889648438,
+        0.33139534912414836,
+        0.09856262207031247,
+        0.01033763059148951
+      ],
+      "confidence": 1,
+      "text": "Dest Digger:"
+    },
+    {
+      "box": [
+        0.5646817315798467,
+        0.3531976745939325,
+        0.22381929397583,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "Once again we are approach-"
+    },
+    {
+      "box": [
+        0.4332648904566874,
+        0.36627906989086356,
+        0.20123203277587892,
+        0.010378754950539415
+      ],
+      "confidence": 1,
+      "text": "ing the night of meeting"
+    },
+    {
+      "box": [
+        0.6344969191920831,
+        0.36472148533616844,
+        0.1622176551818848,
+        0.010278514588859533
+      ],
+      "confidence": 1,
+      "text": "our old War Cobbers"
+    },
+    {
+      "box": [
+        0.43326489006811775,
+        0.37645348846263404,
+        0.3470225906372071,
+        0.011698589190036968
+      ],
+      "confidence": 1,
+      "text": "and exchanging reminiscences of those days"
+    },
+    {
+      "box": [
+        0.4332648970714466,
+        0.38947833755262184,
+        0.2977412605285645,
+        0.01023096452235761
+      ],
+      "confidence": 1,
+      "text": "we spent together on the other side."
+    },
+    {
+      "box": [
+        0.433264885798406,
+        0.41423519008745424,
+        0.33675563812255854,
+        0.011636902651462111
+      ],
+      "confidence": 1,
+      "text": "The 23rd Annual Reunion has been arranged"
+    },
+    {
+      "box": [
+        0.43326488790921885,
+        0.42572944313715944,
+        0.3305954742431641,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "Cor Saturday Night 9th November, 1940 at"
+    },
+    {
+      "box": [
+        0.4312115145245248,
+        0.43589743600268904,
+        0.3511293411254883,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "our usual place, Sargants in Market Street"
+    },
+    {
+      "box": [
+        0.4332648889300242,
+        0.4491279072948211,
+        0.07802874565124512,
+        0.013294727585149158
+      ],
+      "confidence": 1,
+      "text": "at 8 p.m."
+    },
+    {
+      "box": [
+        0.4332648903983114,
+        0.47082228123643177,
+        0.3080082130432128,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Your Committee has made the following"
+    },
+    {
+      "box": [
+        0.4332648896556585,
+        0.4854111405160697,
+        0.1190965080261231,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "arrangements: -"
+    },
+    {
+      "box": [
+        0.5071266181862977,
+        0.4955215687145099,
+        0.04529501914978029,
+        0.011863839194165449
+      ],
+      "confidence": 1,
+      "text": "7.15."
+    },
+    {
+      "box": [
+        0.5728952814857874,
+        0.4955791335075681,
+        0.16837781906127935,
+        0.01023481969386475
+      ],
+      "confidence": 1,
+      "text": "Ceremony at Cenotaph"
+    },
+    {
+      "box": [
+        0.5070733459401349,
+        0.5070433564819165,
+        0.04540156364440917,
+        0.012076077684694209
+      ],
+      "confidence": 1,
+      "text": "7.45."
+    },
+    {
+      "box": [
+        0.5728952864835578,
+        0.5070733865282036,
+        0.20944557189941404,
+        0.01036847364997362
+      ],
+      "confidence": 1,
+      "text": "Short Meeting at Sargents"
+    },
+    {
+      "box": [
+        0.5092194053330946,
+        0.5188492139295833,
+        0.05137638568878178,
+        0.011720176717014419
+      ],
+      "confidence": 1,
+      "text": "8.p.m."
+    },
+    {
+      "box": [
+        0.5726457029364591,
+        0.5179563082686645,
+        0.07031434535980219,
+        0.012052499752567503
+      ],
+      "confidence": 1,
+      "text": "Reunion."
+    },
+    {
+      "box": [
+        0.4332648874392031,
+        0.5375773650499551,
+        0.3490759658813476,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "We anticipate having our great roll up and"
+    },
+    {
+      "box": [
+        0.4353182860094302,
+        0.5494186048386029,
+        0.3552361297607422,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "propose to follow the usual custom of read-"
+    },
+    {
+      "box": [
+        0.4353182845292797,
+        0.5610079575948602,
+        0.35523612976074215,
+        0.01166646065277721
+      ],
+      "confidence": 1,
+      "text": "ing any correspondence from any members who"
+    },
+    {
+      "box": [
+        0.43531827534177814,
+        0.5741279072636835,
+        0.1745379829406738,
+        0.01031064270451254
+      ],
+      "confidence": 1,
+      "text": "are unable to attend."
+    },
+    {
+      "box": [
+        0.435318290159566,
+        0.5972590629738412,
+        0.3388090133666992,
+        0.010299076346777625
+      ],
+      "confidence": 1,
+      "text": "We look forward to seeing you once again,"
+    },
+    {
+      "box": [
+        0.43737167210915173,
+        0.607427055783654,
+        0.3367556381225586,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "but should circumstances prevent you from"
+    },
+    {
+      "box": [
+        0.43737167180114356,
+        0.6206395350590487,
+        0.3367556381225586,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "attending, I would appreciate a line from"
+    },
+    {
+      "box": [
+        0.4353182763796694,
+        0.6337209305982279,
+        0.03490759611129762,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "you."
+    },
+    {
+      "box": [
+        0.5544147888972557,
+        0.6555232560692231,
+        0.14579054832458493,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Yours faithfully,"
+    },
+    {
+      "box": [
+        0.49897330623351654,
+        0.6613372101801562,
+        0.23819301605224608,
+        0.045117254282498576
+      ],
+      "confidence": 0.5,
+      "text": "£ artertor"
+    },
+    {
+      "box": [
+        0.5975359378101188,
+        0.7135278515748105,
+        0.12731005668640138,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Hon. Secretary."
+    },
+    {
+      "box": [
+        0.11088296150461552,
+        0.7948717945688799,
+        0.26283367156982423,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "HULLO! YOU HERE AGAIN"
+    },
+    {
+      "box": [
+        0.13947292579334308,
+        0.8240029072160753,
+        0.5978682327270508,
+        0.01829547106323781
+      ],
+      "confidence": 1,
+      "text": "/ MRS AT THE LAST REUNiON HELA IN THE COmFORTABLE SETTING OF THE"
+    },
+    {
+      "box": [
+        0.11293635059279289,
+        0.8399646330461542,
+        0.6283367538452149,
+        0.017683465959328126
+      ],
+      "confidence": 1,
+      "text": "FEmINiST CLUB KING ST SyNEY, ABOUT TWENTY ASSEMBLEG iN MARTIN PLACE"
+    },
+    {
+      "box": [
+        0.11275805171023463,
+        0.8551166686029275,
+        0.6183754730224609,
+        0.017267023115217106
+      ],
+      "confidence": 1,
+      "text": "AT 1PM. ARA A NREAT PAS MAiD ON THE CENOTAOH. AFTER LAST POST ArIa"
+    },
+    {
+      "box": [
+        0.11280666596326754,
+        0.8704968145385639,
+        0.618322868347168,
+        0.017089837004293118
+      ],
+      "confidence": 1,
+      "text": "REVEILLE MeRe BLOWN By A MOST COmPETENT TRumpeTER ne mOLe TO THe"
+    },
+    {
+      "box": [
+        0.11704312756178198,
+        0.8866279068996843,
+        0.6098562622070312,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "USUAL RITUAL ANA ENTERTAIMENT AT THE CLUB. IT IS GOOD TO MEET THE"
+    },
+    {
+      "box": [
+        0.11485339459685762,
+        0.8973849873810227,
+        0.6162530517578125,
+        0.018434156895105414
+      ],
+      "confidence": 1,
+      "text": "OLE FRIENTS AGAIN AND TO HEAR LETTERS READ FROM DiSTANT MEMBERS. EVeRY"
+    },
+    {
+      "box": [
+        0.11869874416912005,
+        0.9077748087911849,
+        0.6392053604125977,
+        0.025509577109474324
+      ],
+      "confidence": 1,
+      "text": "YeAR THeRE's A FRESN CASUALTY LiST BUT MHiLE STOW ATMeRTON TOWNSENET • HeRReRA"
+    },
+    {
+      "box": [
+        0.11909651019180138,
+        0.9257294431703649,
+        0.6447638702392577,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "ARE ABOUT THeRE WILA ALViAYS Be A ReUNiON. A FEN OR THE BOYS 100K 60017 ENOUGH"
+    },
+    {
+      "box": [
+        0.12114990285746885,
+        0.9447391691977864,
+        0.16632442474365233,
+        0.01458885941644561
+      ],
+      "confidence": 1,
+      "text": "FOR A FeN YeARS YeT."
+    },
+    {
+      "box": [
+        0.30167358157227936,
+        0.944473209479472,
+        0.09275139808654786,
+        0.02820474336254819
+      ],
+      "confidence": 1,
+      "text": "but zo1s165"
+    }
+  ],
+  "text": "President:\nL. V. TOWNSEND\nHon. Sec.:\nL. ATHERTON\nHon. Treasurer:\nE. T. HERFORD\n8th Field Ambulance (A.I.F.) Association\n1915\n1918\n\"The friends thau bast and their adoption tried.\nCrapple them to thy saul with hoops of steel.\"\n-SHAKESPEARE\nSecretary's Address:\nc/o The Wholesale Drug Co.\n17-21 Parker St., City\nTel.: MA 9121\nPrivate: 13 Leonard Av., Kingsford\nFX 4901\nSILDA MAROMET!\n219\nCOME TO THE RETINION\nDest Digger:\nOnce again we are approach-\ning the night of meeting\nour old War Cobbers\nand exchanging reminiscences of those days\nwe spent together on the other side.\nThe 23rd Annual Reunion has been arranged\nCor Saturday Night 9th November, 1940 at\nour usual place, Sargants in Market Street\nat 8 p.m.\nYour Committee has made the following\narrangements: -\n7.15.\nCeremony at Cenotaph\n7.45.\nShort Meeting at Sargents\n8.p.m.\nReunion.\nWe anticipate having our great roll up and\npropose to follow the usual custom of read-\ning any correspondence from any members who\nare unable to attend.\nWe look forward to seeing you once again,\nbut should circumstances prevent you from\nattending, I would appreciate a line from\nyou.\nYours faithfully,\n£ artertor\nHon. Secretary.\nHULLO! YOU HERE AGAIN\n/ MRS AT THE LAST REUNiON HELA IN THE COmFORTABLE SETTING OF THE\nFEmINiST CLUB KING ST SyNEY, ABOUT TWENTY ASSEMBLEG iN MARTIN PLACE\nAT 1PM. ARA A NREAT PAS MAiD ON THE CENOTAOH. AFTER LAST POST ArIa\nREVEILLE MeRe BLOWN By A MOST COmPETENT TRumpeTER ne mOLe TO THe\nUSUAL RITUAL ANA ENTERTAIMENT AT THE CLUB. IT IS GOOD TO MEET THE\nOLE FRIENTS AGAIN AND TO HEAR LETTERS READ FROM DiSTANT MEMBERS. EVeRY\nYeAR THeRE's A FRESN CASUALTY LiST BUT MHiLE STOW ATMeRTON TOWNSENET • HeRReRA\nARE ABOUT THeRE WILA ALViAYS Be A ReUNiON. A FEN OR THE BOYS 100K 60017 ENOUGH\nFOR A FeN YeARS YeT.\nbut zo1s165",
+  "source_sha256": "ad4dd0a37aa7ea84bbd1d875cdcb527242f54e42c15b83072f2654ba9cbefa6b",
+  "status": "machine-draft"
+}

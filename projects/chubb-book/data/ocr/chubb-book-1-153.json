@@ -1,0 +1,281 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-153.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3326488734563507,
+        0.17285587982648454,
+        0.29568788528442386,
+        0.01028365481753557
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH OF AUSTRALIA."
+    },
+    {
+      "box": [
+        0.12320328501147536,
+        0.20348837218530735,
+        0.07802874565124511,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "TELEPHONES:"
+    },
+    {
+      "box": [
+        0.1293634590069118,
+        0.23828470384692846,
+        0.09445584297180176,
+        0.004447853955202197
+      ],
+      "confidence": 1,
+      "text": "IN REPLY PLEASE QUOTE"
+    },
+    {
+      "box": [
+        0.12731006990889365,
+        0.25000000019205537,
+        0.08213551521301271,
+        0.00436046458681949
+      ],
+      "confidence": 1,
+      "text": "...."
+    },
+    {
+      "box": [
+        0.5687885016897652,
+        0.210755814274165,
+        0.199178638458252,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "CENTRAL ADMINISTRATION,"
+    },
+    {
+      "box": [
+        0.5030800982542941,
+        0.22529069807122604,
+        0.33264884948730467,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH HANDLING EQUIPMENT POOL,"
+    },
+    {
+      "box": [
+        0.5482546307635109,
+        0.23828470372638877,
+        0.2402463912963867,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "DEPARTMENT OF FUEL, SHIPPING AND TRANSPORT,"
+    },
+    {
+      "box": [
+        0.6365503100327118,
+        0.26162790715467177,
+        0.06365502834320069,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "SYDNEY."
+    },
+    {
+      "box": [
+        0.6488706355224587,
+        0.26878868224956864,
+        0.1232032871246338,
+        0.02210433244915999
+      ],
+      "confidence": 1,
+      "text": "9 6. 85"
+    },
+    {
+      "box": [
+        0.13087915287649676,
+        0.31869000712225704,
+        0.32754714965820314,
+        0.04324858890604277
+      ],
+      "confidence": 0.5,
+      "text": "Heps of Shipping Champo"
+    },
+    {
+      "box": [
+        0.18868844658395312,
+        0.35401623291405626,
+        0.17909128189086915,
+        0.033246604453979756
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "п неввоте::"
+    },
+    {
+      "box": [
+        0.34496921172322415,
+        0.4345711760289248,
+        0.49691989898681643,
+        0.03492484526967288
+      ],
+      "confidence": 1,
+      "text": "Congratilations on the Signal home"
+    },
+    {
+      "box": [
+        0.1606978141569838,
+        0.4538025449402112,
+        0.6431724548339843,
+        0.05809983608471825
+      ],
+      "confidence": 0.5,
+      "text": "Has tape has been plead to bestos upon your"
+    },
+    {
+      "box": [
+        0.16916180443647832,
+        0.48244770752291544,
+        0.6777804565429687,
+        0.05791287881731455
+      ],
+      "confidence": 1,
+      "text": "and which can rightly, he regarded an home mean"
+    },
+    {
+      "box": [
+        0.16069911215363447,
+        0.5115952412498259,
+        0.6373423385620116,
+        0.061364350120753586
+      ],
+      "confidence": 0.5,
+      "text": "repution a a lettie offerice to the Come"
+    },
+    {
+      "box": [
+        0.1786447632212891,
+        0.5406719718737134,
+        0.23203285217285155,
+        0.03934571175950485
+      ],
+      "confidence": 1,
+      "text": "and ons Country."
+    },
+    {
+      "box": [
+        0.262681645474687,
+        0.5625942572019824,
+        0.5606228256225586,
+        0.07489688917138115
+      ],
+      "confidence": 1,
+      "text": "Think on ma be long spred to condie"
+    },
+    {
+      "box": [
+        0.1930184891857735,
+        0.6074270557210864,
+        0.5893223571777344,
+        0.035014804330787075
+      ],
+      "confidence": 1,
+      "text": "that uncelfish sorce which has always ke"
+    },
+    {
+      "box": [
+        0.20328541693728439,
+        0.6308139530812809,
+        0.3162217712402343,
+        0.03779069814504932
+      ],
+      "confidence": 0.5,
+      "text": "seempleped is spous life"
+    },
+    {
+      "box": [
+        0.46393252520241235,
+        0.6566321093047128,
+        0.2718378829956054,
+        0.05245789376957877
+      ],
+      "confidence": 1,
+      "text": "Youre cancely."
+    },
+    {
+      "box": [
+        0.5174537960582236,
+        0.6918604653968383,
+        0.22792608261108405,
+        0.049518844914794746
+      ],
+      "confidence": 1,
+      "text": "Pay taway."
+    },
+    {
+      "box": [
+        0.09195836519256843,
+        0.8666039666538214,
+        0.7524918365478516,
+        0.03265573280665013
+      ],
+      "confidence": 1,
+      "text": "THIS IS THE STERN COOKER WHICH COLOrRA STACY D'ACES, SPIRITER AWAY\" FRom"
+    },
+    {
+      "box": [
+        0.09165260664519942,
+        0.8747414029719786,
+        0.7733119201660155,
+        0.038048782146261506
+      ],
+      "confidence": 1,
+      "text": "FERRY POST SUEZCANAL TO THE \"GLENGORM CASTLE\" AT ALRIANTRIA FOR SHIPMENT"
+    },
+    {
+      "box": [
+        0.08766146563554997,
+        0.8949280016258663,
+        0.7404594421386719,
+        0.033668329186612334
+      ],
+      "confidence": 1,
+      "text": "To FRANCe. THe A.D.M.S. CANAL ZONE WAS ACTeRmINe TO KeeP THe COOKER INt"
+    },
+    {
+      "box": [
+        0.09204893693660843,
+        0.9252428736577505,
+        0.2821683883666992,
+        0.021569741921125485
+      ],
+      "confidence": 1,
+      "text": "EGYPT. BUT He LOST OUT TO"
+    },
+    {
+      "box": [
+        0.3731619856351412,
+        0.9096368693621587,
+        0.4980389404296875,
+        0.026856736942901804
+      ],
+      "confidence": 1,
+      "text": "SUPERIOR THINKING AND INFRITIC INITIATIVE. THe COOKER"
+    },
+    {
+      "box": [
+        0.09565834839938318,
+        0.9255330999255176,
+        0.6625876617431641,
+        0.03452383323015096
+      ],
+      "confidence": 1,
+      "text": "PROVEM TO Be WORTH ITS WeIGHT IN GOL IN THe FORwARa 2ode In FRANCe."
+    }
+  ],
+  "text": "COMMONWEALTH OF AUSTRALIA.\nTELEPHONES:\nIN REPLY PLEASE QUOTE\n....\nCENTRAL ADMINISTRATION,\nCOMMONWEALTH HANDLING EQUIPMENT POOL,\nDEPARTMENT OF FUEL, SHIPPING AND TRANSPORT,\nSYDNEY.\n9 6. 85\nHeps of Shipping Champo\nп неввоте::\nCongratilations on the Signal home\nHas tape has been plead to bestos upon your\nand which can rightly, he regarded an home mean\nrepution a a lettie offerice to the Come\nand ons Country.\nThink on ma be long spred to condie\nthat uncelfish sorce which has always ke\nseempleped is spous life\nYoure cancely.\nPay taway.\nTHIS IS THE STERN COOKER WHICH COLOrRA STACY D'ACES, SPIRITER AWAY\" FRom\nFERRY POST SUEZCANAL TO THE \"GLENGORM CASTLE\" AT ALRIANTRIA FOR SHIPMENT\nTo FRANCe. THe A.D.M.S. CANAL ZONE WAS ACTeRmINe TO KeeP THe COOKER INt\nEGYPT. BUT He LOST OUT TO\nSUPERIOR THINKING AND INFRITIC INITIATIVE. THe COOKER\nPROVEM TO Be WORTH ITS WeIGHT IN GOL IN THe FORwARa 2ode In FRANCe.",
+  "source_sha256": "9dbf422bcf9b132c3054f998ba345c4460737d4e1dbcd69924f9b97ff529205e",
+  "status": "machine-draft"
+}

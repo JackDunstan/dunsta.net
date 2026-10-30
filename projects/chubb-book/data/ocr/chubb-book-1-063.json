@@ -1,0 +1,41 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-063.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2648870591551086,
+        0.39098837225817185,
+        0.012320337295532224,
+        0.06976744013481917
+      ],
+      "confidence": 1,
+      "text": "ANZAC DAY"
+    },
+    {
+      "box": [
+        0.2628336733531841,
+        0.4680232562591907,
+        0.014373720884323149,
+        0.04069767284983561
+      ],
+      "confidence": 0.5,
+      "text": "SYANEY"
+    },
+    {
+      "box": [
+        0.26283367406552566,
+        0.5159883716679403,
+        0.012320331335067769,
+        0.026162790893770604
+      ],
+      "confidence": 1,
+      "text": "1931"
+    }
+  ],
+  "text": "ANZAC DAY\nSYANEY\n1931",
+  "source_sha256": "68b41fb01343dbe4c4fee1b2e713205e0f70739f58f00c5f42c06455266013c6",
+  "status": "machine-draft"
+}

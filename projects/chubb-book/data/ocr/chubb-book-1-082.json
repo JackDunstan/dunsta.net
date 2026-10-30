@@ -1,0 +1,324 @@
+{
+  "candidate_names": [
+    "MARIE ANG",
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-082.jpg",
+  "lines": [
+    {
+      "box": [
+        0.4061780818745395,
+        0.15921590372065053,
+        0.08097865104675295,
+        0.022155874709340995
+      ],
+      "confidence": 1,
+      "text": "SENATE•"
+    },
+    {
+      "box": [
+        0.23181180663720183,
+        0.1875230421953833,
+        0.37624950408935554,
+        0.01712784568995729
+      ],
+      "confidence": 1,
+      "text": "THE PARLIAMENT OF THE COMMONWEALTH."
+    },
+    {
+      "box": [
+        0.20944558540569985,
+        0.20784883714574343,
+        0.0616016435623169,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "RK/WH."
+    },
+    {
+      "box": [
+        0.47821582230115195,
+        0.22373105643763336,
+        0.24069360733032225,
+        0.013293700551269994
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH PARLIAMENT OFFICES,"
+    },
+    {
+      "box": [
+        0.5071868636859306,
+        0.23691860500557682,
+        0.19301847457885735,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Brisbane, B.9, Q'ld."
+    },
+    {
+      "box": [
+        0.5256673549317409,
+        0.24845269666396597,
+        0.19712524414062504,
+        0.014628698718326394
+      ],
+      "confidence": 1,
+      "text": "25th October, 1957."
+    },
+    {
+      "box": [
+        0.20944559312762934,
+        0.3050397876919966,
+        0.17864475250244138,
+        0.013274165405624316
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.35728953747664066,
+        0.33996463297522284,
+        0.2669404411315918,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "As I understand you will be"
+    },
+    {
+      "box": [
+        0.2071320719508739,
+        0.34852494971929415,
+        0.4276123428344727,
+        0.01852220017545325
+      ],
+      "confidence": 1,
+      "text": "leaving the Service shortly, may I wish you"
+    },
+    {
+      "box": [
+        0.20739219971726008,
+        0.36191860488705263,
+        0.11909650802612304,
+        0.011644613416083138
+      ],
+      "confidence": 1,
+      "text": "good health"
+    },
+    {
+      "box": [
+        0.3244353119652386,
+        0.36337209317781516,
+        0.3285420989990235,
+        0.013285731763359121
+      ],
+      "confidence": 1,
+      "text": "and happiness in your retirement."
+    },
+    {
+      "box": [
+        0.3552361388176952,
+        0.3866279072974208,
+        0.2874743270874023,
+        0.01169216348258506
+      ],
+      "confidence": 1,
+      "text": "It is regrettable that it has"
+    },
+    {
+      "box": [
+        0.20739219902581027,
+        0.39680232581728514,
+        0.17043121337890624,
+        0.011685737775133043
+      ],
+      "confidence": 1,
+      "text": "not been possible"
+    },
+    {
+      "box": [
+        0.3839835729849366,
+        0.39825581395232956,
+        0.02258726835250857,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "to"
+    },
+    {
+      "box": [
+        0.4147844011159155,
+        0.3996463307892407,
+        0.14168376922607417,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "bring down the"
+    },
+    {
+      "box": [
+        0.5585215605324215,
+        0.40116279066017846,
+        0.08418890953063951,
+        0.00872093001685248
+      ],
+      "confidence": 1,
+      "text": "numerous"
+    },
+    {
+      "box": [
+        0.20944559114322217,
+        0.41114058347045646,
+        0.4209445571899414,
+        0.010371044185918388
+      ],
+      "confidence": 1,
+      "text": "amenaments to the Navigation Act which are"
+    },
+    {
+      "box": [
+        0.2073922021052261,
+        0.419982316338519,
+        0.16837781906127927,
+        0.011703729840319865
+      ],
+      "confidence": 1,
+      "text": "train, but I feel"
+    },
+    {
+      "box": [
+        0.38193018619916835,
+        0.4229651162900234,
+        0.04517453670501709,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "sure"
+    },
+    {
+      "box": [
+        0.628336756772354,
+        0.4127906980400884,
+        0.024640655517578214,
+        0.010174418212458791
+      ],
+      "confidence": 1,
+      "text": "in"
+    },
+    {
+      "box": [
+        0.4332648844942088,
+        0.4229651164993907,
+        0.2505133438110351,
+        0.010279799646028431
+      ],
+      "confidence": 1,
+      "text": "that such a consolidation"
+    },
+    {
+      "box": [
+        0.20716314466317173,
+        0.42953675531709357,
+        0.4851077270507812,
+        0.018539556879369035
+      ],
+      "confidence": 1,
+      "text": "must always remain as a reminder of your service."
+    },
+    {
+      "box": [
+        0.35318275418146583,
+        0.4562334218697619,
+        0.13141683578491214,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "Kind regards,"
+    },
+    {
+      "box": [
+        0.45739578375368245,
+        0.48850247590220086,
+        0.16347139358520507,
+        0.017618005619335797
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5154004080795148,
+        0.5203488374243761,
+        0.19096509933471684,
+        0.03924418549744246
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Claude:"
+    },
+    {
+      "box": [
+        0.5213501956669028,
+        0.5608223328826614,
+        0.1380709838867189,
+        0.01488389302733506
+      ],
+      "confidence": 1,
+      "text": "(ROY KENDALL)"
+    },
+    {
+      "box": [
+        0.5481592320633021,
+        0.5738297196674843,
+        0.08027291297912598,
+        0.013677769904638315
+      ],
+      "confidence": 1,
+      "text": "Senator."
+    },
+    {
+      "box": [
+        0.20305276685495216,
+        0.6387491733396379,
+        0.2920569038391113,
+        0.01565370129653565
+      ],
+      "confidence": 1,
+      "text": "C. H. McFadyen, Esq., C. B.E.,"
+    },
+    {
+      "box": [
+        0.20498661640365554,
+        0.6497101644735879,
+        0.3456674575805664,
+        0.017617283828694874
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.20123203568954728,
+        0.6626878872133949,
+        0.1498973274230957,
+        0.014637694118509903
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE, Vic."
+    },
+    {
+      "box": [
+        0.2854209437358361,
+        0.9562334221578556,
+        0.48254619598388676,
+        0.016357206012378445
+      ],
+      "confidence": 1,
+      "text": "MARIE ANG TAYIR (5 MONTHS) FOREST HILL NEWTORI"
+    }
+  ],
+  "text": "SENATE•\nTHE PARLIAMENT OF THE COMMONWEALTH.\nRK/WH.\nCOMMONWEALTH PARLIAMENT OFFICES,\nBrisbane, B.9, Q'ld.\n25th October, 1957.\nDear Mr. McFadyen,\nAs I understand you will be\nleaving the Service shortly, may I wish you\ngood health\nand happiness in your retirement.\nIt is regrettable that it has\nnot been possible\nto\nbring down the\nnumerous\namenaments to the Navigation Act which are\ntrain, but I feel\nsure\nin\nthat such a consolidation\nmust always remain as a reminder of your service.\nKind regards,\nYours sincerely,\nClaude:\n(ROY KENDALL)\nSenator.\nC. H. McFadyen, Esq., C. B.E.,\nDepartment of Shipping & Transport,\nMELBOURNE, Vic.\nMARIE ANG TAYIR (5 MONTHS) FOREST HILL NEWTORI",
+  "source_sha256": "780e8c4a03efe8f0ff7de9de637d1f329b219758e1152f1edc70c7bb17551194",
+  "status": "machine-draft"
+}

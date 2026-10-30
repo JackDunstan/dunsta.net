@@ -1,0 +1,315 @@
+{
+  "candidate_names": [
+    "AMM",
+    "BORRA",
+    "HAR"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-047.jpg",
+  "lines": [
+    {
+      "box": [
+        0.2915811116493692,
+        0.19186046505272014,
+        0.2956878852844238,
+        0.013267740119778937
+      ],
+      "confidence": 1,
+      "text": "COMMONWEALTH OF AUSTRALIA."
+    },
+    {
+      "box": [
+        0.4394250511678625,
+        0.23386383727750915,
+        0.19917863845825196,
+        0.010322209062247456
+      ],
+      "confidence": 1,
+      "text": "DEPARTMENT OF HEALTH."
+    },
+    {
+      "box": [
+        0.39425051991392907,
+        0.2630415561548092,
+        0.13552360534667968,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "CANBERRA, F.C.T.,"
+    },
+    {
+      "box": [
+        0.572895278484675,
+        0.2630415563312958,
+        0.10061601638793938,
+        0.01166774570994622
+      ],
+      "confidence": 1,
+      "text": "28th June,"
+    },
+    {
+      "box": [
+        0.7207392196941049,
+        0.2645348840052697,
+        0.051334700584411586,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "1938."
+    },
+    {
+      "box": [
+        0.19687451465202593,
+        0.3414778717920772,
+        0.17914625167846676,
+        0.014718675486921295
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. MeFadyen,"
+    },
+    {
+      "box": [
+        0.29568788619893593,
+        0.3779069772802861,
+        0.41478439331054695,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "On behalf of the Commonwealth Government I"
+    },
+    {
+      "box": [
+        0.19712527125718296,
+        0.3938953486341805,
+        0.5338808822631836,
+        0.014592715431166137
+      ],
+      "confidence": 1,
+      "text": "desire to express to you the Government's appreciation"
+    },
+    {
+      "box": [
+        0.1970170118370882,
+        0.41195249269963496,
+        0.5628738784790039,
+        0.0155266745758732
+      ],
+      "confidence": 1,
+      "text": "of your services while a member of the Canberra Community"
+    },
+    {
+      "box": [
+        0.1971252594814041,
+        0.43015030935787624,
+        0.5236139678955077,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Hospital Board, which Board will cease to function on"
+    },
+    {
+      "box": [
+        0.19917864935087579,
+        0.4476744188889905,
+        0.22587268829345705,
+        0.011653609237873397
+      ],
+      "confidence": 1,
+      "text": "the 30th of this month."
+    },
+    {
+      "box": [
+        0.2956878916875181,
+        0.4650751546180888,
+        0.46406570434570316,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "The Government recognizes the difficulties with"
+    },
+    {
+      "box": [
+        0.19701693286249408,
+        0.48233971234475703,
+        0.5628356170654296,
+        0.015988187174371227
+      ],
+      "confidence": 1,
+      "text": "which you have been confronted, and in view of which I am"
+    },
+    {
+      "box": [
+        0.1971252624841081,
+        0.49854651148544016,
+        0.5133470153808594,
+        0.014716087665102462
+      ],
+      "confidence": 1,
+      "text": "instructed to convey the Government's thanks to each"
+    },
+    {
+      "box": [
+        0.19507187495732536,
+        0.5188953490852114,
+        0.28747432708740234,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "member of the retiring Board."
+    },
+    {
+      "box": [
+        0.4513536692363449,
+        0.5404567324323405,
+        0.16921981811523445,
+        0.014977543676563565
+      ],
+      "confidence": 1,
+      "text": "Yours faithfully,"
+    },
+    {
+      "box": [
+        0.44558521156351555,
+        0.5623342181156913,
+        0.20944559097290044,
+        0.03504950256077832
+      ],
+      "confidence": 0.5,
+      "text": "Д. вашегом"
+    },
+    {
+      "box": [
+        0.4104653482621598,
+        0.6054136765323385,
+        0.2715068817138671,
+        0.016785684040855453
+      ],
+      "confidence": 1,
+      "text": "Acting Minister for Health."
+    },
+    {
+      "box": [
+        0.1930184892453648,
+        0.6786030060127266,
+        0.20944557189941404,
+        0.014710947436426314
+      ],
+      "confidence": 1,
+      "text": "C. H. McFadyen, Esq.,"
+    },
+    {
+      "box": [
+        0.252566738970387,
+        0.6976127320025174,
+        0.1683778190612793,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "National Circuit,"
+    },
+    {
+      "box": [
+        0.312114990402231,
+        0.715116279060537,
+        0.13552361488342285,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "FORREST."
+    },
+    {
+      "box": [
+        0.1047228120572634,
+        0.8110465119771215,
+        0.7022586822509767,
+        0.016097608443174982
+      ],
+      "confidence": 1,
+      "text": "CAMERON DISSOLTER THE PART NOMINEE PART ELECTEL BORRA AM REPLACER IT WITH"
+    },
+    {
+      "box": [
+        0.09445586745198561,
+        0.835543766566137,
+        0.6981519317626953,
+        0.016357206012378445
+      ],
+      "confidence": 1,
+      "text": "A WHOLLY FAECTED BOARA. I WAS AGAIN ELECTRA AT THE ENGUING POLL AMM"
+    },
+    {
+      "box": [
+        0.09431278676000304,
+        0.8560428558234895,
+        0.6922473907470703,
+        0.02112614507700472
+      ],
+      "confidence": 1,
+      "text": "BECAME FIRST CHRIRMAN OF THE NHOLLY ELECTED BOARD. / RESIGNED THiS"
+    },
+    {
+      "box": [
+        0.0921041646237827,
+        0.8733648052149725,
+        0.7212836456298829,
+        0.025967994271707595
+      ],
+      "confidence": 1,
+      "text": "POSITION SM RECEMBER 1939 WHEN 1 WAS APPOiNTER TO MELBOURNE AS LIMiSON"
+    },
+    {
+      "box": [
+        0.09215754172295704,
+        0.8940446685486392,
+        0.7479500579833984,
+        0.023349176772815006
+      ],
+      "confidence": 1,
+      "text": "OFFICER BETHEEN THE DERA. OF TRADE AND CUSTOMS RIO THE HAR MEPARIMENT"
+    },
+    {
+      "box": [
+        0.09240247343854292,
+        0.9111405834438616,
+        0.712525634765625,
+        0.019091974624377395
+      ],
+      "confidence": 1,
+      "text": "THEN KNOWN AS SUPPLY AND REVELOPMENT. PROFESSOR BRIGREN WAS IN CHARGE"
+    },
+    {
+      "box": [
+        0.09417301414326915,
+        0.9286650733587178,
+        0.7376250457763671,
+        0.023918657783488007
+      ],
+      "confidence": 1,
+      "text": "BUT NAS SOON TO BE REPLACEL BY A MUCH MORE EFFICIENT MAN IN J,K. JENSEN"
+    },
+    {
+      "box": [
+        0.09219277920539767,
+        0.9467063147900975,
+        0.710913314819336,
+        0.021272238538288413
+      ],
+      "confidence": 1,
+      "text": "IN 19hO / WAS A MEMBER DF THE COMMONNEALTM MACHINE TOOL COmmITTEE UNDER"
+    },
+    {
+      "box": [
+        0.09240247344098403,
+        0.9664014145218408,
+        0.35523612976074226,
+        0.016357206012378445
+      ],
+      "confidence": 1,
+      "text": "THIE CHAIRMANSHIP OF SIR JONN STORY."
+    }
+  ],
+  "text": "COMMONWEALTH OF AUSTRALIA.\nDEPARTMENT OF HEALTH.\nCANBERRA, F.C.T.,\n28th June,\n1938.\nDear Mr. MeFadyen,\nOn behalf of the Commonwealth Government I\ndesire to express to you the Government's appreciation\nof your services while a member of the Canberra Community\nHospital Board, which Board will cease to function on\nthe 30th of this month.\nThe Government recognizes the difficulties with\nwhich you have been confronted, and in view of which I am\ninstructed to convey the Government's thanks to each\nmember of the retiring Board.\nYours faithfully,\nД. вашегом\nActing Minister for Health.\nC. H. McFadyen, Esq.,\nNational Circuit,\nFORREST.\nCAMERON DISSOLTER THE PART NOMINEE PART ELECTEL BORRA AM REPLACER IT WITH\nA WHOLLY FAECTED BOARA. I WAS AGAIN ELECTRA AT THE ENGUING POLL AMM\nBECAME FIRST CHRIRMAN OF THE NHOLLY ELECTED BOARD. / RESIGNED THiS\nPOSITION SM RECEMBER 1939 WHEN 1 WAS APPOiNTER TO MELBOURNE AS LIMiSON\nOFFICER BETHEEN THE DERA. OF TRADE AND CUSTOMS RIO THE HAR MEPARIMENT\nTHEN KNOWN AS SUPPLY AND REVELOPMENT. PROFESSOR BRIGREN WAS IN CHARGE\nBUT NAS SOON TO BE REPLACEL BY A MUCH MORE EFFICIENT MAN IN J,K. JENSEN\nIN 19hO / WAS A MEMBER DF THE COMMONNEALTM MACHINE TOOL COmmITTEE UNDER\nTHIE CHAIRMANSHIP OF SIR JONN STORY.",
+  "source_sha256": "a112789e935ead6bb9620ee55c74b2b428c19ebd4952f2bba1484d963854666d",
+  "status": "machine-draft"
+}

@@ -1,0 +1,324 @@
+{
+  "candidate_names": [
+    "PHIL",
+    "PHiL"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-089.jpg",
+  "lines": [
+    {
+      "box": [
+        0.43121149880531207,
+        0.13081395348605462,
+        0.06570841789245607,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "The"
+    },
+    {
+      "box": [
+        0.6324435326855649,
+        0.12936046506609622,
+        0.10061601638793938,
+        0.021802325463737726
+      ],
+      "confidence": 1,
+      "text": "Beraly"
+    },
+    {
+      "box": [
+        0.548254620510731,
+        0.14970930229068524,
+        0.026694045066833483,
+        0.007267441821245835
+      ],
+      "confidence": 1,
+      "text": "1840"
+    },
+    {
+      "box": [
+        0.5133470235917234,
+        0.16569767445378314,
+        0.09445585250854494,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE"
+    },
+    {
+      "box": [
+        0.6652977420047267,
+        0.18313953516806036,
+        0.08829568862915038,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "'hursday;"
+    },
+    {
+      "box": [
+        0.6673511284818051,
+        0.19476744218114173,
+        0.11909650802612304,
+        0.011687022832302163
+      ],
+      "confidence": 1,
+      "text": "June 9, 1955"
+    },
+    {
+      "box": [
+        0.35934292076977487,
+        0.2833775417470652,
+        0.2566735076904297,
+        0.016041062554883023
+      ],
+      "confidence": 1,
+      "text": "Mr. C.E. McFadyen C.B.E.,"
+    },
+    {
+      "box": [
+        0.3552361436482078,
+        0.29929266125781484,
+        0.3778234100341797,
+        0.023430592396109562
+      ],
+      "confidence": 1,
+      "text": "• Department of Shipping and Transport."
+    },
+    {
+      "box": [
+        0.3655030847118702,
+        0.3226744188599209,
+        0.1868583106994629,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.3592143295906787,
+        0.33390819523950155,
+        0.10497996330261228,
+        0.018230121184196424
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.363449692908119,
+        0.3720930232708084,
+        0.14168377876281735,
+        0.014732794251513637
+      ],
+      "confidence": 1,
+      "text": "Dear Charlie,"
+    },
+    {
+      "box": [
+        0.5051334790019761,
+        0.39680232580230057,
+        0.23408622741699225,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "This is to tell you how"
+    },
+    {
+      "box": [
+        0.36550308844362617,
+        0.4111405837585542,
+        0.36960983276367193,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "delighted I am at the honour bestowed"
+    },
+    {
+      "box": [
+        0.36550307794552916,
+        0.42296511648813495,
+        0.3408624267578124,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "upon you by Her Majesty the Queen."
+    },
+    {
+      "box": [
+        0.5092402523219364,
+        0.450486295251012,
+        0.20533880233764656,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "lease accept my warn"
+    },
+    {
+      "box": [
+        0.3695248649901939,
+        0.4603505726984879,
+        0.3636037063598633,
+        0.012230825044748372
+      ],
+      "confidence": 1,
+      "text": "congratulations on this well deserved"
+    },
+    {
+      "box": [
+        0.36344969796170146,
+        0.47529069802277635,
+        0.12320327758789062,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "recognition."
+    },
+    {
+      "box": [
+        0.5051334792292099,
+        0.498546511839572,
+        0.2032854080200195,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "With best wishes and"
+    },
+    {
+      "box": [
+        0.3634496990491884,
+        0.5114942532392132,
+        0.17248458862304689,
+        0.014668537176994012
+      ],
+      "confidence": 1,
+      "text": "kindest regards -"
+    },
+    {
+      "box": [
+        0.5540537179794295,
+        0.5348447758929588,
+        0.16509611129760737,
+        0.016495900276379705
+      ],
+      "confidence": 1,
+      "text": "Yours sincerely,"
+    },
+    {
+      "box": [
+        0.5852156046093093,
+        0.5741279062108072,
+        0.07597536087036139,
+        0.03197674536262329
+      ],
+      "confidence": 1,
+      "text": "This one"
+    },
+    {
+      "box": [
+        0.33264887173607505,
+        0.7484526965630259,
+        0.08829568862915038,
+        0.008841732979664063
+      ],
+      "confidence": 1,
+      "text": "THE HERALD AND"
+    },
+    {
+      "box": [
+        0.4188911634291801,
+        0.747093023460566,
+        0.37782341003417974,
+        0.008875146152486302
+      ],
+      "confidence": 1,
+      "text": "WEEKLY TIMES LTD., REGISTERED OFFICE: 44/74 FLINDERS ST., MELBOURNE, C.I."
+    },
+    {
+      "box": [
+        0.28116055965217124,
+        0.791889883964311,
+        0.6593854522705078,
+        0.019117112501230382
+      ],
+      "confidence": 1,
+      "text": "PHIL NONES WIS IN CHARGE OF SUB.TRERSURY SYRNEY WHEN I SHEW HIM FIRST."
+    },
+    {
+      "box": [
+        0.23992679153621752,
+        0.8057308697694653,
+        0.7109624481201171,
+        0.025553872793991905
+      ],
+      "confidence": 1,
+      "text": "HE WAS TREASURY REPRESENTATiVE ON THE COMMORHERLTM HANDLING EQUiPMENT"
+    },
+    {
+      "box": [
+        0.2419648930069087,
+        0.827154697272043,
+        0.6988388061523437,
+        0.025062689203587785
+      ],
+      "confidence": 1,
+      "text": "POOL OF WHICH I HAS CHRIRMAN. AS A VERY EFFICIENT CFFiCER OF THE C'WeALTH"
+    },
+    {
+      "box": [
+        0.23984027436586203,
+        0.8442266826062026,
+        0.6805133056640624,
+        0.02750838740961825
+      ],
+      "confidence": 1,
+      "text": "PUBLIC SERVICe PHiL CAUGHT THE EYE OF SIR KEITM MURIZOCH WHO INTRUCER HIM TO"
+    },
+    {
+      "box": [
+        0.23764985013424408,
+        0.8593962033439947,
+        0.6601063537597656,
+        0.030621256267571173
+      ],
+      "confidence": 1,
+      "text": "JOIN THE HERALD OROANiSATION, PHIL. FOLLOWED THE hATRN.MUNSTAN V.C. AS"
+    },
+    {
+      "box": [
+        0.24209738089094998,
+        0.8836464254776766,
+        0.6944756317138672,
+        0.022264743673390375
+      ],
+      "confidence": 1,
+      "text": "GENERAL MATMOER BUT / UNTERSTRAIA HIS HeRATH HAS BEEN FRILING OF RECENT YeRRS."
+    },
+    {
+      "box": [
+        0.784394251003215,
+        0.9011627904225556,
+        0.03490759611129757,
+        0.01889534907252466
+      ],
+      "confidence": 0.5,
+      "text": "hIA"
+    },
+    {
+      "box": [
+        0.7728609493473171,
+        0.9122906977292858,
+        0.06811957836151117,
+        0.027490698479636366
+      ],
+      "confidence": 1,
+      "text": "3.6.65"
+    }
+  ],
+  "text": "The\nBeraly\n1840\nMELBOURNE\n'hursday;\nJune 9, 1955\nMr. C.E. McFadyen C.B.E.,\n• Department of Shipping and Transport.\n497 Collins Street,\nMELBOURNE.\nDear Charlie,\nThis is to tell you how\ndelighted I am at the honour bestowed\nupon you by Her Majesty the Queen.\nlease accept my warn\ncongratulations on this well deserved\nrecognition.\nWith best wishes and\nkindest regards -\nYours sincerely,\nThis one\nTHE HERALD AND\nWEEKLY TIMES LTD., REGISTERED OFFICE: 44/74 FLINDERS ST., MELBOURNE, C.I.\nPHIL NONES WIS IN CHARGE OF SUB.TRERSURY SYRNEY WHEN I SHEW HIM FIRST.\nHE WAS TREASURY REPRESENTATiVE ON THE COMMORHERLTM HANDLING EQUiPMENT\nPOOL OF WHICH I HAS CHRIRMAN. AS A VERY EFFICIENT CFFiCER OF THE C'WeALTH\nPUBLIC SERVICe PHiL CAUGHT THE EYE OF SIR KEITM MURIZOCH WHO INTRUCER HIM TO\nJOIN THE HERALD OROANiSATION, PHIL. FOLLOWED THE hATRN.MUNSTAN V.C. AS\nGENERAL MATMOER BUT / UNTERSTRAIA HIS HeRATH HAS BEEN FRILING OF RECENT YeRRS.\nhIA\n3.6.65",
+  "source_sha256": "cda0fae3f12b32524669a0883c8907d895728a16560adcd109dc0da0aa4359b2",
+  "status": "machine-draft"
+}

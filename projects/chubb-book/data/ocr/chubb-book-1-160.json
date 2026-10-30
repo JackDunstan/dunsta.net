@@ -1,0 +1,837 @@
+{
+  "candidate_names": [
+    "ALF",
+    "EGyPT ANa",
+    "MELBOURNE WHARE",
+    "Mr Musgrave",
+    "Nell"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-160.jpg",
+  "lines": [
+    {
+      "box": [
+        0.6776180703490272,
+        0.1321839082241868,
+        0.1498973274230957,
+        0.011711440183334254
+      ],
+      "confidence": 1,
+      "text": "11 ureen Street"
+    },
+    {
+      "box": [
+        0.7002053399142454,
+        0.1453488373448364,
+        0.10677618026733404,
+        0.010265663173955497
+      ],
+      "confidence": 1,
+      "text": "Ivanhoe N21"
+    },
+    {
+      "box": [
+        0.7453576554118786,
+        0.1569057548183087,
+        0.07396641254425051,
+        0.011769885831338756
+      ],
+      "confidence": 1,
+      "text": "30/9/30"
+    },
+    {
+      "box": [
+        0.16425835704821004,
+        0.19326252091362306,
+        0.08216090202331544,
+        0.010277283497345802
+      ],
+      "confidence": 1,
+      "text": "Dear Mac"
+    },
+    {
+      "box": [
+        0.29568790034312925,
+        0.2281167109451141,
+        0.44763858795166017,
+        0.011708870068996124
+      ],
+      "confidence": 1,
+      "text": "You will probably consider this a most shabby"
+    },
+    {
+      "box": [
+        0.7412731009606646,
+        0.22674418652464945,
+        0.15605749130249014,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "way to treat yo"
+    },
+    {
+      "box": [
+        0.1682007667738312,
+        0.23714271680791588,
+        0.5629288864135743,
+        0.01645099073253209
+      ],
+      "confidence": 1,
+      "text": "you after your resuscitating letter of 16/9/30 whose warm"
+    },
+    {
+      "box": [
+        0.7351129356191879,
+        0.23828470392364365,
+        0.1622176551818848,
+        0.010261807580841609
+      ],
+      "confidence": 1,
+      "text": "breath fanned to"
+    },
+    {
+      "box": [
+        0.16837782006601607,
+        0.24999999993115563,
+        0.6694045257568358,
+        0.013081395446885247
+      ],
+      "confidence": 1,
+      "text": "a bright flame the smouldering embers of my affection, which I could"
+    },
+    {
+      "box": [
+        0.8418592011179039,
+        0.2513574688680136,
+        0.05550130844116219,
+        0.008912969331210219
+      ],
+      "confidence": 1,
+      "text": "never"
+    },
+    {
+      "box": [
+        0.16825609966581823,
+        0.25992856323213154,
+        0.720948715209961,
+        0.0164099473219651
+      ],
+      "confidence": 1,
+      "text": "régard as likely to be extinguished; but I have brought this machine home"
+    },
+    {
+      "box": [
+        0.16837786090950943,
+        0.2732095492440638,
+        0.6427104187011718,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "and the moths are nesting in the ribon and the rust id attacking"
+    },
+    {
+      "box": [
+        0.8110882954140767,
+        0.2732558140224042,
+        0.03696098566055306,
+        0.010174418212459013
+      ],
+      "confidence": 1,
+      "text": "its"
+    },
+    {
+      "box": [
+        0.16837783925914052,
+        0.28470380179464283,
+        0.7207392120361328,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "vitals so that it tends tocreak at the turn of every line, or skid at the"
+    },
+    {
+      "box": [
+        0.16837783187993283,
+        0.29796511612830157,
+        0.6591375732421875,
+        0.013263884948271798
+      ],
+      "confidence": 1,
+      "text": "approach thereto; while over all the dust is settling in a feathery"
+    },
+    {
+      "box": [
+        0.16829392224080372,
+        0.3075167601780435,
+        0.679842529296875,
+        0.016139070087571095
+      ],
+      "confidence": 1,
+      "text": "veil to remind me, when I do use it,that I have it only for that space"
+    },
+    {
+      "box": [
+        0.16837783101083872,
+        0.3212209304684479,
+        0.6817248535156251,
+        0.0116703162458911
+      ],
+      "confidence": 1,
+      "text": "of time before the dust settles over me and those I wish to write to."
+    },
+    {
+      "box": [
+        0.17043121877245043,
+        0.3457117595354262,
+        0.2813141632080078,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "I look to your understanding"
+    },
+    {
+      "box": [
+        0.45371373646347424,
+        0.3442630807595576,
+        0.05766492843627924,
+        0.012055233450298464
+      ],
+      "confidence": 1,
+      "text": "of me"
+    },
+    {
+      "box": [
+        0.5112936521081691,
+        0.34438549939642127,
+        0.3634496688842773,
+        0.010265663173955497
+      ],
+      "confidence": 1,
+      "text": "to forgive the wrong. As I regard it,"
+    },
+    {
+      "box": [
+        0.1704312164343861,
+        0.3561046514445303,
+        0.5420944595336914,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "it is a wrong to type a letter, unless it be couched in"
+    },
+    {
+      "box": [
+        0.720739219173058,
+        0.35610465125507473,
+        0.1745379829406739,
+        0.0072905741151089165
+      ],
+      "confidence": 1,
+      "text": "the cold lustreles"
+    },
+    {
+      "box": [
+        0.17037146469750092,
+        0.3664471577815993,
+        0.7126229858398438,
+        0.013072238149735682
+      ],
+      "confidence": 1,
+      "text": "terms of commerce that have been constructed to match its cold austerity."
+    },
+    {
+      "box": [
+        0.17230496356781033,
+        0.37487430393978294,
+        0.7170945739746094,
+        0.021885907302168328
+      ],
+      "confidence": 1,
+      "text": "I abhor receiving a type written friendly letter, if ther is such a thing!"
+    },
+    {
+      "box": [
+        0.16837785743713965,
+        0.39080459783437604,
+        0.7022586822509765,
+        0.01326516916222742
+      ],
+      "confidence": 1,
+      "text": "no matter how comfortably couched, how well composed,how neatly spaced."
+    },
+    {
+      "box": [
+        0.16828971091335163,
+        0.4006965602903312,
+        0.7106462860107422,
+        0.015261263050514451
+      ],
+      "confidence": 1,
+      "text": "To my mind it is like hearing beautiful words from the lips of one whose"
+    },
+    {
+      "box": [
+        0.17043121941099693,
+        0.41556145010447854,
+        0.17864475250244138,
+        0.01031064270451254
+      ],
+      "confidence": 1,
+      "text": "face is concealed."
+    },
+    {
+      "box": [
+        0.3675564935446233,
+        0.414235189990555,
+        0.523613929748535,
+        0.011636902651462222
+      ],
+      "confidence": 1,
+      "text": "Our handwriting however illegible, carries our person-"
+    },
+    {
+      "box": [
+        0.17043122892130597,
+        0.42572944307520877,
+        0.49075973510742193,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "ality and representsa personal translation of our"
+    },
+    {
+      "box": [
+        0.6611909664684193,
+        0.42572944314442673,
+        0.23613962173461922,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "thoughts to paper, as th"
+    },
+    {
+      "box": [
+        0.17033752550048775,
+        0.4359728185255476,
+        0.6490647888183594,
+        0.01524884251764036
+      ],
+      "confidence": 1,
+      "text": "though to prove to the reader thatthe writer must have thought the"
+    },
+    {
+      "box": [
+        0.1704312165089945,
+        0.45048629539376106,
+        0.2566735076904297,
+        0.010269518345462636
+      ],
+      "confidence": 1,
+      "text": "words to have penned them."
+    },
+    {
+      "box": [
+        0.44763861252571735,
+        0.4491279072247465,
+        0.34291580200195304,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "there is a presence, an atmosphere,"
+    },
+    {
+      "box": [
+        0.17248462315167473,
+        0.4606542882909602,
+        0.6755646514892577,
+        0.010275944052914654
+      ],
+      "confidence": 1,
+      "text": "Nell known scrall that warms one like the smile on a well-loved face,"
+    },
+    {
+      "box": [
+        0.17043121605774178,
+        0.4738372097320138,
+        0.23613962173461914,
+        0.011627906408065325
+      ],
+      "confidence": 1,
+      "text": "howver homely it may be;"
+    },
+    {
+      "box": [
+        0.4250513426823065,
+        0.4723837211661224,
+        0.42710472106933595,
+        0.011701159304375208
+      ],
+      "confidence": 1,
+      "text": "but this pretty mask conceals the emotions,"
+    },
+    {
+      "box": [
+        0.17232001294794727,
+        0.48113606594869396,
+        0.6676207733154297,
+        0.016328019024944296
+      ],
+      "confidence": 1,
+      "text": "guards against the betrayal of lapses of time that may have crept in"
+    },
+    {
+      "box": [
+        0.1724845978260331,
+        0.49854651170202247,
+        0.23819301605224608,
+        0.007267441821245946
+      ],
+      "confidence": 1,
+      "text": "between the co mencanent"
+    },
+    {
+      "box": [
+        0.4086242451343031,
+        0.4955791334588463,
+        0.31416835784912106,
+        0.011688308311077922
+      ],
+      "confidence": 1,
+      "text": "and the conclusion of a letter."
+    },
+    {
+      "box": [
+        0.17043123284653944,
+        0.5070733867044177,
+        0.6427104187011718,
+        0.014728939080006498
+      ],
+      "confidence": 1,
+      "text": "Always the same, polite, efficient, hypocritical it seems to smirk"
+    },
+    {
+      "box": [
+        0.1704312126064418,
+        0.5218023255802366,
+        0.030800819396972656,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Our"
+    },
+    {
+      "box": [
+        0.20524358036554957,
+        0.5168374338808283,
+        0.6757738494873047,
+        0.01739479355006801
+      ],
+      "confidence": 1,
+      "text": "poor ignorant, honest straggly fists. Give me yours till I shake it"
+    },
+    {
+      "box": [
+        0.170253600239118,
+        0.5283885589467174,
+        0.37610450744628904,
+        0.017835507447692134
+      ],
+      "confidence": 1,
+      "text": "once again, in friendship and apology."
+    },
+    {
+      "box": [
+        0.1704312133995269,
+        0.5552325582629566,
+        0.17043121337890624,
+        0.010196265870759613
+      ],
+      "confidence": 1,
+      "text": "You know the hurt"
+    },
+    {
+      "box": [
+        0.3470225806395901,
+        0.5537790701486804,
+        0.4024640655517578,
+        0.011649754066366147
+      ],
+      "confidence": 1,
+      "text": "of my letter was not only on your side."
+    },
+    {
+      "box": [
+        0.17039393193452512,
+        0.5667272298463206,
+        0.0719431400299072,
+        0.010440888813804672
+      ],
+      "confidence": 1,
+      "text": "feel as"
+    },
+    {
+      "box": [
+        0.24845996167273796,
+        0.56675508395148,
+        0.6016426849365234,
+        0.010279799646028431
+      ],
+      "confidence": 1,
+      "text": "I wrote it that you would got the st Iu Brute atmosphere, but"
+    },
+    {
+      "box": [
+        0.17243803280121114,
+        0.5759725109216003,
+        0.4826393508911132,
+        0.013752652310777047
+      ],
+      "confidence": 1,
+      "text": "I positively had to'go' you; and see where it has"
+    },
+    {
+      "box": [
+        0.6550307994434752,
+        0.5755813957940943,
+        0.11909650802612304,
+        0.013278020577131455
+      ],
+      "confidence": 1,
+      "text": "brought us!"
+    },
+    {
+      "box": [
+        0.1704312302495245,
+        0.5886627909430768,
+        0.7104722595214843,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "Unless I am greatly at fault we are closer to a lifelong friendship than"
+    },
+    {
+      "box": [
+        0.16000211567765155,
+        0.5963645083322,
+        0.7107866668701172,
+        0.018900146956574493
+      ],
+      "confidence": 1,
+      "text": "ever, and not a scar on either of our hearts to craveal an ill conceived"
+    },
+    {
+      "box": [
+        0.17246877595233756,
+        0.6147710463230166,
+        0.06984684467315672,
+        0.010283488704502575
+      ],
+      "confidence": 1,
+      "text": "thrust•"
+    },
+    {
+      "box": [
+        0.2607802918573106,
+        0.6131741821800675,
+        0.15605749130249025,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "I reckon we got"
+    },
+    {
+      "box": [
+        0.41469763512553626,
+        0.6115636754346706,
+        0.09257597923278804,
+        0.012337765158224046
+      ],
+      "confidence": 1,
+      "text": "out of it"
+    },
+    {
+      "box": [
+        0.5133470390045352,
+        0.6118479221206498,
+        0.3388090133666992,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "well, and it shows you up in a nice"
+    },
+    {
+      "box": [
+        0.17248460870792456,
+        0.6233421750988917,
+        0.35523612976074215,
+        0.013285731341752371
+      ],
+      "confidence": 1,
+      "text": "golden colour in my eyes. Marchons!"
+    },
+    {
+      "box": [
+        0.17043122832143248,
+        0.646772767555281,
+        0.691991729736328,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "You will shake your head at my obstinacy, when I tell you that it took"
+    },
+    {
+      "box": [
+        0.1827515523889727,
+        0.6598837211176727,
+        0.3860369491577149,
+        0.011645898894859008
+      ],
+      "confidence": 1,
+      "text": "a further interview with Mr Musgrave to"
+    },
+    {
+      "box": [
+        0.5728952815857687,
+        0.6582670201387409,
+        0.2895277023315429,
+        0.011936339522546358
+      ],
+      "confidence": 1,
+      "text": "convince me that my hopes for"
+    },
+    {
+      "box": [
+        0.17248462018552913,
+        0.6715116281099858,
+        0.42505130767822263,
+        0.013280591113076112
+      ],
+      "confidence": 1,
+      "text": "refund of duty on the reduction gears would"
+    },
+    {
+      "box": [
+        0.5975359437065525,
+        0.6700581400130216,
+        0.19712524414062504,
+        0.01163947276580024
+      ],
+      "confidence": 1,
+      "text": "never be fulfilled."
+    },
+    {
+      "box": [
+        0.8110143712994574,
+        0.6698445186500388,
+        0.04942916393280028,
+        0.00914817189453565
+      ],
+      "confidence": 1,
+      "text": "Shake"
+    },
+    {
+      "box": [
+        0.1724846014245128,
+        0.6830238728191944,
+        0.3285420989990234,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "it fraternally and not pityingly,"
+    },
+    {
+      "box": [
+        0.17239486624647016,
+        0.6918047373477401,
+        0.6326256561279296,
+        0.014892299864589398
+      ],
+      "confidence": 1,
+      "text": "The point I missed throughout was this:- that the Minister could"
+    },
+    {
+      "box": [
+        0.8089083218070976,
+        0.69290246438368,
+        0.06390820026397714,
+        0.010997396986849206
+      ],
+      "confidence": 1,
+      "text": "easily"
+    },
+    {
+      "box": [
+        0.17248462716051052,
+        0.7049418606681253,
+        0.7002053070068359,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "frustrate any pressura I could bring, to make a strict interpretation of"
+    },
+    {
+      "box": [
+        0.17248460606177055,
+        0.7179487180963645,
+        0.19917863845825198,
+        0.011702444361544218
+      ],
+      "confidence": 1,
+      "text": "a by-law bear fruit."
+    },
+    {
+      "box": [
+        0.6119096545571456,
+        0.716569767710631,
+        0.2402463912963867,
+        0.010220683221791704
+      ],
+      "confidence": 1,
+      "text": "ease with which he could"
+    },
+    {
+      "box": [
+        0.17442085314963043,
+        0.7259411154702867,
+        0.7168697357177735,
+        0.01638325455966616
+      ],
+      "confidence": 1,
+      "text": "change ground, and make my straightleft spend its force on the wall behind"
+    },
+    {
+      "box": [
+        0.17248460167879262,
+        0.7427325583114063,
+        0.04312114715576171,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "him."
+    },
+    {
+      "box": [
+        0.22997945719971752,
+        0.7396109638019596,
+        0.6714579010009765,
+        0.013296012642318278
+      ],
+      "confidence": 1,
+      "text": "Mr Masgrave politely pointed out thatit was the considered intention"
+    },
+    {
+      "box": [
+        0.17443338857796958,
+        0.750901905510943,
+        0.6798967742919921,
+        0.017197549079604912
+      ],
+      "confidence": 1,
+      "text": "of you chaps, through Hall, to refuse concessions on reduction whether"
+    },
+    {
+      "box": [
+        0.17453799017019836,
+        0.7674418605556572,
+        0.1601642608642578,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "integral or not."
+    },
+    {
+      "box": [
+        0.19066241533195863,
+        0.8115203922220575,
+        0.7787832641601563,
+        0.028551069642462457
+      ],
+      "confidence": 1,
+      "text": "THIS LETTER IS WRITTEN BY MY GOOD FRIEDA R.M. MCHENRY IN HIS INIMITIBLE STYLE • IT ROLLONS"
+    },
+    {
+      "box": [
+        0.1560575152540514,
+        0.8342175066090904,
+        0.7474332427978515,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "A SLIGHT MISUNDERSTAMDING BETHREN US. MAC WAS A CUSTOMS ASSISTRNT HITH ME ON THE"
+    },
+    {
+      "box": [
+        0.15811091693737353,
+        0.8488063661221431,
+        0.8131416320800781,
+        0.01326259946949604
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE WHARE STATIONS UNIGIG WIER HE ENLISTER WITH THE FIRST ALF AND LEFT AUSTRALIA"
+    },
+    {
+      "box": [
+        0.15790957880692638,
+        0.8602334343216609,
+        0.7970693206787111,
+        0.020644400417014208
+      ],
+      "confidence": 1,
+      "text": "AS A BOMBARIER IN THE 2MFIELE BRIGARE OF ARTILLERY. HE LANDER AT ATLAC IN APRIL IRIS ANI"
+    },
+    {
+      "box": [
+        0.1578544900557732,
+        0.8747401079438107,
+        0.7951132202148438,
+        0.022296117956294714
+      ],
+      "confidence": 1,
+      "text": "HIS LETTERS FROM GARLIDORI WRITTEN ON SANITARY PAPER HERE A SERCAM. ON THE FORMATION OF"
+    },
+    {
+      "box": [
+        0.16016426114228766,
+        0.8938953491982639,
+        0.8049281311035156,
+        0.017441860033704848
+      ],
+      "confidence": 1,
+      "text": "FIN MAARTILERY Id ECUAT AFTeR THe ANaR FrACUATION MAC WAS PRomoTeD To heuTenT Arn"
+    },
+    {
+      "box": [
+        0.16221768615957763,
+        0.9084302326284966,
+        0.7987679290771483,
+        0.017441860033704737
+      ],
+      "confidence": 1,
+      "text": "WITH THIS RATE HE MON TIE MILITARY CROSS AT FROMELLES IN 1916. / SON Hem eN EGyPT ANa"
+    },
+    {
+      "box": [
+        0.16632444790843168,
+        0.9257294433157137,
+        0.7577001953125,
+        0.017683465959328126
+      ],
+      "confidence": 1,
+      "text": "IN FRANCE. HE DEVELOPER T.B. ON HIS RETURN TO AUSTRAMA ARE FOUGNT THE DISEASE FOR"
+    },
+    {
+      "box": [
+        0.17222130241953734,
+        0.9393665171110935,
+        0.6780266571044922,
+        0.022341809158932247
+      ],
+      "confidence": 1,
+      "text": "TEARS TIL IT ATIMATELY CLAiMED HIM. He WAS A REAL MAN AT ALL TiMES"
+    }
+  ],
+  "text": "11 ureen Street\nIvanhoe N21\n30/9/30\nDear Mac\nYou will probably consider this a most shabby\nway to treat yo\nyou after your resuscitating letter of 16/9/30 whose warm\nbreath fanned to\na bright flame the smouldering embers of my affection, which I could\nnever\nrégard as likely to be extinguished; but I have brought this machine home\nand the moths are nesting in the ribon and the rust id attacking\nits\nvitals so that it tends tocreak at the turn of every line, or skid at the\napproach thereto; while over all the dust is settling in a feathery\nveil to remind me, when I do use it,that I have it only for that space\nof time before the dust settles over me and those I wish to write to.\nI look to your understanding\nof me\nto forgive the wrong. As I regard it,\nit is a wrong to type a letter, unless it be couched in\nthe cold lustreles\nterms of commerce that have been constructed to match its cold austerity.\nI abhor receiving a type written friendly letter, if ther is such a thing!\nno matter how comfortably couched, how well composed,how neatly spaced.\nTo my mind it is like hearing beautiful words from the lips of one whose\nface is concealed.\nOur handwriting however illegible, carries our person-\nality and representsa personal translation of our\nthoughts to paper, as th\nthough to prove to the reader thatthe writer must have thought the\nwords to have penned them.\nthere is a presence, an atmosphere,\nNell known scrall that warms one like the smile on a well-loved face,\nhowver homely it may be;\nbut this pretty mask conceals the emotions,\nguards against the betrayal of lapses of time that may have crept in\nbetween the co mencanent\nand the conclusion of a letter.\nAlways the same, polite, efficient, hypocritical it seems to smirk\nOur\npoor ignorant, honest straggly fists. Give me yours till I shake it\nonce again, in friendship and apology.\nYou know the hurt\nof my letter was not only on your side.\nfeel as\nI wrote it that you would got the st Iu Brute atmosphere, but\nI positively had to'go' you; and see where it has\nbrought us!\nUnless I am greatly at fault we are closer to a lifelong friendship than\never, and not a scar on either of our hearts to craveal an ill conceived\nthrust•\nI reckon we got\nout of it\nwell, and it shows you up in a nice\ngolden colour in my eyes. Marchons!\nYou will shake your head at my obstinacy, when I tell you that it took\na further interview with Mr Musgrave to\nconvince me that my hopes for\nrefund of duty on the reduction gears would\nnever be fulfilled.\nShake\nit fraternally and not pityingly,\nThe point I missed throughout was this:- that the Minister could\neasily\nfrustrate any pressura I could bring, to make a strict interpretation of\na by-law bear fruit.\nease with which he could\nchange ground, and make my straightleft spend its force on the wall behind\nhim.\nMr Masgrave politely pointed out thatit was the considered intention\nof you chaps, through Hall, to refuse concessions on reduction whether\nintegral or not.\nTHIS LETTER IS WRITTEN BY MY GOOD FRIEDA R.M. MCHENRY IN HIS INIMITIBLE STYLE • IT ROLLONS\nA SLIGHT MISUNDERSTAMDING BETHREN US. MAC WAS A CUSTOMS ASSISTRNT HITH ME ON THE\nMELBOURNE WHARE STATIONS UNIGIG WIER HE ENLISTER WITH THE FIRST ALF AND LEFT AUSTRALIA\nAS A BOMBARIER IN THE 2MFIELE BRIGARE OF ARTILLERY. HE LANDER AT ATLAC IN APRIL IRIS ANI\nHIS LETTERS FROM GARLIDORI WRITTEN ON SANITARY PAPER HERE A SERCAM. ON THE FORMATION OF\nFIN MAARTILERY Id ECUAT AFTeR THe ANaR FrACUATION MAC WAS PRomoTeD To heuTenT Arn\nWITH THIS RATE HE MON TIE MILITARY CROSS AT FROMELLES IN 1916. / SON Hem eN EGyPT ANa\nIN FRANCE. HE DEVELOPER T.B. ON HIS RETURN TO AUSTRAMA ARE FOUGNT THE DISEASE FOR\nTEARS TIL IT ATIMATELY CLAiMED HIM. He WAS A REAL MAN AT ALL TiMES",
+  "source_sha256": "bca100c8d8cdb07b48e53af06129123afd6f479300b186089c91ac567e3f9ae6",
+  "status": "machine-draft"
+}

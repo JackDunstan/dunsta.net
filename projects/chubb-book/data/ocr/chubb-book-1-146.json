@@ -1,0 +1,221 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-146.jpg",
+  "lines": [
+    {
+      "box": [
+        0.6386036997821158,
+        0.13081395384538586,
+        0.19096508026123038,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "MACDONALD, HAMILTON & CO."
+    },
+    {
+      "box": [
+        0.7822920844719015,
+        0.16258500564958533,
+        0.08428647041320803,
+        0.010585802619590079
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.708418893225886,
+        0.18877099919968454,
+        0.1252566719055176,
+        0.013263884526665048
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955."
+    },
+    {
+      "box": [
+        0.33059548768651126,
+        0.24845269680007442,
+        0.1519507122039795,
+        0.011936339522546469
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. MeFadyen,"
+    },
+    {
+      "box": [
+        0.371663261600858,
+        0.27034883740643234,
+        0.4127309799194336,
+        0.011702444783150967
+      ],
+      "confidence": 1,
+      "text": "I was very pleased to see that your service to the"
+    },
+    {
+      "box": [
+        0.3305954910023578,
+        0.29354553508103276,
+        0.3880903244018555,
+        0.011687022832302274
+      ],
+      "confidence": 1,
+      "text": "Government over many years has been rewarded by"
+    },
+    {
+      "box": [
+        0.3305742583036009,
+        0.3153249044126305,
+        0.10065846443176268,
+        0.01324553957668484
+      ],
+      "confidence": 1,
+      "text": "high honour."
+    },
+    {
+      "box": [
+        0.7248459975175134,
+        0.29354553510422376,
+        0.0513347005844117,
+        0.010233534636695518
+      ],
+      "confidence": 1,
+      "text": "such a"
+    },
+    {
+      "box": [
+        0.3696098717846127,
+        0.3399646331718935,
+        0.32032852172851556,
+        0.010326064233754595
+      ],
+      "confidence": 1,
+      "text": "May I extend to you my congratulations"
+    },
+    {
+      "box": [
+        0.6899383986183396,
+        0.3399646328956356,
+        0.06981519222259525,
+        0.010326064655361344
+      ],
+      "confidence": 1,
+      "text": "and good"
+    },
+    {
+      "box": [
+        0.33059548553115875,
+        0.3648255815672201,
+        0.06160163879394531,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "wishes."
+    },
+    {
+      "box": [
+        0.5441478483077595,
+        0.3866279070119226,
+        0.09856262207031241,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "Yours sineer"
+    },
+    {
+      "box": [
+        0.5396148977517927,
+        0.378413990186265,
+        0.2102979278564453,
+        0.04985806627889111
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "Хилитікем"
+    },
+    {
+      "box": [
+        0.33264888127685793,
+        0.5247093026799955,
+        0.24024639129638675,
+        0.013081394603671859
+      ],
+      "confidence": 1,
+      "text": "C. H. Meladyen, Esq., C. B.E.,"
+    },
+    {
+      "box": [
+        0.3305954863657989,
+        0.5377906977796717,
+        0.08624229431152347,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "Department"
+    },
+    {
+      "box": [
+        0.41889117112833163,
+        0.5377906976853724,
+        0.022587268352508516,
+        0.008720930016852368
+      ],
+      "confidence": 1,
+      "text": "of"
+    },
+    {
+      "box": [
+        0.44338942181516117,
+        0.5362531085679594,
+        0.19540443420410158,
+        0.01324999005682792
+      ],
+      "confidence": 1,
+      "text": "Shipping and Transport,"
+    },
+    {
+      "box": [
+        0.33059548709078235,
+        0.5494186051293005,
+        0.1622176551818848,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "497 Collins Street,"
+    },
+    {
+      "box": [
+        0.3305954846853989,
+        0.5610465118058345,
+        0.08418890953063962,
+        0.010174418212458902
+      ],
+      "confidence": 1,
+      "text": "MELBOURNE."
+    },
+    {
+      "box": [
+        0.4558521565683817,
+        0.9200581397610835,
+        0.08829568862915033,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "\"Quenti"
+    },
+    {
+      "box": [
+        0.46060674963940224,
+        0.936665322692063,
+        0.08081955909729005,
+        0.019255123762405568
+      ],
+      "confidence": 0.5,
+      "text": "RRE FYFE."
+    }
+  ],
+  "text": "MACDONALD, HAMILTON & CO.\nMELBOURNE.\n9th June, 1955.\nDear Mr. MeFadyen,\nI was very pleased to see that your service to the\nGovernment over many years has been rewarded by\nhigh honour.\nsuch a\nMay I extend to you my congratulations\nand good\nwishes.\nYours sineer\nХилитікем\nC. H. Meladyen, Esq., C. B.E.,\nDepartment\nof\nShipping and Transport,\n497 Collins Street,\nMELBOURNE.\n\"Quenti\nRRE FYFE.",
+  "source_sha256": "bf769fe13b5f21e058fde743b97b17c9807c0a9fc3d645dc2040c8260d9970a5",
+  "status": "machine-draft"
+}

@@ -1,0 +1,58 @@
+{
+  "candidate_names": [
+    "ARAM",
+    "CHARLES MER",
+    "DORIS BOUCHIER",
+    "MRS",
+    "MRS CASEY",
+    "ROsEmARy"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-109.jpg",
+  "lines": [
+    {
+      "box": [
+        0.25827887590012855,
+        0.5015622856040218,
+        0.598506088256836,
+        0.027850622418283066
+      ],
+      "confidence": 1,
+      "text": "TAKEN BY STEWART STRAMBRIAGE AT THE COTTER RIVER F.C.T. 1929"
+    },
+    {
+      "box": [
+        0.33426151738918647,
+        0.5184925613867293,
+        0.621119270324707,
+        0.029582127335849417
+      ],
+      "confidence": 1,
+      "text": "ROSE WITH ARAM, MRS STRAWBRIAGE, DORIS BOUCHIER, CHARLES MER, WITH ISEN • MARIE"
+    },
+    {
+      "box": [
+        0.23203285497771148,
+        0.9549071620384645,
+        0.24435317993164063,
+        0.02038353549812244
+      ],
+      "confidence": 1,
+      "text": "MRS CASEY AND ROsEmARy"
+    },
+    {
+      "box": [
+        0.7227926087845239,
+        0.9476744184621844,
+        0.05749486446380614,
+        0.01453488364249178
+      ],
+      "confidence": 1,
+      "text": "LEiLA"
+    }
+  ],
+  "text": "TAKEN BY STEWART STRAMBRIAGE AT THE COTTER RIVER F.C.T. 1929\nROSE WITH ARAM, MRS STRAWBRIAGE, DORIS BOUCHIER, CHARLES MER, WITH ISEN • MARIE\nMRS CASEY AND ROsEmARy\nLEiLA",
+  "source_sha256": "5c78bf80b7f72b2bcbf0571815c68166b037c5dde8e70467c8c078acbb8ef99f",
+  "status": "machine-draft"
+}

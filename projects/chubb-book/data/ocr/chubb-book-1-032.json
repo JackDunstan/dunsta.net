@@ -1,0 +1,151 @@
+{
+  "candidate_names": [],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-032.jpg",
+  "lines": [
+    {
+      "box": [
+        0.3819301858093826,
+        0.1321839082267865,
+        0.09445585250854488,
+        0.010257951987727831
+      ],
+      "confidence": 1,
+      "text": "MORTS lOGIC"
+    },
+    {
+      "box": [
+        0.5359342927871218,
+        0.10610465169369121,
+        0.04517453670501714,
+        0.015988370994884926
+      ],
+      "confidence": 1,
+      "text": "SOLE"
+    },
+    {
+      "box": [
+        0.5151477001693309,
+        0.1256871719945002,
+        0.23466087341308595,
+        0.0162798243218244
+      ],
+      "confidence": 1,
+      "text": "AUSTRALIAN SHID BUILRING BOARA"
+    },
+    {
+      "box": [
+        0.49819139035931115,
+        0.1405907930826149,
+        0.23769763946533207,
+        0.0225201825142749
+      ],
+      "confidence": 1,
+      "text": "Me PResentaner OF THE CUP"
+    },
+    {
+      "box": [
+        0.5040209070046977,
+        0.21635706241033403,
+        0.08661437034606934,
+        0.05292824661700102
+      ],
+      "confidence": 0.5,
+      "text": "HPWEYMOUTH"
+    },
+    {
+      "box": [
+        0.601582233661298,
+        0.2312464557370728,
+        0.05065433025360111,
+        0.032437605313976436
+      ],
+      "confidence": 1,
+      "text": "d. SILK"
+    },
+    {
+      "box": [
+        0.28291951301832463,
+        0.26490363728498434,
+        0.0744187355041504,
+        0.05122649363982368
+      ],
+      "confidence": 1,
+      "text": "d. MERRILEES"
+    },
+    {
+      "box": [
+        0.3364271226747043,
+        0.2814177106489403,
+        0.062416644096374485,
+        0.03689624101687705
+      ],
+      "confidence": 1,
+      "text": "+ BYRNE"
+    },
+    {
+      "box": [
+        0.6453265265846275,
+        0.24738371995585817,
+        0.08955228805541993,
+        0.0530232548397479
+      ],
+      "confidence": 0.5,
+      "text": "EN. RAnFORa"
+    },
+    {
+      "box": [
+        0.2525667392317842,
+        0.9345711760688332,
+        0.09856262207031252,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "LEO HARTON"
+    },
+    {
+      "box": [
+        0.32443533464485796,
+        0.9111405836469428,
+        0.3696098327636719,
+        0.013278020577131455
+      ],
+      "confidence": 1,
+      "text": "A NIGHT AT SCOTES HITH MERCURY TRANSPORT."
+    },
+    {
+      "box": [
+        0.42915811139384374,
+        0.9331395350071425,
+        0.08829568862915038,
+        0.010273373938576524
+      ],
+      "confidence": 1,
+      "text": "BOB MAGGS"
+    },
+    {
+      "box": [
+        0.22176591542124036,
+        0.9593023258319974,
+        0.08624229431152347,
+        0.010193695334814845
+      ],
+      "confidence": 1,
+      "text": "MIsS nARO"
+    },
+    {
+      "box": [
+        0.35112936582990856,
+        0.9593023257048171,
+        0.07597535610198974,
+        0.010193695334814734
+      ],
+      "confidence": 1,
+      "text": "MORS MARA"
+    }
+  ],
+  "text": "MORTS lOGIC\nSOLE\nAUSTRALIAN SHID BUILRING BOARA\nMe PResentaner OF THE CUP\nHPWEYMOUTH\nd. SILK\nd. MERRILEES\n+ BYRNE\nEN. RAnFORa\nLEO HARTON\nA NIGHT AT SCOTES HITH MERCURY TRANSPORT.\nBOB MAGGS\nMIsS nARO\nMORS MARA",
+  "source_sha256": "f485da6919350a4e1872482f3d2910ea86c941f38016f7b2394a845b0b5645c5",
+  "status": "machine-draft"
+}

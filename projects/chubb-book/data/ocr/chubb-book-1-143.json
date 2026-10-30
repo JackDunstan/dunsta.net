@@ -1,0 +1,223 @@
+{
+  "candidate_names": [
+    "McFadyen"
+  ],
+  "engine": "Apple Vision accurate / NaturalLanguage",
+  "face_candidates": [],
+  "file": "images/book-1/medium/chubb-book-1-143.jpg",
+  "lines": [
+    {
+      "box": [
+        0.19096509875542172,
+        0.09883720978937194,
+        0.19096508026123044,
+        0.036441305482629915
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "HE HO CORN I LATE"
+    },
+    {
+      "box": [
+        0.26076390847417835,
+        0.11768802125765987,
+        0.047260684967041,
+        0.0088100037039327
+      ],
+      "confidence": 1,
+      "text": "SYDNEY"
+    },
+    {
+      "box": [
+        0.2546201235665278,
+        0.13517441894713011,
+        0.03490759611129757,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "MS."
+    },
+    {
+      "box": [
+        0.5687885035166788,
+        0.11184792235020113,
+        0.08418890953063951,
+        0.008841732979663952
+      ],
+      "confidence": 1,
+      "text": "BOX 544 G.P.O."
+    },
+    {
+      "box": [
+        0.5439381827147445,
+        0.1350495871577606,
+        0.13799693107604982,
+        0.011852516525093115
+      ],
+      "confidence": 1,
+      "text": "4 BRIDGE STREET,"
+    },
+    {
+      "box": [
+        0.64874599148675,
+        0.1506827806999017,
+        0.06390431880950931,
+        0.009680950357047635
+      ],
+      "confidence": 1,
+      "text": "SYDNEY."
+    },
+    {
+      "box": [
+        0.5585215646594308,
+        0.16133720929309525,
+        0.1498973274230957,
+        0.01461327718908445
+      ],
+      "confidence": 1,
+      "text": "9th June, 1955."
+    },
+    {
+      "box": [
+        0.24229980174330357,
+        0.2440318301089468,
+        0.17864475250244144,
+        0.013262599469495928
+      ],
+      "confidence": 1,
+      "text": "Dear Mr. McFadyen,"
+    },
+    {
+      "box": [
+        0.4209445584738667,
+        0.2659883723020884,
+        0.2710472297668457,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "May I on behalf of the Dir-"
+    },
+    {
+      "box": [
+        0.24435319567358482,
+        0.29069767470034424,
+        0.435318260192871,
+        0.01308139460367197
+      ],
+      "confidence": 1,
+      "text": "ectors of this Company offer you our sincere"
+    },
+    {
+      "box": [
+        0.24435318479062829,
+        0.3138815209263033,
+        0.4353182601928711,
+        0.011699874247206088
+      ],
+      "confidence": 1,
+      "text": "congratulations on the Honour which has been"
+    },
+    {
+      "box": [
+        0.24435319278726253,
+        0.33863837315123546,
+        0.3162217521667481,
+        0.011652324180704166
+      ],
+      "confidence": 1,
+      "text": "conferred upon you by the Queen."
+    },
+    {
+      "box": [
+        0.4209445621176141,
+        0.3603006189953616,
+        0.23819301605224608,
+        0.01033891564865852
+      ],
+      "confidence": 1,
+      "text": "With all best wishes for"
+    },
+    {
+      "box": [
+        0.24433069352252496,
+        0.3850802693069446,
+        0.10887454986572265,
+        0.013269694266753507
+      ],
+      "confidence": 1,
+      "text": "the future,"
+    },
+    {
+      "box": [
+        0.5030800832919651,
+        0.44031830266318117,
+        0.06570841789245607,
+        0.014623557646436858
+      ],
+      "confidence": 1,
+      "text": "(W. ES"
+    },
+    {
+      "box": [
+        0.2443531859648467,
+        0.47656940753065147,
+        0.25667350769042974,
+        0.014709662379257193
+      ],
+      "confidence": 1,
+      "text": "c.H. McFadyen, Esq., C.B.E."
+    },
+    {
+      "box": [
+        0.2731006201352749,
+        0.4898255816506184,
+        0.09856262207031252,
+        0.011627906408065436
+      ],
+      "confidence": 1,
+      "text": "Secretary,"
+    },
+    {
+      "box": [
+        0.31006160289094836,
+        0.4999999997494604,
+        0.34907596588134765,
+        0.015988371838098314
+      ],
+      "confidence": 1,
+      "text": "Department of Shipping & Transport,"
+    },
+    {
+      "box": [
+        0.347022591587298,
+        0.5114942527420601,
+        0.1868583106994629,
+        0.017683465959328015
+      ],
+      "confidence": 1,
+      "text": "CANBERRA. A.C.I."
+    },
+    {
+      "box": [
+        0.3531827547559064,
+        0.819628647235153,
+        0.11498972892761233,
+        0.014673678248883548
+      ],
+      "confidence": 0.5,
+      "text": "\" RENCHN."
+    },
+    {
+      "box": [
+        0.26451484515436435,
+        0.8609079604118122,
+        0.4135840606689453,
+        0.023000405174140703
+      ],
+      "confidence": 1,
+      "text": "H.M.S. RENOWN IN SYRNEY HARBOUR 8•8•20"
+    }
+  ],
+  "text": "HE HO CORN I LATE\nSYDNEY\nMS.\nBOX 544 G.P.O.\n4 BRIDGE STREET,\nSYDNEY.\n9th June, 1955.\nDear Mr. McFadyen,\nMay I on behalf of the Dir-\nectors of this Company offer you our sincere\ncongratulations on the Honour which has been\nconferred upon you by the Queen.\nWith all best wishes for\nthe future,\n(W. ES\nc.H. McFadyen, Esq., C.B.E.\nSecretary,\nDepartment of Shipping & Transport,\nCANBERRA. A.C.I.\n\" RENCHN.\nH.M.S. RENOWN IN SYRNEY HARBOUR 8•8•20",
+  "source_sha256": "b3d6bc11819d0086f20deed82d5e8df9092de3041c37a87854b571d3806acaa7",
+  "status": "machine-draft"
+}
