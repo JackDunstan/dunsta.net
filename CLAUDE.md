@@ -28,7 +28,7 @@ Submodule changes must be committed in their own repos first, then the parent re
 
 ### Recipes subsystem
 
-`recipes/index.html` is a client-side app (Bootstrap 5 + vanilla JS) that fetches and parses individual `.md` recipe files at runtime. Recipes are Markdown with YAML-compatible frontmatter — but every frontmatter value is a JSON literal so the browser can `JSON.parse()` each value directly without a YAML library.
+`recipes/index.html` + `app.js` + `style.css` is a client-side vanilla JS app, built to match `cocktails/`, that fetches and parses individual `.md` recipe files at runtime and checks them against the kitchen inventory in `recipes/ingredients.md` (see `recipes/readme.md` §4 for the matching rules and the `ALIASES` table). Recipes are Markdown with YAML-compatible frontmatter — but every frontmatter value is a JSON literal so the browser can `JSON.parse()` each value directly without a YAML library.
 
 To add a recipe: drop a `.md` file into `recipes/` following the schema in `recipes/readme.md`, then add its slug (filename minus `.md`) to the `MD_FILES` array in `recipes/index.html`.
 
